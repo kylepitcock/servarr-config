@@ -1,0 +1,889 @@
+2025-11-11 14:33:47.5|Info|RefreshEpisodeService|Finished episode refresh for series: [403245][Silo].
+2025-11-11 14:33:47.5|Info|DiskScanService|Scanning Silo
+2025-11-11 14:33:47.5|Info|DiskScanService|Completed scanning disk for Silo
+2025-11-11 14:33:47.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-11 14:33:47.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-11 14:33:47.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-11 14:33:47.6|Info|ExistingExtraFileService|Found 20 possible extra files, imported 20 files.
+2025-11-11 14:33:47.6|Info|RefreshSeriesService|Updating Smiling Friends
+2025-11-11 14:33:47.6|Info|RefreshEpisodeService|Starting episode info refresh for: [379403][Smiling Friends]
+2025-11-11 14:33:47.7|Info|RefreshEpisodeService|Finished episode refresh for series: [379403][Smiling Friends].
+2025-11-11 14:33:47.7|Info|DiskScanService|Scanning Smiling Friends
+2025-11-11 14:33:47.7|Info|DiskScanService|Completed scanning disk for Smiling Friends
+2025-11-11 14:33:47.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-11 14:33:47.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-11 14:33:47.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-11 14:33:47.8|Info|ExistingExtraFileService|Found 22 possible extra files, imported 22 files.
+2025-11-11 14:33:47.8|Info|RefreshSeriesService|Updating Solo Leveling
+2025-11-11 14:33:47.8|Info|RefreshEpisodeService|Starting episode info refresh for: [389597][Solo Leveling]
+2025-11-11 14:33:47.9|Info|RefreshEpisodeService|Finished episode refresh for series: [389597][Solo Leveling].
+2025-11-11 14:33:48.0|Info|DiskScanService|Scanning Solo Leveling
+2025-11-11 14:33:48.0|Info|DiskScanService|Completed scanning disk for Solo Leveling
+2025-11-11 14:33:48.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-11 14:33:48.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-11 14:33:48.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-11 14:33:48.0|Info|ExistingExtraFileService|Found 25 possible extra files, imported 25 files.
+2025-11-11 14:33:48.0|Info|RefreshSeriesService|Updating South Park
+2025-11-11 14:33:48.1|Info|RefreshEpisodeService|Starting episode info refresh for: [75897][South Park]
+2025-11-11 14:33:49.0|Info|RefreshEpisodeService|Finished episode refresh for series: [75897][South Park].
+2025-11-11 14:33:49.0|Info|DiskScanService|Scanning South Park
+2025-11-11 14:33:49.5|Info|DiskScanService|Completed scanning disk for South Park
+2025-11-11 14:33:49.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-11 14:33:49.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-11 14:33:49.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-11 14:33:49.5|Info|ExistingExtraFileService|Found 8 possible extra files, imported 7 files.
+2025-11-11 14:33:49.5|Info|RefreshSeriesService|Updating SpongeBob SquarePants
+2025-11-11 14:33:49.6|Info|RefreshEpisodeService|Starting episode info refresh for: [75886][SpongeBob SquarePants]
+2025-11-11 14:33:51.3|Info|RefreshEpisodeService|Finished episode refresh for series: [75886][SpongeBob SquarePants].
+2025-11-11 14:33:51.3|Info|DiskScanService|Scanning SpongeBob SquarePants
+2025-11-11 14:33:51.4|Info|DiskScanService|Completed scanning disk for SpongeBob SquarePants
+2025-11-11 14:33:51.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-11 14:33:51.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-11 14:33:51.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-11 14:33:51.4|Info|ExistingExtraFileService|Found 57 possible extra files, imported 57 files.
+2025-11-11 14:33:51.4|Info|RefreshSeriesService|Updating Taskmaster (NZ)
+2025-11-11 14:33:51.4|Info|RefreshEpisodeService|Starting episode info refresh for: [386002][Taskmaster (NZ)]
+2025-11-11 14:33:51.6|Info|RefreshEpisodeService|Finished episode refresh for series: [386002][Taskmaster (NZ)].
+2025-11-11 14:33:51.6|Info|DiskScanService|Scanning Taskmaster (NZ)
+2025-11-11 14:33:51.7|Info|DiskScanService|Completed scanning disk for Taskmaster (NZ)
+2025-11-11 14:33:51.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-11 14:33:51.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-11 14:33:51.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-11 14:33:51.7|Info|ExistingExtraFileService|Found 30 possible extra files, imported 30 files.
+2025-11-11 14:33:51.7|Info|RefreshSeriesService|Skipping refresh of series: Toradora!
+2025-11-11 14:33:51.7|Info|DiskScanService|Scanning Toradora!
+2025-11-11 14:33:51.7|Info|DiskScanService|Completed scanning disk for Toradora!
+2025-11-11 14:33:51.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-11 14:33:51.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-11 14:33:51.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-11 14:33:51.7|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2025-11-11 14:33:51.7|Info|RefreshSeriesService|Updating Undead Unluck
+2025-11-11 14:33:51.8|Info|RefreshEpisodeService|Starting episode info refresh for: [423030][Undead Unluck]
+2025-11-11 14:33:51.8|Info|RefreshEpisodeService|Finished episode refresh for series: [423030][Undead Unluck].
+2025-11-11 14:33:51.9|Info|DiskScanService|Scanning Undead Unluck
+2025-11-11 14:33:51.9|Info|DiskScanService|Completed scanning disk for Undead Unluck
+2025-11-11 14:33:51.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-11 14:33:51.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-11 14:33:51.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-11 14:33:51.9|Info|ExistingExtraFileService|Found 24 possible extra files, imported 24 files.
+2025-11-11 14:33:51.9|Info|RefreshSeriesService|Skipping refresh of series: WandaVision
+2025-11-11 14:33:51.9|Info|DiskScanService|Scanning WandaVision
+2025-11-11 14:33:51.9|Info|DiskScanService|Completed scanning disk for WandaVision
+2025-11-11 14:33:52.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-11 14:33:52.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-11 14:33:52.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-11 14:33:52.0|Info|ExistingExtraFileService|Found 9 possible extra files, imported 9 files.
+2025-11-11 14:33:52.0|Info|RefreshSeriesService|Updating Wednesday
+2025-11-11 14:33:52.0|Info|RefreshEpisodeService|Starting episode info refresh for: [397060][Wednesday]
+2025-11-11 14:33:52.0|Info|RefreshEpisodeService|Finished episode refresh for series: [397060][Wednesday].
+2025-11-11 14:33:52.0|Info|DiskScanService|Scanning Wednesday
+2025-11-11 14:33:52.1|Info|DiskScanService|Completed scanning disk for Wednesday
+2025-11-11 14:33:52.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-11 14:33:52.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-11 14:33:52.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-11 14:33:52.1|Info|ExistingExtraFileService|Found 16 possible extra files, imported 16 files.
+2025-11-11 14:33:52.1|Info|RefreshSeriesService|Skipping refresh of series: What If…?
+2025-11-11 14:33:52.2|Info|DiskScanService|Scanning What If…?
+2025-11-11 14:33:52.2|Info|DiskScanService|Completed scanning disk for What If…?
+2025-11-11 14:33:52.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-11 14:33:52.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-11 14:33:52.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-11 14:33:52.2|Info|ExistingExtraFileService|Found 9 possible extra files, imported 9 files.
+2025-11-11 14:39:32.4|Info|SceneMappingService|Updating Scene mappings
+2025-11-11 14:45:02.5|Info|RssSyncService|Starting RSS Sync
+2025-11-11 14:45:02.8|Info|DownloadDecisionMaker|Processing 168 releases
+2025-11-11 14:45:03.0|Info|RssSyncService|RSS Sync Completed. Reports found: 168, Reports grabbed: 0
+2025-11-11 15:00:32.6|Info|RssSyncService|Starting RSS Sync
+2025-11-11 15:00:32.9|Info|DownloadDecisionMaker|Processing 158 releases
+2025-11-11 15:00:33.2|Info|RssSyncService|RSS Sync Completed. Reports found: 158, Reports grabbed: 0
+2025-11-11 15:16:02.7|Info|RssSyncService|Starting RSS Sync
+2025-11-11 15:16:03.1|Info|DownloadDecisionMaker|Processing 167 releases
+2025-11-11 15:16:03.4|Info|RssSyncService|RSS Sync Completed. Reports found: 167, Reports grabbed: 0
+2025-11-11 15:31:32.8|Info|RssSyncService|Starting RSS Sync
+2025-11-11 15:31:33.1|Info|DownloadDecisionMaker|Processing 179 releases
+2025-11-11 15:31:33.4|Info|RssSyncService|RSS Sync Completed. Reports found: 179, Reports grabbed: 0
+2025-11-11 15:47:02.8|Info|RssSyncService|Starting RSS Sync
+2025-11-11 15:47:03.4|Info|DownloadDecisionMaker|Processing 174 releases
+2025-11-11 15:47:03.7|Info|RssSyncService|RSS Sync Completed. Reports found: 174, Reports grabbed: 0
+2025-11-11 16:02:32.9|Info|RssSyncService|Starting RSS Sync
+2025-11-11 16:02:34.8|Info|DownloadDecisionMaker|Processing 178 releases
+2025-11-11 16:02:35.1|Info|RssSyncService|RSS Sync Completed. Reports found: 178, Reports grabbed: 0
+2025-11-11 16:18:03.0|Info|RssSyncService|Starting RSS Sync
+2025-11-11 16:18:04.8|Info|DownloadDecisionMaker|Processing 178 releases
+2025-11-11 16:18:05.1|Info|RssSyncService|RSS Sync Completed. Reports found: 178, Reports grabbed: 0
+2025-11-11 16:33:33.1|Info|RssSyncService|Starting RSS Sync
+2025-11-11 16:33:33.4|Info|DownloadDecisionMaker|Processing 190 releases
+2025-11-11 16:33:33.9|Info|RssSyncService|RSS Sync Completed. Reports found: 190, Reports grabbed: 0
+2025-11-11 16:49:03.2|Info|RssSyncService|Starting RSS Sync
+2025-11-11 16:49:03.8|Info|DownloadDecisionMaker|Processing 190 releases
+2025-11-11 16:49:04.2|Info|RssSyncService|RSS Sync Completed. Reports found: 190, Reports grabbed: 0
+2025-11-11 17:04:33.3|Info|RssSyncService|Starting RSS Sync
+2025-11-11 17:04:33.6|Info|DownloadDecisionMaker|Processing 182 releases
+2025-11-11 17:04:34.0|Info|RssSyncService|RSS Sync Completed. Reports found: 182, Reports grabbed: 0
+2025-11-11 17:20:03.4|Info|RssSyncService|Starting RSS Sync
+2025-11-11 17:20:03.8|Info|DownloadDecisionMaker|Processing 176 releases
+2025-11-11 17:20:04.2|Info|RssSyncService|RSS Sync Completed. Reports found: 176, Reports grabbed: 0
+2025-11-11 17:35:33.5|Info|RssSyncService|Starting RSS Sync
+2025-11-11 17:35:35.1|Info|DownloadDecisionMaker|Processing 181 releases
+2025-11-11 17:35:35.5|Info|RssSyncService|RSS Sync Completed. Reports found: 181, Reports grabbed: 0
+2025-11-11 17:39:33.6|Info|SceneMappingService|Updating Scene mappings
+2025-11-11 17:51:03.6|Info|RssSyncService|Starting RSS Sync
+2025-11-11 17:51:03.9|Info|DownloadDecisionMaker|Processing 167 releases
+2025-11-11 17:51:04.1|Info|RssSyncService|RSS Sync Completed. Reports found: 167, Reports grabbed: 0
+2025-11-11 18:06:33.7|Info|RssSyncService|Starting RSS Sync
+2025-11-11 18:06:34.0|Info|DownloadDecisionMaker|Processing 168 releases
+2025-11-11 18:06:34.3|Info|RssSyncService|RSS Sync Completed. Reports found: 168, Reports grabbed: 0
+2025-11-11 18:22:03.8|Info|RssSyncService|Starting RSS Sync
+2025-11-11 18:22:05.7|Info|DownloadDecisionMaker|Processing 176 releases
+2025-11-11 18:22:05.9|Info|RssSyncService|RSS Sync Completed. Reports found: 176, Reports grabbed: 0
+2025-11-11 18:37:33.9|Info|RssSyncService|Starting RSS Sync
+2025-11-11 18:37:34.3|Info|DownloadDecisionMaker|Processing 175 releases
+2025-11-11 18:37:34.6|Info|RssSyncService|RSS Sync Completed. Reports found: 175, Reports grabbed: 0
+2025-11-11 18:53:04.0|Info|RssSyncService|Starting RSS Sync
+2025-11-11 18:53:04.3|Info|DownloadDecisionMaker|Processing 174 releases
+2025-11-11 18:53:04.5|Info|RssSyncService|RSS Sync Completed. Reports found: 174, Reports grabbed: 0
+2025-11-11 19:08:34.1|Info|RssSyncService|Starting RSS Sync
+2025-11-11 19:08:34.5|Info|DownloadDecisionMaker|Processing 167 releases
+2025-11-11 19:08:34.7|Info|RssSyncService|RSS Sync Completed. Reports found: 167, Reports grabbed: 0
+2025-11-11 19:24:04.3|Info|RssSyncService|Starting RSS Sync
+2025-11-11 19:24:04.6|Info|DownloadDecisionMaker|Processing 162 releases
+2025-11-11 19:24:04.8|Info|RssSyncService|RSS Sync Completed. Reports found: 162, Reports grabbed: 0
+2025-11-11 19:39:34.4|Info|RssSyncService|Starting RSS Sync
+2025-11-11 19:39:34.7|Info|DownloadDecisionMaker|Processing 163 releases
+2025-11-11 19:39:34.9|Info|RssSyncService|RSS Sync Completed. Reports found: 163, Reports grabbed: 0
+2025-11-11 19:55:04.5|Info|RssSyncService|Starting RSS Sync
+2025-11-11 19:55:04.8|Info|DownloadDecisionMaker|Processing 163 releases
+2025-11-11 19:55:05.1|Info|RssSyncService|RSS Sync Completed. Reports found: 163, Reports grabbed: 0
+2025-11-11 20:10:34.6|Info|RssSyncService|Starting RSS Sync
+2025-11-11 20:10:34.9|Info|DownloadDecisionMaker|Processing 166 releases
+2025-11-11 20:10:35.1|Info|RssSyncService|RSS Sync Completed. Reports found: 166, Reports grabbed: 0
+2025-11-11 20:26:04.7|Info|RssSyncService|Starting RSS Sync
+2025-11-11 20:26:05.2|Info|DownloadDecisionMaker|Processing 163 releases
+2025-11-11 20:26:05.5|Info|RssSyncService|RSS Sync Completed. Reports found: 163, Reports grabbed: 0
+2025-11-11 20:40:04.8|Info|SceneMappingService|Updating Scene mappings
+2025-11-11 20:41:34.8|Info|RssSyncService|Starting RSS Sync
+2025-11-11 20:41:35.0|Info|DownloadDecisionMaker|Processing 165 releases
+2025-11-11 20:41:35.3|Info|RssSyncService|RSS Sync Completed. Reports found: 165, Reports grabbed: 0
+2025-11-11 20:57:04.9|Info|RssSyncService|Starting RSS Sync
+2025-11-11 20:57:05.2|Info|DownloadDecisionMaker|Processing 161 releases
+2025-11-11 20:57:05.5|Info|RssSyncService|RSS Sync Completed. Reports found: 161, Reports grabbed: 0
+2025-11-11 21:12:35.0|Info|RssSyncService|Starting RSS Sync
+2025-11-11 21:12:35.3|Info|DownloadDecisionMaker|Processing 162 releases
+2025-11-11 21:12:35.5|Info|RssSyncService|RSS Sync Completed. Reports found: 162, Reports grabbed: 0
+2025-11-11 21:28:05.1|Info|RssSyncService|Starting RSS Sync
+2025-11-11 21:28:05.4|Info|DownloadDecisionMaker|Processing 165 releases
+2025-11-11 21:28:05.6|Info|RssSyncService|RSS Sync Completed. Reports found: 165, Reports grabbed: 0
+2025-11-11 21:43:35.2|Info|RssSyncService|Starting RSS Sync
+2025-11-11 21:43:35.5|Info|DownloadDecisionMaker|Processing 163 releases
+2025-11-11 21:43:35.8|Info|RssSyncService|RSS Sync Completed. Reports found: 163, Reports grabbed: 0
+2025-11-11 21:59:05.3|Info|RssSyncService|Starting RSS Sync
+2025-11-11 21:59:05.7|Info|DownloadDecisionMaker|Processing 163 releases
+2025-11-11 21:59:05.9|Info|RssSyncService|RSS Sync Completed. Reports found: 163, Reports grabbed: 0
+2025-11-11 22:14:35.4|Info|RssSyncService|Starting RSS Sync
+2025-11-11 22:14:35.9|Info|DownloadDecisionMaker|Processing 161 releases
+2025-11-11 22:14:36.1|Info|RssSyncService|RSS Sync Completed. Reports found: 161, Reports grabbed: 0
+2025-11-11 22:30:05.6|Info|RssSyncService|Starting RSS Sync
+2025-11-11 22:30:05.8|Info|DownloadDecisionMaker|Processing 160 releases
+2025-11-11 22:30:06.0|Info|RssSyncService|RSS Sync Completed. Reports found: 160, Reports grabbed: 0
+2025-11-11 22:45:35.7|Info|RssSyncService|Starting RSS Sync
+2025-11-11 22:45:36.3|Info|DownloadDecisionMaker|Processing 165 releases
+2025-11-11 22:45:36.4|Info|RssSyncService|RSS Sync Completed. Reports found: 165, Reports grabbed: 0
+2025-11-11 23:01:05.8|Info|RssSyncService|Starting RSS Sync
+2025-11-11 23:01:06.1|Info|DownloadDecisionMaker|Processing 165 releases
+2025-11-11 23:01:06.3|Info|RssSyncService|RSS Sync Completed. Reports found: 165, Reports grabbed: 0
+2025-11-11 23:16:35.9|Info|RssSyncService|Starting RSS Sync
+2025-11-11 23:16:36.2|Info|DownloadDecisionMaker|Processing 171 releases
+2025-11-11 23:16:36.4|Info|RssSyncService|RSS Sync Completed. Reports found: 171, Reports grabbed: 0
+2025-11-11 23:32:06.0|Info|RssSyncService|Starting RSS Sync
+2025-11-11 23:32:06.3|Info|DownloadDecisionMaker|Processing 189 releases
+2025-11-11 23:32:06.6|Info|RssSyncService|RSS Sync Completed. Reports found: 189, Reports grabbed: 0
+2025-11-11 23:40:06.0|Info|SceneMappingService|Updating Scene mappings
+2025-11-11 23:47:36.1|Info|RssSyncService|Starting RSS Sync
+2025-11-11 23:47:36.4|Info|DownloadDecisionMaker|Processing 176 releases
+2025-11-11 23:47:36.8|Info|RssSyncService|RSS Sync Completed. Reports found: 176, Reports grabbed: 0
+2025-11-12 00:03:06.2|Info|RssSyncService|Starting RSS Sync
+2025-11-12 00:03:07.9|Info|DownloadDecisionMaker|Processing 170 releases
+2025-11-12 00:03:08.2|Info|RssSyncService|RSS Sync Completed. Reports found: 170, Reports grabbed: 0
+2025-11-12 00:18:36.3|Info|RssSyncService|Starting RSS Sync
+2025-11-12 00:18:36.6|Info|DownloadDecisionMaker|Processing 169 releases
+2025-11-12 00:18:36.9|Info|RssSyncService|RSS Sync Completed. Reports found: 169, Reports grabbed: 0
+2025-11-12 00:34:06.4|Info|RssSyncService|Starting RSS Sync
+2025-11-12 00:34:06.7|Info|DownloadDecisionMaker|Processing 164 releases
+2025-11-12 00:34:07.0|Info|RssSyncService|RSS Sync Completed. Reports found: 164, Reports grabbed: 0
+2025-11-12 00:49:36.5|Info|RssSyncService|Starting RSS Sync
+2025-11-12 00:49:36.8|Info|DownloadDecisionMaker|Processing 169 releases
+2025-11-12 00:49:37.1|Info|RssSyncService|RSS Sync Completed. Reports found: 169, Reports grabbed: 0
+2025-11-12 01:05:06.6|Info|RssSyncService|Starting RSS Sync
+2025-11-12 01:05:07.6|Info|DownloadDecisionMaker|Processing 173 releases
+2025-11-12 01:05:07.9|Info|RssSyncService|RSS Sync Completed. Reports found: 173, Reports grabbed: 0
+2025-11-12 01:20:36.8|Info|RssSyncService|Starting RSS Sync
+2025-11-12 01:20:37.0|Info|DownloadDecisionMaker|Processing 169 releases
+2025-11-12 01:20:37.3|Info|RssSyncService|RSS Sync Completed. Reports found: 169, Reports grabbed: 0
+2025-11-12 01:36:06.9|Info|RssSyncService|Starting RSS Sync
+2025-11-12 01:36:07.2|Info|DownloadDecisionMaker|Processing 166 releases
+2025-11-12 01:36:07.4|Info|RssSyncService|RSS Sync Completed. Reports found: 166, Reports grabbed: 0
+2025-11-12 01:51:37.0|Info|RssSyncService|Starting RSS Sync
+2025-11-12 01:51:37.3|Info|DownloadDecisionMaker|Processing 159 releases
+2025-11-12 01:51:37.5|Info|RssSyncService|RSS Sync Completed. Reports found: 159, Reports grabbed: 0
+2025-11-12 02:07:07.1|Info|RssSyncService|Starting RSS Sync
+2025-11-12 02:07:07.4|Info|DownloadDecisionMaker|Processing 162 releases
+2025-11-12 02:07:07.6|Info|RssSyncService|RSS Sync Completed. Reports found: 162, Reports grabbed: 0
+2025-11-12 02:22:37.2|Info|RssSyncService|Starting RSS Sync
+2025-11-12 02:22:37.5|Info|DownloadDecisionMaker|Processing 166 releases
+2025-11-12 02:22:37.7|Info|RssSyncService|RSS Sync Completed. Reports found: 166, Reports grabbed: 0
+2025-11-12 02:24:37.3|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2025-11-12 02:24:37.3|Info|HousekeepingService|Running housecleaning tasks
+2025-11-12 02:24:37.5|Info|Database|Vacuuming Log database
+2025-11-12 02:24:37.5|Info|Database|Log database compressed
+2025-11-12 02:24:37.6|Info|Database|Vacuuming Main database
+2025-11-12 02:24:38.1|Info|Database|Main database compressed
+2025-11-12 02:34:07.3|Info|RefreshSeriesService|Updating Abbott Elementary
+2025-11-12 02:34:07.7|Info|RefreshEpisodeService|Starting episode info refresh for: [402910][Abbott Elementary]
+2025-11-12 02:34:07.8|Info|RefreshEpisodeService|Finished episode refresh for series: [402910][Abbott Elementary].
+2025-11-12 02:34:07.9|Info|DiskScanService|Scanning Abbott Elementary
+2025-11-12 02:34:07.9|Info|DiskScanService|Completed scanning disk for Abbott Elementary
+2025-11-12 02:34:08.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:08.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:08.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:08.0|Info|ExistingExtraFileService|Found 75 possible extra files, imported 75 files.
+2025-11-12 02:34:08.0|Info|RefreshSeriesService|Updating Adults (2025)
+2025-11-12 02:34:08.0|Info|RefreshEpisodeService|Starting episode info refresh for: [449390][Adults (2025)]
+2025-11-12 02:34:08.0|Info|RefreshEpisodeService|Finished episode refresh for series: [449390][Adults (2025)].
+2025-11-12 02:34:08.0|Info|DiskScanService|Scanning Adults (2025)
+2025-11-12 02:34:08.0|Info|DiskScanService|Completed scanning disk for Adults (2025)
+2025-11-12 02:34:08.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:08.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:08.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:08.0|Info|ExistingExtraFileService|Found 8 possible extra files, imported 8 files.
+2025-11-12 02:34:08.1|Info|RefreshSeriesService|Skipping refresh of series: Agatha All Along
+2025-11-12 02:34:08.1|Info|DiskScanService|Scanning Agatha All Along
+2025-11-12 02:34:08.1|Info|DiskScanService|Completed scanning disk for Agatha All Along
+2025-11-12 02:34:08.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:08.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:08.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:08.1|Info|ExistingExtraFileService|Found 9 possible extra files, imported 9 files.
+2025-11-12 02:34:08.1|Info|RefreshSeriesService|Updating Alien: Earth
+2025-11-12 02:34:08.1|Info|RefreshEpisodeService|Starting episode info refresh for: [458912][Alien: Earth]
+2025-11-12 02:34:08.2|Info|RefreshEpisodeService|Finished episode refresh for series: [458912][Alien: Earth].
+2025-11-12 02:34:08.2|Info|DiskScanService|Scanning Alien: Earth
+2025-11-12 02:34:08.2|Info|DiskScanService|Completed scanning disk for Alien: Earth
+2025-11-12 02:34:08.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:08.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:08.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:08.2|Info|ExistingExtraFileService|Found 8 possible extra files, imported 8 files.
+2025-11-12 02:34:08.2|Info|RefreshSeriesService|Skipping refresh of series: Andor
+2025-11-12 02:34:08.2|Info|DiskScanService|Scanning Andor
+2025-11-12 02:34:08.2|Info|DiskScanService|Completed scanning disk for Andor
+2025-11-12 02:34:08.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:08.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:08.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:08.2|Info|ExistingExtraFileService|Found 24 possible extra files, imported 24 files.
+2025-11-12 02:34:08.3|Info|RefreshSeriesService|Skipping refresh of series: Better Call Saul
+2025-11-12 02:34:08.3|Info|DiskScanService|Scanning Better Call Saul
+2025-11-12 02:34:08.3|Info|DiskScanService|Completed scanning disk for Better Call Saul
+2025-11-12 02:34:08.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:08.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:08.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:08.3|Info|ExistingExtraFileService|Found 65 possible extra files, imported 65 files.
+2025-11-12 02:34:08.3|Info|RefreshSeriesService|Updating Black Mirror
+2025-11-12 02:34:08.4|Info|RefreshEpisodeService|Starting episode info refresh for: [253463][Black Mirror]
+2025-11-12 02:34:08.5|Info|RefreshEpisodeService|Finished episode refresh for series: [253463][Black Mirror].
+2025-11-12 02:34:08.5|Info|DiskScanService|Scanning Black Mirror
+2025-11-12 02:34:08.5|Info|DiskScanService|Completed scanning disk for Black Mirror
+2025-11-12 02:34:08.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:08.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:08.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:08.5|Info|ExistingExtraFileService|Found 32 possible extra files, imported 32 files.
+2025-11-12 02:34:08.5|Info|RefreshSeriesService|Skipping refresh of series: Black Rabbit
+2025-11-12 02:34:08.5|Info|DiskScanService|Scanning Black Rabbit
+2025-11-12 02:34:08.5|Info|DiskScanService|Completed scanning disk for Black Rabbit
+2025-11-12 02:34:08.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:08.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:08.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:08.6|Info|ExistingExtraFileService|Found 8 possible extra files, imported 8 files.
+2025-11-12 02:34:08.6|Info|RefreshSeriesService|Updating Bleach
+2025-11-12 02:34:08.6|Info|RefreshEpisodeService|Starting episode info refresh for: [74796][Bleach]
+2025-11-12 02:34:09.4|Info|RefreshEpisodeService|Finished episode refresh for series: [74796][Bleach].
+2025-11-12 02:34:10.2|Info|DiskScanService|Scanning Bleach
+2025-11-12 02:34:10.2|Info|DiskScanService|Completed scanning disk for Bleach
+2025-11-12 02:34:10.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:10.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:10.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:10.2|Info|ExistingExtraFileService|Found 41 possible extra files, imported 41 files.
+2025-11-12 02:34:10.2|Info|RefreshSeriesService|Skipping refresh of series: BoJack Horseman
+2025-11-12 02:34:10.2|Info|DiskScanService|Scanning BoJack Horseman
+2025-11-12 02:34:10.3|Info|DiskScanService|Completed scanning disk for BoJack Horseman
+2025-11-12 02:34:10.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:10.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:10.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:10.3|Info|ExistingExtraFileService|Found 76 possible extra files, imported 76 files.
+2025-11-12 02:34:10.3|Info|RefreshSeriesService|Updating The Boys
+2025-11-12 02:34:10.3|Info|RefreshEpisodeService|Starting episode info refresh for: [355567][The Boys]
+2025-11-12 02:34:10.5|Info|RefreshEpisodeService|Finished episode refresh for series: [355567][The Boys].
+2025-11-12 02:34:10.5|Info|DiskScanService|Scanning The Boys
+2025-11-12 02:34:10.6|Info|DiskScanService|Completed scanning disk for The Boys
+2025-11-12 02:34:10.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:10.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:10.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:10.6|Info|ExistingExtraFileService|Found 32 possible extra files, imported 32 files.
+2025-11-12 02:34:10.6|Info|RefreshSeriesService|Skipping refresh of series: Breaking Bad
+2025-11-12 02:34:10.6|Info|DiskScanService|Scanning Breaking Bad
+2025-11-12 02:34:10.6|Info|DiskScanService|Completed scanning disk for Breaking Bad
+2025-11-12 02:34:10.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:10.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:10.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:10.7|Info|ExistingExtraFileService|Found 62 possible extra files, imported 62 files.
+2025-11-12 02:34:10.7|Info|RefreshSeriesService|Skipping refresh of series: Call of the Night
+2025-11-12 02:34:10.7|Info|DiskScanService|Scanning Call of the Night
+2025-11-12 02:34:10.7|Info|DiskScanService|Completed scanning disk for Call of the Night
+2025-11-12 02:34:10.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:10.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:10.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:10.7|Info|ExistingExtraFileService|Found 26 possible extra files, imported 26 files.
+2025-11-12 02:34:10.7|Info|RefreshSeriesService|Skipping refresh of series: Chainsaw Man
+2025-11-12 02:34:10.7|Info|DiskScanService|Scanning Chainsaw Man
+2025-11-12 02:34:10.7|Info|DiskScanService|Completed scanning disk for Chainsaw Man
+2025-11-12 02:34:10.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:10.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:10.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:10.7|Info|ExistingExtraFileService|Found 12 possible extra files, imported 12 files.
+2025-11-12 02:34:10.7|Info|RefreshSeriesService|Skipping refresh of series: Chernobyl
+2025-11-12 02:34:10.7|Info|DiskScanService|Scanning Chernobyl
+2025-11-12 02:34:10.8|Info|DiskScanService|Completed scanning disk for Chernobyl
+2025-11-12 02:34:10.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:10.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:10.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:10.8|Info|ExistingExtraFileService|Found 5 possible extra files, imported 5 files.
+2025-11-12 02:34:10.8|Info|RefreshSeriesService|Skipping refresh of series: Community
+2025-11-12 02:34:10.8|Info|DiskScanService|Scanning Community
+2025-11-12 02:34:10.8|Info|DiskScanService|Completed scanning disk for Community
+2025-11-12 02:34:10.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:10.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:10.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:10.8|Info|ExistingExtraFileService|Found 110 possible extra files, imported 110 files.
+2025-11-12 02:34:10.8|Info|RefreshSeriesService|Updating Creature Commandos
+2025-11-12 02:34:10.9|Info|RefreshEpisodeService|Starting episode info refresh for: [430518][Creature Commandos]
+2025-11-12 02:34:10.9|Info|RefreshEpisodeService|Finished episode refresh for series: [430518][Creature Commandos].
+2025-11-12 02:34:10.9|Info|DiskScanService|Scanning Creature Commandos
+2025-11-12 02:34:10.9|Info|DiskScanService|Completed scanning disk for Creature Commandos
+2025-11-12 02:34:10.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:10.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:10.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:10.9|Info|ExistingExtraFileService|Found 5 possible extra files, imported 5 files.
+2025-11-12 02:34:10.9|Info|RefreshSeriesService|Updating DAN DA DAN
+2025-11-12 02:34:10.9|Info|RefreshEpisodeService|Starting episode info refresh for: [432832][DAN DA DAN]
+2025-11-12 02:34:11.0|Info|RefreshEpisodeService|Finished episode refresh for series: [432832][DAN DA DAN].
+2025-11-12 02:34:11.1|Info|DiskScanService|Scanning DAN DA DAN
+2025-11-12 02:34:11.1|Info|DiskScanService|Completed scanning disk for DAN DA DAN
+2025-11-12 02:34:11.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:11.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:11.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:11.1|Info|ExistingExtraFileService|Found 24 possible extra files, imported 24 files.
+2025-11-12 02:34:11.1|Info|RefreshSeriesService|Updating Daredevil: Born Again
+2025-11-12 02:34:11.1|Info|RefreshEpisodeService|Starting episode info refresh for: [422712][Daredevil: Born Again]
+2025-11-12 02:34:11.1|Info|RefreshEpisodeService|Finished episode refresh for series: [422712][Daredevil: Born Again].
+2025-11-12 02:34:11.1|Info|DiskScanService|Scanning Daredevil: Born Again
+2025-11-12 02:34:11.2|Info|DiskScanService|Completed scanning disk for Daredevil: Born Again
+2025-11-12 02:34:11.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:11.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:11.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:11.2|Info|ExistingExtraFileService|Found 9 possible extra files, imported 9 files.
+2025-11-12 02:34:11.2|Info|RefreshSeriesService|Skipping refresh of series: Demon Slayer: Kimetsu no Yaiba
+2025-11-12 02:34:11.2|Info|DiskScanService|Scanning Demon Slayer: Kimetsu no Yaiba
+2025-11-12 02:34:11.2|Info|DiskScanService|Completed scanning disk for Demon Slayer: Kimetsu no Yaiba
+2025-11-12 02:34:11.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:11.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:11.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:11.2|Info|ExistingExtraFileService|Found 63 possible extra files, imported 63 files.
+2025-11-12 02:34:11.3|Info|RefreshSeriesService|Skipping refresh of series: Echo
+2025-11-12 02:34:11.3|Info|DiskScanService|Scanning Echo
+2025-11-12 02:34:11.3|Info|DiskScanService|Completed scanning disk for Echo
+2025-11-12 02:34:11.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:11.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:11.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:11.3|Info|ExistingExtraFileService|Found 5 possible extra files, imported 5 files.
+2025-11-12 02:34:11.3|Info|RefreshSeriesService|Skipping refresh of series: The Fairly OddParents
+2025-11-12 02:34:11.3|Info|DiskScanService|Scanning The Fairly OddParents
+2025-11-12 02:34:11.3|Info|DiskScanService|Completed scanning disk for The Fairly OddParents
+2025-11-12 02:34:11.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:11.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:11.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:11.3|Info|ExistingExtraFileService|Found 11 possible extra files, imported 11 files.
+2025-11-12 02:34:11.3|Info|RefreshSeriesService|Skipping refresh of series: The Falcon and The Winter Soldier
+2025-11-12 02:34:11.3|Info|DiskScanService|Scanning The Falcon and The Winter Soldier
+2025-11-12 02:34:11.3|Info|DiskScanService|Completed scanning disk for The Falcon and The Winter Soldier
+2025-11-12 02:34:11.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:11.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:11.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:11.3|Info|ExistingExtraFileService|Found 6 possible extra files, imported 6 files.
+2025-11-12 02:34:11.3|Info|RefreshSeriesService|Updating Fallout
+2025-11-12 02:34:11.3|Info|RefreshEpisodeService|Starting episode info refresh for: [416744][Fallout]
+2025-11-12 02:34:11.4|Info|RefreshEpisodeService|Finished episode refresh for series: [416744][Fallout].
+2025-11-12 02:34:11.4|Info|DiskScanService|Scanning Fallout
+2025-11-12 02:34:11.4|Info|DiskScanService|Completed scanning disk for Fallout
+2025-11-12 02:34:11.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:11.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:11.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:11.4|Info|ExistingExtraFileService|Found 8 possible extra files, imported 8 files.
+2025-11-12 02:34:11.4|Info|RefreshSeriesService|Updating FOREVER (2025)
+2025-11-12 02:34:11.5|Info|RefreshEpisodeService|Starting episode info refresh for: [446191][FOREVER (2025)]
+2025-11-12 02:34:11.5|Info|RefreshEpisodeService|Finished episode refresh for series: [446191][FOREVER (2025)].
+2025-11-12 02:34:11.5|Info|DiskScanService|Scanning FOREVER (2025)
+2025-11-12 02:34:11.5|Info|DiskScanService|Completed scanning disk for FOREVER (2025)
+2025-11-12 02:34:11.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:11.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:11.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:11.5|Info|ExistingExtraFileService|Found 8 possible extra files, imported 8 files.
+2025-11-12 02:34:11.5|Info|RefreshSeriesService|Updating Gen V
+2025-11-12 02:34:11.5|Info|RefreshEpisodeService|Starting episode info refresh for: [417909][Gen V]
+2025-11-12 02:34:11.6|Info|RefreshEpisodeService|Finished episode refresh for series: [417909][Gen V].
+2025-11-12 02:34:11.6|Info|DiskScanService|Scanning Gen V
+2025-11-12 02:34:11.6|Info|DiskScanService|Completed scanning disk for Gen V
+2025-11-12 02:34:11.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:11.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:11.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:11.6|Info|ExistingExtraFileService|Found 16 possible extra files, imported 16 files.
+2025-11-12 02:34:11.6|Info|RefreshSeriesService|Updating God of War
+2025-11-12 02:34:11.9|Info|RefreshEpisodeService|Starting episode info refresh for: [428401][God of War]
+2025-11-12 02:34:11.9|Info|RefreshEpisodeService|Finished episode refresh for series: [428401][God of War].
+2025-11-12 02:34:11.9|Info|DiskScanService|Scanning God of War
+2025-11-12 02:34:11.9|Info|DiskScanService|Completed scanning disk for God of War
+2025-11-12 02:34:12.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:12.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:12.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:12.0|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2025-11-12 02:34:12.0|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2025-11-12 02:34:12.0|Info|RefreshSeriesService|Updating Hell's Paradise
+2025-11-12 02:34:12.0|Info|RefreshEpisodeService|Starting episode info refresh for: [402474][Hell's Paradise]
+2025-11-12 02:34:12.0|Info|RefreshEpisodeService|Finished episode refresh for series: [402474][Hell's Paradise].
+2025-11-12 02:34:12.1|Info|DiskScanService|Scanning Hell's Paradise
+2025-11-12 02:34:12.1|Info|DiskScanService|Completed scanning disk for Hell's Paradise
+2025-11-12 02:34:12.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:12.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:12.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:12.1|Info|ExistingExtraFileService|Found 13 possible extra files, imported 13 files.
+2025-11-12 02:34:12.1|Info|RefreshSeriesService|Updating Inexpressive Kashiwada and Expressive Oota
+2025-11-12 02:34:12.1|Info|RefreshEpisodeService|Starting episode info refresh for: [461467][Inexpressive Kashiwada and Expressive Oota]
+2025-11-12 02:34:12.1|Info|RefreshEpisodeService|Finished episode refresh for series: [461467][Inexpressive Kashiwada and Expressive Oota].
+2025-11-12 02:34:12.2|Info|DiskScanService|Scanning Inexpressive Kashiwada and Expressive Oota
+2025-11-12 02:34:12.2|Info|DiskScanService|Completed scanning disk for Inexpressive Kashiwada and Expressive Oota
+2025-11-12 02:34:12.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:12.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:12.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:12.2|Info|ExistingExtraFileService|Found 5 possible extra files, imported 5 files.
+2025-11-12 02:34:12.2|Info|RefreshSeriesService|Updating Invincible
+2025-11-12 02:34:12.2|Info|RefreshEpisodeService|Starting episode info refresh for: [368207][Invincible]
+2025-11-12 02:34:12.3|Info|RefreshEpisodeService|Finished episode refresh for series: [368207][Invincible].
+2025-11-12 02:34:12.3|Info|DiskScanService|Scanning Invincible
+2025-11-12 02:34:12.3|Info|DiskScanService|Completed scanning disk for Invincible
+2025-11-12 02:34:12.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:12.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:12.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:12.3|Info|ExistingExtraFileService|Found 24 possible extra files, imported 24 files.
+2025-11-12 02:34:12.3|Info|RefreshSeriesService|Skipping refresh of series: Jane the Virgin
+2025-11-12 02:34:12.3|Info|DiskScanService|Scanning Jane the Virgin
+2025-11-12 02:34:12.4|Info|DiskScanService|Completed scanning disk for Jane the Virgin
+2025-11-12 02:34:12.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:12.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:12.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:12.4|Info|ExistingExtraFileService|Found 44 possible extra files, imported 44 files.
+2025-11-12 02:34:12.4|Info|RefreshSeriesService|Skipping refresh of series: Jeen-Yuhs: A Kanye Trilogy
+2025-11-12 02:34:12.4|Info|DiskScanService|Scanning Jeen-Yuhs: A Kanye Trilogy
+2025-11-12 02:34:12.4|Info|DiskScanService|Completed scanning disk for Jeen-Yuhs: A Kanye Trilogy
+2025-11-12 02:34:12.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:12.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:12.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:12.4|Info|ExistingExtraFileService|Found 3 possible extra files, imported 3 files.
+2025-11-12 02:34:12.4|Info|RefreshSeriesService|Updating Jujutsu Kaisen
+2025-11-12 02:34:12.4|Info|RefreshEpisodeService|Starting episode info refresh for: [377543][Jujutsu Kaisen]
+2025-11-12 02:34:12.5|Info|RefreshEpisodeService|Finished episode refresh for series: [377543][Jujutsu Kaisen].
+2025-11-12 02:34:12.7|Info|DiskScanService|Scanning Jujutsu Kaisen
+2025-11-12 02:34:12.8|Info|DiskScanService|Completed scanning disk for Jujutsu Kaisen
+2025-11-12 02:34:12.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:12.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:12.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:12.8|Info|ExistingExtraFileService|Found 47 possible extra files, imported 47 files.
+2025-11-12 02:34:12.8|Info|RefreshSeriesService|Updating The Last of Us
+2025-11-12 02:34:12.8|Info|RefreshEpisodeService|Starting episode info refresh for: [392256][The Last of Us]
+2025-11-12 02:34:13.0|Info|RefreshEpisodeService|Finished episode refresh for series: [392256][The Last of Us].
+2025-11-12 02:34:13.0|Info|DiskScanService|Scanning The Last of Us
+2025-11-12 02:34:13.0|Info|DiskScanService|Completed scanning disk for The Last of Us
+2025-11-12 02:34:13.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:13.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:13.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:13.0|Info|ExistingExtraFileService|Found 16 possible extra files, imported 16 files.
+2025-11-12 02:34:13.0|Info|RefreshSeriesService|Skipping refresh of series: Loki
+2025-11-12 02:34:13.0|Info|DiskScanService|Scanning Loki
+2025-11-12 02:34:13.0|Info|DiskScanService|Completed scanning disk for Loki
+2025-11-12 02:34:13.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:13.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:13.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:13.0|Info|ExistingExtraFileService|Found 12 possible extra files, imported 12 files.
+2025-11-12 02:34:13.0|Info|RefreshSeriesService|Updating Love, Death & Robots
+2025-11-12 02:34:13.1|Info|RefreshEpisodeService|Starting episode info refresh for: [357888][Love, Death & Robots]
+2025-11-12 02:34:13.2|Info|RefreshEpisodeService|Finished episode refresh for series: [357888][Love, Death & Robots].
+2025-11-12 02:34:13.2|Info|DiskScanService|Scanning Love, Death & Robots
+2025-11-12 02:34:13.2|Info|DiskScanService|Completed scanning disk for Love, Death & Robots
+2025-11-12 02:34:13.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:13.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:13.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:13.2|Info|ExistingExtraFileService|Found 45 possible extra files, imported 45 files.
+2025-11-12 02:34:13.3|Info|RefreshSeriesService|Updating Marvel Zombies
+2025-11-12 02:34:13.3|Info|RefreshEpisodeService|Starting episode info refresh for: [412428][Marvel Zombies]
+2025-11-12 02:34:13.3|Info|RefreshEpisodeService|Finished episode refresh for series: [412428][Marvel Zombies].
+2025-11-12 02:34:13.3|Info|DiskScanService|Scanning Marvel Zombies
+2025-11-12 02:34:13.3|Info|DiskScanService|Completed scanning disk for Marvel Zombies
+2025-11-12 02:34:13.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:13.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:13.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:13.3|Info|ExistingExtraFileService|Found 4 possible extra files, imported 4 files.
+2025-11-12 02:34:13.3|Info|RefreshSeriesService|Skipping refresh of series: Marvel's Daredevil
+2025-11-12 02:34:13.3|Info|DiskScanService|Scanning Marvel's Daredevil
+2025-11-12 02:34:13.3|Info|DiskScanService|Completed scanning disk for Marvel's Daredevil
+2025-11-12 02:34:13.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:13.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:13.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:13.4|Info|ExistingExtraFileService|Found 32 possible extra files, imported 32 files.
+2025-11-12 02:34:13.4|Info|RefreshSeriesService|Skipping refresh of series: Marvel's Jessica Jones
+2025-11-12 02:34:13.4|Info|DiskScanService|Scanning Marvel's Jessica Jones
+2025-11-12 02:34:13.4|Info|DiskScanService|Completed scanning disk for Marvel's Jessica Jones
+2025-11-12 02:34:13.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:13.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:13.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:13.4|Info|ExistingExtraFileService|Found 39 possible extra files, imported 39 files.
+2025-11-12 02:34:13.4|Info|RefreshSeriesService|Skipping refresh of series: Moon Knight
+2025-11-12 02:34:13.4|Info|DiskScanService|Scanning Moon Knight
+2025-11-12 02:34:13.4|Info|DiskScanService|Completed scanning disk for Moon Knight
+2025-11-12 02:34:13.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:13.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:13.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:13.4|Info|ExistingExtraFileService|Found 6 possible extra files, imported 6 files.
+2025-11-12 02:34:13.5|Info|RefreshSeriesService|Updating My Hero Academia
+2025-11-12 02:34:13.5|Info|RefreshEpisodeService|Starting episode info refresh for: [305074][My Hero Academia]
+2025-11-12 02:34:14.0|Info|RefreshEpisodeService|Finished episode refresh for series: [305074][My Hero Academia].
+2025-11-12 02:34:14.4|Info|DiskScanService|Scanning My Hero Academia
+2025-11-12 02:34:14.5|Info|DiskScanService|Completed scanning disk for My Hero Academia
+2025-11-12 02:34:14.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:14.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:14.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:14.5|Info|ExistingExtraFileService|Found 165 possible extra files, imported 165 files.
+2025-11-12 02:34:14.6|Info|RefreshSeriesService|Updating Only Murders in the Building
+2025-11-12 02:34:14.6|Info|RefreshEpisodeService|Starting episode info refresh for: [399959][Only Murders in the Building]
+2025-11-12 02:34:14.8|Info|RefreshEpisodeService|Finished episode refresh for series: [399959][Only Murders in the Building].
+2025-11-12 02:34:14.8|Info|DiskScanService|Scanning Only Murders in the Building
+2025-11-12 02:34:14.8|Info|DiskScanService|Completed scanning disk for Only Murders in the Building
+2025-11-12 02:34:14.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:14.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:14.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:14.8|Info|ExistingExtraFileService|Found 50 possible extra files, imported 50 files.
+2025-11-12 02:34:14.8|Info|RefreshSeriesService|Updating The Paper (2025)
+2025-11-12 02:34:14.9|Info|RefreshEpisodeService|Starting episode info refresh for: [449872][The Paper (2025)]
+2025-11-12 02:34:14.9|Info|RefreshEpisodeService|Finished episode refresh for series: [449872][The Paper (2025)].
+2025-11-12 02:34:14.9|Info|DiskScanService|Scanning The Paper (2025)
+2025-11-12 02:34:14.9|Info|DiskScanService|Completed scanning disk for The Paper (2025)
+2025-11-12 02:34:14.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:14.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:14.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:14.9|Info|ExistingExtraFileService|Found 10 possible extra files, imported 10 files.
+2025-11-12 02:34:14.9|Info|RefreshSeriesService|Updating Paradise (2025)
+2025-11-12 02:34:14.9|Info|RefreshEpisodeService|Starting episode info refresh for: [454565][Paradise (2025)]
+2025-11-12 02:34:15.0|Info|RefreshEpisodeService|Finished episode refresh for series: [454565][Paradise (2025)].
+2025-11-12 02:34:15.0|Info|DiskScanService|Scanning Paradise (2025)
+2025-11-12 02:34:15.0|Info|DiskScanService|Completed scanning disk for Paradise (2025)
+2025-11-12 02:34:15.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:15.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:15.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:15.0|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2025-11-12 02:34:15.0|Info|RefreshSeriesService|Skipping refresh of series: Peacemaker
+2025-11-12 02:34:15.0|Info|DiskScanService|Scanning Peacemaker
+2025-11-12 02:34:15.0|Info|DiskScanService|Completed scanning disk for Peacemaker
+2025-11-12 02:34:15.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:15.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:15.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:15.0|Info|ExistingExtraFileService|Found 16 possible extra files, imported 16 files.
+2025-11-12 02:34:15.0|Info|RefreshSeriesService|Skipping refresh of series: Peaky Blinders
+2025-11-12 02:34:15.0|Info|DiskScanService|Scanning Peaky Blinders
+2025-11-12 02:34:15.1|Info|DiskScanService|Completed scanning disk for Peaky Blinders
+2025-11-12 02:34:15.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:15.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:15.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:15.1|Info|ExistingExtraFileService|Found 36 possible extra files, imported 36 files.
+2025-11-12 02:34:15.1|Info|RefreshSeriesService|Updating Pluribus
+2025-11-12 02:34:15.1|Info|RefreshEpisodeService|Starting episode info refresh for: [436457][Pluribus]
+2025-11-12 02:34:15.1|Info|RefreshEpisodeService|Finished episode refresh for series: [436457][Pluribus].
+2025-11-12 02:34:15.1|Info|DiskScanService|Scanning Pluribus
+2025-11-12 02:34:15.1|Info|DiskScanService|Completed scanning disk for Pluribus
+2025-11-12 02:34:15.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:15.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:15.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:15.1|Info|ExistingExtraFileService|Found 2 possible extra files, imported 2 files.
+2025-11-12 02:34:15.2|Info|RefreshSeriesService|Updating Rick and Morty
+2025-11-12 02:34:15.2|Info|RefreshEpisodeService|Starting episode info refresh for: [275274][Rick and Morty]
+2025-11-12 02:34:15.7|Info|RefreshEpisodeService|Finished episode refresh for series: [275274][Rick and Morty].
+2025-11-12 02:34:15.7|Info|DiskScanService|Scanning Rick and Morty
+2025-11-12 02:34:15.7|Info|DiskScanService|Completed scanning disk for Rick and Morty
+2025-11-12 02:34:15.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:15.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:15.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:15.7|Info|ExistingExtraFileService|Found 81 possible extra files, imported 81 files.
+2025-11-12 02:34:15.7|Info|RefreshSeriesService|Updating The Runarounds
+2025-11-12 02:34:15.8|Info|RefreshEpisodeService|Starting episode info refresh for: [452854][The Runarounds]
+2025-11-12 02:34:15.8|Info|RefreshEpisodeService|Finished episode refresh for series: [452854][The Runarounds].
+2025-11-12 02:34:15.8|Info|DiskScanService|Scanning The Runarounds
+2025-11-12 02:34:15.8|Info|DiskScanService|Completed scanning disk for The Runarounds
+2025-11-12 02:34:15.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:15.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:15.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:15.8|Info|ExistingExtraFileService|Found 8 possible extra files, imported 8 files.
+2025-11-12 02:34:15.8|Info|RefreshSeriesService|Updating Severance
+2025-11-12 02:34:15.8|Info|RefreshEpisodeService|Starting episode info refresh for: [371980][Severance]
+2025-11-12 02:34:15.9|Info|RefreshEpisodeService|Finished episode refresh for series: [371980][Severance].
+2025-11-12 02:34:15.9|Info|DiskScanService|Scanning Severance
+2025-11-12 02:34:15.9|Info|DiskScanService|Completed scanning disk for Severance
+2025-11-12 02:34:16.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:16.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:16.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:16.0|Info|ExistingExtraFileService|Found 19 possible extra files, imported 19 files.
+2025-11-12 02:34:16.0|Info|RefreshSeriesService|Skipping refresh of series: She-Hulk: Attorney at Law
+2025-11-12 02:34:16.0|Info|DiskScanService|Scanning She-Hulk: Attorney at Law
+2025-11-12 02:34:16.0|Info|DiskScanService|Completed scanning disk for She-Hulk: Attorney at Law
+2025-11-12 02:34:16.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:16.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:16.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:16.0|Info|ExistingExtraFileService|Found 9 possible extra files, imported 9 files.
+2025-11-12 02:34:16.0|Info|RefreshSeriesService|Updating Shōgun
+2025-11-12 02:34:16.0|Info|RefreshEpisodeService|Starting episode info refresh for: [392573][Shōgun]
+2025-11-12 02:34:16.1|Info|RefreshEpisodeService|Finished episode refresh for series: [392573][Shōgun].
+2025-11-12 02:34:16.1|Info|DiskScanService|Scanning Shōgun
+2025-11-12 02:34:16.1|Info|DiskScanService|Completed scanning disk for Shōgun
+2025-11-12 02:34:16.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:16.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:16.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:16.1|Info|ExistingExtraFileService|Found 10 possible extra files, imported 10 files.
+2025-11-12 02:34:16.1|Info|RefreshSeriesService|Skipping refresh of series: Silicon Valley
+2025-11-12 02:34:16.1|Info|DiskScanService|Scanning Silicon Valley
+2025-11-12 02:34:16.1|Info|DiskScanService|Completed scanning disk for Silicon Valley
+2025-11-12 02:34:16.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:16.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:16.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:16.2|Info|ExistingExtraFileService|Found 53 possible extra files, imported 53 files.
+2025-11-12 02:34:16.2|Info|RefreshSeriesService|Updating Silo
+2025-11-12 02:34:16.2|Info|RefreshEpisodeService|Starting episode info refresh for: [403245][Silo]
+2025-11-12 02:34:16.3|Info|RefreshEpisodeService|Finished episode refresh for series: [403245][Silo].
+2025-11-12 02:34:16.3|Info|DiskScanService|Scanning Silo
+2025-11-12 02:34:16.3|Info|DiskScanService|Completed scanning disk for Silo
+2025-11-12 02:34:16.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:16.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:16.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:16.3|Info|ExistingExtraFileService|Found 20 possible extra files, imported 20 files.
+2025-11-12 02:34:16.3|Info|RefreshSeriesService|Updating Smiling Friends
+2025-11-12 02:34:16.4|Info|RefreshEpisodeService|Starting episode info refresh for: [379403][Smiling Friends]
+2025-11-12 02:34:16.5|Info|RefreshEpisodeService|Finished episode refresh for series: [379403][Smiling Friends].
+2025-11-12 02:34:16.5|Info|DiskScanService|Scanning Smiling Friends
+2025-11-12 02:34:16.5|Info|DiskScanService|Completed scanning disk for Smiling Friends
+2025-11-12 02:34:16.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:16.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:16.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:16.5|Info|ExistingExtraFileService|Found 22 possible extra files, imported 22 files.
+2025-11-12 02:34:16.5|Info|RefreshSeriesService|Updating Solo Leveling
+2025-11-12 02:34:16.5|Info|RefreshEpisodeService|Starting episode info refresh for: [389597][Solo Leveling]
+2025-11-12 02:34:16.6|Info|RefreshEpisodeService|Finished episode refresh for series: [389597][Solo Leveling].
+2025-11-12 02:34:16.7|Info|DiskScanService|Scanning Solo Leveling
+2025-11-12 02:34:16.7|Info|DiskScanService|Completed scanning disk for Solo Leveling
+2025-11-12 02:34:16.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:16.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:16.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:16.7|Info|ExistingExtraFileService|Found 25 possible extra files, imported 25 files.
+2025-11-12 02:34:16.7|Info|RefreshSeriesService|Updating South Park
+2025-11-12 02:34:16.7|Info|RefreshEpisodeService|Starting episode info refresh for: [75897][South Park]
+2025-11-12 02:34:17.6|Info|RefreshEpisodeService|Finished episode refresh for series: [75897][South Park].
+2025-11-12 02:34:17.6|Info|DiskScanService|Scanning South Park
+2025-11-12 02:34:17.8|Info|DiskScanService|Completed scanning disk for South Park
+2025-11-12 02:34:17.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:17.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:17.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:17.8|Info|ExistingExtraFileService|Found 8 possible extra files, imported 7 files.
+2025-11-12 02:34:17.9|Info|RefreshSeriesService|Updating SpongeBob SquarePants
+2025-11-12 02:34:17.9|Info|RefreshEpisodeService|Starting episode info refresh for: [75886][SpongeBob SquarePants]
+2025-11-12 02:34:19.5|Info|RefreshEpisodeService|Finished episode refresh for series: [75886][SpongeBob SquarePants].
+2025-11-12 02:34:19.5|Info|DiskScanService|Scanning SpongeBob SquarePants
+2025-11-12 02:34:19.5|Info|DiskScanService|Completed scanning disk for SpongeBob SquarePants
+2025-11-12 02:34:19.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:19.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:19.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:19.5|Info|ExistingExtraFileService|Found 57 possible extra files, imported 57 files.
+2025-11-12 02:34:19.6|Info|RefreshSeriesService|Updating Taskmaster (NZ)
+2025-11-12 02:34:19.6|Info|RefreshEpisodeService|Starting episode info refresh for: [386002][Taskmaster (NZ)]
+2025-11-12 02:34:19.7|Info|RefreshEpisodeService|Finished episode refresh for series: [386002][Taskmaster (NZ)].
+2025-11-12 02:34:19.7|Info|DiskScanService|Scanning Taskmaster (NZ)
+2025-11-12 02:34:19.7|Info|DiskScanService|Completed scanning disk for Taskmaster (NZ)
+2025-11-12 02:34:19.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:19.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:19.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:19.7|Info|ExistingExtraFileService|Found 30 possible extra files, imported 30 files.
+2025-11-12 02:34:19.7|Info|RefreshSeriesService|Skipping refresh of series: Toradora!
+2025-11-12 02:34:19.7|Info|DiskScanService|Scanning Toradora!
+2025-11-12 02:34:19.8|Info|DiskScanService|Completed scanning disk for Toradora!
+2025-11-12 02:34:19.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:19.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:19.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:19.8|Info|ExistingExtraFileService|Found 1 possible extra files, imported 1 files.
+2025-11-12 02:34:19.8|Info|RefreshSeriesService|Updating Undead Unluck
+2025-11-12 02:34:19.8|Info|RefreshEpisodeService|Starting episode info refresh for: [423030][Undead Unluck]
+2025-11-12 02:34:19.8|Info|RefreshEpisodeService|Finished episode refresh for series: [423030][Undead Unluck].
+2025-11-12 02:34:19.8|Info|DiskScanService|Scanning Undead Unluck
+2025-11-12 02:34:19.9|Info|DiskScanService|Completed scanning disk for Undead Unluck
+2025-11-12 02:34:19.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:19.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:19.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:19.9|Info|ExistingExtraFileService|Found 24 possible extra files, imported 24 files.
+2025-11-12 02:34:19.9|Info|RefreshSeriesService|Skipping refresh of series: WandaVision
+2025-11-12 02:34:19.9|Info|DiskScanService|Scanning WandaVision
+2025-11-12 02:34:19.9|Info|DiskScanService|Completed scanning disk for WandaVision
+2025-11-12 02:34:19.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:19.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:19.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:19.9|Info|ExistingExtraFileService|Found 9 possible extra files, imported 9 files.
+2025-11-12 02:34:19.9|Info|RefreshSeriesService|Updating Wednesday
+2025-11-12 02:34:19.9|Info|RefreshEpisodeService|Starting episode info refresh for: [397060][Wednesday]
+2025-11-12 02:34:20.0|Info|RefreshEpisodeService|Finished episode refresh for series: [397060][Wednesday].
+2025-11-12 02:34:20.0|Info|DiskScanService|Scanning Wednesday
+2025-11-12 02:34:20.0|Info|DiskScanService|Completed scanning disk for Wednesday
+2025-11-12 02:34:20.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:20.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:20.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:20.0|Info|ExistingExtraFileService|Found 16 possible extra files, imported 16 files.
+2025-11-12 02:34:20.0|Info|RefreshSeriesService|Skipping refresh of series: What If…?
+2025-11-12 02:34:20.0|Info|DiskScanService|Scanning What If…?
+2025-11-12 02:34:20.0|Info|DiskScanService|Completed scanning disk for What If…?
+2025-11-12 02:34:20.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2025-11-12 02:34:20.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2025-11-12 02:34:20.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2025-11-12 02:34:20.0|Info|ExistingExtraFileService|Found 9 possible extra files, imported 9 files.
+2025-11-12 02:38:07.4|Info|RssSyncService|Starting RSS Sync
+2025-11-12 02:38:07.9|Info|DownloadDecisionMaker|Processing 164 releases
+2025-11-12 02:38:08.1|Info|RssSyncService|RSS Sync Completed. Reports found: 164, Reports grabbed: 0
+2025-11-12 02:40:07.4|Info|SceneMappingService|Updating Scene mappings
+2025-11-12 02:53:37.5|Info|RssSyncService|Starting RSS Sync
+2025-11-12 02:53:37.8|Info|DownloadDecisionMaker|Processing 164 releases
+2025-11-12 02:53:38.0|Info|RssSyncService|RSS Sync Completed. Reports found: 164, Reports grabbed: 0
+2025-11-12 03:00:24.3|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.16.2944
+2025-11-12 03:00:24.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-11-12 03:00:24.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-11-12 03:00:25.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-11-12 03:00:25.4|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-11-12 03:00:25.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-11-12 03:00:25.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-11-12 03:00:25.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-11-12 03:00:25.6|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-11-12 03:00:25.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0809172s
+2025-11-12 03:00:25.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-11-12 03:00:25.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0830397s
+2025-11-12 03:00:25.7|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-11-12 03:00:25.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-11-12 03:00:25.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-11-12 03:00:25.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-11-12 03:00:25.7|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-11-12 03:00:25.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0027891s
+2025-11-12 03:00:25.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-11-12 03:00:25.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0029129s
+2025-11-12 03:00:26.2|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-11-12 03:00:27.0|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-11-12 03:00:27.0|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-11-12 03:00:27.0|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-11-12 03:00:27.1|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-11-12 03:08:57.8|Info|RssSyncService|Starting RSS Sync
+2025-11-12 03:08:58.2|Info|DownloadDecisionMaker|Processing 161 releases
+2025-11-12 03:08:59.7|Info|RssSyncService|RSS Sync Completed. Reports found: 161, Reports grabbed: 0
+2025-11-12 03:24:27.9|Info|RssSyncService|Starting RSS Sync
+2025-11-12 03:24:28.2|Info|DownloadDecisionMaker|Processing 157 releases
+2025-11-12 03:24:28.4|Info|RssSyncService|RSS Sync Completed. Reports found: 157, Reports grabbed: 0
+2025-11-12 03:39:58.0|Info|RssSyncService|Starting RSS Sync
+2025-11-12 03:39:58.3|Info|DownloadDecisionMaker|Processing 156 releases
+2025-11-12 03:39:58.5|Info|RssSyncService|RSS Sync Completed. Reports found: 156, Reports grabbed: 0
+2025-11-12 03:55:28.1|Info|RssSyncService|Starting RSS Sync
+2025-11-12 03:55:28.5|Info|DownloadDecisionMaker|Processing 159 releases
+2025-11-12 03:55:28.7|Info|RssSyncService|RSS Sync Completed. Reports found: 159, Reports grabbed: 0
+2025-11-12 04:10:58.2|Info|RssSyncService|Starting RSS Sync
+2025-11-12 04:10:58.5|Info|DownloadDecisionMaker|Processing 155 releases
+2025-11-12 04:10:58.7|Info|RssSyncService|RSS Sync Completed. Reports found: 155, Reports grabbed: 0
+2025-11-12 04:26:28.3|Info|RssSyncService|Starting RSS Sync
+2025-11-12 04:26:28.6|Info|DownloadDecisionMaker|Processing 153 releases
+2025-11-12 04:26:28.8|Info|RssSyncService|RSS Sync Completed. Reports found: 153, Reports grabbed: 0
+2025-11-12 04:41:58.4|Info|RssSyncService|Starting RSS Sync
+2025-11-12 04:42:00.1|Info|DownloadDecisionMaker|Processing 153 releases
+2025-11-12 04:42:00.3|Info|RssSyncService|RSS Sync Completed. Reports found: 153, Reports grabbed: 0
+2025-11-12 04:57:28.5|Info|RssSyncService|Starting RSS Sync
+2025-11-12 04:57:30.3|Info|DownloadDecisionMaker|Processing 155 releases
+2025-11-12 04:57:30.6|Info|RssSyncService|RSS Sync Completed. Reports found: 155, Reports grabbed: 0
+2025-11-12 05:12:58.6|Info|RssSyncService|Starting RSS Sync
+2025-11-12 05:12:58.9|Info|DownloadDecisionMaker|Processing 159 releases
+2025-11-12 05:12:59.1|Info|RssSyncService|RSS Sync Completed. Reports found: 159, Reports grabbed: 0
+2025-11-12 05:28:28.7|Info|RssSyncService|Starting RSS Sync
+2025-11-12 05:28:30.9|Info|DownloadDecisionMaker|Processing 256 releases
+2025-11-12 05:28:31.3|Info|RssSyncService|RSS Sync Completed. Reports found: 256, Reports grabbed: 0
+2025-11-12 05:40:28.8|Info|SceneMappingService|Updating Scene mappings
+2025-11-12 05:43:58.8|Info|RssSyncService|Starting RSS Sync
+2025-11-12 05:43:59.1|Info|DownloadDecisionMaker|Processing 160 releases
+2025-11-12 05:43:59.5|Info|RssSyncService|RSS Sync Completed. Reports found: 160, Reports grabbed: 0
+2025-11-12 05:59:28.9|Info|RssSyncService|Starting RSS Sync
+2025-11-12 05:59:30.8|Info|DownloadDecisionMaker|Processing 162 releases
+2025-11-12 05:59:31.0|Info|RssSyncService|RSS Sync Completed. Reports found: 162, Reports grabbed: 0
+2025-11-12 06:14:59.0|Info|RssSyncService|Starting RSS Sync
+2025-11-12 06:14:59.3|Info|DownloadDecisionMaker|Processing 158 releases
+2025-11-12 06:14:59.5|Info|RssSyncService|RSS Sync Completed. Reports found: 158, Reports grabbed: 0
+2025-11-12 06:30:29.1|Info|RssSyncService|Starting RSS Sync
+2025-11-12 06:30:29.4|Info|DownloadDecisionMaker|Processing 157 releases
+2025-11-12 06:30:29.6|Info|RssSyncService|RSS Sync Completed. Reports found: 157, Reports grabbed: 0
+2025-11-12 06:45:59.2|Info|RssSyncService|Starting RSS Sync
+2025-11-12 06:45:59.5|Info|DownloadDecisionMaker|Processing 180 releases
+2025-11-12 06:45:59.7|Info|RssSyncService|RSS Sync Completed. Reports found: 180, Reports grabbed: 0
+2025-11-12 07:01:29.3|Info|RssSyncService|Starting RSS Sync
+2025-11-12 07:01:29.6|Info|DownloadDecisionMaker|Processing 182 releases
+2025-11-12 07:01:29.8|Info|RssSyncService|RSS Sync Completed. Reports found: 182, Reports grabbed: 0
+2025-11-12 07:16:59.4|Info|RssSyncService|Starting RSS Sync
+2025-11-12 07:16:59.8|Info|DownloadDecisionMaker|Processing 180 releases
+2025-11-12 07:17:00.1|Info|RssSyncService|RSS Sync Completed. Reports found: 180, Reports grabbed: 0
+2025-11-12 07:32:29.5|Info|RssSyncService|Starting RSS Sync
+2025-11-12 07:32:31.3|Info|DownloadDecisionMaker|Processing 181 releases
+2025-11-12 07:32:31.5|Info|RssSyncService|RSS Sync Completed. Reports found: 181, Reports grabbed: 0
+2025-11-12 07:47:59.6|Info|RssSyncService|Starting RSS Sync
+2025-11-12 07:48:00.1|Info|DownloadDecisionMaker|Processing 182 releases
+2025-11-12 07:48:00.3|Info|RssSyncService|RSS Sync Completed. Reports found: 182, Reports grabbed: 0
+2025-11-12 08:03:29.7|Info|RssSyncService|Starting RSS Sync
+2025-11-12 08:03:30.0|Info|DownloadDecisionMaker|Processing 180 releases
+2025-11-12 08:03:30.2|Info|RssSyncService|RSS Sync Completed. Reports found: 180, Reports grabbed: 0
+2025-11-12 08:18:59.8|Info|RssSyncService|Starting RSS Sync
+2025-11-12 08:19:00.3|Info|DownloadDecisionMaker|Processing 177 releases
+2025-11-12 08:19:00.5|Info|RssSyncService|RSS Sync Completed. Reports found: 177, Reports grabbed: 0
+2025-11-12 08:34:29.9|Info|RssSyncService|Starting RSS Sync
+2025-11-12 08:34:30.2|Info|DownloadDecisionMaker|Processing 176 releases
+2025-11-12 08:34:30.4|Info|RssSyncService|RSS Sync Completed. Reports found: 176, Reports grabbed: 0
+2025-11-12 08:40:29.9|Info|SceneMappingService|Updating Scene mappings
+2025-11-12 08:50:00.0|Info|RssSyncService|Starting RSS Sync
+2025-11-12 08:50:00.3|Info|DownloadDecisionMaker|Processing 166 releases
+2025-11-12 08:50:00.5|Info|RssSyncService|RSS Sync Completed. Reports found: 166, Reports grabbed: 0
+2025-11-12 09:05:30.1|Info|RssSyncService|Starting RSS Sync
+2025-11-12 09:05:31.8|Info|DownloadDecisionMaker|Processing 158 releases
+2025-11-12 09:05:32.0|Info|RssSyncService|RSS Sync Completed. Reports found: 158, Reports grabbed: 0
+2025-11-12 09:21:00.2|Info|RssSyncService|Starting RSS Sync
+2025-11-12 09:21:00.5|Info|DownloadDecisionMaker|Processing 188 releases
+2025-11-12 09:21:00.8|Info|RssSyncService|RSS Sync Completed. Reports found: 188, Reports grabbed: 0
+2025-11-12 09:36:30.3|Info|RssSyncService|Starting RSS Sync
+2025-11-12 09:36:30.6|Info|DownloadDecisionMaker|Processing 157 releases
+2025-11-12 09:36:30.8|Info|RssSyncService|RSS Sync Completed. Reports found: 157, Reports grabbed: 0
+2025-11-12 09:52:00.4|Info|RssSyncService|Starting RSS Sync
+2025-11-12 09:52:00.7|Info|DownloadDecisionMaker|Processing 158 releases
+2025-11-12 09:52:00.9|Info|RssSyncService|RSS Sync Completed. Reports found: 158, Reports grabbed: 0
+2025-11-12 10:07:30.5|Info|RssSyncService|Starting RSS Sync
+2025-11-12 10:07:30.9|Info|DownloadDecisionMaker|Processing 154 releases
+2025-11-12 10:07:31.1|Info|RssSyncService|RSS Sync Completed. Reports found: 154, Reports grabbed: 0
+2025-11-12 10:23:00.6|Info|RssSyncService|Starting RSS Sync
+2025-11-12 10:23:00.9|Info|DownloadDecisionMaker|Processing 157 releases
+2025-11-12 10:23:01.1|Info|RssSyncService|RSS Sync Completed. Reports found: 157, Reports grabbed: 0
+2025-11-12 10:38:30.7|Info|RssSyncService|Starting RSS Sync
+2025-11-12 10:38:31.0|Info|DownloadDecisionMaker|Processing 151 releases
+2025-11-12 10:38:31.2|Info|RssSyncService|RSS Sync Completed. Reports found: 151, Reports grabbed: 0
+2025-11-12 10:54:00.7|Info|RssSyncService|Starting RSS Sync
+2025-11-12 10:54:01.1|Info|DownloadDecisionMaker|Processing 153 releases
+2025-11-12 10:54:01.3|Info|RssSyncService|RSS Sync Completed. Reports found: 153, Reports grabbed: 0

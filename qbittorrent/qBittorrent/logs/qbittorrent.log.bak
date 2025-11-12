@@ -1,0 +1,562 @@
+(N) 2025-09-12T22:41:08 - qBittorrent v5.1.2 started. Process ID: 148
+(N) 2025-09-12T22:41:08 - Using config directory: /config/qBittorrent
+(N) 2025-09-12T22:41:08 - Trying to listen on the following list of IP addresses: "0.0.0.0:51820,[::]:51820"
+(I) 2025-09-12T22:41:08 - Peer ID: "-qB5120-"
+(I) 2025-09-12T22:41:08 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-09-12T22:41:08 - Distributed Hash Table (DHT) support: ON
+(I) 2025-09-12T22:41:08 - Local Peer Discovery support: ON
+(I) 2025-09-12T22:41:08 - Peer Exchange (PeX) support: ON
+(I) 2025-09-12T22:41:08 - Anonymous mode: OFF
+(I) 2025-09-12T22:41:08 - Encryption support: ON
+(I) 2025-09-12T22:41:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51820"
+(I) 2025-09-12T22:41:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/51820"
+(I) 2025-09-12T22:41:08 - Successfully listening on IP. IP: "172.39.0.2". Port: "TCP/51820"
+(I) 2025-09-12T22:41:08 - Successfully listening on IP. IP: "172.39.0.2". Port: "UTP/51820"
+(I) 2025-09-12T22:41:08 - Successfully listening on IP. IP: "10.14.0.2". Port: "TCP/51820"
+(I) 2025-09-12T22:41:08 - Successfully listening on IP. IP: "10.14.0.2". Port: "UTP/51820"
+(I) 2025-09-12T22:41:08 - Successfully listening on IP. IP: "::1". Port: "TCP/51820"
+(I) 2025-09-12T22:41:08 - Successfully listening on IP. IP: "::1". Port: "UTP/51820"
+(I) 2025-09-12T22:41:08 - Successfully listening on IP. IP: "fe80::9d4a:e602:3bfc:3e9a%tun0". Port: "TCP/51820"
+(I) 2025-09-12T22:41:08 - Successfully listening on IP. IP: "fe80::9d4a:e602:3bfc:3e9a%tun0". Port: "UTP/51820"
+(W) 2025-09-12T22:41:08 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2025-09-12T22:41:08 - Using built-in WebUI.
+(W) 2025-09-12T22:41:08 - Couldn't load WebUI translation for selected locale (C).
+(N) 2025-09-12T22:41:08 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-09-12T22:41:08 - Detected external IP. IP: "185.141.119.99"
+(I) 2025-09-12T22:41:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Aug 31 18:19:30 2025.
+(I) 2025-09-12T22:41:09 - Successfully updated IP geolocation database.
+(N) 2025-09-12T22:45:36 - WebAPI login success. IP: ::ffff:192.168.1.152
+(N) 2025-09-12T22:46:13 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-09-12T22:46:30 - qBittorrent termination initiated
+(N) 2025-09-12T22:46:30 - Saving resume data completed.
+(N) 2025-09-12T22:46:30 - BitTorrent session successfully finished.
+(N) 2025-09-12T22:46:30 - qBittorrent is now ready to exit
+(N) 2025-09-12T22:46:33 - qBittorrent v5.1.2 started. Process ID: 145
+(N) 2025-09-12T22:46:33 - Using config directory: /config/qBittorrent
+(N) 2025-09-12T22:46:33 - Trying to listen on the following list of IP addresses: "0.0.0.0:51820,[::]:51820"
+(I) 2025-09-12T22:46:33 - Peer ID: "-qB5120-"
+(I) 2025-09-12T22:46:33 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-09-12T22:46:33 - Distributed Hash Table (DHT) support: ON
+(I) 2025-09-12T22:46:33 - Local Peer Discovery support: ON
+(I) 2025-09-12T22:46:33 - Peer Exchange (PeX) support: ON
+(I) 2025-09-12T22:46:33 - Anonymous mode: OFF
+(I) 2025-09-12T22:46:33 - Encryption support: ON
+(I) 2025-09-12T22:46:33 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51820"
+(I) 2025-09-12T22:46:33 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/51820"
+(I) 2025-09-12T22:46:33 - Successfully listening on IP. IP: "172.39.0.2". Port: "TCP/51820"
+(I) 2025-09-12T22:46:33 - Successfully listening on IP. IP: "172.39.0.2". Port: "UTP/51820"
+(I) 2025-09-12T22:46:33 - Successfully listening on IP. IP: "10.14.0.2". Port: "TCP/51820"
+(I) 2025-09-12T22:46:33 - Successfully listening on IP. IP: "10.14.0.2". Port: "UTP/51820"
+(I) 2025-09-12T22:46:33 - Successfully listening on IP. IP: "::1". Port: "TCP/51820"
+(I) 2025-09-12T22:46:33 - Successfully listening on IP. IP: "::1". Port: "UTP/51820"
+(I) 2025-09-12T22:46:33 - Successfully listening on IP. IP: "fe80::9d4a:e602:3bfc:3e9a%tun0". Port: "TCP/51820"
+(I) 2025-09-12T22:46:33 - Successfully listening on IP. IP: "fe80::9d4a:e602:3bfc:3e9a%tun0". Port: "UTP/51820"
+(I) 2025-09-12T22:46:33 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Aug 31 18:19:30 2025.
+(N) 2025-09-12T22:46:33 - Using built-in WebUI.
+(N) 2025-09-12T22:46:33 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-09-12T22:46:33 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-09-12T22:46:33 - Detected external IP. IP: "185.141.119.99"
+(W) 2025-09-12T22:46:39 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:192.168.1.152, username: kylepitcock
+(N) 2025-09-12T22:46:42 - WebAPI login success. IP: ::ffff:192.168.1.152
+(N) 2025-09-12T22:47:05 - Trying to listen on the following list of IP addresses: "tun0:51820"
+(N) 2025-09-12T22:48:55 - Downloading torrent... Source: "https://releases.ubuntu.com/25.04/ubuntu-25.04-desktop-amd64.iso.torrent"
+(N) 2025-09-12T22:48:55 - Added new torrent. Torrent: "ubuntu-25.04-desktop-amd64.iso"
+(N) 2025-09-12T22:50:51 - Enqueued torrent move. Torrent: "ubuntu-25.04-desktop-amd64.iso". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-12T22:50:51 - Start moving torrent. Torrent: "ubuntu-25.04-desktop-amd64.iso". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-12T22:50:51 - Moved torrent successfully. Torrent: "ubuntu-25.04-desktop-amd64.iso". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-12T22:50:51 - Torrent download finished. Torrent: "ubuntu-25.04-desktop-amd64.iso"
+(N) 2025-09-12T22:52:22 - qBittorrent termination initiated
+(N) 2025-09-12T22:52:22 - Saving resume data completed.
+(N) 2025-09-12T22:52:24 - BitTorrent session successfully finished.
+(N) 2025-09-12T22:52:24 - qBittorrent is now ready to exit
+(N) 2025-09-12T22:52:39 - qBittorrent v5.1.2 started. Process ID: 145
+(N) 2025-09-12T22:52:39 - Using config directory: /config/qBittorrent
+(N) 2025-09-12T22:52:39 - Trying to listen on the following list of IP addresses: "tun0:51820"
+(I) 2025-09-12T22:52:39 - Peer ID: "-qB5120-"
+(I) 2025-09-12T22:52:39 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-09-12T22:52:39 - Distributed Hash Table (DHT) support: ON
+(I) 2025-09-12T22:52:39 - Local Peer Discovery support: ON
+(I) 2025-09-12T22:52:39 - Peer Exchange (PeX) support: ON
+(I) 2025-09-12T22:52:39 - Anonymous mode: OFF
+(I) 2025-09-12T22:52:39 - Encryption support: ON
+(I) 2025-09-12T22:52:39 - Successfully listening on IP. IP: "10.14.0.2". Port: "TCP/51820"
+(I) 2025-09-12T22:52:39 - Successfully listening on IP. IP: "10.14.0.2". Port: "UTP/51820"
+(N) 2025-09-12T22:52:39 - Restored torrent. Torrent: "ubuntu-25.04-desktop-amd64.iso"
+(I) 2025-09-12T22:52:39 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Aug 31 18:19:30 2025.
+(N) 2025-09-12T22:52:39 - Using built-in WebUI.
+(N) 2025-09-12T22:52:39 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-09-12T22:52:39 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-09-12T22:52:39 - Detected external IP. IP: "185.141.119.103"
+(W) 2025-09-12T22:52:48 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:192.168.1.152, username: kylepitcock
+(W) 2025-09-12T22:52:51 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:192.168.1.152, username: kylepitcock
+(N) 2025-09-12T22:52:54 - WebAPI login success. IP: ::ffff:192.168.1.152
+(N) 2025-09-12T23:11:30 - WebAPI login success. IP: ::ffff:172.39.0.2
+(N) 2025-09-12T23:34:23 - qBittorrent termination initiated
+(N) 2025-09-12T23:34:23 - Saving resume data completed.
+(N) 2025-09-12T23:34:24 - BitTorrent session successfully finished.
+(N) 2025-09-12T23:34:24 - qBittorrent is now ready to exit
+(N) 2025-09-12T23:34:39 - qBittorrent v5.1.2 started. Process ID: 146
+(N) 2025-09-12T23:34:39 - Using config directory: /config/qBittorrent
+(N) 2025-09-12T23:34:39 - Trying to listen on the following list of IP addresses: "tun0:51820"
+(I) 2025-09-12T23:34:39 - Peer ID: "-qB5120-"
+(I) 2025-09-12T23:34:39 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-09-12T23:34:39 - Distributed Hash Table (DHT) support: ON
+(I) 2025-09-12T23:34:39 - Local Peer Discovery support: ON
+(I) 2025-09-12T23:34:39 - Peer Exchange (PeX) support: ON
+(I) 2025-09-12T23:34:39 - Anonymous mode: OFF
+(I) 2025-09-12T23:34:39 - Encryption support: ON
+(I) 2025-09-12T23:34:39 - Successfully listening on IP. IP: "10.14.0.2". Port: "TCP/51820"
+(I) 2025-09-12T23:34:39 - Successfully listening on IP. IP: "10.14.0.2". Port: "UTP/51820"
+(N) 2025-09-12T23:34:39 - Restored torrent. Torrent: "ubuntu-25.04-desktop-amd64.iso"
+(I) 2025-09-12T23:34:39 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Aug 31 18:19:30 2025.
+(N) 2025-09-12T23:34:39 - Using built-in WebUI.
+(N) 2025-09-12T23:34:39 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-09-12T23:34:39 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-09-12T23:34:40 - Detected external IP. IP: "185.141.119.51"
+(N) 2025-09-12T23:41:20 - WebAPI login success. IP: ::ffff:192.168.1.152
+(N) 2025-09-12T23:44:31 - WebAPI login success. IP: ::ffff:172.39.0.1
+(N) 2025-09-12T23:44:58 - Added new torrent. Torrent: "Interstellar 2014 1080p BluRay REMUX AVC DTS-HD MA 5 1-RARBG"
+(N) 2025-09-12T23:45:38 - qBittorrent termination initiated
+(N) 2025-09-12T23:45:38 - Saving resume data completed.
+(N) 2025-09-12T23:45:40 - BitTorrent session successfully finished.
+(N) 2025-09-12T23:45:40 - qBittorrent is now ready to exit
+(N) 2025-09-12T23:48:49 - qBittorrent v5.1.2 started. Process ID: 145
+(N) 2025-09-12T23:48:49 - Using config directory: /config/qBittorrent
+(N) 2025-09-12T23:48:49 - Trying to listen on the following list of IP addresses: "tun0:51820"
+(I) 2025-09-12T23:48:49 - Peer ID: "-qB5120-"
+(I) 2025-09-12T23:48:49 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-09-12T23:48:49 - Distributed Hash Table (DHT) support: ON
+(I) 2025-09-12T23:48:49 - Local Peer Discovery support: ON
+(I) 2025-09-12T23:48:49 - Peer Exchange (PeX) support: ON
+(I) 2025-09-12T23:48:49 - Anonymous mode: OFF
+(I) 2025-09-12T23:48:49 - Encryption support: ON
+(I) 2025-09-12T23:48:49 - Successfully listening on IP. IP: "10.14.0.2". Port: "TCP/51820"
+(I) 2025-09-12T23:48:49 - Successfully listening on IP. IP: "10.14.0.2". Port: "UTP/51820"
+(N) 2025-09-12T23:48:49 - Restored torrent. Torrent: "Interstellar 2014 1080p BluRay REMUX AVC DTS-HD MA 5 1-RARBG"
+(N) 2025-09-12T23:48:49 - Restored torrent. Torrent: "ubuntu-25.04-desktop-amd64.iso"
+(I) 2025-09-12T23:48:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Aug 31 18:19:30 2025.
+(N) 2025-09-12T23:48:49 - Using built-in WebUI.
+(N) 2025-09-12T23:48:49 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-09-12T23:48:49 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-09-12T23:48:49 - Detected external IP. IP: "185.141.119.51"
+(N) 2025-09-12T23:49:06 - WebAPI login success. IP: ::ffff:172.39.0.1
+(W) 2025-09-12T23:49:15 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:192.168.1.152, username: admin
+(N) 2025-09-12T23:49:26 - WebAPI login success. IP: ::ffff:192.168.1.152
+(N) 2025-09-12T23:52:10 - Torrent removed. Torrent: "Interstellar 2014 1080p BluRay REMUX AVC DTS-HD MA 5 1-RARBG"
+(N) 2025-09-12T23:52:10 - Torrent content removed. Torrent: "Interstellar 2014 1080p BluRay REMUX AVC DTS-HD MA 5 1-RARBG"
+(N) 2025-09-12T23:52:32 - Added new torrent. Torrent: "5c3a1adaa1d91a4fe7564910ca358df9206d44cd"
+(N) 2025-09-12T23:52:51 - Torrent removed. Torrent: "5c3a1adaa1d91a4fe7564910ca358df9206d44cd"
+(N) 2025-09-12T23:54:57 - WebAPI login success. IP: ::ffff:172.39.0.1
+(N) 2025-09-12T23:55:11 - Torrent stopped. Torrent: "ubuntu-25.04-desktop-amd64.iso"
+(N) 2025-09-12T23:56:15 - Added new torrent. Torrent: "The Social Network (2010) 1080p BrRip x264 - 1.2GB - YIFY"
+(N) 2025-09-12T23:58:07 - Enqueued torrent move. Torrent: "The Social Network (2010) 1080p BrRip x264 - 1.2GB - YIFY". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-12T23:58:07 - Start moving torrent. Torrent: "The Social Network (2010) 1080p BrRip x264 - 1.2GB - YIFY". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-12T23:58:07 - Moved torrent successfully. Torrent: "The Social Network (2010) 1080p BrRip x264 - 1.2GB - YIFY". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-12T23:58:07 - Torrent download finished. Torrent: "The Social Network (2010) 1080p BrRip x264 - 1.2GB - YIFY"
+(N) 2025-09-12T23:59:06 - Torrent resumed. Torrent: "ubuntu-25.04-desktop-amd64.iso"
+(N) 2025-09-13T00:08:47 - Added new torrent. Torrent: "Interstellar 2014 1080p BluRay REMUX AVC DTS-HD MA 5 1-RARBG"
+(N) 2025-09-13T00:09:01 - Torrent removed. Torrent: "Interstellar 2014 1080p BluRay REMUX AVC DTS-HD MA 5 1-RARBG"
+(N) 2025-09-13T00:10:41 - Added new torrent. Torrent: "Interstellar.2014.PROPER.IMAX.1080p.UHD.BluRay.x265.HDR.DV.DD+5.1.Dual.YG⭐"
+(N) 2025-09-13T00:13:35 - Torrent removed. Torrent: "The Social Network (2010) 1080p BrRip x264 - 1.2GB - YIFY"
+(N) 2025-09-13T00:13:41 - Torrent removed. Torrent: "ubuntu-25.04-desktop-amd64.iso"
+(N) 2025-09-13T00:18:16 - WebAPI login success. IP: ::ffff:192.168.1.152
+(N) 2025-09-13T00:21:24 - WebAPI login success. IP: ::ffff:172.39.0.1
+(N) 2025-09-13T00:37:04 - Added new torrent. Torrent: "Weapons 2025 REPACK 1080p WEB-DL HEVC x265-RMTeam"
+(N) 2025-09-13T00:37:35 - Torrent removed. Torrent: "Interstellar.2014.PROPER.IMAX.1080p.UHD.BluRay.x265.HDR.DV.DD+5.1.Dual.YG⭐"
+(N) 2025-09-13T00:41:04 - Torrent removed. Torrent: "Weapons 2025 REPACK 1080p WEB-DL HEVC x265-RMTeam"
+(N) 2025-09-13T00:43:20 - Added new torrent. Torrent: "[bitsearch.to] War.of.the.Worlds.2025.1080p.WEB.H264-AccomplishedYak"
+(N) 2025-09-13T00:47:02 - Torrent removed. Torrent: "[bitsearch.to] War.of.the.Worlds.2025.1080p.WEB.H264-AccomplishedYak"
+(N) 2025-09-13T00:47:30 - Added new torrent. Torrent: "The Amateur (2025) [1080p] [BluRay] [5.1]"
+(N) 2025-09-13T00:47:33 - Added new torrent. Torrent: "Amsterdam (2022) (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]"
+(N) 2025-09-13T00:47:35 - Added new torrent. Torrent: "28.Years.Later.2025.Proper.1080p.WEB-DL.DDP5.1.x265-NeoNoir"
+(N) 2025-09-13T00:47:37 - Added new torrent. Torrent: "Anora.2024.iTA-ENG.PROPER.Bluray.1080p.x264-CYBER.mkv"
+(N) 2025-09-13T00:47:40 - Added new torrent. Torrent: "All About Eve 1950 1080p BluRay H264 AAC-[TGx]"
+(N) 2025-09-13T00:47:43 - Added new torrent. Torrent: "12 Angry Men 1957 1080p BluRay x264 AAC -Ozlem"
+(N) 2025-09-13T00:47:45 - Added new torrent. Torrent: "The.Apartment.1960.REMASTERED.1080p.BluRay.x265-"
+(N) 2025-09-13T00:47:49 - Added new torrent. Torrent: "2001 A Space Odyssey (1968) [BluRay] [1080p] [YTS AM]"
+(N) 2025-09-13T00:47:51 - Added new torrent. Torrent: "Alien (1979) - 1080p - BD AV1 Opus MULTi4 [V2] [dAV1nci]"
+(N) 2025-09-13T00:47:53 - Added new torrent. Torrent: "Apocalypse Now 1979 REPACK Theatrical Cut BluRay 1080p DD 5 1 x264-BHDStudi"
+(N) 2025-09-13T00:47:57 - Added new torrent. Torrent: "Amadeus.1984.DC.INTERNAL.REPACK.1080p.BluRay.x264-CLASSiC"
+(N) 2025-09-13T00:47:59 - Added new torrent. Torrent: "Aliens 1986 Special Cut Remastered 1080p BluRay HEVC x265 5.1 BONE"
+(N) 2025-09-13T00:48:01 - Added new torrent. Torrent: "American.History.X.1998.PROPER.1080p.BluRay.x264-SADPANDA"
+(N) 2025-09-13T00:48:23 - Added new torrent. Torrent: "American Beauty [1999, BDRip 1080p] MVO + VO + Sub Rus, Eng + Original Eng"
+(N) 2025-09-13T00:48:27 - Added new torrent. Torrent: "Le Fabuleux Destin d'Amelie Poulain _ Amelie of Montmartre [2001, BDRip 1080p] Dub + AVO + Original Fra + Sub Rus, Eng, Fra"
+(N) 2025-09-13T00:48:29 - Added new torrent. Torrent: "3 Idiots (2009), [BDrip 1080p - H264 - Hin Aac - Sub Ita Eng] TN"
+(N) 2025-09-13T00:48:32 - Added new torrent. Torrent: "12 Years a Slave [2013, BDRip 1080p] Dub + AVO + Original Eng + Sub (Rus, Eng)"
+(N) 2025-09-13T00:48:36 - Added new torrent. Torrent: "1917 [2019, BDRip 1080p] Dub + AVO + 2x VO + Original (Eng) + Commentary + Sub (Rus, Eng)"
+(N) 2025-09-13T00:48:51 - WebAPI login success. IP: ::ffff:192.168.1.152
+(N) 2025-09-13T00:48:58 - Torrent removed. Torrent: "The Amateur (2025) [1080p] [BluRay] [5.1]"
+(W) 2025-09-13T01:00:39 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:192.168.1.208, username: kylepitcock
+(N) 2025-09-13T01:00:43 - WebAPI login success. IP: ::ffff:192.168.1.208
+(N) 2025-09-13T01:05:30 - qBittorrent termination initiated
+(N) 2025-09-13T01:05:31 - Saving resume data completed.
+(N) 2025-09-13T01:05:31 - BitTorrent session successfully finished.
+(N) 2025-09-13T01:05:31 - qBittorrent is now ready to exit
+(N) 2025-09-13T01:09:32 - qBittorrent v5.1.2 started. Process ID: 145
+(N) 2025-09-13T01:09:32 - Using config directory: /config/qBittorrent
+(N) 2025-09-13T01:09:32 - Trying to listen on the following list of IP addresses: "tun0:51820"
+(I) 2025-09-13T01:09:32 - Peer ID: "-qB5120-"
+(I) 2025-09-13T01:09:32 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-09-13T01:09:32 - Distributed Hash Table (DHT) support: ON
+(I) 2025-09-13T01:09:32 - Local Peer Discovery support: ON
+(I) 2025-09-13T01:09:32 - Peer Exchange (PeX) support: ON
+(I) 2025-09-13T01:09:32 - Anonymous mode: OFF
+(I) 2025-09-13T01:09:32 - Encryption support: ON
+(I) 2025-09-13T01:09:32 - Successfully listening on IP. IP: "10.14.0.2". Port: "TCP/51820"
+(I) 2025-09-13T01:09:32 - Successfully listening on IP. IP: "10.14.0.2". Port: "UTP/51820"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "Amsterdam (2022) (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "28.Years.Later.2025.Proper.1080p.WEB-DL.DDP5.1.x265-NeoNoir"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "Anora.2024.iTA-ENG.PROPER.Bluray.1080p.x264-CYBER.mkv"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "All About Eve 1950 1080p BluRay H264 AAC-[TGx]"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "12 Angry Men 1957 1080p BluRay x264 AAC -Ozlem"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "The.Apartment.1960.REMASTERED.1080p.BluRay.x265-"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "2001 A Space Odyssey (1968) [BluRay] [1080p] [YTS AM]"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "Alien (1979) - 1080p - BD AV1 Opus MULTi4 [V2] [dAV1nci]"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "Apocalypse Now 1979 REPACK Theatrical Cut BluRay 1080p DD 5 1 x264-BHDStudi"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "Amadeus.1984.DC.INTERNAL.REPACK.1080p.BluRay.x264-CLASSiC"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "American.History.X.1998.PROPER.1080p.BluRay.x264-SADPANDA"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "American Beauty [1999, BDRip 1080p] MVO + VO + Sub Rus, Eng + Original Eng"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "Le Fabuleux Destin d'Amelie Poulain _ Amelie of Montmartre [2001, BDRip 1080p] Dub + AVO + Original Fra + Sub Rus, Eng, Fra"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "3 Idiots (2009), [BDrip 1080p - H264 - Hin Aac - Sub Ita Eng] TN"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "12 Years a Slave [2013, BDRip 1080p] Dub + AVO + Original Eng + Sub (Rus, Eng)"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "1917 [2019, BDRip 1080p] Dub + AVO + 2x VO + Original (Eng) + Commentary + Sub (Rus, Eng)"
+(N) 2025-09-13T01:09:32 - Restored torrent. Torrent: "Aliens 1986 Special Cut Remastered 1080p BluRay HEVC x265 5.1 BONE"
+(I) 2025-09-13T01:09:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Aug 31 18:19:30 2025.
+(N) 2025-09-13T01:09:32 - Using built-in WebUI.
+(N) 2025-09-13T01:09:32 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-09-13T01:09:32 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-09-13T01:09:33 - Detected external IP. IP: "185.141.119.107"
+(N) 2025-09-13T01:09:58 - WebAPI login success. IP: ::ffff:172.39.0.1
+(N) 2025-09-13T01:09:59 - WebAPI login success. IP: ::ffff:172.39.0.1
+(N) 2025-09-13T01:10:07 - WebAPI login success. IP: ::ffff:192.168.1.208
+(N) 2025-09-13T01:12:19 - Enqueued torrent move. Torrent: "28.Years.Later.2025.Proper.1080p.WEB-DL.DDP5.1.x265-NeoNoir". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:12:19 - Start moving torrent. Torrent: "28.Years.Later.2025.Proper.1080p.WEB-DL.DDP5.1.x265-NeoNoir". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:12:19 - Moved torrent successfully. Torrent: "28.Years.Later.2025.Proper.1080p.WEB-DL.DDP5.1.x265-NeoNoir". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:12:19 - Torrent download finished. Torrent: "28.Years.Later.2025.Proper.1080p.WEB-DL.DDP5.1.x265-NeoNoir"
+(N) 2025-09-13T01:12:51 - Added new torrent. Torrent: "The Godfather (1972) RM4K REPACK (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2025-09-13T01:12:54 - Added new torrent. Torrent: "Jaws (1975) 1080p BrRip x264 - YIFY"
+(N) 2025-09-13T01:12:57 - Added new torrent. Torrent: "Good Will Hunting (1997) 1080p BrRip x264 - YIFY"
+(N) 2025-09-13T01:13:00 - Added new torrent. Torrent: "The Lord of the Rings The Fellowship of the Ring 2001 EXTENDED 1080p BluRay 10bit HEVC 6CH MkvCage ws"
+(N) 2025-09-13T01:13:06 - Added new torrent. Torrent: "Inglourious Basterds [2009, BDRip 1080p] Dub + MVO + 4x AVO + Sub Rus, Eng + Original Eng"
+(N) 2025-09-13T01:13:09 - Added new torrent. Torrent: "The Dark Knight (2008) 1080p BluRay x264 - 1.7GB -YIFY"
+(N) 2025-09-13T01:13:12 - Added new torrent. Torrent: "The.Fantastic.Four.First.Steps.2025.1080p.WEB-DL.H.264.Dual.YG⭐"
+(N) 2025-09-13T01:13:17 - Added new torrent. Torrent: "Lilo.and.Stitch.2025.1080p.BluRay.x264-ZoroSenpai EniaHD"
+(N) 2025-09-13T01:13:20 - Added new torrent. Torrent: "The Life of Chuck (2025) (1080p AMZN WEB-DL x265 10bit EAC3 5.1 G..."
+(N) 2025-09-13T01:13:27 - Added new torrent. Torrent: "Inception (2010) 1080p BrRip x264 - 1.85GB -YIFY"
+(N) 2025-09-13T01:13:29 - Added new torrent. Torrent: "KPop Demon Hunters (2025) [1080p] [WEBRip] [5.1] [YTS.MX]"
+(N) 2025-09-13T01:13:32 - Added new torrent. Torrent: "The Conjuring (2013) REPACK (1080p BluRay x265 HEVC 10bit AAC 5."
+(N) 2025-09-13T01:13:34 - Added new torrent. Torrent: "Caught Stealing 2025 1080p HD x264Caught Stealing 2025 1080p HD x264"
+(N) 2025-09-13T01:13:43 - Added new torrent. Torrent: "Oppenheimer 2023 REPACK 1080p BluRay DD 5 1 x264-PTer"
+(N) 2025-09-13T01:13:45 - Added new torrent. Torrent: "Eenie Meanie 2025 1080p WEB-DL HEVC x265 5 1 BONE"
+(N) 2025-09-13T01:13:49 - Added new torrent. Torrent: "F1 The Movie (2025) REPACK 1080p WEBRip 5 1-LAMA"
+(N) 2025-09-13T01:13:51 - Added new torrent. Torrent: "The Home 2025 1080p WEB-DL HEVC x265 5.1 BONE"
+(N) 2025-09-13T01:13:54 - Enqueued torrent move. Torrent: "All About Eve 1950 1080p BluRay H264 AAC-[TGx]". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:13:54 - Start moving torrent. Torrent: "All About Eve 1950 1080p BluRay H264 AAC-[TGx]". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:13:54 - Moved torrent successfully. Torrent: "All About Eve 1950 1080p BluRay H264 AAC-[TGx]". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:13:54 - Torrent download finished. Torrent: "All About Eve 1950 1080p BluRay H264 AAC-[TGx]"
+(N) 2025-09-13T01:13:56 - Added new torrent. Torrent: "The Hunger Games - Mockingjay - Part 1 (2014) (1080p BluRay x265"
+(N) 2025-09-13T01:13:59 - Added new torrent. Torrent: "The Conjuring Last Rites 2025 V2 1080p TELESYNC x264-SyncUP"
+(N) 2025-09-13T01:14:01 - Added new torrent. Torrent: "Eden.2025.1080p.BluRay.x264-FHC CREW.mkv"
+(N) 2025-09-13T01:14:06 - Added new torrent. Torrent: "How to Train Your Dragon (2025) [1080p] [BluRay] [5.1]"
+(N) 2025-09-13T01:14:12 - Added new torrent. Torrent: "[bitsearch.to] Ice.Road.Vengeance.2025.1080p.BluRay.DD.5.1.x264-MegaPeer.mkv"
+(N) 2025-09-13T01:14:18 - Enqueued torrent move. Torrent: "Alien (1979) - 1080p - BD AV1 Opus MULTi4 [V2] [dAV1nci]". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:14:18 - Start moving torrent. Torrent: "Alien (1979) - 1080p - BD AV1 Opus MULTi4 [V2] [dAV1nci]". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:14:18 - Moved torrent successfully. Torrent: "Alien (1979) - 1080p - BD AV1 Opus MULTi4 [V2] [dAV1nci]". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:14:18 - Torrent download finished. Torrent: "Alien (1979) - 1080p - BD AV1 Opus MULTi4 [V2] [dAV1nci]"
+(N) 2025-09-13T01:14:19 - Added new torrent. Torrent: "The.Monkey.2025.1080p.BluRay.x264-Replica"
+(N) 2025-09-13T01:14:22 - Added new torrent. Torrent: "Heretic.2024.iTA-ENG.PROPER.Bluray.1080p.x264-CYBER.mkv"
+(N) 2025-09-13T01:14:25 - Added new torrent. Torrent: "Nobody 2 2025 1080p WEB-DL HEVC x265 5.1 BONE"
+(N) 2025-09-13T01:14:30 - Added new torrent. Torrent: "The Bad Guys 2 (2025) [1080p] [WEBRip] [5.1]"
+(N) 2025-09-13T01:14:32 - Added new torrent. Torrent: "One Battle After Another [2025, WEBRip]"
+(N) 2025-09-13T01:14:34 - Enqueued torrent move. Torrent: "12 Angry Men 1957 1080p BluRay x264 AAC -Ozlem". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:14:34 - Start moving torrent. Torrent: "12 Angry Men 1957 1080p BluRay x264 AAC -Ozlem". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:14:34 - Moved torrent successfully. Torrent: "12 Angry Men 1957 1080p BluRay x264 AAC -Ozlem". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:14:34 - Torrent download finished. Torrent: "12 Angry Men 1957 1080p BluRay x264 AAC -Ozlem"
+(N) 2025-09-13T01:14:34 - Added new torrent. Torrent: "Materialists.2025.1080p.BluRay.x264-ZoroSenpai EniaHD"
+(N) 2025-09-13T01:14:40 - Added new torrent. Torrent: "[bitsearch.to] Friendship (2025) (1080p BluRay x265 10bit EAC3 5.1 r00t)"
+(N) 2025-09-13T01:14:43 - Added new torrent. Torrent: "Honey Dont 2025 1080p WEB h264-ETHEL"
+(N) 2025-09-13T01:14:48 - Added new torrent. Torrent: "The Conjuring 2 (2016) (1080p BluRay x265 HEVC 10bit AAC 7.1 Tig"
+(N) 2025-09-13T01:14:54 - Added new torrent. Torrent: "33886f5c511dc4af0a143f9112ee2495233d7d21"
+(N) 2025-09-13T01:14:59 - Added new torrent. Torrent: "[bitsearch.to] Jurassic World - Rebirth (2025) (1080p BluRay x265 10bit EAC3 7.1 Silence)"
+(N) 2025-09-13T01:15:03 - Added new torrent. Torrent: "Eddington 2025 1080p WEB-DL HEVC x265 5.1 BONE"
+(N) 2025-09-13T01:15:08 - Added new torrent. Torrent: "b87e555c47f6c7543ba462fec806a60ecaa86b9c"
+(N) 2025-09-13T01:15:13 - Added new torrent. Torrent: "Dracula A Love Tale (2025) English [ORG 5.1] 1080p BluRay x264.mkv"
+(N) 2025-09-13T01:15:16 - Added new torrent. Torrent: "334f3a4ac9c06b0585adabe60b3a38c6f7b762d1"
+(N) 2025-09-13T01:15:29 - Enqueued torrent move. Torrent: "2001 A Space Odyssey (1968) [BluRay] [1080p] [YTS AM]". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:15:29 - Start moving torrent. Torrent: "2001 A Space Odyssey (1968) [BluRay] [1080p] [YTS AM]". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:15:29 - Moved torrent successfully. Torrent: "2001 A Space Odyssey (1968) [BluRay] [1080p] [YTS AM]". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:15:29 - Torrent download finished. Torrent: "2001 A Space Odyssey (1968) [BluRay] [1080p] [YTS AM]"
+(N) 2025-09-13T01:15:52 - Enqueued torrent move. Torrent: "The.Apartment.1960.REMASTERED.1080p.BluRay.x265-". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:15:52 - Start moving torrent. Torrent: "The.Apartment.1960.REMASTERED.1080p.BluRay.x265-". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:15:52 - Moved torrent successfully. Torrent: "The.Apartment.1960.REMASTERED.1080p.BluRay.x265-". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:15:52 - Torrent download finished. Torrent: "The.Apartment.1960.REMASTERED.1080p.BluRay.x265-"
+(N) 2025-09-13T01:16:20 - Added new torrent. Torrent: "Downton Abbey The Grand Finale 2025 1080p CAM x264-RGB"
+(N) 2025-09-13T01:17:21 - Added new torrent. Torrent: "[bitsearch.to] Freakier Friday (2025) En 1080p X265 HEVC 10 bit.mkv"
+(N) 2025-09-13T01:17:25 - Added new torrent. Torrent: "Bring Her Back (2025) [1080p] [BluRay] [5.1]"
+(N) 2025-09-13T01:17:31 - Added new torrent. Torrent: "Fall.For.Me.2025.WebRip.720p.x264.[Hindi.Tamil.Telugu.English].AA..."
+(N) 2025-09-13T01:17:34 - Added new torrent. Torrent: "Demon.Slayer.Kimetsu.No.Yaiba,Infinity.Castle.2025.1080p.HDTS.x265.10Bit.HEVC.(Jap DD 2.0-Eng Subs).VITOENCODES"
+(N) 2025-09-13T01:17:41 - Added new torrent. Torrent: "The Map That Leads to You (2025) [1080p] [WEBRip] [5.1]"
+(N) 2025-09-13T01:17:48 - Added new torrent. Torrent: "The Naked Gun 2025 1080p WEB-DL HEVC x265 5 1 BONE"
+(N) 2025-09-13T01:17:57 - Added new torrent. Torrent: "4e08657629167da3d81a551e8c33751c651e8432"
+(N) 2025-09-13T01:18:01 - Added new torrent. Torrent: "Nosferatu 2024 PROPER 1080p BluRay x265-YAWNTiC"
+(N) 2025-09-13T01:18:09 - Added new torrent. Torrent: "19ca291a8f2f72184ef746786c9f60172ca56c72"
+(N) 2025-09-13T01:18:14 - Added new torrent. Torrent: "e67f2f7f528cdbc4f6c860297bc85da8b94735d5"
+(N) 2025-09-13T01:18:18 - Added new torrent. Torrent: "aa73768073c90bc6276e615f79420a48799ca15c"
+(N) 2025-09-13T01:18:23 - Added new torrent. Torrent: "Nobody 2021 REPACK 1080p BluRay DD  7 1 X265-Ralphy"
+(N) 2025-09-13T01:19:01 - Added new torrent. Torrent: "The Brutalist 2024 PROPER 1080p BluRay x265-YAWNTiC"
+(N) 2025-09-13T01:21:02 - Added new torrent. Torrent: "Mission Impossible The Final Reckoning 2025 IMAX 1080p WEB-DL HEVC x265-RMTeam"
+(N) 2025-09-13T01:21:12 - Added new torrent. Torrent: "Final Destination: Bloodlines (2025) [1080p] [BluRay] [5.1]"
+(N) 2025-09-13T01:21:15 - Added new torrent. Torrent: "5d640678eae57c72c0d096904fd7d7405ece6653"
+(N) 2025-09-13T01:21:19 - Added new torrent. Torrent: "916e253fb258694f4d40e02e792a6e9fb6eb5feb"
+(N) 2025-09-13T01:21:23 - Added new torrent. Torrent: "633e669df3350bca986077d3d1fc154bf8ed0818"
+(N) 2025-09-13T01:21:27 - Added new torrent. Torrent: "67f9fbc24d601ee4714c1fea21b2e53d9961d8e0"
+(N) 2025-09-13T01:21:31 - Added new torrent. Torrent: "La passion de Jeanne d'Arc _ The Passion of Joan of Arc [1928, BDRip 720p] [Criterion] [24fps] Fra + Sub Rus (7ime 7raveller), Eng"
+(N) 2025-09-13T01:21:34 - Added new torrent. Torrent: "City.Lights.1931.PROPER.1080p.BluRay.x264-PHOBOS"
+(N) 2025-09-13T01:21:40 - Added new torrent. Torrent: "M.1931.ENG-DUB.720p.x264.1500kbps.OKQ"
+(N) 2025-09-13T01:21:44 - Added new torrent. Torrent: "4914f86863261e92a13e8997ac6a97bdc1c797af"
+(N) 2025-09-13T01:21:48 - Added new torrent. Torrent: "Gone with the Wind (1939) [1080p] [BluRay] [5.1] [YTS] [YIFY]"
+(N) 2025-09-13T01:21:50 - Added new torrent. Torrent: "ff99dec664dd117880aa87fd8be945ea2e3df34a"
+(N) 2025-09-13T01:21:54 - Added new torrent. Torrent: "4c7275455ea5b60a9c5362af2a1e5fbf529c9d81"
+(N) 2025-09-13T01:21:58 - Added new torrent. Torrent: "The Great Dictator 1940 1080p Criterion Bluray Rerip Flac 1 0 x264-RetroPeeps"
+(N) 2025-09-13T01:22:03 - Added new torrent. Torrent: "Citizen Kane [1941, BDRip 1080p] 4x MVO + AVO + Sub Rus, Eng + Original Eng"
+(N) 2025-09-13T01:22:52 - Enqueued torrent move. Torrent: "Apocalypse Now 1979 REPACK Theatrical Cut BluRay 1080p DD 5 1 x264-BHDStudi". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:22:52 - Start moving torrent. Torrent: "Apocalypse Now 1979 REPACK Theatrical Cut BluRay 1080p DD 5 1 x264-BHDStudi". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:22:52 - Moved torrent successfully. Torrent: "Apocalypse Now 1979 REPACK Theatrical Cut BluRay 1080p DD 5 1 x264-BHDStudi". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:22:52 - Torrent download finished. Torrent: "Apocalypse Now 1979 REPACK Theatrical Cut BluRay 1080p DD 5 1 x264-BHDStudi"
+(N) 2025-09-13T01:22:55 - Added new torrent. Torrent: "Casablanca 1943 1080p AMZN WEB-DL DDP2 0 H 264-GPRS"
+(N) 2025-09-13T01:23:57 - Added new torrent. Torrent: "6b559efe047dba1c1e315d8ccf80ce38cc355024"
+(N) 2025-09-13T01:24:01 - Added new torrent. Torrent: "e075a5d8c8596f0b1613179c9d3124c16fb5e530"
+(N) 2025-09-13T01:24:05 - Added new torrent. Torrent: "4eb10d4865255755c2e5bc6b118d7ed33a83eb44"
+(N) 2025-09-13T01:24:10 - Added new torrent. Torrent: "Bicycle Thieves [1948] 1080p Ita + Eng subs"
+(N) 2025-09-13T01:24:15 - Added new torrent. Torrent: "Rashomon [1950, BDRip 1080p] Dub + 2x MVO + DVO + AVO + Original Jpn + Sub Rus, Eng"
+(N) 2025-09-13T01:24:19 - Added new torrent. Torrent: "Ikiru [1952, BDRip 720p] 3x MVO + Sub Rus, Eng + Original Jpn"
+(N) 2025-09-13T01:24:22 - Added new torrent. Torrent: "735029f0ce5b44186267e44b95d940853da09be4"
+(N) 2025-09-13T01:24:25 - Added new torrent. Torrent: "On the Waterfront (1954) (1080p BluRay x265 HEVC 10bit AAC 5.1 afm72) [QxR]"
+(N) 2025-09-13T01:24:31 - Added new torrent. Torrent: "Rear Window [1954, BDRip 1080p] DVO + Sub Rus + Original Eng"
+(N) 2025-09-13T01:24:39 - Added new torrent. Torrent: "7c73cf5180994f65568988b510cff25c5f5d78f2"
+(N) 2025-09-13T01:24:44 - Added new torrent. Torrent: "Paths of Glory (1957) MOC 1080p UHD BluRay x265 HEVC FLAC-SARTRE"
+(N) 2025-09-13T01:24:50 - Added new torrent. Torrent: "5746abaf36d01eb95e6fb2549c74de8f5a5494c3"
+(N) 2025-09-13T01:24:54 - Added new torrent. Torrent: "North By Northwest (1959) (1080p BluRay x265 10bit AAC 5 1 afm72)"
+(N) 2025-09-13T01:24:55 - Added new torrent. Torrent: "Peacemaker 2022 S01 1080p BluRay x265"
+(N) 2025-09-13T01:25:00 - Added new torrent. Torrent: "Psycho (1960) Uncut Turdien + Extras (1080p BluRay x265 H"
+(N) 2025-09-13T01:25:07 - Added new torrent. Torrent: "Peacemaker 2022 S02E03 Another Rick Up My Sleeve 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune"
+(N) 2025-09-13T01:25:09 - Added new torrent. Torrent: "Peacemaker.S02E04.2025.1080p.HMAX.WEBRip.AAC5.1.10bits.x265-Rapta"
+(N) 2025-09-13T01:25:11 - Added new torrent. Torrent: "Peacemaker 2022 S02E02 1080p x265-ELiTE"
+(N) 2025-09-13T01:25:21 - Added new torrent. Torrent: "be2ad072acdb0089ca027177a4ecfd9c61ae56f7"
+(N) 2025-09-13T01:25:44 - Added new torrent. Torrent: "Harakiri (1962) (JAPANESE) ENG SUBS 1080p BluRay H264 AAC"
+(N) 2025-09-13T01:25:53 - Added new torrent. Torrent: "Lawrence of Arabia (1962) [1080p] [BluRay]"
+(N) 2025-09-13T01:26:00 - Added new torrent. Torrent: "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb [1964, BDRip 1080p] MVO + 4x AVO + Original Eng + Sub"
+(N) 2025-09-13T01:26:13 - Added new torrent. Torrent: "8ba73ca1d1ff09043b500569274181b206479bf5"
+(N) 2025-09-13T01:26:41 - Added new torrent. Torrent: "Tengoku to jigoku _ High and Low [1963, BDRip 720p] MVO + Original Jpn + Sub (Rus, Eng) + Comm"
+(N) 2025-09-13T01:27:41 - Added new torrent. Torrent: "La battaglia di Algeri _ The battle of Algiers [1966, BDRip 720p] AVO + Sub (Rus, Eng) + Original (Fra)"
+(N) 2025-09-13T01:27:50 - Torrent removed. Torrent: "Amadeus.1984.DC.INTERNAL.REPACK.1080p.BluRay.x264-CLASSiC"
+(N) 2025-09-13T01:28:43 - Added new torrent. Torrent: "For A Few Dollars More _ Per Qualche Dollaro In Piu [1965, , BDRip 1080p] MVO + 3x AVO + Sub Rus, Eng + Original"
+(N) 2025-09-13T01:28:51 - Added new torrent. Torrent: "The Good, The Bad and The Ugly _ Buono, il brutto, il cattivo, Il [1966, BDRip 1080p] [Extended Cut] MVO + DVO + 2x AVO + Ukr + Original Eng + Sub Rus, Eng"
+(N) 2025-09-13T01:28:59 - Added new torrent. Torrent: "C'era Una Volta il West _ Once Upon A Time In The West [1968, BDRip 1080p] 2 MVO + 3 AVO + VO + Sub Rus, Eng + Original Eng"
+(N) 2025-09-13T01:29:05 - Added new torrent. Torrent: "7525e0f1d221b559517a0bfb6373328c25ad8ecd"
+(N) 2025-09-13T01:29:12 - Added new torrent. Torrent: "The.Exorcist.1973.DC.PROPER.1080p.BluRay.H264.AAC -88"
+(N) 2025-09-13T01:29:20 - Added new torrent. Torrent: "Chinatown (1974) RM4K 1080p UHD BluRay x265 HEVC EAC3-SARTRE"
+(N) 2025-09-13T01:29:26 - Added new torrent. Torrent: "d58203313aa57f4ea2ae7a16c4b37731463fce65"
+(N) 2025-09-13T01:29:32 - Added new torrent. Torrent: "Monty Python and the Holy Grail (1975) (1080p BluRay x265 HEVC 1"
+(N) 2025-09-13T01:29:36 - Added new torrent. Torrent: "Barry.Lyndon.1975.Criterion.Edition.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR"
+(N) 2025-09-13T01:29:43 - Added new torrent. Torrent: "231c3590fa1d4e02863f49d26071d63b792f58bf"
+(N) 2025-09-13T01:30:44 - Added new torrent. Torrent: "Network.1976.1080p.BluRay.x264-CiNEFiLE"
+(N) 2025-09-13T01:30:51 - Added new torrent. Torrent: "e797662ce3541e75186c574a4cff9f05edef0c23"
+(N) 2025-09-13T01:30:55 - Added new torrent. Torrent: "The Elephant Man [1980, BDRip 1080p] MVO + AVO + Original Eng + Ukr + Sub (Rus, Eng)"
+(N) 2025-09-13T01:31:02 - Added new torrent. Torrent: "The Empire Strikes Back (1980) D+80 v2.3 1080p UHD BluRay x265 HEVC DTS-SARTRE"
+(N) 2025-09-13T01:31:06 - Added new torrent. Torrent: "511185d1d57d7a3eef6ff6ad3df364d341232750"
+(N) 2025-09-13T01:31:10 - Added new torrent. Torrent: "Das Boot (1981)(FHD)(Mastered)(Hevc)(1080p)(BluRay)(English-CZ-DE) PHDTeam"
+(N) 2025-09-13T01:31:16 - Added new torrent. Torrent: "c21f177cb6e670780fe257cbceb468566f172f7c"
+(N) 2025-09-13T01:31:23 - Added new torrent. Torrent: "Blade Runner (1982) The Final Cut + Extras (1080p BluRay x265 HEVC 10bit HDR AAC 7 1 afm72) REPACK"
+(N) 2025-09-13T01:31:31 - Added new torrent. Torrent: "[bitsearch.to] Once Upon a Time in America.1984.Multi.Repack.1080p.BDRip.x264.ac3-eMux.mkv"
+(N) 2025-09-13T01:31:37 - Added new torrent. Torrent: "Back to the Future 1985 REPACK2 1080p UHD BluRay FLAC 2 0 DV HDR10 x265-DON"
+(N) 2025-09-13T01:31:44 - Added new torrent. Torrent: "Ran (1985) (1080p.AC3 ITA-ENG-JPN) (By Ebleep).mkv"
+(N) 2025-09-13T01:31:49 - Added new torrent. Torrent: "Come and See [1985, BDRip 720p] [Criterion] Original Rus + Eng Sub"
+(N) 2025-09-13T01:31:56 - Added new torrent. Torrent: "Platoon (1986) 25th Anniv REPACK (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2025-09-13T01:32:03 - Added new torrent. Torrent: "3fd1ddf20cb7832adc83d9a32b54b23e4bd76cc7"
+(N) 2025-09-13T01:32:10 - Added new torrent. Torrent: "a9c0f8ceb1680717dff769d743efa997cd790906"
+(N) 2025-09-13T01:32:16 - Added new torrent. Torrent: "19cf78851efe8d3b2c9d6fed70a98a6ad911da4f"
+(N) 2025-09-13T01:32:23 - Added new torrent. Torrent: "Cinema Paradiso [1988, BDRip 1080p] Dub + Original Eng + Sub (Rus, Eng)"
+(N) 2025-09-13T01:32:29 - Added new torrent. Torrent: "My Neighbor Totoro (1988) (1080p BluRay x265 HEVC 10bit EAC3 2 0 Japanese + English Garshasp) [QxR]"
+(N) 2025-09-13T01:32:36 - Added new torrent. Torrent: "Dead Poets Society (1989) 1080p BrRip x264 - YIFY"
+(N) 2025-09-13T01:32:42 - Added new torrent. Torrent: "ed083202f09eb113e6dd35c7dde285ac6ff04ada"
+(N) 2025-09-13T01:32:50 - Added new torrent. Torrent: "Goodfellas [1990, BDRip 1080p] [25th Anniversary Edition] [4K Remaster] 2x Dub + MVO + 3x DVO + 6x AVO + 2x VO + 2x Ukr + Original (Eng) + Sub (Rus, Ukr, Eng)"
+(N) 2025-09-13T01:32:57 - Added new torrent. Torrent: "[bitsearch.to] In the Name of the Father 1993 BDRip ITA ENG 1080p x265 Paso77.mkv"
+(N) 2025-09-13T01:33:04 - Added new torrent. Torrent: "Jurassic Park 1993 RERIP 1080p BluRay x264-AMIABLE"
+(N) 2025-09-13T01:33:11 - Added new torrent. Torrent: "Forrest Gump (1994) 1080p BrRip x264 - 1 90GB - YIFY"
+(N) 2025-09-13T01:33:16 - Added new torrent. Torrent: "The Lion King [1994, BDRip 1080p] Dub + DVO + AVO"
+(N) 2025-09-13T01:33:30 - Added new torrent. Torrent: "1b098691a1ecbada5d878364c473627e30f36ab3"
+(N) 2025-09-13T01:33:38 - Added new torrent. Torrent: "Pulp Fiction (1994) 1080p BrRip x264 - 1.4GB -YIFY"
+(N) 2025-09-13T01:33:44 - Added new torrent. Torrent: "Before.Sunrise.1995.1080p.BluRay.x264-DEPTH [Criterion GoodFilms"
+(N) 2025-09-13T01:33:53 - Added new torrent. Torrent: "8fbcf587084f6fa58f45816998ea4872b5569eaa"
+(N) 2025-09-13T01:34:00 - Added new torrent. Torrent: "Casino.1995.REMASTERED.PROPER.1080p.BluRay.x265-RARBG [NikaNika]"
+(N) 2025-09-13T01:34:06 - Added new torrent. Torrent: "La Haine [1995, BDRip-AVC] {Criterion Collection} MVO + AVO + Original + Sub (Rus, Eng, Fra)"
+(N) 2025-09-13T01:34:13 - Added new torrent. Torrent: "Heat (1995) 1080p BrRip x264 - YIFY"
+(N) 2025-09-13T01:34:18 - Added new torrent. Torrent: "Fargo (1996) 1080p BrRip x264 - YIFY"
+(N) 2025-09-13T01:34:27 - Added new torrent. Torrent: "The.Big.Lebowski.1998.REMASTERED.PROPER.1080p.BluRay.x265-LAMA[TGx]"
+(N) 2025-09-13T01:34:33 - Added new torrent. Torrent: "f35cb565e4094250d16fc07bda0e2f59ce2de522"
+(N) 2025-09-13T01:34:38 - Added new torrent. Torrent: "Bacheha-Ye aseman _ The Children of Heaven [1997, BDRip 1080p 10bit] MVO + AVO + Original Per + Sub Eng"
+(N) 2025-09-13T01:34:40 - Added new torrent. Torrent: "L.A.Confidential.1997.1080p.BluRay.x264.MkvCage [LA] [GoodFilms]"
+(N) 2025-09-13T01:34:45 - Added new torrent. Torrent: "Princess Mononoke 1997 1080p BluRay ENG LATINO HINDI ITA JAP DDP5 1 H264-BTM"
+(N) 2025-09-13T01:34:51 - Added new torrent. Torrent: "The Green Mile (1999) 1080p BrRip x264 - 2.50GB -YIFY"
+(N) 2025-09-13T01:34:57 - Added new torrent. Torrent: "Lock, Stock and Two Smoking Barrels [1998, BDRip 1080p] MVO + AVO + Original (Eng) + Sub (Rus, Eng)"
+(N) 2025-09-13T01:35:00 - Added new torrent. Torrent: "ac8cbd9418b12917724f546894ea3c321ccebbff"
+(N) 2025-09-13T01:35:07 - Added new torrent. Torrent: "The.Matrix.1999.REMASTERED.RERIP.1080p.BluRay.x264.TrueHD.7.1.At"
+(N) 2025-09-13T01:35:14 - Added new torrent. Torrent: "Fight Club 1999 REPACK 1080p BluRay DD5 1 X265-Ralphy"
+(N) 2025-09-13T01:35:19 - WebAPI login success. IP: ::ffff:192.168.1.208
+(N) 2025-09-13T01:35:21 - Added new torrent. Torrent: "The Lord of the Rings The Return of the King 2003 EXTENDED PROPER 1080p BluRay H264 AAC-RARBG"
+(N) 2025-09-13T01:35:30 - Added new torrent. Torrent: "[bitsearch.to] The.Lord.of.the.Rings.The.Two.Towers.2002.EXTENDED.PROPER.1080p.BluRay.H264.AAC-LAMA[TGx]"
+(N) 2025-09-13T01:35:37 - Added new torrent. Torrent: "Gladiator 2000 Extended Cut UHD BluRay 1080p DDP 7 1 HDR x265 REPACK-DON"
+(N) 2025-09-13T01:35:44 - Added new torrent. Torrent: "Monsters.Inc.2001.PROPER.1080p.BluRay.H264.AAC-LAMA[TGx]"
+(N) 2025-09-13T01:36:46 - Added new torrent. Torrent: "Memento 2000 REPACK 1080p BluRay DD  5 1 X265-Ralphy"
+(N) 2025-09-13T01:36:56 - Added new torrent. Torrent: "The Pianist (2002) 1080p BrRip x264 -YIFY"
+(N) 2025-09-13T01:37:01 - Added new torrent. Torrent: "Catch Me If You Can [2002, BDRip 1080p] Dub + MVO + 2x AVO + Sub Rus, Eng + Original Eng"
+(N) 2025-09-13T01:37:08 - Added new torrent. Torrent: "Finding Nemo (2003) 1080p BrRip x264 - YIFY"
+(N) 2025-09-13T01:37:14 - Added new torrent. Torrent: "9e8a47e13fb97a3617519744471141fcc9c08a63"
+(N) 2025-09-13T01:37:20 - Added new torrent. Torrent: "A Beautiful Mind (2001) 1080p BrRip x264 - 1.05GB -YIFY"
+(N) 2025-09-13T01:37:27 - Added new torrent. Torrent: "Cidade de Deus _ City of God [2002, BDRip 1080p] MVO + VO + Sub Rus, Eng + Original Por"
+(N) 2025-09-13T01:37:34 - Added new torrent. Torrent: "a2840376cee0ba80731dd706cbdb8f29e2ecbfad"
+(N) 2025-09-13T01:37:40 - Added new torrent. Torrent: "Pirates of the Caribbean: The Curse of the Black Pearl (2003) 1080p BrRip x264 - YIFY"
+(N) 2025-09-13T01:37:46 - Added new torrent. Torrent: "Eternal Sunshine of the Spotless Mind (2004) 1080p BrRip x264 -"
+(N) 2025-09-13T01:37:49 - Added new torrent. Torrent: "La meglio gioventù (2003) - 1080p x265 HEVC - ITA (ENG SUBS) [B"
+(N) 2025-09-13T01:37:54 - Added new torrent. Torrent: "9bd9f880411d524c64988d4ca703218283c9b874"
+(N) 2025-09-13T01:38:01 - Added new torrent. Torrent: "Memories of Murder (2003) 1080p KOR-ITA sub ENG BluRay -Salinui"
+(N) 2025-09-13T01:38:10 - Added new torrent. Torrent: "Downfall 2004 Ita Spa Ger 5 1 1080p h265 10bit SubS ENG-Me7alh"
+(N) 2025-09-13T01:38:18 - Added new torrent. Torrent: "Oldeuboi _ Oldboy [2003, BDRip 1080p] [Alliance Films] Dub + DVO + MVO + 2x AVO + VO + Eng + Original Kor + Sub Rus, Eng"
+(N) 2025-09-13T01:38:27 - Added new torrent. Torrent: "Batman Begins (2005) 1080p BluRay x264 - 1 6GB - YIFY"
+(N) 2025-09-13T01:38:32 - Added new torrent. Torrent: "Before Sunset [2004, BDRip 1080p] [Criterion Collection] DVO + VO + Sub Rus, Eng + Original Eng"
+(N) 2025-09-13T01:38:38 - Added new torrent. Torrent: "Ratatouille 2007 REPACK 1080p BluRay DD+ 5.1 x265-edge2020"
+(N) 2025-09-13T01:38:45 - Added new torrent. Torrent: "0767a9cdf13b026cf3c8b37f4da301316060fec5"
+(N) 2025-09-13T01:38:51 - Added new torrent. Torrent: "The Lives of Others _ Das Leben der Anderen [2006, BDRip 1080p] Dub + MVO + 2x AVO + DVO (Ukr) + Sub Rus, Ukr, Eng + Original Deu"
+(N) 2025-09-13T01:38:55 - Added new torrent. Torrent: "f77b26690e760d272e4cdaffe0f6faec351851c3"
+(N) 2025-09-13T01:39:02 - Added new torrent. Torrent: "The Departed (2006) 1080p BrRip x264 - 2GB - YIFY"
+(N) 2025-09-13T01:39:09 - Added new torrent. Torrent: "El laberinto del fauno _ Pan's Labyrinth [2006, BDRip 1080p] Dub + DVO + MVO + AVO + Sub Rus, Eng + Original Spa"
+(N) 2025-09-13T01:39:20 - Added new torrent. Torrent: "No Country For Old Men (2007) 1080p BrRip - YIFY"
+(N) 2025-09-13T01:39:25 - Added new torrent. Torrent: "The Prestige 2006 RERiP 1080p BluRay x264-WiKi [MovietaM]"
+(N) 2025-09-13T01:39:33 - Added new torrent. Torrent: "[bitsearch.to] Into.The.Wild.2007.1080P.Bluray.PROPER.AV1.OPUS.5.1-DECK.mkv"
+(N) 2025-09-13T01:39:38 - Added new torrent. Torrent: "How to Train Your Dragon (2010) 1080p BrRip x264 - 1 4GB - YIFY"
+(N) 2025-09-13T01:39:42 - Added new torrent. Torrent: "Mary.And.Max.2009.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265"
+(N) 2025-09-13T01:39:50 - Added new torrent. Torrent: "The.Father.Nulla.&egrave;.Come.Sembra.2020.iTA-ENG.PROPER.Bluray.1080p.x264-CYBER.mkv"
+(N) 2025-09-13T01:39:53 - Added new torrent. Torrent: "27c7deb8d3743f0812cd99d31d35744582cba880"
+(N) 2025-09-13T01:40:04 - Added new torrent. Torrent: "Harry Potter and the Deathly Hallows Part 2 (2011) 1080p.BRrip.s"
+(N) 2025-09-13T01:40:10 - Added new torrent. Torrent: "[bitsearch.to] Gran.Torino.2008.V2.MULTi.1080p.BluRay.x264.DTS.AC3-DENDA"
+(N) 2025-09-13T01:40:17 - Added new torrent. Torrent: "Incendies [2010, BDRip 1080p] MVO + Sub Rus, Eng + Original Fra"
+(N) 2025-09-13T01:40:23 - Added new torrent. Torrent: "The Dark Knight Rises (2012) 1080p BrRip x264 -YIFY"
+(N) 2025-09-13T01:40:25 - Enqueued torrent move. Torrent: "American.History.X.1998.PROPER.1080p.BluRay.x264-SADPANDA". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:40:25 - Start moving torrent. Torrent: "American.History.X.1998.PROPER.1080p.BluRay.x264-SADPANDA". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:40:25 - Moved torrent successfully. Torrent: "American.History.X.1998.PROPER.1080p.BluRay.x264-SADPANDA". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:40:25 - Torrent download finished. Torrent: "American.History.X.1998.PROPER.1080p.BluRay.x264-SADPANDA"
+(N) 2025-09-13T01:40:29 - Added new torrent. Torrent: "9d6e72305b77953c7c7cd88d3757380b9e9a0d60"
+(N) 2025-09-13T01:40:35 - Added new torrent. Torrent: "Prisoners (2013) - 1080p BD AV1 Opus MULTi3 [V2] [dAV1nci]"
+(N) 2025-09-13T01:40:40 - Added new torrent. Torrent: "The Help [2011, BDRip 1080p] MVO + Sub (rus, eng)"
+(N) 2025-09-13T01:40:44 - Added new torrent. Torrent: "Jai Bhim [2021, WEB-DL 1080p] MVO + Original (Tamili) +Sub eng"
+(N) 2025-09-13T01:40:52 - Added new torrent. Torrent: "Dune: Part Two 2024 REPACK 1080p BluRay AV1 Opus 7 1 MULTi4 [dAV1nci]"
+(N) 2025-09-13T01:40:58 - Added new torrent. Torrent: "Intouchables [2011, BDRip 1080p] Dub + DVO + VO + Sub Rus, Eng, Fra + Original Fra"
+(N) 2025-09-13T01:41:04 - Added new torrent. Torrent: "Django Unchained (2012) 1080p BrRip x264 -YIFY"
+(N) 2025-09-13T01:41:08 - Added new torrent. Torrent: "Ford v Ferrari (2019) REPACK (1080p BluRay x265 HEVC 10bit AAC 7.1 Q22 Joy) [UTR]"
+(N) 2025-09-13T01:41:16 - Added new torrent. Torrent: "Inside Out 2015 REPACK 1080p BluRay DD  7 1 X265-Ralphy"
+(N) 2025-09-13T01:41:21 - Added new torrent. Torrent: "The Hunt _ Jagten [2012, BDRip-AVC] MVO (R5) + Original Dan + Sub Rus, Eng"
+(N) 2025-09-13T01:41:25 - Added new torrent. Torrent: "Hacksaw Ridge 2016 1080p BluRay H264"
+(N) 2025-09-13T01:41:32 - Added new torrent. Torrent: "d380fd87743e03f23dcf149ceaf3adba9c17d56c"
+(N) 2025-09-13T01:41:37 - Added new torrent. Torrent: "The Grand Budapest Hotel 2014 RERIP Bluray 1080p DTS-HD x264-Gry"
+(N) 2025-09-13T01:41:41 - Added new torrent. Torrent: "Coco [2017, BDRip 1080p] Dub + Rus, Eng Sub + Original Eng"
+(N) 2025-09-13T01:41:49 - Added new torrent. Torrent: "e931c117aa52a690d24f97b3bd6a6c03d07bcf44"
+(N) 2025-09-13T01:41:55 - Added new torrent. Torrent: "The Handmaiden 2016 BDRip 1080p Sub Ita Eng x265-NAHOM"
+(N) 2025-09-13T01:41:59 - Added new torrent. Torrent: "Avengers Infinity War 2018 IMAX Hybrid 1080p Repack BluRay DDP7 1 x264-Zoro"
+(N) 2025-09-13T01:42:03 - Added new torrent. Torrent: "Avengers Endgame (2019) [BluRay] [1080p] [YTS.LT]"
+(N) 2025-09-13T01:42:10 - Added new torrent. Torrent: "Klaus (2019) [WEBRip] [1080p] [YTS] [YIFY]"
+(N) 2025-09-13T01:42:20 - Added new torrent. Torrent: "Parasite _ Gisaengchung [2019, UHD BDRip 1080p, HDR10] Dub + 2x MVO + DVO+ AVO + Original (Kor) + Sub (Rus, Eng)"
+(N) 2025-09-13T01:42:23 - Added new torrent. Torrent: "1c7c02dcc6cc4a4164044f7d37efed17ab3771b4"
+(N) 2025-09-13T01:42:28 - Added new torrent. Torrent: "Joker (2019) - 1080p - BD AV1 Opus MULTi4 [V2] [dAV1nci]"
+(N) 2025-09-13T01:42:32 - Added new torrent. Torrent: "Capernaum _ Capharnaüm _ Capharnaum [2018, BDRip 720p] 2x MVO (itunes, HDRezka Studio) + Sub (Rus, Eng, Deu, Fra, Zho) + Original (Ara)"
+(N) 2025-09-13T01:42:37 - Added new torrent. Torrent: "5c3a1adaa1d91a4fe7564910ca358df9206d44cd"
+(N) 2025-09-13T01:42:42 - Added new torrent. Torrent: "Interstellar.2014.PROPER.IMAX.1080p.UHD.BluRay.x265.HDR.DV.DD+5.1.Dual.YG⭐"
+(N) 2025-09-13T01:42:44 - Enqueued torrent move. Torrent: "Amsterdam (2022) (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:42:44 - Start moving torrent. Torrent: "Amsterdam (2022) (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:42:44 - Moved torrent successfully. Torrent: "Amsterdam (2022) (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:42:44 - Torrent download finished. Torrent: "Amsterdam (2022) (1080p BluRay x265 HEVC 10bit AAC 7.1 Tigole) [QxR]"
+(N) 2025-09-13T01:42:46 - Added new torrent. Torrent: "b3a3d8d7decce5ca1969a900b6de41f10fc3bd03"
+(N) 2025-09-13T01:43:22 - Added new torrent. Torrent: "Amadeus.1984.DC.INTERNAL.REPACK.1080p.BluRay.x264-CLASSiC"
+(N) 2025-09-13T01:43:47 - Added new torrent. Torrent: "1811e0b2e8b88305ad622628cb96eb874c494f61"
+(N) 2025-09-13T01:44:13 - Enqueued torrent move. Torrent: "Anora.2024.iTA-ENG.PROPER.Bluray.1080p.x264-CYBER.mkv". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:44:13 - Start moving torrent. Torrent: "Anora.2024.iTA-ENG.PROPER.Bluray.1080p.x264-CYBER.mkv". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:44:13 - Moved torrent successfully. Torrent: "Anora.2024.iTA-ENG.PROPER.Bluray.1080p.x264-CYBER.mkv". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:44:13 - Torrent download finished. Torrent: "Anora.2024.iTA-ENG.PROPER.Bluray.1080p.x264-CYBER.mkv"
+(N) 2025-09-13T01:46:41 - Added new torrent. Torrent: "ipleak.net torrent detection"
+(N) 2025-09-13T01:48:10 - Enqueued torrent move. Torrent: "Le Fabuleux Destin d'Amelie Poulain _ Amelie of Montmartre [2001, BDRip 1080p] Dub + AVO + Original Fra + Sub Rus, Eng, Fra". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:48:10 - Start moving torrent. Torrent: "Le Fabuleux Destin d'Amelie Poulain _ Amelie of Montmartre [2001, BDRip 1080p] Dub + AVO + Original Fra + Sub Rus, Eng, Fra". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:48:10 - Moved torrent successfully. Torrent: "Le Fabuleux Destin d'Amelie Poulain _ Amelie of Montmartre [2001, BDRip 1080p] Dub + AVO + Original Fra + Sub Rus, Eng, Fra". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:48:10 - Torrent download finished. Torrent: "Le Fabuleux Destin d'Amelie Poulain _ Amelie of Montmartre [2001, BDRip 1080p] Dub + AVO + Original Fra + Sub Rus, Eng, Fra"
+(N) 2025-09-13T01:49:29 - Enqueued torrent move. Torrent: "American Beauty [1999, BDRip 1080p] MVO + VO + Sub Rus, Eng + Original Eng". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:49:29 - Start moving torrent. Torrent: "American Beauty [1999, BDRip 1080p] MVO + VO + Sub Rus, Eng + Original Eng". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:49:29 - Moved torrent successfully. Torrent: "American Beauty [1999, BDRip 1080p] MVO + VO + Sub Rus, Eng + Original Eng". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:49:29 - Torrent download finished. Torrent: "American Beauty [1999, BDRip 1080p] MVO + VO + Sub Rus, Eng + Original Eng"
+(N) 2025-09-13T01:52:01 - Enqueued torrent move. Torrent: "3 Idiots (2009), [BDrip 1080p - H264 - Hin Aac - Sub Ita Eng] TN". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:52:01 - Start moving torrent. Torrent: "3 Idiots (2009), [BDrip 1080p - H264 - Hin Aac - Sub Ita Eng] TN". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:52:01 - Moved torrent successfully. Torrent: "3 Idiots (2009), [BDrip 1080p - H264 - Hin Aac - Sub Ita Eng] TN". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T01:52:01 - Torrent download finished. Torrent: "3 Idiots (2009), [BDrip 1080p - H264 - Hin Aac - Sub Ita Eng] TN"
+(N) 2025-09-13T02:13:15 - Enqueued torrent move. Torrent: "1917 [2019, BDRip 1080p] Dub + AVO + 2x VO + Original (Eng) + Commentary + Sub (Rus, Eng)". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:13:15 - Start moving torrent. Torrent: "1917 [2019, BDRip 1080p] Dub + AVO + 2x VO + Original (Eng) + Commentary + Sub (Rus, Eng)". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:13:16 - Moved torrent successfully. Torrent: "1917 [2019, BDRip 1080p] Dub + AVO + 2x VO + Original (Eng) + Commentary + Sub (Rus, Eng)". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:13:16 - Torrent download finished. Torrent: "1917 [2019, BDRip 1080p] Dub + AVO + 2x VO + Original (Eng) + Commentary + Sub (Rus, Eng)"
+(N) 2025-09-13T02:14:24 - Enqueued torrent move. Torrent: "Aliens 1986 Special Cut Remastered 1080p BluRay HEVC x265 5.1 BONE". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:14:24 - Start moving torrent. Torrent: "Aliens 1986 Special Cut Remastered 1080p BluRay HEVC x265 5.1 BONE". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:14:24 - Moved torrent successfully. Torrent: "Aliens 1986 Special Cut Remastered 1080p BluRay HEVC x265 5.1 BONE". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:14:24 - Torrent download finished. Torrent: "Aliens 1986 Special Cut Remastered 1080p BluRay HEVC x265 5.1 BONE"
+(N) 2025-09-13T02:14:47 - Enqueued torrent move. Torrent: "12 Years a Slave [2013, BDRip 1080p] Dub + AVO + Original Eng + Sub (Rus, Eng)". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:14:47 - Start moving torrent. Torrent: "12 Years a Slave [2013, BDRip 1080p] Dub + AVO + Original Eng + Sub (Rus, Eng)". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:14:47 - Moved torrent successfully. Torrent: "12 Years a Slave [2013, BDRip 1080p] Dub + AVO + Original Eng + Sub (Rus, Eng)". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:14:47 - Torrent download finished. Torrent: "12 Years a Slave [2013, BDRip 1080p] Dub + AVO + Original Eng + Sub (Rus, Eng)"
+(N) 2025-09-13T02:15:45 - Enqueued torrent move. Torrent: "Jaws (1975) 1080p BrRip x264 - YIFY". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:15:45 - Start moving torrent. Torrent: "Jaws (1975) 1080p BrRip x264 - YIFY". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:15:45 - Moved torrent successfully. Torrent: "Jaws (1975) 1080p BrRip x264 - YIFY". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:15:45 - Torrent download finished. Torrent: "Jaws (1975) 1080p BrRip x264 - YIFY"
+(N) 2025-09-13T02:16:54 - Enqueued torrent move. Torrent: "Good Will Hunting (1997) 1080p BrRip x264 - YIFY". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:16:54 - Start moving torrent. Torrent: "Good Will Hunting (1997) 1080p BrRip x264 - YIFY". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:16:54 - Moved torrent successfully. Torrent: "Good Will Hunting (1997) 1080p BrRip x264 - YIFY". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:16:54 - Torrent download finished. Torrent: "Good Will Hunting (1997) 1080p BrRip x264 - YIFY"
+(N) 2025-09-13T02:19:10 - Enqueued torrent move. Torrent: "The Godfather (1972) RM4K REPACK (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:19:10 - Start moving torrent. Torrent: "The Godfather (1972) RM4K REPACK (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:19:10 - Moved torrent successfully. Torrent: "The Godfather (1972) RM4K REPACK (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:19:10 - Torrent download finished. Torrent: "The Godfather (1972) RM4K REPACK (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]"
+(N) 2025-09-13T02:20:32 - Enqueued torrent move. Torrent: "The Lord of the Rings The Fellowship of the Ring 2001 EXTENDED 1080p BluRay 10bit HEVC 6CH MkvCage ws". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:20:32 - Start moving torrent. Torrent: "The Lord of the Rings The Fellowship of the Ring 2001 EXTENDED 1080p BluRay 10bit HEVC 6CH MkvCage ws". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:20:32 - Moved torrent successfully. Torrent: "The Lord of the Rings The Fellowship of the Ring 2001 EXTENDED 1080p BluRay 10bit HEVC 6CH MkvCage ws". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:20:32 - Torrent download finished. Torrent: "The Lord of the Rings The Fellowship of the Ring 2001 EXTENDED 1080p BluRay 10bit HEVC 6CH MkvCage ws"
+(N) 2025-09-13T02:21:25 - Enqueued torrent move. Torrent: "The Dark Knight (2008) 1080p BluRay x264 - 1.7GB -YIFY". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:21:25 - Start moving torrent. Torrent: "The Dark Knight (2008) 1080p BluRay x264 - 1.7GB -YIFY". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:21:25 - Moved torrent successfully. Torrent: "The Dark Knight (2008) 1080p BluRay x264 - 1.7GB -YIFY". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:21:25 - Torrent download finished. Torrent: "The Dark Knight (2008) 1080p BluRay x264 - 1.7GB -YIFY"
+(N) 2025-09-13T02:23:44 - Enqueued torrent move. Torrent: "The.Fantastic.Four.First.Steps.2025.1080p.WEB-DL.H.264.Dual.YG⭐". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:23:44 - Start moving torrent. Torrent: "The.Fantastic.Four.First.Steps.2025.1080p.WEB-DL.H.264.Dual.YG⭐". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:23:44 - Moved torrent successfully. Torrent: "The.Fantastic.Four.First.Steps.2025.1080p.WEB-DL.H.264.Dual.YG⭐". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:23:44 - Torrent download finished. Torrent: "The.Fantastic.Four.First.Steps.2025.1080p.WEB-DL.H.264.Dual.YG⭐"
+(N) 2025-09-13T02:27:56 - Enqueued torrent move. Torrent: "Inglourious Basterds [2009, BDRip 1080p] Dub + MVO + 4x AVO + Sub Rus, Eng + Original Eng". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:27:56 - Start moving torrent. Torrent: "Inglourious Basterds [2009, BDRip 1080p] Dub + MVO + 4x AVO + Sub Rus, Eng + Original Eng". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:27:56 - Moved torrent successfully. Torrent: "Inglourious Basterds [2009, BDRip 1080p] Dub + MVO + 4x AVO + Sub Rus, Eng + Original Eng". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:27:56 - Torrent download finished. Torrent: "Inglourious Basterds [2009, BDRip 1080p] Dub + MVO + 4x AVO + Sub Rus, Eng + Original Eng"
+(N) 2025-09-13T02:28:41 - Enqueued torrent move. Torrent: "Lilo.and.Stitch.2025.1080p.BluRay.x264-ZoroSenpai EniaHD". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:28:41 - Start moving torrent. Torrent: "Lilo.and.Stitch.2025.1080p.BluRay.x264-ZoroSenpai EniaHD". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:28:41 - Moved torrent successfully. Torrent: "Lilo.and.Stitch.2025.1080p.BluRay.x264-ZoroSenpai EniaHD". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:28:41 - Torrent download finished. Torrent: "Lilo.and.Stitch.2025.1080p.BluRay.x264-ZoroSenpai EniaHD"
+(N) 2025-09-13T02:29:41 - Enqueued torrent move. Torrent: "Inception (2010) 1080p BrRip x264 - 1.85GB -YIFY". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:29:41 - Start moving torrent. Torrent: "Inception (2010) 1080p BrRip x264 - 1.85GB -YIFY". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:29:41 - Moved torrent successfully. Torrent: "Inception (2010) 1080p BrRip x264 - 1.85GB -YIFY". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:29:41 - Torrent download finished. Torrent: "Inception (2010) 1080p BrRip x264 - 1.85GB -YIFY"
+(N) 2025-09-13T02:30:26 - Enqueued torrent move. Torrent: "The Life of Chuck (2025) (1080p AMZN WEB-DL x265 10bit EAC3 5.1 G...". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:30:26 - Start moving torrent. Torrent: "The Life of Chuck (2025) (1080p AMZN WEB-DL x265 10bit EAC3 5.1 G...". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:30:26 - Moved torrent successfully. Torrent: "The Life of Chuck (2025) (1080p AMZN WEB-DL x265 10bit EAC3 5.1 G...". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:30:26 - Torrent download finished. Torrent: "The Life of Chuck (2025) (1080p AMZN WEB-DL x265 10bit EAC3 5.1 G..."
+(N) 2025-09-13T02:30:33 - Enqueued torrent move. Torrent: "KPop Demon Hunters (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:30:33 - Start moving torrent. Torrent: "KPop Demon Hunters (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:30:34 - Moved torrent successfully. Torrent: "KPop Demon Hunters (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:30:34 - Torrent download finished. Torrent: "KPop Demon Hunters (2025) [1080p] [WEBRip] [5.1] [YTS.MX]"
+(N) 2025-09-13T02:31:15 - Enqueued torrent move. Torrent: "Caught Stealing 2025 1080p HD x264Caught Stealing 2025 1080p HD x264". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:31:15 - Start moving torrent. Torrent: "Caught Stealing 2025 1080p HD x264Caught Stealing 2025 1080p HD x264". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:31:15 - Moved torrent successfully. Torrent: "Caught Stealing 2025 1080p HD x264Caught Stealing 2025 1080p HD x264". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:31:15 - Torrent download finished. Torrent: "Caught Stealing 2025 1080p HD x264Caught Stealing 2025 1080p HD x264"
+(N) 2025-09-13T02:32:50 - Enqueued torrent move. Torrent: "The Conjuring (2013) REPACK (1080p BluRay x265 HEVC 10bit AAC 5.". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:32:50 - Start moving torrent. Torrent: "The Conjuring (2013) REPACK (1080p BluRay x265 HEVC 10bit AAC 5.". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:32:50 - Moved torrent successfully. Torrent: "The Conjuring (2013) REPACK (1080p BluRay x265 HEVC 10bit AAC 5.". Destination: "/data/downloads/qbittorrent/completed"
+(N) 2025-09-13T02:32:50 - Torrent download finished. Torrent: "The Conjuring (2013) REPACK (1080p BluRay x265 HEVC 10bit AAC 5."
+(N) 2025-09-13T02:33:53 - Enqueued torrent move. Torrent: "Eenie Meanie 2025 1080p WEB-DL HEVC x265 5 1 BONE". Source: "/data/downloads/qbittorrent/incomplete". Destination: "/data/downloads/qbittorrent/completed"
