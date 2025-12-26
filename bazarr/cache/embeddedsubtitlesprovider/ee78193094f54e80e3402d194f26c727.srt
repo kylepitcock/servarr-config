@@ -1,0 +1,211 @@
+1
+00:00:26,875 --> 00:00:29,875
+REFUGIO
+
+2
+00:00:58,458 --> 00:00:59,666
+Moriré aquí.
+
+3
+00:01:47,958 --> 00:01:49,708
+OXÍGENO RESTANTE
+UBICAR REFUGIO
+
+4
+00:01:51,666 --> 00:01:53,250
+ESTADO: DESCONECTADO
+15.42 KM
+
+5
+00:02:14,125 --> 00:02:14,958
+OXÍGENO MÍNIMO
+
+6
+00:02:15,041 --> 00:02:16,250
+ACTIVAR
+
+7
+00:02:28,416 --> 00:02:29,375
+Carajo.
+
+8
+00:02:30,250 --> 00:02:32,250
+A ti no te fue mejor que a mí.
+
+9
+00:03:02,291 --> 00:03:04,416
+LE DAMOS LA BIENVENIDA AL REFUGIO 817-RD9G
+
+10
+00:03:08,791 --> 00:03:10,583
+<i>Refugio activado.</i>
+
+11
+00:03:11,083 --> 00:03:13,125
+<i>Advertencia: daño detectado.</i>
+
+12
+00:03:13,208 --> 00:03:14,958
+<i>Haciendo un diagnóstico.</i>
+
+13
+00:03:18,375 --> 00:03:20,708
+<i>Núcleos de fusión: activos.</i>
+
+14
+00:03:23,125 --> 00:03:24,833
+<i>Red de comunicación: activa.</i>
+
+15
+00:03:24,916 --> 00:03:26,500
+SEÑAL DE RESCATE
+ESPERANDO TRANSMISIÓN
+
+16
+00:03:29,750 --> 00:03:31,541
+<i>Robot de mantenimiento...</i>
+
+17
+00:03:35,625 --> 00:03:36,458
+<i>...error.</i>
+
+18
+00:03:36,541 --> 00:03:38,083
+Hojalata.
+
+19
+00:03:38,666 --> 00:03:41,791
+<i>Robot de mantenimiento: error.</i>
+
+20
+00:03:45,791 --> 00:03:49,041
+<i>Robot de mantenimiento: fallando.</i>
+
+21
+00:03:50,041 --> 00:03:51,041
+¡Oye, no!
+
+22
+00:03:53,208 --> 00:03:55,583
+¡No! ¡Alto! ¡Espera!
+
+23
+00:03:56,208 --> 00:03:57,750
+¡Suspende!
+
+24
+00:03:57,833 --> 00:03:58,916
+¡Suspende!
+
+25
+00:04:00,500 --> 00:04:02,750
+<i>Imposible de cumplir.</i>
+
+26
+00:04:50,875 --> 00:04:52,583
+DENTRO DEL RADIO DEL ENEMIGO
+
+27
+00:04:54,958 --> 00:04:57,125
+<i>Ala de Prometeo CVW2.</i>
+
+28
+00:04:57,208 --> 00:04:59,333
+<i>ECM listo. Tienen luz verde.</i>
+
+29
+00:04:59,416 --> 00:05:00,791
+<i>Nova 6, en camino.</i>
+
+30
+00:05:00,875 --> 00:05:02,291
+<i>Nova 9, en camino.</i>
+
+31
+00:05:02,375 --> 00:05:03,666
+Nova 4, en camino.
+
+32
+00:05:03,750 --> 00:05:06,000
+<i>Recibido. Permiso para disparar.</i>
+
+33
+00:05:06,083 --> 00:05:08,041
+Recibido. Seguros fuera.
+
+34
+00:05:08,125 --> 00:05:11,333
+La carga es un Destello Divino
+de nivel dos.
+
+35
+00:05:12,750 --> 00:05:14,083
+Armado y listo.
+
+36
+00:05:14,166 --> 00:05:18,333
+<i>Escuadrón Nova, listos.
+Formación diagonal. Entran y salen.</i>
+
+37
+00:07:01,791 --> 00:07:04,916
+<i>¡731! ¡731!
+¡Viene ataque enemigo!</i>
+
+38
+00:07:09,250 --> 00:07:10,250
+¡Perdimos la nave 1!
+
+39
+00:07:15,416 --> 00:07:16,291
+¡Fuego!
+
+40
+00:07:27,333 --> 00:07:29,500
+APAGADO DE EMERGENCIA
+
+41
+00:08:28,416 --> 00:08:29,458
+Mmm.
+
+42
+00:09:59,583 --> 00:10:01,666
+SEÑAL DE RESCATE
+ESPERANDO TRANSMISIÓN
+
+43
+00:10:14,958 --> 00:10:19,625
+<i>Señal de auxilio recibida.
+Refugio 817-RD9G.</i>
+
+44
+00:10:20,166 --> 00:10:21,291
+<i>Rescate enviado.</i>
+
+45
+00:10:27,000 --> 00:10:30,708
+<i>Advertencia:
+robot de mantenimiento fallando.</i>
+
+46
+00:10:32,666 --> 00:10:36,000
+<i>Advertencia:
+robot de mantenimiento fallando.</i>
+
+47
+00:10:36,083 --> 00:10:37,416
+No me digas.
+
+48
+00:10:38,041 --> 00:10:41,333
+<i>Advertencia:
+robot de mantenimiento fallando.</i>
+
+291
+<i>Advertencia: anomalía
+en robot de mantenimiento.</i>
+
+48
+00:12:03,083 --> 00:12:05,583
+Subtítulos: Larisa Jardon
+

@@ -1,0 +1,353 @@
+1
+00:00:09,583 --> 00:00:12,041
+{\an8}[música-tema]
+
+2
+00:00:23,333 --> 00:00:25,083
+[som eletrônico]
+
+3
+00:00:28,833 --> 00:00:32,708
+NOITE DOS MINIMORTOS
+
+4
+00:00:36,083 --> 00:00:37,958
+- [música sinistra]
+- [corujas piando]
+
+5
+00:00:38,041 --> 00:00:39,250
+[corvos grasnando]
+
+6
+00:00:45,375 --> 00:00:46,750
+[pneus cantando]
+
+7
+00:00:48,458 --> 00:00:50,458
+[hip-hop tocando no rádio]
+
+8
+00:00:51,416 --> 00:00:53,666
+[mulher, áudio agudo]
+Ai, que festa ótima!
+
+9
+00:00:54,166 --> 00:00:57,000
+[conversa indistinta, áudio agudo]
+
+10
+00:00:57,083 --> 00:00:58,375
+[garrafa quebra]
+
+11
+00:01:01,250 --> 00:01:03,916
+[ambos se beijando, gemendo]
+
+12
+00:01:04,000 --> 00:01:05,750
+[mulher] Gosta, né? Isso.
+
+13
+00:01:05,833 --> 00:01:11,625
+[ambos gritando, gemendo]
+
+14
+00:01:11,708 --> 00:01:14,708
+- [homem] Ah, é isso aí. Isso, isso, isso!
+- [mulher geme]
+
+15
+00:01:14,791 --> 00:01:17,208
+[ambos gemendo, ofegando]
+
+16
+00:01:17,291 --> 00:01:19,958
+[homem gemendo, grunhindo]
+
+17
+00:01:20,041 --> 00:01:20,916
+[estrondo]
+
+18
+00:01:21,000 --> 00:01:24,083
+[efeito sonoro sinistro]
+
+19
+00:01:25,666 --> 00:01:26,666
+[mulher grita]
+
+20
+00:01:26,750 --> 00:01:29,041
+- [zumbis gemendo]
+- [ambos gritando]
+
+21
+00:01:29,125 --> 00:01:30,333
+[zumbis mastigando]
+
+22
+00:01:30,416 --> 00:01:31,916
+[música de suspense]
+
+23
+00:01:32,000 --> 00:01:34,333
+[zumbis gemendo]
+
+24
+00:01:37,666 --> 00:01:38,708
+[música cessa]
+
+25
+00:01:39,208 --> 00:01:41,666
+[música sinfônica clássica]
+
+26
+00:01:47,958 --> 00:01:51,250
+[diálogo indistinto]
+
+27
+00:01:51,333 --> 00:01:54,125
+[zumbi guinchando]
+
+28
+00:01:54,208 --> 00:01:57,541
+- [mulheres gritando]
+- [zumbis mastigando]
+
+29
+00:01:57,625 --> 00:01:59,000
+[zumbis grunhindo]
+
+30
+00:02:02,958 --> 00:02:04,458
+[música clássica intensifica]
+
+31
+00:02:04,541 --> 00:02:05,666
+[carro buzina]
+
+32
+00:02:06,166 --> 00:02:09,875
+[pessoas gritando]
+
+33
+00:02:09,958 --> 00:02:11,291
+[sirene soando]
+
+34
+00:02:11,375 --> 00:02:13,208
+[pneus cantando]
+
+35
+00:02:13,291 --> 00:02:14,500
+EMERGÊNCIA
+
+36
+00:02:16,541 --> 00:02:18,541
+[zumbis grunhindo]
+
+37
+00:02:20,333 --> 00:02:22,166
+[mulher gritando]
+
+38
+00:02:22,250 --> 00:02:24,500
+- [diálogo indistinto]
+- [zumbi grunhindo]
+
+39
+00:02:26,875 --> 00:02:28,125
+[mulher gritando]
+
+40
+00:02:28,791 --> 00:02:29,791
+[trem apitando]
+
+41
+00:02:33,583 --> 00:02:35,500
+[pessoas gritando]
+
+42
+00:02:37,500 --> 00:02:39,500
+- [carro buzinando]
+- [homem gritando]
+
+43
+00:02:41,375 --> 00:02:43,458
+- [música de estádio]
+- [zumbi mastigando]
+
+44
+00:02:44,875 --> 00:02:45,750
+MORTE SÚBITA
+
+45
+00:02:45,833 --> 00:02:47,166
+[música dramática]
+
+46
+00:02:49,208 --> 00:02:51,625
+[zumbis grunhindo]
+
+47
+00:02:51,708 --> 00:02:55,250
+- [artistas marciais grunhindo]
+- [música intensifica]
+
+48
+00:02:55,333 --> 00:02:56,625
+[armas disparando]
+
+49
+00:03:00,333 --> 00:03:02,000
+[armas disparando]
+
+50
+00:03:05,083 --> 00:03:07,708
+- [homem] Fode eles, cara. Fode eles!
+- [disparos]
+
+51
+00:03:08,750 --> 00:03:11,291
+[vozerio agitado]
+
+52
+00:03:11,375 --> 00:03:12,833
+[música intensifica]
+
+53
+00:03:12,916 --> 00:03:14,500
+SOCORRO
+
+54
+00:03:14,583 --> 00:03:15,791
+[zunido de helicóptero]
+
+55
+00:03:15,875 --> 00:03:17,416
+[pessoas gritando]
+
+56
+00:03:17,500 --> 00:03:19,208
+- [telefone tocando]
+- [homem] <i>Alô.</i>
+
+57
+00:03:19,291 --> 00:03:21,583
+<i>Zumbis? Não no nosso país!</i>
+
+58
+00:03:22,166 --> 00:03:24,375
+[homem] Atenção, formação de ataque!
+
+59
+00:03:25,166 --> 00:03:27,166
+[música dramática]
+
+60
+00:03:27,833 --> 00:03:30,083
+- [coro vocalizando intensamente]
+- [disparos]
+
+61
+00:03:35,666 --> 00:03:37,750
+- [homem] Pega aí! Toma essa!
+- [disparos]
+
+62
+00:03:37,833 --> 00:03:39,666
+[homem gargalhando]
+
+63
+00:03:40,166 --> 00:03:42,458
+[sino de bonde tocando]
+
+64
+00:03:42,541 --> 00:03:43,916
+[armas disparando]
+
+65
+00:03:44,916 --> 00:03:46,916
+INFERNO
+
+66
+00:03:47,000 --> 00:03:49,791
+[coro vocalizando]
+
+67
+00:03:52,416 --> 00:03:54,416
+- [música intensifica]
+- [disparos]
+
+68
+00:03:58,583 --> 00:03:59,541
+[disparos cessam]
+
+69
+00:03:59,625 --> 00:04:01,625
+[coro intensifica]
+
+70
+00:04:06,958 --> 00:04:08,958
+[zumbis guinchando]
+
+71
+00:04:09,041 --> 00:04:11,041
+[zumbis gigantes rosnando]
+
+72
+00:04:21,416 --> 00:04:24,208
+- [telefone toca]
+- [homem] <i>O que a gente vai fazer?</i>
+
+73
+00:04:24,291 --> 00:04:26,166
+<i>Eles vão entrar a qualquer momento!</i>
+
+74
+00:04:26,250 --> 00:04:27,916
+<i>- Que se foda!</i>
+- [clique de botão]
+
+75
+00:04:28,000 --> 00:04:28,833
+[estrondo]
+
+76
+00:04:28,916 --> 00:04:30,583
+[homem] <i>Chupa essa manga!</i>
+
+77
+00:04:31,958 --> 00:04:33,958
+[alarme soando]
+
+78
+00:04:34,583 --> 00:04:36,041
+[pinguins piando]
+
+79
+00:04:38,833 --> 00:04:41,583
+- [música continua]
+- [coro vocalizando intensamente]
+
+80
+00:04:52,583 --> 00:04:53,500
+[som de pum]
+
+81
+00:04:53,583 --> 00:04:54,500
+[música cessa]
+
+82
+00:04:57,875 --> 00:04:59,875
+[sons eletrônicos]
+
+83
+00:05:04,500 --> 00:05:06,500
+[música sinfônica clássica]
+
+84
+00:05:50,458 --> 00:05:51,875
+[música cessa]
+

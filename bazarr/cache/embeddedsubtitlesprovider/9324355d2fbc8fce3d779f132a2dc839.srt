@@ -1,0 +1,1950 @@
+1
+00:00:01,000 --> 00:00:01,958
+Stopp!
+
+2
+00:00:02,041 --> 00:00:04,791
+Du vet vel
+at du er i Pre-Mors konsernsone?
+
+3
+00:00:06,041 --> 00:00:07,833
+Han puster ikke. Du drepte ham.
+
+4
+00:00:09,041 --> 00:00:13,208
+<i>"Pre-Mor-myndighetene søker</i>
+<i>Kenari-mann bosatt på Ferrix for avhør.</i>
+
+5
+00:00:13,291 --> 00:00:15,875
+"Borgere med informasjon bør kontakte
+
+6
+00:00:15,958 --> 00:00:19,166
+"Preox-Morlanas sikkerhets-HK straks."
+
+7
+00:00:19,250 --> 00:00:20,125
+Har vi en mistenkt?
+
+8
+00:00:20,208 --> 00:00:21,666
+<i>Cassian Andor.</i>
+
+9
+00:00:21,750 --> 00:00:24,250
+<i>"Opprør, ødeleggelse av imperieeiendom,</i>
+
+10
+00:00:24,333 --> 00:00:25,625
+<i>"angrep på imperiesoldat."</i>
+
+11
+00:00:25,708 --> 00:00:27,625
+Hvem andre vet at du ble født på Kenari?
+
+12
+00:00:27,708 --> 00:00:31,291
+-Bix ser etter deg.
+-Bix er uvesentlig her!
+
+13
+00:00:31,375 --> 00:00:34,416
+Men hvem fortalte da
+Pre-Mor-jævlene om Kenari?
+
+14
+00:00:34,500 --> 00:00:35,625
+<i>"Kenari.</i>
+
+15
+00:00:37,208 --> 00:00:39,875
+<i>"Forlatt etter imperie-gruvekatastrofe."</i>
+
+16
+00:00:39,958 --> 00:00:41,166
+<i>Alle døde.</i>
+
+17
+00:00:42,041 --> 00:00:44,458
+<i>Andor bør anses som bevæpnet og farlig.</i>
+
+18
+00:00:44,541 --> 00:00:46,875
+<i>Han virker kanskje ikke</i>
+<i>som en sterk motstander,</i>
+
+19
+00:00:46,958 --> 00:00:49,791
+men to av mennene våre er døde
+etter å ha gjort den feilen.
+
+20
+00:00:49,875 --> 00:00:52,666
+-Jeg har noe å selge.
+-Hva er det?
+
+21
+00:00:52,750 --> 00:00:54,625
+<i>En usporbar NS-9 Stjernesti-enhet.</i>
+
+22
+00:00:54,708 --> 00:00:56,666
+<i>-Vet du hvor mye den er verdt?</i>
+<i>-Ja.</i>
+
+23
+00:00:56,750 --> 00:00:59,625
+<i>Nok til å dra herfra</i>
+<i>og ligge lavt til ting roer seg ned.</i>
+
+24
+00:01:00,166 --> 00:01:01,875
+<i>Vennen din vil ha denne varen.</i>
+
+25
+00:01:01,958 --> 00:01:02,958
+<i>Han kommer.</i>
+
+26
+00:04:38,541 --> 00:04:40,958
+Hun har klaring. Slik ja.
+
+27
+00:04:43,375 --> 00:04:44,958
+Avvent for frakoblingsenheten.
+
+28
+00:04:45,041 --> 00:04:46,375
+-Er det bra?
+-Ja.
+
+29
+00:04:47,416 --> 00:04:48,416
+Langsommere.
+
+30
+00:04:48,500 --> 00:04:49,833
+Få testeren hit.
+
+31
+00:04:50,666 --> 00:04:52,000
+Få den ut.
+
+32
+00:04:52,083 --> 00:04:53,666
+Til frakoblingsenheten.
+
+33
+00:04:53,750 --> 00:04:54,958
+Pass på tolv-åtte.
+
+34
+00:05:02,333 --> 00:05:03,500
+Du klarer dette.
+
+35
+00:05:08,250 --> 00:05:09,833
+Kan fortsatt lese av denne.
+
+36
+00:05:09,916 --> 00:05:10,791
+Den virker ennå.
+
+37
+00:05:12,958 --> 00:05:13,916
+Hei.
+
+38
+00:05:14,000 --> 00:05:16,000
+Jeg tror jeg kan skaffe penger.
+
+39
+00:05:16,083 --> 00:05:17,666
+Går det bra, drar jeg herfra.
+
+40
+00:05:17,750 --> 00:05:18,750
+Når?
+
+41
+00:05:19,791 --> 00:05:20,708
+I dag.
+
+42
+00:05:21,833 --> 00:05:24,625
+-Høres ikke bra ut.
+-Jeg legger igjen penger hos Maarva.
+
+43
+00:05:24,708 --> 00:05:26,166
+Det jeg skylder deg.
+
+44
+00:05:27,125 --> 00:05:28,458
+Hold øye med henne om du kan.
+
+45
+00:05:29,083 --> 00:05:30,125
+Hvor skal du?
+
+46
+00:05:30,208 --> 00:05:31,583
+Det bør du ikke vite.
+
+47
+00:05:32,291 --> 00:05:33,500
+Jeg kommer tilbake.
+
+48
+00:05:33,583 --> 00:05:35,000
+Jeg finner en løsning.
+
+49
+00:05:55,500 --> 00:05:57,000
+<i>Velkommen til Ferrix-terminalen.</i>
+
+50
+00:05:57,541 --> 00:06:00,000
+<i>Sjekk eiendelene dine før du går ut.</i>
+
+51
+00:06:00,916 --> 00:06:05,583
+<i>Rabattpakker for fergebilletter</i>
+<i>kan kjøpes i kiosken.</i>
+
+52
+00:06:07,333 --> 00:06:09,041
+Du skal vel ikke bo på hotellet?
+
+53
+00:06:10,208 --> 00:06:11,250
+Ikke i kveld.
+
+54
+00:06:11,333 --> 00:06:12,500
+Smart.
+
+55
+00:06:12,583 --> 00:06:14,250
+Du blir lurt.
+
+56
+00:06:16,750 --> 00:06:17,833
+Pass på lommeboka!
+
+57
+00:06:37,208 --> 00:06:38,125
+Takk.
+
+58
+00:06:41,166 --> 00:06:43,916
+Vi har et problem.
+Jeg fikk ikke ringt tilbake.
+
+59
+00:06:44,000 --> 00:06:45,208
+Rolig.
+
+60
+00:06:45,291 --> 00:06:47,666
+Pre-Mor-politiet sendte ut en bulletin
+i går kveld
+
+61
+00:06:47,750 --> 00:06:49,583
+om noen med Cassians utseende.
+
+62
+00:06:49,666 --> 00:06:50,916
+Jeg har sett den.
+
+63
+00:06:51,000 --> 00:06:52,875
+Den nevner ikke navnet hans.
+
+64
+00:06:52,958 --> 00:06:55,416
+Det står
+at de leter etter noen fra Kenari.
+
+65
+00:06:55,500 --> 00:06:57,833
+I fengselsregisteret står det
+at han er fra Fest.
+
+66
+00:06:57,916 --> 00:06:59,583
+Ja, han har alltid sagt det.
+
+67
+00:07:00,916 --> 00:07:02,541
+Har noen sett ham?
+
+68
+00:07:02,625 --> 00:07:04,375
+Jeg tror ikke mange kjenner ham.
+
+69
+00:07:05,916 --> 00:07:07,583
+Drepte han mennene på Morlana?
+
+70
+00:07:09,750 --> 00:07:11,625
+Da må vi være raske.
+
+71
+00:07:13,208 --> 00:07:14,375
+Hvor er han?
+
+72
+00:07:14,458 --> 00:07:16,291
+Østre område. Bygning ni.
+
+73
+00:07:18,625 --> 00:07:19,583
+Stoler du på ham?
+
+74
+00:07:20,458 --> 00:07:21,375
+Han kommer.
+
+75
+00:08:14,375 --> 00:08:16,166
+Akseptabel damptetthet.
+
+76
+00:08:16,250 --> 00:08:18,000
+Minimal luftbåren konsentrasjon.
+
+77
+00:08:18,083 --> 00:08:20,250
+Ingen påviselige giftige gasser.
+
+78
+00:08:20,333 --> 00:08:22,208
+Der. Er vi fornøyde?
+
+79
+00:08:23,250 --> 00:08:24,666
+La oss ta den konsollenheten.
+
+80
+00:08:24,750 --> 00:08:26,416
+Vi bør stoppe mens leken er god.
+
+81
+00:08:26,500 --> 00:08:27,791
+Hører du etter? Det er trygt.
+
+82
+00:08:27,875 --> 00:08:29,416
+Den er borte.
+
+83
+00:08:29,500 --> 00:08:30,791
+Ta av maska.
+
+84
+00:08:32,541 --> 00:08:33,791
+Tid, ikke gass.
+
+85
+00:08:33,875 --> 00:08:35,375
+Du sa toppen 20 minutter.
+
+86
+00:08:38,000 --> 00:08:39,583
+Jeg vil ikke vite hva det er.
+
+87
+00:08:39,666 --> 00:08:43,625
+Det må være minst seks
+nye drivstoffmoduler der framme.
+
+88
+00:08:43,708 --> 00:08:45,333
+Vi har mer enn vi kan bære.
+
+89
+00:08:45,416 --> 00:08:48,625
+-Hva koster slike i dag?
+-Salg eller bytte?
+
+90
+00:08:48,708 --> 00:08:49,875
+Tuller du?
+
+91
+00:08:51,500 --> 00:08:53,416
+Vi må dra nå!
+
+92
+00:08:54,000 --> 00:08:55,000
+Kan være hva som helst.
+
+93
+00:08:56,375 --> 00:08:59,125
+I så fall, la oss gyve på.
+
+94
+00:09:18,375 --> 00:09:20,041
+Bra holdning, gutten min.
+
+95
+00:09:21,000 --> 00:09:23,708
+Du bør kanskje ikke være her
+når de kommer for å rydde.
+
+96
+00:09:30,208 --> 00:09:31,541
+Han forstår deg ikke.
+
+97
+00:09:33,375 --> 00:09:34,791
+Republikk-fregatt nærmer seg.
+
+98
+00:10:16,666 --> 00:10:17,708
+Vestteamet er framme.
+
+99
+00:10:20,916 --> 00:10:22,333
+Østteam, meld fra, over.
+
+100
+00:10:23,458 --> 00:10:24,708
+<i>Østteamet er på vei.</i>
+
+101
+00:10:24,791 --> 00:10:26,208
+<i>Tre minutter til landing.</i>
+
+102
+00:10:27,041 --> 00:10:28,166
+Nordteam, meld fra.
+
+103
+00:10:29,208 --> 00:10:30,958
+<i>Nordteamet her. Vi er framme.</i>
+
+104
+00:10:31,833 --> 00:10:33,750
+Oppfattet, nordteam. Avvent.
+
+105
+00:10:45,083 --> 00:10:46,875
+Har ikke sett soldater på en stund.
+
+106
+00:10:48,125 --> 00:10:49,458
+Hva i helvete gjør de?
+
+107
+00:10:50,333 --> 00:10:51,541
+De jakter på noen.
+
+108
+00:11:12,250 --> 00:11:14,666
+Det tar ni minutter
+å dra tilbake til lasteskipet.
+
+109
+00:11:14,750 --> 00:11:16,041
+Og etterlate ham her?
+
+110
+00:11:16,125 --> 00:11:18,416
+-Vil du det?
+-La ham løpe.
+
+111
+00:11:19,875 --> 00:11:21,750
+-Vi prøver å hjelpe deg.
+-Ligg unna.
+
+112
+00:11:21,833 --> 00:11:24,333
+-Hvor er republikk-skipet?
+-I bane.
+
+113
+00:11:24,416 --> 00:11:26,166
+-De dreper ham.
+-De dreper oss.
+
+114
+00:11:26,250 --> 00:11:27,916
+Bee, skaff meg bedøvelsesmiddelet.
+
+115
+00:11:28,625 --> 00:11:30,000
+Maarva, nei.
+
+116
+00:11:30,083 --> 00:11:32,333
+-Hold kjeft, Clem.
+-Han har sine folk her.
+
+117
+00:11:32,416 --> 00:11:34,625
+Ja, de drepte nettopp en republikkoffiser.
+
+118
+00:11:34,708 --> 00:11:37,291
+Det blir jakt her når fregatten lander.
+
+119
+00:11:43,875 --> 00:11:45,625
+Tenk over dette.
+
+120
+00:11:45,708 --> 00:11:47,416
+Det blir masse tid til det.
+
+121
+00:11:47,500 --> 00:11:49,666
+Jeg etterlater ham ikke her for å dø.
+
+122
+00:11:50,375 --> 00:11:52,875
+-Har du lett?
+-Nei.
+
+123
+00:11:52,958 --> 00:11:54,166
+Østteamet er framme.
+
+124
+00:11:54,833 --> 00:11:56,791
+Østteam, sikre posisjonen.
+
+125
+00:11:56,875 --> 00:11:57,833
+<i>Oppfattet.</i>
+
+126
+00:12:11,041 --> 00:12:12,708
+Vi har en arrestordre på Cassian Andor.
+
+127
+00:12:24,541 --> 00:12:27,041
+Hvorfor ligger alle greiene i smuget ennå?
+
+128
+00:12:27,125 --> 00:12:29,416
+Trodde du ville få det vekk i morges.
+
+129
+00:12:29,500 --> 00:12:31,166
+Jeg vil det. Jeg glemte det.
+
+130
+00:12:42,625 --> 00:12:43,916
+Sjekk hyllene!
+
+131
+00:12:44,000 --> 00:12:45,250
+Dra den ned.
+
+132
+00:12:47,166 --> 00:12:49,416
+Skam deg.
+
+133
+00:12:50,750 --> 00:12:53,625
+Du kan stoppe dette ved å si hvor han er.
+
+134
+00:12:55,041 --> 00:12:55,916
+Sir.
+
+135
+00:12:58,291 --> 00:12:59,250
+Hold henne der.
+
+136
+00:12:59,333 --> 00:13:01,375
+Det bor en til her, sir.
+
+137
+00:13:05,500 --> 00:13:06,958
+Hvor er Cassian, droide?
+
+138
+00:13:07,041 --> 00:13:08,166
+Maarva!
+
+139
+00:13:08,250 --> 00:13:10,041
+-Slå av strømmen.
+-Nei!
+
+140
+00:13:10,125 --> 00:13:11,750
+Ikke la dem skremme deg, Bee.
+
+141
+00:13:11,833 --> 00:13:13,208
+Det har de ikke lov til.
+
+142
+00:13:13,291 --> 00:13:14,791
+-De er i hjemmet vårt.
+-Hold kjeft!
+
+143
+00:13:21,625 --> 00:13:23,000
+Bee, er du tilbake?
+
+144
+00:13:23,791 --> 00:13:25,875
+<i>Si at disse tingene fungerer.</i>
+
+145
+00:13:27,083 --> 00:13:28,333
+Bee, svar.
+
+146
+00:13:29,500 --> 00:13:30,708
+<i>Lader du opp?</i>
+
+147
+00:13:34,791 --> 00:13:36,958
+Si til Maarva at jeg beklager.
+
+148
+00:13:37,875 --> 00:13:39,375
+<i>Jeg glemte å fortelle deg det.</i>
+
+149
+00:13:40,500 --> 00:13:43,250
+<i>Og sørg for at hun har varmen på.</i>
+
+150
+00:13:43,333 --> 00:13:45,458
+-Øst.
+<i>-Du vet hvor kald hun blir.</i>
+
+151
+00:13:45,541 --> 00:13:48,041
+Øst. Øst-nordøst. Har det.
+
+152
+00:13:48,125 --> 00:13:50,208
+-La én mann være her?
+<i>-Bee, hører du?</i>
+
+153
+00:13:50,291 --> 00:13:51,291
+<i>Svar.</i>
+
+154
+00:13:51,375 --> 00:13:52,458
+Folkemengde utenfor.
+
+155
+00:13:53,500 --> 00:13:54,833
+Jeg vil si to, sir.
+
+156
+00:13:55,458 --> 00:13:57,541
+Kontakt østteamet. Si at vi er på vei.
+
+157
+00:13:57,625 --> 00:13:59,708
+Dere to, bli med meg. Bli her.
+
+158
+00:13:59,791 --> 00:14:01,833
+<i>-Hører du?</i>
+-Hold øye med dem.
+
+159
+00:14:02,791 --> 00:14:04,416
+Bee, hører du dette?
+
+160
+00:14:06,125 --> 00:14:07,416
+Sv...
+
+161
+00:14:11,208 --> 00:14:12,166
+Andor?
+
+162
+00:14:18,000 --> 00:14:19,000
+Du kom.
+
+163
+00:14:23,291 --> 00:14:24,583
+Er vi alene?
+
+164
+00:14:25,250 --> 00:14:26,166
+Jeg er det.
+
+165
+00:14:27,708 --> 00:14:29,750
+-Hva gjorde dere med Maarva?
+-Hun er gammel!
+
+166
+00:14:29,833 --> 00:14:32,625
+Trekk tilbake.
+
+167
+00:14:32,708 --> 00:14:34,125
+Det er ingenting å se her.
+
+168
+00:14:34,208 --> 00:14:35,541
+Alt er som vanlig.
+
+169
+00:14:35,625 --> 00:14:36,833
+Vi utfører en arrestordre.
+
+170
+00:14:36,916 --> 00:14:38,708
+Konsernmyndighet. Ligg unna.
+
+171
+00:14:41,000 --> 00:14:42,125
+Hvor langt?
+
+172
+00:14:42,208 --> 00:14:43,625
+En ti-minutters gåtur.
+
+173
+00:14:43,708 --> 00:14:45,458
+Østteamet vil sikre stedet.
+
+174
+00:14:46,875 --> 00:14:48,833
+-For hvor mye?
+-Førti tusen.
+
+175
+00:14:51,250 --> 00:14:52,458
+Førti tusen?
+
+176
+00:14:52,541 --> 00:14:54,791
+Førti tusen kreditter er billig.
+
+177
+00:14:55,458 --> 00:14:56,291
+Jaså?
+
+178
+00:14:57,625 --> 00:14:59,416
+En usporbar Stjernesti-enhet.
+
+179
+00:14:59,500 --> 00:15:01,916
+Vektorkrystaller og forsegling intakt.
+
+180
+00:15:02,000 --> 00:15:05,333
+Du kan spore alle imperiekoordinater
+i ni radial-parsec.
+
+181
+00:15:05,416 --> 00:15:06,625
+Er den her?
+
+182
+00:15:06,708 --> 00:15:07,958
+Er pengene her?
+
+183
+00:15:08,708 --> 00:15:10,583
+Hvordan vet jeg at den fungerer?
+
+184
+00:15:11,250 --> 00:15:12,166
+Den er forseglet.
+
+185
+00:15:12,250 --> 00:15:14,416
+Om jeg kobler den til, synker verdien.
+
+186
+00:15:14,500 --> 00:15:16,041
+Så du kan lure meg.
+
+187
+00:15:18,833 --> 00:15:20,083
+Jeg gir deg mitt ord.
+
+188
+00:15:20,791 --> 00:15:22,208
+Og om det ikke holder?
+
+189
+00:15:24,916 --> 00:15:26,166
+Du vet hvor jeg bor.
+
+190
+00:15:27,000 --> 00:15:29,791
+Så jeg kan komme tilbake
+om jeg er misfornøyd.
+
+191
+00:15:32,583 --> 00:15:34,541
+Har Bix lurt deg før?
+
+192
+00:15:35,291 --> 00:15:37,458
+Så du tenker å bli her?
+
+193
+00:15:44,291 --> 00:15:46,416
+Masse soldater leter etter Cassian.
+
+194
+00:15:46,500 --> 00:15:47,666
+-Wilmon så dem.
+-Her?
+
+195
+00:15:47,750 --> 00:15:49,375
+-Nede hos Maarva.
+-Nei.
+
+196
+00:15:49,458 --> 00:15:51,833
+Hva i Chobbs navn har han gjort?
+
+197
+00:15:51,916 --> 00:15:52,791
+Herregud.
+
+198
+00:15:52,875 --> 00:15:54,958
+Det kom en bulletin i går kveld.
+Så du den?
+
+199
+00:15:55,041 --> 00:15:56,375
+"Mannlig beboer fra Kenari".
+
+200
+00:15:57,333 --> 00:15:59,166
+Bare la meg tenke.
+
+201
+00:15:59,250 --> 00:16:00,625
+Er det det dette handler om?
+
+202
+00:16:03,250 --> 00:16:04,541
+Noen tystet på ham.
+
+203
+00:16:04,625 --> 00:16:06,125
+Hva mener du?
+
+204
+00:16:06,208 --> 00:16:08,083
+-Jeg må finne ham.
+-Nei. Bix.
+
+205
+00:16:08,166 --> 00:16:10,250
+-Noen må.
+-Han kan være hvor som helst. Si det.
+
+206
+00:16:10,333 --> 00:16:11,625
+La være.
+
+207
+00:16:11,708 --> 00:16:13,291
+Hva da?
+
+208
+00:16:14,208 --> 00:16:15,708
+Han klarer seg selv.
+
+209
+00:16:16,958 --> 00:16:17,833
+Hvem?
+
+210
+00:16:18,791 --> 00:16:20,833
+Hvordan vet du hvem vi snakker om?
+
+211
+00:16:25,583 --> 00:16:28,250
+Har jeg fortalt deg
+at Cassian ble født på Kenari?
+
+212
+00:16:29,541 --> 00:16:31,500
+Jeg husker ikke.
+
+213
+00:16:32,666 --> 00:16:33,541
+Jeg gjør det.
+
+214
+00:16:34,958 --> 00:16:36,125
+Jeg husker det.
+
+215
+00:16:38,000 --> 00:16:39,375
+Hvordan kunne du?
+
+216
+00:16:39,458 --> 00:16:41,958
+Vent. Hva skjer?
+
+217
+00:16:42,041 --> 00:16:43,708
+Hvordan kunne du gjøre det?
+
+218
+00:16:46,541 --> 00:16:48,083
+Hva har du gjort?
+
+219
+00:16:49,000 --> 00:16:50,125
+Timm!
+
+220
+00:16:53,500 --> 00:16:54,708
+Hvor fikk du tak i den?
+
+221
+00:16:54,791 --> 00:16:56,625
+Betyr det noe?
+
+222
+00:16:56,708 --> 00:16:58,458
+Jeg ser tre valg.
+
+223
+00:16:58,541 --> 00:17:00,291
+Enten er du en imperiespion
+
+224
+00:17:00,375 --> 00:17:02,958
+og spiller den personen
+jeg vil snakke med,
+
+225
+00:17:03,041 --> 00:17:04,416
+eller så er du ekte vare.
+
+226
+00:17:04,500 --> 00:17:05,791
+Jeg ser ett valg.
+
+227
+00:17:05,875 --> 00:17:07,791
+Enten har du penger eller ikke.
+
+228
+00:17:12,791 --> 00:17:13,916
+Hva blir det til?
+
+229
+00:17:15,791 --> 00:17:17,083
+Jeg vet at Bix kan sine ting.
+
+230
+00:17:17,166 --> 00:17:20,291
+Dere bestikker offiserer
+til å legge igjen verdisaker på skipene
+
+231
+00:17:20,375 --> 00:17:21,625
+før de kommer hit.
+
+232
+00:17:21,708 --> 00:17:23,208
+Men dette er ikke noe slikt.
+
+233
+00:17:23,291 --> 00:17:25,375
+Dette lar de ikke passere.
+
+234
+00:17:26,291 --> 00:17:27,208
+Nei.
+
+235
+00:17:27,916 --> 00:17:29,750
+Jeg gikk inn og hentet den selv.
+
+236
+00:17:29,833 --> 00:17:31,375
+Hvordan er det mulig?
+
+237
+00:17:31,458 --> 00:17:34,833
+Den ble forseglet
+på imperie-marinebasen i Steergard.
+
+238
+00:17:34,916 --> 00:17:36,833
+Du har pengene, jeg boksen.
+
+239
+00:17:36,916 --> 00:17:38,375
+Er det mer å snakke om?
+
+240
+00:17:38,458 --> 00:17:41,333
+Du får tusen kreditter til
+for å si hvordan du fikk tak i den.
+
+241
+00:17:41,416 --> 00:17:43,375
+Tusen til?
+
+242
+00:17:43,458 --> 00:17:44,291
+Avtale.
+
+243
+00:17:45,541 --> 00:17:46,625
+Hvordan?
+
+244
+00:17:52,250 --> 00:17:54,333
+Bare gå inn som om du hører til der.
+
+245
+00:17:55,083 --> 00:17:58,500
+-Det trengs vel mer enn det?
+-Å stjele fra imperiet?
+
+246
+00:17:59,083 --> 00:18:00,208
+Hva trenger du?
+
+247
+00:18:00,291 --> 00:18:03,208
+En uniform, skitne hender
+og et imperie-verktøysett.
+
+248
+00:18:04,125 --> 00:18:06,791
+De er så stolte av seg selv.
+De bryr seg ikke.
+
+249
+00:18:08,041 --> 00:18:12,041
+De er så selvtilfredse
+at de ikke kan tenke seg det.
+
+250
+00:18:12,125 --> 00:18:13,375
+Hva da?
+
+251
+00:18:14,166 --> 00:18:16,916
+At en som meg kommer inn til dem,
+
+252
+00:18:17,000 --> 00:18:18,458
+går omkring der,
+
+253
+00:18:18,541 --> 00:18:20,541
+spytter i maten og tar utstyret deres.
+
+254
+00:18:21,958 --> 00:18:24,083
+Utrolig arroganse, ikke sant?
+
+255
+00:18:24,791 --> 00:18:26,541
+De tenker ikke engang på oss.
+
+256
+00:18:27,291 --> 00:18:29,666
+Oss? Jeg kjenner deg ikke.
+
+257
+00:18:29,750 --> 00:18:31,541
+Greit. Men jeg kjenner deg.
+
+258
+00:18:33,083 --> 00:18:35,458
+Denne tida tar slutt, Cassian Andor.
+
+259
+00:18:36,458 --> 00:18:39,333
+Måten de ler på
+og presser seg gjennom en folkemengde.
+
+260
+00:18:41,083 --> 00:18:44,875
+Lyden av stemmen
+som ber deg stoppe, gå, bevege deg.
+
+261
+00:18:46,000 --> 00:18:47,500
+Ber deg dø.
+
+262
+00:18:48,166 --> 00:18:49,750
+Du hører den hele tida, ikke sant?
+
+263
+00:18:49,833 --> 00:18:51,833
+Hvorfor lar du meg ikke telle pengene?
+
+264
+00:18:52,416 --> 00:18:54,500
+Men de vil snart tenke på oss.
+
+265
+00:18:54,583 --> 00:18:55,791
+Vi burde dra.
+
+266
+00:18:56,375 --> 00:18:59,541
+Snart har de noe annet å høre på.
+
+267
+00:18:59,625 --> 00:19:01,458
+Du bør ikke bli tatt med den.
+
+268
+00:19:03,625 --> 00:19:05,750
+De ville vel henge meg.
+
+269
+00:19:05,833 --> 00:19:08,375
+Føre meg opp Rixveien
+og henge meg på plassen.
+
+270
+00:19:09,125 --> 00:19:10,750
+Ville vel ikke være første gang.
+
+271
+00:19:12,083 --> 00:19:13,875
+Hengte de ikke faren din der?
+
+272
+00:19:15,083 --> 00:19:16,250
+Hvem er du?
+
+273
+00:19:17,666 --> 00:19:18,833
+Hva er dette?
+
+274
+00:19:21,000 --> 00:19:22,750
+Jeg sa jeg kjenner deg.
+
+275
+00:19:23,333 --> 00:19:24,916
+Jeg vet alt om deg.
+
+276
+00:19:25,000 --> 00:19:26,250
+Ja, jeg vil ha boksen,
+
+277
+00:19:26,333 --> 00:19:28,666
+og jeg drar med den om jeg ikke får mer.
+
+278
+00:19:28,750 --> 00:19:31,625
+Men jeg ville ha noe mer,
+og jeg har nok funnet det.
+
+279
+00:19:34,416 --> 00:19:36,125
+Bli med meg.
+
+280
+00:19:36,208 --> 00:19:37,791
+Hvordan vet du om meg?
+
+281
+00:19:38,708 --> 00:19:40,916
+Jeg håpet på en mer avslappet samtale,
+
+282
+00:19:41,000 --> 00:19:43,166
+men du har rett, vi har ikke tid.
+
+283
+00:19:43,250 --> 00:19:46,750
+Tross det du sa til meg,
+blir du nok ikke her.
+
+284
+00:19:46,833 --> 00:19:49,000
+Jeg vet at du drepte to soldater
+på Morlana-Én
+
+285
+00:19:49,083 --> 00:19:50,875
+og at de jakter på deg.
+
+286
+00:19:50,958 --> 00:19:53,166
+Det virker bortkastet å la dem ta deg.
+
+287
+00:19:53,958 --> 00:19:55,291
+Bortkastet talent.
+
+288
+00:19:56,000 --> 00:19:57,541
+Hvem er du?
+
+289
+00:19:57,625 --> 00:19:59,250
+Feil spørsmål.
+
+290
+00:20:00,333 --> 00:20:03,291
+Spør heller hvor lang tid vi har
+på å komme oss vekk.
+
+291
+00:20:03,375 --> 00:20:05,875
+Hvorfor skulle jeg dra med deg?
+
+292
+00:20:06,625 --> 00:20:09,250
+Vil du ikke kjempe
+mot disse jævlene på ordentlig?
+
+293
+00:20:16,916 --> 00:20:18,666
+Løp! Løp!
+
+294
+00:20:32,708 --> 00:20:34,125
+Ta den. La oss gå.
+
+295
+00:20:43,958 --> 00:20:45,416
+Hva betyr det?
+
+296
+00:20:45,500 --> 00:20:49,250
+Det er et signal. La oss gå! Kom igjen.
+
+297
+00:20:52,708 --> 00:20:53,875
+Hva er dette?
+
+298
+00:20:53,958 --> 00:20:55,166
+Trusler, sir.
+
+299
+00:20:55,958 --> 00:20:57,250
+Tomme trusler.
+
+300
+00:21:06,708 --> 00:21:08,041
+Hvordan kom du deg hit?
+
+301
+00:21:08,125 --> 00:21:10,000
+Jeg har et skip nær fergeplassen.
+
+302
+00:21:10,083 --> 00:21:12,333
+Kanskje du er imperiespionen.
+
+303
+00:21:12,416 --> 00:21:13,500
+Hva ville ha vært vitsen?
+
+304
+00:21:14,083 --> 00:21:17,958
+Om du visste at de kom etter meg,
+hvorfor være her nå?
+
+305
+00:21:18,041 --> 00:21:22,041
+Spesielle folk er vanskelige å finne.
+Jeg ville ikke se deg drept.
+
+306
+00:21:22,125 --> 00:21:24,916
+Jeg trodde det var tid til
+å finne en løsning, men tok feil.
+
+307
+00:21:28,500 --> 00:21:29,625
+Får jeg?
+
+308
+00:21:30,166 --> 00:21:32,541
+Jeg er din eneste sjanse nå.
+
+309
+00:21:32,625 --> 00:21:34,333
+Vil du dø mens du er forsiktig?
+
+310
+00:21:38,916 --> 00:21:40,875
+-Har du en komlink?
+-Hvordan da?
+
+311
+00:21:40,958 --> 00:21:42,333
+Få den.
+
+312
+00:21:43,083 --> 00:21:44,083
+Få den!
+
+313
+00:21:49,000 --> 00:21:53,083
+Regel nummer én,
+bær aldri noe du ikke kontrollerer.
+
+314
+00:21:58,500 --> 00:21:59,666
+Der!
+
+315
+00:22:00,833 --> 00:22:01,916
+De tar dørene.
+
+316
+00:22:03,750 --> 00:22:05,041
+Vi er omringet.
+
+317
+00:22:07,375 --> 00:22:09,708
+Kom tilbake.
+
+318
+00:22:09,791 --> 00:22:11,500
+-Skynd dere.
+-Lukk den.
+
+319
+00:22:13,458 --> 00:22:14,791
+Stopp!
+
+320
+00:22:14,875 --> 00:22:16,041
+Jeg sa stopp!
+
+321
+00:22:17,125 --> 00:22:18,916
+Du virker redd, jente.
+
+322
+00:22:19,000 --> 00:22:21,000
+Du løper vel ikke hjem?
+
+323
+00:22:21,083 --> 00:22:22,708
+<i>Vestteam, dette er østteamet.</i>
+
+324
+00:22:22,791 --> 00:22:25,083
+<i>Vi er ved fabrikken. Skal vi angripe?</i>
+
+325
+00:22:25,166 --> 00:22:26,416
+Nei.
+
+326
+00:22:26,500 --> 00:22:29,541
+Vent på oss.
+Vi er der snart. Hold kringvernet.
+
+327
+00:22:29,625 --> 00:22:31,666
+De har ham stengt inne, sir.
+
+328
+00:22:31,750 --> 00:22:33,333
+På tide å lukke fellen.
+
+329
+00:22:33,416 --> 00:22:35,333
+Hva venter de på?
+
+330
+00:22:35,416 --> 00:22:36,791
+Forsterkninger.
+
+331
+00:22:38,666 --> 00:22:40,375
+Hvordan skulle du komme deg vekk?
+
+332
+00:22:40,458 --> 00:22:41,833
+Planen min går ikke lenger.
+
+333
+00:22:41,916 --> 00:22:44,083
+Og skipet ditt er 40 km unna,
+over skrapplassen.
+
+334
+00:22:44,166 --> 00:22:46,375
+Vi trenger en speeder.
+Hva er beste alternativ?
+
+335
+00:22:46,458 --> 00:22:48,000
+Vest. Til byen.
+
+336
+00:22:48,083 --> 00:22:49,500
+Hvor fører den?
+
+337
+00:22:49,583 --> 00:22:51,750
+-Under den gamle ovnen.
+-Får den oss vekk?
+
+338
+00:22:51,833 --> 00:22:53,708
+Ja. Det er den lange veien rundt.
+
+339
+00:22:57,750 --> 00:23:00,291
+-Hva er det?
+-Jeg satte sprengladninger på dørene.
+
+340
+00:23:00,375 --> 00:23:01,875
+Hva? Når?
+
+341
+00:23:01,958 --> 00:23:04,291
+Regel nummer to, lag utgangen på vei inn.
+
+342
+00:23:04,375 --> 00:23:05,250
+Forbered deg.
+
+343
+00:23:25,583 --> 00:23:27,041
+Kom!
+
+344
+00:23:27,125 --> 00:23:29,416
+-Vi la igjen boksen!
+-Nei!
+
+345
+00:23:31,166 --> 00:23:32,250
+Der er han!
+
+346
+00:23:45,250 --> 00:23:46,666
+Ned!
+
+347
+00:23:49,875 --> 00:23:52,333
+-Jeg løper. Dekk meg!
+-Glem boksen!
+
+348
+00:24:04,083 --> 00:24:05,333
+<i>Vi blir beskutt.</i>
+
+349
+00:24:05,416 --> 00:24:06,875
+Jeg ba dere vente!
+
+350
+00:24:06,958 --> 00:24:08,291
+<i>To døde eller sårede.</i>
+
+351
+00:24:09,000 --> 00:24:10,416
+Østteam, gjenta det siste.
+
+352
+00:24:11,291 --> 00:24:12,541
+Gjenta det siste.
+
+353
+00:24:29,375 --> 00:24:30,750
+Kom igjen!
+
+354
+00:24:48,583 --> 00:24:49,625
+Se opp!
+
+355
+00:25:07,791 --> 00:25:08,750
+Nå! Kom!
+
+356
+00:25:15,958 --> 00:25:16,875
+Østteam!
+
+357
+00:25:17,583 --> 00:25:19,000
+Hva skjer der oppe?
+
+358
+00:25:20,458 --> 00:25:21,791
+Nordteam, hvor er dere?
+
+359
+00:25:22,708 --> 00:25:24,000
+Det er ingen tegn.
+
+360
+00:25:24,083 --> 00:25:25,541
+Jeg vet ikke hvilken gate.
+
+361
+00:25:25,625 --> 00:25:27,291
+<i>Vi er i en skuddveksling.</i>
+
+362
+00:25:27,375 --> 00:25:29,208
+<i>Si deres nøyaktige posisjon.</i>
+
+363
+00:25:30,666 --> 00:25:32,375
+Jeg ba deg vente her!
+
+364
+00:25:39,833 --> 00:25:41,375
+Vent! Boksen!
+
+365
+00:25:41,458 --> 00:25:42,916
+Den er rett der inne.
+
+366
+00:25:43,000 --> 00:25:44,083
+Jeg trodde du var smart.
+
+367
+00:25:44,166 --> 00:25:45,666
+Hva om det bare er én igjen?
+
+368
+00:25:45,750 --> 00:25:47,708
+De ville ikke komme med kun fire menn.
+
+369
+00:25:51,333 --> 00:25:54,083
+Vi er i Nordtrappgata.
+
+370
+00:25:54,166 --> 00:25:55,041
+La henne være!
+
+371
+00:25:55,125 --> 00:25:58,000
+<i>Få mennene dine til Rixveien</i>
+<i>og send opp et skip straks.</i>
+
+372
+00:25:58,083 --> 00:26:00,333
+Bix!
+
+373
+00:26:00,416 --> 00:26:02,916
+-Hva har du gjort med henne?
+-Stopp.
+
+374
+00:26:03,000 --> 00:26:05,166
+-Hun blør!
+-Stopp.
+
+375
+00:26:05,250 --> 00:26:06,833
+<i>Nordteam, meld fra.</i>
+
+376
+00:26:06,916 --> 00:26:08,375
+Hvem gjorde dette?
+
+377
+00:26:11,625 --> 00:26:12,958
+Timm!
+
+378
+00:26:14,291 --> 00:26:16,166
+<i>Nordteam, meld fra.</i>
+
+379
+00:26:16,250 --> 00:26:17,875
+<i>Hva skjer der oppe?</i>
+
+380
+00:26:17,958 --> 00:26:19,791
+<i>Jeg trenger luftovervåkning nå!</i>
+
+381
+00:26:20,291 --> 00:26:22,041
+Oppfattet, sir. Avvent.
+
+382
+00:26:23,000 --> 00:26:24,458
+Gi meg rifla!
+
+383
+00:26:24,541 --> 00:26:25,458
+Hvorfor?
+
+384
+00:26:25,541 --> 00:26:27,500
+Gå tilbake til skipet!
+
+385
+00:26:27,583 --> 00:26:29,041
+Alene?
+
+386
+00:26:29,125 --> 00:26:31,500
+Få skipet i lufta. Hold radioen på.
+
+387
+00:26:31,583 --> 00:26:32,583
+Sett i gang!
+
+388
+00:26:34,583 --> 00:26:35,666
+La oss komme oss vekk.
+
+389
+00:26:36,416 --> 00:26:37,958
+Nordteam på vei til Rixveien.
+
+390
+00:26:38,041 --> 00:26:39,958
+Luftstøtte på vei.
+
+391
+00:26:41,625 --> 00:26:42,583
+Timm.
+
+392
+00:26:44,666 --> 00:26:45,833
+Er det tre menn?
+
+393
+00:26:45,916 --> 00:26:47,166
+Hvordan er det mulig?
+
+394
+00:26:47,250 --> 00:26:48,791
+De ødela bygningen.
+
+395
+00:26:48,875 --> 00:26:50,416
+De har sprengstoff.
+
+396
+00:26:50,500 --> 00:26:52,625
+Vent. Hva mener du med "de"?
+
+397
+00:26:52,708 --> 00:26:54,125
+<i>De er to.</i>
+
+398
+00:26:54,208 --> 00:26:56,333
+<i>To tungt bevæpnede mennesker.</i>
+
+399
+00:26:56,416 --> 00:26:58,958
+<i>-På vei mot dere.</i>
+-Følg etter dem.
+
+400
+00:26:59,041 --> 00:27:01,291
+Kjemp videre. Ha radioen på.
+
+401
+00:27:01,375 --> 00:27:03,125
+-Er de to?
+-Tydeligvis.
+
+402
+00:27:03,208 --> 00:27:04,958
+Skal vi bare stå her?
+
+403
+00:27:06,583 --> 00:27:07,666
+Godt poeng.
+
+404
+00:27:09,000 --> 00:27:13,708
+Vi sprer oss, inntar posisjoner,
+dreper dem idet de kommer.
+
+405
+00:27:13,791 --> 00:27:15,875
+Rifle! Kom igjen!
+
+406
+00:27:15,958 --> 00:27:17,500
+Venstre flanke! Høyre flanke!
+
+407
+00:27:36,791 --> 00:27:37,791
+Hallo?
+
+408
+00:27:39,000 --> 00:27:40,000
+Hallo?
+
+409
+00:28:00,000 --> 00:28:01,375
+Ubehagelig, ikke sant?
+
+410
+00:28:02,291 --> 00:28:03,375
+Hold kjeft.
+
+411
+00:28:05,708 --> 00:28:07,875
+Slik høres et oppgjør ut.
+
+412
+00:28:19,000 --> 00:28:21,875
+Du vil den skal stoppe,
+men den fortsetter bare.
+
+413
+00:28:21,958 --> 00:28:23,416
+Jeg ba deg holde kjeft!
+
+414
+00:28:32,958 --> 00:28:34,291
+<i>Det er når den stopper,</i>
+
+415
+00:28:36,541 --> 00:28:38,833
+at du virkelig bør bli redd.
+
+416
+00:28:40,333 --> 00:28:41,500
+Hvorfor det?
+
+417
+00:28:41,583 --> 00:28:42,708
+Hva skjer da?
+
+418
+00:28:51,750 --> 00:28:53,208
+Trygt!
+
+419
+00:28:54,541 --> 00:28:55,541
+Løp!
+
+420
+00:28:57,375 --> 00:28:59,041
+<i>Nordteam, status?</i>
+
+421
+00:28:59,125 --> 00:29:00,458
+I posisjon.
+
+422
+00:29:01,083 --> 00:29:02,666
+<i>Ha øynene åpne, gutter.</i>
+
+423
+00:29:02,750 --> 00:29:03,916
+<i>Våpnene klare.</i>
+
+424
+00:29:39,583 --> 00:29:40,708
+Legg fra deg våpenet.
+
+425
+00:29:46,916 --> 00:29:48,166
+Ta av radioen.
+
+426
+00:29:51,833 --> 00:29:52,833
+Legg den ned.
+
+427
+00:29:57,833 --> 00:29:58,708
+Hvor mange er dere?
+
+428
+00:30:00,708 --> 00:30:01,625
+Jeg vet ikke.
+
+429
+00:30:02,583 --> 00:30:03,458
+Drep ham.
+
+430
+00:30:04,583 --> 00:30:05,666
+Hvor mange?
+
+431
+00:30:07,916 --> 00:30:08,750
+Jeg dreper ham.
+
+432
+00:30:08,833 --> 00:30:10,750
+Tolv. Fjorten.
+
+433
+00:30:11,666 --> 00:30:13,166
+Et dusin menn. To offiserer.
+
+434
+00:30:13,833 --> 00:30:14,916
+Jeg sverger.
+
+435
+00:31:12,208 --> 00:31:13,458
+Var det dem?
+
+436
+00:31:13,541 --> 00:31:15,625
+<i>Jeg vet ikke. Jeg ser det ikke herfra.</i>
+
+437
+00:31:15,708 --> 00:31:17,458
+Hvem andre kan det være?
+
+438
+00:31:17,541 --> 00:31:19,291
+<i>Men da er de bak oss.</i>
+
+439
+00:31:20,583 --> 00:31:21,750
+Fanken!
+
+440
+00:31:21,833 --> 00:31:23,208
+Vi er beleiret.
+
+441
+00:31:23,291 --> 00:31:24,541
+De er overalt.
+
+442
+00:31:28,791 --> 00:31:30,000
+Hvilken vil du ha?
+
+443
+00:31:33,583 --> 00:31:36,000
+Hvor mange ladninger har du igjen?
+
+444
+00:31:52,916 --> 00:31:54,208
+Vent, sir.
+
+445
+00:31:58,708 --> 00:32:00,291
+Det er dem! De slipper unna!
+
+446
+00:32:06,333 --> 00:32:08,416
+Pepre den!
+
+447
+00:32:09,500 --> 00:32:11,083
+-Se opp!
+-Følg etter ham!
+
+448
+00:32:13,750 --> 00:32:14,916
+-Ta den!
+-Skyt!
+
+449
+00:32:17,375 --> 00:32:18,375
+Skyt!
+
+450
+00:32:41,416 --> 00:32:42,416
+Der er han!
+
+451
+00:32:50,666 --> 00:32:51,708
+Nei, nei!
+
+452
+00:32:51,791 --> 00:32:52,958
+Nordteam, si noe!
+
+453
+00:32:53,958 --> 00:32:55,333
+Nordteam, si noe!
+
+454
+00:33:09,541 --> 00:33:10,541
+Bacta!
+
+455
+00:33:22,000 --> 00:33:25,208
+Dette er Delta-Én.
+Vi må evakuere sårede nå, over.
+
+456
+00:33:26,833 --> 00:33:29,083
+Nova, dette er Delta-Én.
+
+457
+00:34:23,291 --> 00:34:26,125
+Bix, kom. Vi må vekk.
+
+458
+00:34:26,208 --> 00:34:27,208
+Kom igjen.
+
+459
+00:34:30,208 --> 00:34:31,333
+Kom igjen.
+
+460
+00:34:52,041 --> 00:34:55,125
+Ta dere sammen, ok?
+Kom dere i posisjon, menn!
+
+461
+00:34:57,000 --> 00:34:59,916
+Nova, dette er Delta-Én.
+Hørte dere min siste?
+
+462
+00:35:00,000 --> 00:35:01,083
+Nettopp.
+
+463
+00:35:01,166 --> 00:35:02,333
+Vi må dra.
+
+464
+00:35:03,750 --> 00:35:04,583
+Sir.
+
+465
+00:35:05,500 --> 00:35:06,833
+Vi må dra.
+
+466
+00:35:09,083 --> 00:35:10,833
+Sir, vi må dra!
+
+467
+00:40:06,541 --> 00:40:08,541
+Norske tekster: Jon Sæterbø
+

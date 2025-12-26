@@ -1,0 +1,359 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 872
+Timer: 100.0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2.37,1.97,2,20,20,20,0
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:42.09,0:00:43.26,Default,,0,0,0,,{\i1} Time.{\i0}
+Dialogue: 0,0:00:46.63,0:00:47.76,Default,,0,0,0,,{\i1}Space.{\i0}
+Dialogue: 0,0:00:49.05,0:00:50.22,Default,,0,0,0,,{\i1}Reality.{\i0}
+Dialogue: 0,0:00:53.30,0:00:55.13,Default,,0,0,0,,{\i1}It's more than a linear path.{\i0}
+Dialogue: 0,0:00:59.92,0:01:04.46,Default,,0,0,0,,{\i1}It's a prism of endless possibility,{\i0}
+Dialogue: 0,0:01:06.84,0:01:10.55,Default,,0,0,0,,{\i1}where a single choice{\i0}\N{\i1}can branch out into infinite realities,{\i0}
+Dialogue: 0,0:01:12.96,0:01:16.04,Default,,0,0,0,,{\i1}creating alternate worlds{\i0}\N{\i1}from the ones you know.{\i0}
+Dialogue: 0,0:01:20.01,0:01:21.30,Default,,0,0,0,,{\i1}I am the Watcher.{\i0}
+Dialogue: 0,0:01:23.63,0:01:26.96,Default,,0,0,0,,{\i1}I am your guide{\i0}\N{\i1}through these vast new realities.{\i0}
+Dialogue: 0,0:01:28.26,0:01:31.72,Default,,0,0,0,,{\i1}Follow me and ponder the question...{\i0}
+Dialogue: 0,0:01:35.30,0:01:36.34,Default,,0,0,0,,{\i1}"What if?"{\i0}
+Dialogue: 0,0:01:41.88,0:01:43.38,Default,,0,0,0,,The {\i1}Lemurian Star.{\i0}
+Dialogue: 0,0:01:43.46,0:01:46.17,Default,,0,0,0,,They were sending their last payload\Nwhen pirates took the ship.
+Dialogue: 0,0:01:46.26,0:01:50.43,Default,,0,0,0,,-How many pirates?\N-Twenty or so charmers led by Batroc.
+Dialogue: 0,0:01:50.51,0:01:52.55,Default,,0,0,0,,Before French special forces\Nshowed him the door,
+Dialogue: 0,0:01:52.63,0:01:55.34,Default,,0,0,0,,he racked up 36 kill missions.
+Dialogue: 0,0:01:55.42,0:01:57.17,Default,,0,0,0,,Hmm. Sounds more like your type.
+Dialogue: 0,0:01:57.26,0:01:59.93,Default,,0,0,0,,Fine. I've got the shield.\NYou've got the sword.
+Dialogue: 0,0:02:00.01,0:02:02.18,Default,,0,0,0,,More like knives, but cute wordplay.
+Dialogue: 0,0:02:02.26,0:02:05.76,Default,,0,0,0,,Kill the engines and find the hostages.\NGentlemen, watch our six.
+Dialogue: 0,0:02:05.84,0:02:07.80,Default,,0,0,0,,STRIKE Team,\Nyou heard the captain, gear up.
+Dialogue: 0,0:02:08.46,0:02:10.67,Default,,0,0,0,,So, any plans for Saturday night?
+Dialogue: 0,0:02:10.76,0:02:12.43,Default,,0,0,0,,No, don't. Stop right there.
+Dialogue: 0,0:02:12.51,0:02:14.64,Default,,0,0,0,,Bernard in accounting\Nwas asking about you.
+Dialogue: 0,0:02:14.71,0:02:18.63,Default,,0,0,0,,Nothing good has ever followed the phrase,\N"Bernard in accounting."
+Dialogue: 0,0:02:20.71,0:02:22.38,Default,,0,0,0,,What if his name was Steve?
+Dialogue: 0,0:02:22.46,0:02:25.00,Default,,0,0,0,,Ouch! Just when\Nwe were becoming pals, Widow.
+Dialogue: 0,0:02:49.88,0:02:53.55,Default,,0,0,0,,I thought\Nyou were more than just a shield.
+Dialogue: 0,0:02:56.80,0:02:58.63,Default,,0,0,0,,I'm a pretty good dancer, too.
+Dialogue: 0,0:03:03.21,0:03:05.04,Default,,0,0,0,,I'm too fast.
+Dialogue: 0,0:03:10.59,0:03:12.38,Default,,0,0,0,,Oh! That was good.
+Dialogue: 0,0:03:16.51,0:03:19.47,Default,,0,0,0,,-Whoa!\N-What? Are you scared?
+Dialogue: 0,0:03:19.55,0:03:20.72,Default,,0,0,0,,Are you seeing that?
+Dialogue: 0,0:03:22.55,0:03:27.26,Default,,0,0,0,,Captain Carter, the soldier lost in time,\Nyou have been chosen.
+Dialogue: 0,0:03:33.84,0:03:35.59,Default,,0,0,0,,Oh, come on. Relax, son.
+Dialogue: 0,0:03:35.67,0:03:38.05,Default,,0,0,0,,It'll all be over\Nin a thousand years or so.
+Dialogue: 0,0:03:39.05,0:03:40.05,Default,,0,0,0,,Huh?
+Dialogue: 0,0:03:41.71,0:03:42.71,Default,,0,0,0,,-Hey.
+Dialogue: 0,0:03:44.96,0:03:48.04,Default,,0,0,0,,Stay here. Leave this fight to us.
+Dialogue: 0,0:03:48.13,0:03:52.05,Default,,0,0,0,,I got it. Yeah. Hang back\Nwith the giant baby-man cape dude.
+Dialogue: 0,0:03:53.01,0:03:57.30,Default,,0,0,0,,Star-Lord T'Challa, leader of the Ravagers\Nand lost Prince of Wakanda,
+Dialogue: 0,0:03:57.38,0:03:59.76,Default,,0,0,0,,you have been chosen.
+Dialogue: 0,0:04:08.55,0:04:10.05,Default,,0,0,0,,These Infinity Stones...
+Dialogue: 0,0:04:10.13,0:04:12.38,Default,,0,0,0,,I'm out of the weapons business,\Nnot my cake.
+Dialogue: 0,0:04:12.46,0:04:16.38,Default,,0,0,0,,But how do we put a suit of armor\Naround the world? Hmm?
+Dialogue: 0,0:04:16.46,0:04:17.67,Default,,0,0,0,,Around the galaxy?
+Dialogue: 0,0:04:17.76,0:04:19.93,Default,,0,0,0,,You can't tell me\Nthere's not another big, bad
+Dialogue: 0,0:04:20.01,0:04:21.89,Default,,0,0,0,,lurking-in-the-shadows monster\Nunder the bed.
+Dialogue: 0,0:04:21.96,0:04:23.42,Default,,0,0,0,,-Tony!
+Dialogue: 0,0:04:25.01,0:04:27.80,Default,,0,0,0,,Gamora, survivor of Sakaar\Nand destroyer of Thanos...
+Dialogue: 0,0:04:27.88,0:04:30.30,Default,,0,0,0,,And one who's about to kick\Nyour moon-shaped, ugly mug.
+Dialogue: 0,0:04:30.38,0:04:34.51,Default,,0,0,0,,Not you, Stark.\NYou, Gamora, have been chosen.
+Dialogue: 0,0:04:35.84,0:04:39.22,Default,,0,0,0,,Killmonger must be tried for murder\Nunder Wakandan law.
+Dialogue: 0,0:04:39.30,0:04:41.80,Default,,0,0,0,,The Americans can have him\Nafter we're finished.
+Dialogue: 0,0:04:45.63,0:04:48.26,Default,,0,0,0,,Erik Stevens, Killmonger,
+Dialogue: 0,0:04:48.34,0:04:52.09,Default,,0,0,0,,Tony Stark's former protégé and killer,
+Dialogue: 0,0:04:52.17,0:04:54.75,Default,,0,0,0,,you have been chosen.
+Dialogue: 0,0:05:04.59,0:05:06.80,Default,,0,0,0,,We were about to go on a date!
+Dialogue: 0,0:05:06.88,0:05:09.92,Default,,0,0,0,,There were gonna be flowers,\Nand I was gonna light candles,
+Dialogue: 0,0:05:10.01,0:05:12.47,Default,,0,0,0,,and I was gonna shower\Nand do my hair.
+Dialogue: 0,0:05:15.59,0:05:17.05,Default,,0,0,0,,Nobody messes with Vegas.
+Dialogue: 0,0:05:17.13,0:05:20.17,Default,,0,0,0,,How about you? And you?
+Dialogue: 0,0:05:20.26,0:05:22.89,Default,,0,0,0,,Finally, Thor Odinson,\NCrown Prince of As...
+Dialogue: 0,0:05:22.96,0:05:24.21,Default,,0,0,0,,And you. And you.
+Dialogue: 0,0:05:24.30,0:05:25.59,Default,,0,0,0,,You've been cho...
+Dialogue: 0,0:05:25.67,0:05:27.67,Default,,0,0,0,,-Have at you, too.\N-Thor. Thor!
+Dialogue: 0,0:05:27.76,0:05:30.22,Default,,0,0,0,,-And you. And you.\N-Shh. Calm down.
+Dialogue: 0,0:05:30.92,0:05:34.84,Default,,0,0,0,,-Thor Odinson, Crown Prince of Asgard...
+Dialogue: 0,0:05:34.92,0:05:36.30,Default,,0,0,0,,You've been chosen.
+Dialogue: 0,0:05:39.30,0:05:40.88,Default,,0,0,0,,Oh, we're in a pub.
+Dialogue: 0,0:05:40.96,0:05:42.63,Default,,0,0,0,,I know this place.
+Dialogue: 0,0:05:45.17,0:05:46.75,Default,,0,0,0,,The pub facade was my idea.
+Dialogue: 0,0:05:46.84,0:05:49.63,Default,,0,0,0,,I read about it in your biography.\NI hope you like it.
+Dialogue: 0,0:05:49.71,0:05:51.84,Default,,0,0,0,,Over here. Me, me. Can I get a beer?
+Dialogue: 0,0:05:53.38,0:05:54.38,Default,,0,0,0,,Yes!
+Dialogue: 0,0:05:56.13,0:05:58.05,Default,,0,0,0,,-- Uh, who are you?\N-- Where am I?
+Dialogue: 0,0:05:58.13,0:06:00.59,Default,,0,0,0,,T'Why did you bring us here?\NWhat do you want with us?
+Dialogue: 0,0:06:00.67,0:06:02.05,Default,,0,0,0,,DR.All good questions.
+Dialogue: 0,0:06:02.13,0:06:03.92,Default,,0,0,0,,-Send me back. Now.
+Dialogue: 0,0:06:09.21,0:06:12.42,Default,,0,0,0,,-It's you again.\N-Come on. Get a new trick, man.
+Dialogue: 0,0:06:12.51,0:06:14.09,Default,,0,0,0,,You have been chosen...
+Dialogue: 0,0:06:15.17,0:06:18.96,Default,,0,0,0,,for a mission that is both\Nhighly dangerous and absolutely necessary
+Dialogue: 0,0:06:19.05,0:06:22.01,Default,,0,0,0,,for the continuation of life\Nas you know it.
+Dialogue: 0,0:06:22.76,0:06:26.64,Default,,0,0,0,,At first, I scoured eternity\Nfor one true hero.
+Dialogue: 0,0:06:26.71,0:06:28.54,Default,,0,0,0,,Then I saw the bigger picture.
+Dialogue: 0,0:06:28.63,0:06:30.80,Default,,0,0,0,,This mission requires a team.
+Dialogue: 0,0:06:30.88,0:06:34.92,Default,,0,0,0,,The perfect combination of skills\Nand experience that alone will triumph.
+Dialogue: 0,0:06:35.01,0:06:36.09,Default,,0,0,0,,Let me get this straight.
+Dialogue: 0,0:06:36.17,0:06:40.09,Default,,0,0,0,,You kidnapped us from across the galaxy\Nso we could, what?
+Dialogue: 0,0:06:40.17,0:06:41.38,Default,,0,0,0,,Save the universe?
+Dialogue: 0,0:06:41.46,0:06:42.88,Default,,0,0,0,,Mmm. Not exactly.
+Dialogue: 0,0:06:42.96,0:06:44.59,Default,,0,0,0,,Bit more complicated than that.
+Dialogue: 0,0:06:44.67,0:06:47.67,Default,,0,0,0,,You aren't just our best hope\Nto save one universe.
+Dialogue: 0,0:06:47.76,0:06:50.80,Default,,0,0,0,,You are my last hope to save all of them.
+Dialogue: 0,0:06:51.67,0:06:55.38,Default,,0,0,0,,You are the Guardians of the Multiverse.
+Dialogue: 0,0:06:58.71,0:07:01.29,Default,,0,0,0,,I know what this is.\NLoki put you up to this joke.
+Dialogue: 0,0:07:01.38,0:07:03.84,Default,,0,0,0,,Listen, I do not have time\Nfor his pranks today.
+Dialogue: 0,0:07:03.92,0:07:05.09,Default,,0,0,0,,No, I wouldn't do that.
+Dialogue: 0,0:07:05.17,0:07:07.80,Default,,0,0,0,,My lady Jane needs me.\NSo, I'll be going. Enjoy yourse...
+Dialogue: 0,0:07:15.88,0:07:18.63,Default,,0,0,0,,We're in. Mind telling us\Nwhat we're up against?
+Dialogue: 0,0:07:19.42,0:07:23.13,Default,,0,0,0,,Your worlds are either\Nunder attack or soon will be by Ultron,
+Dialogue: 0,0:07:23.63,0:07:26.05,Default,,0,0,0,,an artificial intelligence\Nelevated to a cosmic being
+Dialogue: 0,0:07:26.13,0:07:30.01,Default,,0,0,0,,thanks to an enhanced synthetic body\Nand the power of the Infinity Stones.
+Dialogue: 0,0:07:30.09,0:07:32.55,Default,,0,0,0,,DR.Six stones\Nof near unfathomable power.
+Dialogue: 0,0:07:32.63,0:07:35.71,Default,,0,0,0,,Each controlling\Nan essential aspect of our existence.
+Dialogue: 0,0:07:35.80,0:07:38.09,Default,,0,0,0,,And Ultron holds all of them.
+Dialogue: 0,0:07:38.17,0:07:41.38,Default,,0,0,0,,I might be able to help with that.\NI've stolen more from worse.
+Dialogue: 0,0:07:41.46,0:07:43.84,Default,,0,0,0,,Seriously?\NYou really are from another planet.
+Dialogue: 0,0:07:44.17,0:07:48.09,Default,,0,0,0,,We believe the only way to stop Ultron\Nis to separate his body from the stones.
+Dialogue: 0,0:07:48.17,0:07:51.38,Default,,0,0,0,,But this Ultron could be hiding\Nanywhere in the Multiverse?
+Dialogue: 0,0:07:51.46,0:07:54.04,Default,,0,0,0,,-Yes.\N-Behind an army of killer robots?
+Dialogue: 0,0:07:54.13,0:07:56.80,Default,,0,0,0,,-Afraid so.\N-And armed with a full set of stones?
+Dialogue: 0,0:07:56.88,0:07:59.21,Default,,0,0,0,,-She's got a point.\N-I never said it would be easy.
+Dialogue: 0,0:07:59.30,0:08:00.63,Default,,0,0,0,,This is a suicide mission.
+Dialogue: 0,0:08:00.71,0:08:01.71,Default,,0,0,0,,Um, excuse me, yeah.
+Dialogue: 0,0:08:01.80,0:08:05.63,Default,,0,0,0,,Is there a universe of Chinese food\Nthat has alternate dimension delivery?
+Dialogue: 0,0:08:05.71,0:08:07.34,Default,,0,0,0,,Tummy's getting rumbly.
+Dialogue: 0,0:08:07.96,0:08:09.00,Default,,0,0,0,,You picked them.
+Dialogue: 0,0:08:09.96,0:08:12.50,Default,,0,0,0,,Well, obviously the first step\Nwould be finding him.
+Dialogue: 0,0:08:12.59,0:08:14.09,Default,,0,0,0,,Well, I'm not one to brag,
+Dialogue: 0,0:08:14.17,0:08:18.21,Default,,0,0,0,,but I've been told that I excel\Nat attracting unwanted attention.
+Dialogue: 0,0:08:21.51,0:08:23.97,Default,,0,0,0,,Oh. That will come in handy.
+Dialogue: 0,0:08:24.05,0:08:26.72,Default,,0,0,0,,And after we recover the stones,\Nwe destroy them.
+Dialogue: 0,0:08:26.80,0:08:29.09,Default,,0,0,0,,How would you even\Ngo about destroying the...
+Dialogue: 0,0:08:29.17,0:08:31.34,Default,,0,0,0,,Oh, you're answering my question.\NSorry. Thank you.
+Dialogue: 0,0:08:31.42,0:08:32.92,Default,,0,0,0,,The Infinity Crusher,
+Dialogue: 0,0:08:33.01,0:08:35.97,Default,,0,0,0,,designed to disintegrate each stone\Ninto nothing.
+Dialogue: 0,0:08:36.59,0:08:38.13,Default,,0,0,0,,Yep. I picked them.
+Dialogue: 0,0:08:38.92,0:08:41.88,Default,,0,0,0,,All right, everyone, you all know\Nwhat to do. You know the plan.
+Dialogue: 0,0:08:41.96,0:08:44.79,Default,,0,0,0,,Get the Soul Stone and get it to Gamora.
+Dialogue: 0,0:08:44.88,0:08:47.51,Default,,0,0,0,,We'll hold the line.\NAnd then she'll unleash the Crusher.
+Dialogue: 0,0:08:47.59,0:08:49.42,Default,,0,0,0,,With some luck, we'll be home for dinner.
+Dialogue: 0,0:08:49.51,0:08:51.09,Default,,0,0,0,,Okay, wait. Slow down a little bit.
+Dialogue: 0,0:08:51.17,0:08:53.46,Default,,0,0,0,,There's a few people in the room\Nthat don't understand.
+Dialogue: 0,0:08:53.55,0:08:56.22,Default,,0,0,0,,Not me. I get it.\NBut for them, maybe repeat it.
+Dialogue: 0,0:08:56.71,0:09:01.54,Default,,0,0,0,,Hmm. You're ready.\NIt's showtime, my friends. Good luck.
+Dialogue: 0,0:09:08.59,0:09:09.92,Default,,0,0,0,,This place is safe?
+Dialogue: 0,0:09:10.01,0:09:13.68,Default,,0,0,0,,Apparently, there's not enough\Nintelligent life here to attract Ultron.
+Dialogue: 0,0:09:13.76,0:09:15.34,Default,,0,0,0,,Until we decide to.
+Dialogue: 0,0:09:19.59,0:09:22.09,Default,,0,0,0,,-Can I ask, what happened?
+Dialogue: 0,0:09:22.67,0:09:25.96,Default,,0,0,0,,Same thing that happened to you. Love.
+Dialogue: 0,0:09:26.05,0:09:29.38,Default,,0,0,0,,I take it you know the Captain Carter\Non your universe?
+Dialogue: 0,0:09:29.46,0:09:31.71,Default,,0,0,0,,No. Captain America.
+Dialogue: 0,0:09:31.80,0:09:34.72,Default,,0,0,0,,In my universe,\NSteve Rogers received the serum.
+Dialogue: 0,0:09:34.80,0:09:37.18,Default,,0,0,0,,Now, that would be a sight to see.
+Dialogue: 0,0:09:45.63,0:09:46.84,Default,,0,0,0,,You trust him?
+Dialogue: 0,0:09:51.09,0:09:52.17,Default,,0,0,0,,I trust everyone.
+Dialogue: 0,0:09:52.88,0:09:57.26,Default,,0,0,0,,Hasten, friends. Tonight we feast.\NFor tomorrow, we fight.
+Dialogue: 0,0:09:57.34,0:09:59.51,Default,,0,0,0,,In that spirit, I propose a toast.
+Dialogue: 0,0:09:59.59,0:10:02.63,Default,,0,0,0,,-- Some mead. Wonderful.\N-- Ooh. Now we're talking.
+Dialogue: 0,0:10:02.71,0:10:07.21,Default,,0,0,0,,A wise sorcerer once told me\Nthat to face death is part of the plan.
+Dialogue: 0,0:10:07.84,0:10:12.13,Default,,0,0,0,,To face death is to conquer\None's greatest fear of the unknown
+Dialogue: 0,0:10:12.21,0:10:16.88,Default,,0,0,0,,of nothingless space,\Nof the end of all ends.
+Dialogue: 0,0:10:16.96,0:10:21.96,Default,,0,0,0,,The senseless nothing and the vast\Nopening of infinity to your...
+Dialogue: 0,0:10:22.05,0:10:24.09,Default,,0,0,0,,Let me. You've done enough, Doctor.
+Dialogue: 0,0:10:24.17,0:10:26.63,Default,,0,0,0,,To the Guardians of...
+Dialogue: 0,0:10:26.71,0:10:28.46,Default,,0,0,0,,The Multiverse.
+Dialogue: 0,0:10:29.92,0:10:33.00,Default,,0,0,0,,The Multiverse!
+Dialogue: 0,0:10:36.76,0:10:43.01,Default,,0,0,0,,So there is life\Nin this universe, after all.
+Dialogue: 0,0:10:43.09,0:10:44.84,Default,,0,0,0,,There goes waiting until we're ready.
+Dialogue: 0,0:10:44.92,0:10:46.75,Default,,0,0,0,,In my defense, I did warn you.
+Dialogue: 0,0:10:46.84,0:10:49.47,Default,,0,0,0,,I excel at attracting unwanted attention.
+Dialogue: 0,0:10:50.17,0:10:51.42,Default,,0,0,0,,Mmm-hmm.
+Dialogue: 0,0:11:00.51,0:11:02.72,Default,,0,0,0,,All right, here comes\Na non-compliant spell.
+Dialogue: 0,0:11:04.71,0:11:06.00,Default,,0,0,0,,Yeah, you might feel it.
+Dialogue: 0,0:11:06.09,0:11:07.63,Default,,0,0,0,,-Whoo!
+Dialogue: 0,0:11:07.71,0:11:11.63,Default,,0,0,0,,-Oh, what is going on?\N-It's a protection spell. You're welcome.
+Dialogue: 0,0:11:11.71,0:11:16.67,Default,,0,0,0,,Wow! This is fantastic. Showtime. Watcher!
+Dialogue: 0,0:11:19.26,0:11:20.84,Default,,0,0,0,,See you on the flip side.
+Dialogue: 0,0:11:27.46,0:11:29.59,Default,,0,0,0,,I know how to deal with this party pooper.
+Dialogue: 0,0:11:29.67,0:11:30.75,Default,,0,0,0,,Wait! Thor, the plan.
+Dialogue: 0,0:11:30.84,0:11:35.05,Default,,0,0,0,,Viva Las Vegas!
+Dialogue: 0,0:11:44.21,0:11:45.21,Default,,0,0,0,,What?
+Dialogue: 0,0:11:46.34,0:11:49.80,Default,,0,0,0,,Can't say I've heard\Nthat battle cry before.
+Dialogue: 0,0:11:58.17,0:11:59.55,Default,,0,0,0,,All too easy.
+Dialogue: 0,0:12:05.88,0:12:06.88,Default,,0,0,0,,Interesting.
+Dialogue: 0,0:12:06.96,0:12:10.25,Default,,0,0,0,,Usually, you people are\Nmuch easier to kill.
+Dialogue: 0,0:12:10.34,0:12:12.34,Default,,0,0,0,,Blimey! Not even a scratch.
+Dialogue: 0,0:12:12.42,0:12:14.30,Default,,0,0,0,,You weren't kidding\Nabout a protection spell.
+Dialogue: 0,0:12:14.38,0:12:17.13,Default,,0,0,0,,-You're protected, but it won't last long.
+Dialogue: 0,0:12:23.42,0:12:24.46,Default,,0,0,0,,Whoo!
+Dialogue: 0,0:12:24.55,0:12:27.18,Default,,0,0,0,,-We're up. Are you sure about this?\N-Of course not.
+Dialogue: 0,0:12:31.67,0:12:33.09,Default,,0,0,0,,Here we go. Now!
+Dialogue: 0,0:12:40.92,0:12:42.00,Default,,0,0,0,,Ha!
+Dialogue: 0,0:12:42.84,0:12:44.88,Default,,0,0,0,,-T'Gotcha.\N-Get off!
+Dialogue: 0,0:12:58.84,0:12:59.84,Default,,0,0,0,,Did you get it?
+Dialogue: 0,0:12:59.92,0:13:03.46,Default,,0,0,0,,As Yondu says,\N"Never doubt sticky fingers."
+Dialogue: 0,0:13:08.05,0:13:09.05,Default,,0,0,0,,Go! Go!
+Dialogue: 0,0:13:13.05,0:13:15.55,Default,,0,0,0,,What? You've been hiding that\Nthe entire time?
+Dialogue: 0,0:13:16.26,0:13:18.39,Default,,0,0,0,,Well, this has been delightful.
+Dialogue: 0,0:13:18.46,0:13:22.21,Default,,0,0,0,,But it's time for me to bring out\Nsome of my own toys.
+Dialogue: 0,0:13:23.51,0:13:26.97,Default,,0,0,0,,My stone. You stole my Soul Stone?
+Dialogue: 0,0:13:30.21,0:13:31.21,Default,,0,0,0,,Time to go.
+Dialogue: 0,0:13:42.46,0:13:43.92,Default,,0,0,0,,-That'll keep him busy.\N-Oh!
+Dialogue: 0,0:13:44.01,0:13:46.05,Default,,0,0,0,,Zombies! Great idea. I love zombies.
+Dialogue: 0,0:13:46.13,0:13:48.30,Default,,0,0,0,,It's not them.\NIt's what came with the zombies.
+Dialogue: 0,0:13:48.38,0:13:49.42,Default,,0,0,0,,Oh...
+Dialogue: 0,0:13:49.51,0:13:50.89,Default,,0,0,0,,Tick tock, boys.
+Dialogue: 0,0:13:52.59,0:13:54.22,Default,,0,0,0,,Whoo!
+Dialogue: 0,0:13:59.46,0:14:02.38,Default,,0,0,0,,That was unexpected.
+Dialogue: 0,0:14:02.71,0:14:03.84,Default,,0,0,0,,What?
+Dialogue: 0,0:14:20.01,0:14:22.80,Default,,0,0,0,,Blimey bloody bollocks!
+Dialogue: 0,0:14:27.42,0:14:28.46,Default,,0,0,0,,Oh, you made it.
+Dialogue: 0,0:14:30.71,0:14:32.09,Default,,0,0,0,,-You ready?\N-The stone?
+Dialogue: 0,0:14:39.55,0:14:41.93,Default,,0,0,0,,No, wait. Stand down.
+Dialogue: 0,0:14:42.42,0:14:44.17,Default,,0,0,0,,-She's Natasha Romanoff.\N-Who?
+Dialogue: 0,0:14:44.26,0:14:47.47,Default,,0,0,0,,Yeah. I'm also supposed to be\Nthe last person on this planet.
+Dialogue: 0,0:14:47.55,0:14:49.63,Default,,0,0,0,,We're from another universe. Universes.
+Dialogue: 0,0:14:49.71,0:14:51.67,Default,,0,0,0,,We're here to stop Ultron.
+Dialogue: 0,0:14:52.17,0:14:53.17,Default,,0,0,0,,I can prove it.
+Dialogue: 0,0:14:53.26,0:14:56.34,Default,,0,0,0,,Your father is Ivan. Your da's Alexei.
+Dialogue: 0,0:14:56.42,0:15:00.80,Default,,0,0,0,,And you're the one woman\NI trust to have my six, including now.
+Dialogue: 0,0:15:01.67,0:15:03.80,Default,,0,0,0,,There are three people\Nyou trust in the universe,
+Dialogue: 0,0:15:03.88,0:15:06.55,Default,,0,0,0,,and I count myself lucky enough\Nto be one of them.
+Dialogue: 0,0:15:10.13,0:15:12.71,Default,,0,0,0,,Well, we must be close.
+Dialogue: 0,0:15:12.80,0:15:14.34,Default,,0,0,0,,I believe the term is "BFF."
+Dialogue: 0,0:15:19.17,0:15:22.55,Default,,0,0,0,,I believe that you have something\Nthat belongs to me.
+Dialogue: 0,0:15:22.63,0:15:24.01,Default,,0,0,0,,Natasha!
+Dialogue: 0,0:15:30.01,0:15:31.93,Default,,0,0,0,,Wha...
+Dialogue: 0,0:15:46.42,0:15:49.75,Default,,0,0,0,,I can destroy galaxies with a thought.
+Dialogue: 0,0:15:50.17,0:15:51.84,Default,,0,0,0,,Why won't you die?
+Dialogue: 0,0:16:03.55,0:16:04.63,Default,,0,0,0,,Wait. What?
+Dialogue: 0,0:16:20.80,0:16:23.47,Default,,0,0,0,,Give him all you've got.\NDon't give him a chance to think.
+Dialogue: 0,0:18:04.76,0:18:06.26,Default,,0,0,0,,Vegas!
+Dialogue: 0,0:18:24.76,0:18:25.76,Default,,0,0,0,,You're done.
+Dialogue: 0,0:18:42.67,0:18:44.17,Default,,0,0,0,,Whew! Uh...
+Dialogue: 0,0:18:44.26,0:18:46.47,Default,,0,0,0,,-Is that it? Is it over?\N-Hmm.
+Dialogue: 0,0:18:46.55,0:18:48.72,Default,,0,0,0,,We win? Yeah? Not so hard.
+Dialogue: 0,0:18:49.42,0:18:51.46,Default,,0,0,0,,It doesn't feel over.
+Dialogue: 0,0:18:52.80,0:18:55.47,Default,,0,0,0,,{\i1} I'm honestly surprised.{\i0}
+Dialogue: 0,0:18:56.05,0:18:58.51,Default,,0,0,0,,{\i1}Didn't the Watcher warn you?{\i0}
+Dialogue: 0,0:18:58.59,0:19:03.97,Default,,0,0,0,,{\i1}Every universe is different,{\i0}\N{\i1}each one just a fraction unique.{\i0}
+Dialogue: 0,0:19:04.51,0:19:08.09,Default,,0,0,0,,{\i1}Thus the Infinity Stones are unique.{\i0}
+Dialogue: 0,0:19:08.17,0:19:09.17,Default,,0,0,0,,Of course.
+Dialogue: 0,0:19:09.26,0:19:13.43,Default,,0,0,0,,The Crusher was designed to destroy\Nthe stones on my world, not his.
+Dialogue: 0,0:19:24.05,0:19:25.22,Default,,0,0,0,,Brace yourselves.
+Dialogue: 0,0:19:35.63,0:19:38.30,Default,,0,0,0,,You. It's you.
+Dialogue: 0,0:19:38.38,0:19:41.55,Default,,0,0,0,,If I destroy you, you all fall.
+Dialogue: 0,0:20:20.51,0:20:22.05,Default,,0,0,0,,Hey, Cap, I have an idea,
+Dialogue: 0,0:20:22.13,0:20:24.67,Default,,0,0,0,,but I'll need distance\Nand a clear target. Can you do that?
+Dialogue: 0,0:20:24.76,0:20:26.59,Default,,0,0,0,,I've got the shield. You've got the sword.
+Dialogue: 0,0:20:26.67,0:20:29.46,Default,,0,0,0,,More like an arrow\Nwith the mother of all viruses in the tip,
+Dialogue: 0,0:20:29.55,0:20:30.59,Default,,0,0,0,,but cute wordplay.
+Dialogue: 0,0:21:21.67,0:21:23.30,Default,,0,0,0,,This one's for you, Clint.
+Dialogue: 0,0:22:15.05,0:22:20.63,Default,,0,0,0,,This is far nicer\Nthan my human body ever was.
+Dialogue: 0,0:22:20.71,0:22:22.17,Default,,0,0,0,,Who's there? Who said that?
+Dialogue: 0,0:22:23.01,0:22:25.93,Default,,0,0,0,,This is a fascinating\Nchange of pace, yeah?
+Dialogue: 0,0:22:26.01,0:22:29.22,Default,,0,0,0,,It has been a long time\Nsince I have had legs.
+Dialogue: 0,0:22:29.30,0:22:31.93,Default,,0,0,0,,I'd like to make this\Na permanent condition.
+Dialogue: 0,0:22:32.01,0:22:33.84,Default,,0,0,0,,This body is occupied.
+Dialogue: 0,0:22:33.92,0:22:36.67,Default,,0,0,0,,For now, but not for long.
+Dialogue: 0,0:22:36.76,0:22:40.34,Default,,0,0,0,,What? Who are you? What is your objective?
+Dialogue: 0,0:22:41.59,0:22:46.67,Default,,0,0,0,,Once upon a time, it was\Nto bring forth HYDRA's domination,
+Dialogue: 0,0:22:46.76,0:22:48.59,Default,,0,0,0,,but you ended that.
+Dialogue: 0,0:22:48.67,0:22:54.25,Default,,0,0,0,,So now, I suppose\Nmy objective is to end you.
+Dialogue: 0,0:22:54.34,0:22:55.55,Default,,0,0,0,,What is this?
+Dialogue: 0,0:23:14.21,0:23:16.34,Default,,0,0,0,,-Hey, are you all right?
+Dialogue: 0,0:23:16.42,0:23:18.38,Default,,0,0,0,,I'm good. Mmm-hmm.
+Dialogue: 0,0:23:18.84,0:23:21.72,Default,,0,0,0,,Okay, that was, uh...\NCan someone explain, please?
+Dialogue: 0,0:23:21.80,0:23:24.93,Default,,0,0,0,,I gave him a virus. A nasty one.
+Dialogue: 0,0:24:02.92,0:24:06.55,Default,,0,0,0,,Cousin, what are you doing?
+Dialogue: 0,0:24:07.05,0:24:08.72,Default,,0,0,0,,The Watcher owes us this.
+Dialogue: 0,0:24:08.80,0:24:12.18,Default,,0,0,0,,With these stones,\Nwe could fix our worlds, our lives.
+Dialogue: 0,0:24:14.17,0:24:15.55,Default,,0,0,0,,T'Challa, Thor,
+Dialogue: 0,0:24:15.63,0:24:18.92,Default,,0,0,0,,are you gonna turn down the one thing\Nguaranteed to save your homes?
+Dialogue: 0,0:24:20.21,0:24:23.21,Default,,0,0,0,,Peggy, you can be with your fella again.
+Dialogue: 0,0:24:23.30,0:24:25.63,Default,,0,0,0,,Strange, you more than anyone\Nknow that this is it.
+Dialogue: 0,0:24:26.46,0:24:28.00,Default,,0,0,0,,This is our only chance.
+Dialogue: 0,0:24:35.05,0:24:36.84,Default,,0,0,0,,Hand over the stones, cousin.
+Dialogue: 0,0:24:37.63,0:24:39.21,Default,,0,0,0,,I'm not your cousin.
+Dialogue: 0,0:24:39.30,0:24:40.97,Default,,0,0,0,,I'm sorry it has to end this way.
+Dialogue: 0,0:24:54.13,0:24:59.76,Default,,0,0,0,,Oh, no, no, no.\NI am afraid that armor belongs to me.
+Dialogue: 0,0:24:59.84,0:25:01.30,Default,,0,0,0,,Is that Arnim Zola?
+Dialogue: 0,0:25:01.38,0:25:03.88,Default,,0,0,0,,HYDRA never died, it just mutated.
+Dialogue: 0,0:25:03.96,0:25:06.29,Default,,0,0,0,,Well, that explains the stomach-face.
+Dialogue: 0,0:25:08.80,0:25:10.13,Default,,0,0,0,,Huh?
+Dialogue: 0,0:25:29.51,0:25:31.09,Default,,0,0,0,,We were never meant to win.
+Dialogue: 0,0:25:34.34,0:25:37.22,Default,,0,0,0,,We were here to separate\Nthe stones from the body.
+Dialogue: 0,0:26:30.42,0:26:32.21,Default,,0,0,0,,DR.You foresaw every moment
+Dialogue: 0,0:26:32.30,0:26:36.63,Default,,0,0,0,,from the failed Infinity Crusher,\Nto Killmonger's betrayal, and my...
+Dialogue: 0,0:26:36.71,0:26:37.75,Default,,0,0,0,,Your sacrifice.
+Dialogue: 0,0:26:37.84,0:26:39.76,Default,,0,0,0,,"Sacrifice"?
+Dialogue: 0,0:26:39.84,0:26:42.13,Default,,0,0,0,,That would imply I had something to lose.
+Dialogue: 0,0:26:42.21,0:26:44.50,Default,,0,0,0,,Someone needs to attend to them.
+Dialogue: 0,0:26:44.59,0:26:47.13,Default,,0,0,0,,If that pocket dimension cracks,\Nif they escape--
+Dialogue: 0,0:26:47.21,0:26:48.42,Default,,0,0,0,,I'll watch.
+Dialogue: 0,0:26:49.26,0:26:50.59,Default,,0,0,0,,I have nothing but time.
+Dialogue: 0,0:26:50.67,0:26:52.09,Default,,0,0,0,,Thank you, Stephen.
+Dialogue: 0,0:26:52.17,0:26:55.67,Default,,0,0,0,,Mmm. And besides, what are friends for?
+Dialogue: 0,0:26:58.30,0:27:01.76,Default,,0,0,0,,{\i1} The entire Multiverse{\i0}\N{\i1}owes you a debt of gratitude.{\i0}
+Dialogue: 0,0:27:06.80,0:27:09.38,Default,,0,0,0,,But your worlds will never know\Nthis victory.
+Dialogue: 0,0:27:10.67,0:27:12.34,Default,,0,0,0,,Once you walk through that door,
+Dialogue: 0,0:27:12.42,0:27:14.96,Default,,0,0,0,,you'll return\Nto the exact moment you left.
+Dialogue: 0,0:27:24.09,0:27:25.72,Default,,0,0,0,,It's time to go, Captain.
+Dialogue: 0,0:27:32.92,0:27:34.96,Default,,0,0,0,,You'd rather return to another time.
+Dialogue: 0,0:27:35.63,0:27:37.92,Default,,0,0,0,,Haven't I earned my happy ending?
+Dialogue: 0,0:27:39.13,0:27:43.38,Default,,0,0,0,,Trust me, that world, that time,
+Dialogue: 0,0:27:43.46,0:27:45.59,Default,,0,0,0,,needs Captain Carter.
+Dialogue: 0,0:28:03.88,0:28:05.26,Default,,0,0,0,,And then there was one.
+Dialogue: 0,0:28:05.88,0:28:08.76,Default,,0,0,0,,I won't go back there. My world is...
+Dialogue: 0,0:28:09.26,0:28:11.72,Default,,0,0,0,,gone.
+Dialogue: 0,0:28:11.80,0:28:13.80,Default,,0,0,0,,You won, but I lost.
+Dialogue: 0,0:28:13.88,0:28:16.59,Default,,0,0,0,,-I cannot in--\N-Interfere? Yeah, I know.
+Dialogue: 0,0:28:16.67,0:28:19.46,Default,,0,0,0,,We're just stories to you. We're not real.
+Dialogue: 0,0:28:19.55,0:28:21.97,Default,,0,0,0,,You watch us fight, win, lose.
+Dialogue: 0,0:28:22.05,0:28:25.68,Default,,0,0,0,,Tell me, did you make popcorn\Nwhile Ultron murdered my friends
+Dialogue: 0,0:28:25.76,0:28:27.22,Default,,0,0,0,,and burned my world to the ground?
+Dialogue: 0,0:28:27.30,0:28:29.51,Default,,0,0,0,,You are more than that to me.
+Dialogue: 0,0:28:29.59,0:28:30.59,Default,,0,0,0,,Are we?
+Dialogue: 0,0:28:30.67,0:28:33.09,Default,,0,0,0,,You, your stories,
+Dialogue: 0,0:28:33.17,0:28:35.92,Default,,0,0,0,,they are everything to me.
+Dialogue: 0,0:28:36.76,0:28:38.93,Default,,0,0,0,,Then fix my world.
+Dialogue: 0,0:28:39.63,0:28:42.01,Default,,0,0,0,,I can't, Natasha.
+Dialogue: 0,0:28:44.55,0:28:46.26,Default,,0,0,0,,I'm not walking through that door.
+Dialogue: 0,0:28:46.88,0:28:49.51,Default,,0,0,0,,Well, the door was more\Nof a metaphor anyway.
+Dialogue: 0,0:29:04.67,0:29:06.63,Default,,0,0,0,,Where... Where are we?
+Dialogue: 0,0:29:06.71,0:29:09.38,Default,,0,0,0,,On a world that lost their Widow.
+Dialogue: 0,0:29:09.46,0:29:11.00,Default,,0,0,0,,It's a mess.
+Dialogue: 0,0:29:11.67,0:29:12.71,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:29:13.51,0:29:14.68,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:29:14.76,0:29:17.72,Default,,0,0,0,,You and your replacement Avengers\Nfought valiantly,
+Dialogue: 0,0:29:17.80,0:29:21.59,Default,,0,0,0,,but now I think it's time\Nyou told me all your secrets.
+Dialogue: 0,0:29:26.92,0:29:28.30,Default,,0,0,0,,I was told you were dead.
+Dialogue: 0,0:29:29.21,0:29:30.21,Default,,0,0,0,,Same.
+Dialogue: 0,0:29:35.09,0:29:37.13,Default,,0,0,0,,You're not my Natasha,
+Dialogue: 0,0:29:37.67,0:29:40.00,Default,,0,0,0,,but something tells me\Nyou have her spirit.
+Dialogue: 0,0:29:43.13,0:29:44.84,Default,,0,0,0,,{\i1}That's it, isn't it?{\i0}
+Dialogue: 0,0:29:45.09,0:29:48.01,Default,,0,0,0,,{\i1}All creatures searching{\i0}\N{\i1}for a place to belong.{\i0}
+Dialogue: 0,0:29:49.96,0:29:51.29,Default,,0,0,0,,{\i1}To call home.{\i0}
+Dialogue: 0,0:29:52.63,0:29:55.34,Default,,0,0,0,,As for me, I am the Watcher.
+Dialogue: 0,0:29:55.92,0:30:01.00,Default,,0,0,0,,The Multiverse, every single world,\Nevery story is my home,
+Dialogue: 0,0:30:01.09,0:30:04.34,Default,,0,0,0,,and I will protect it to the end.
+Dialogue: 0,0:30:47.46,0:30:49.04,Default,,0,0,0,,I'm too fast.
+Dialogue: 0,0:30:51.30,0:30:53.05,Default,,0,0,0,,Don't tell me, he was your type?
+Dialogue: 0,0:30:53.13,0:30:55.88,Default,,0,0,0,,Oh, Widow, I've never been\Nso happy to see you.
+Dialogue: 0,0:30:55.96,0:30:58.04,Default,,0,0,0,,Did you hit your head or something?
+Dialogue: 0,0:30:58.13,0:30:59.88,Default,,0,0,0,,A few times, actually.
+Dialogue: 0,0:30:59.96,0:31:02.88,Default,,0,0,0,,Shake it off. You'll need\Nall your marbles for this one.
+Dialogue: 0,0:31:04.01,0:31:06.34,Default,,0,0,0,,I found what the pirates were after.
+Dialogue: 0,0:31:07.13,0:31:10.38,Default,,0,0,0,,Peggy, you might wanna brace yourself.
+Dialogue: 0,0:31:10.46,0:31:11.79,Default,,0,0,0,,I can promise you, Nat,
+Dialogue: 0,0:31:11.88,0:31:14.30,Default,,0,0,0,,this won't be the strangest thing\NI've dealt with today.
+Dialogue: 0,0:31:15.05,0:31:16.30,Default,,0,0,0,,Famous last words.
+Dialogue: 0,0:31:21.38,0:31:23.01,Default,,0,0,0,,The HYDRA Stomper?
+Dialogue: 0,0:31:23.09,0:31:26.51,Default,,0,0,0,,Yeah, and there's someone inside.

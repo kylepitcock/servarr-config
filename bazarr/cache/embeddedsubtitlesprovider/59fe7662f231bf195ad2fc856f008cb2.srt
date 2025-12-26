@@ -1,0 +1,3656 @@
+1
+00:00:10,719 --> 00:00:13,888
+<i>Jonathan! Nancy! Jonathan!</i>
+
+2
+00:00:14,764 --> 00:00:16,349
+Jonathan! Nancy!
+
+3
+00:00:18,601 --> 00:00:19,435
+Ce faci?
+
+4
+00:00:19,436 --> 00:00:22,689
+Ascultați-mă! Nu atingeți nimic!
+
+5
+00:00:36,536 --> 00:00:37,787
+Oare ai ratat?
+
+6
+00:00:54,763 --> 00:00:56,723
+- Cred că ar trebui...
+- Da.
+
+7
+00:01:40,725 --> 00:01:45,395
+Da, știu că e ora 5:00. Ajutați-mă
+să fac un dispozitiv de telemetrie.
+
+8
+00:01:45,396 --> 00:01:47,272
+Ce? Erica, e ora...
+
+9
+00:01:47,273 --> 00:01:49,358
+Ora 5:00. Cu asta a început.
+
+10
+00:01:49,359 --> 00:01:51,610
+Scuze, tu cine ești?
+
+11
+00:01:51,611 --> 00:01:53,737
+- Unchiul meu.
+- Bona ei. Bona.
+
+12
+00:01:53,738 --> 00:01:55,114
+Cine e, ursuleț?
+
+13
+00:01:55,115 --> 00:01:59,034
+E în regulă, dulceață.
+Du-te înapoi în pat. Durează doar o clipă.
+
+14
+00:01:59,035 --> 00:02:00,327
+Bine.
+
+15
+00:02:00,328 --> 00:02:03,831
+- Bibliotecara?
+- Te ceartă când faci gălăgie în pat?
+
+16
+00:02:03,832 --> 00:02:10,170
+Ascultați-mă, și tu, și oricine ai fi tu.
+E foarte nepotrivit ce faceți.
+
+17
+00:02:10,171 --> 00:02:12,340
+Ne vedem la ore, Erica.
+
+18
+00:02:13,383 --> 00:02:15,343
+Dustin e în pericol.
+
+19
+00:02:16,010 --> 00:02:18,137
+Pericol? Ce fel de pericol?
+
+20
+00:02:18,138 --> 00:02:19,847
+Pericol de moarte.
+
+21
+00:02:19,848 --> 00:02:21,181
+Ce zici, ursuleț?
+
+22
+00:02:21,182 --> 00:02:23,016
+Te hârjonești cu ochelarista
+
+23
+00:02:23,017 --> 00:02:26,062
+sau ne faci dispozitivul
+și îți salvezi vedeta?
+
+24
+00:02:29,232 --> 00:02:30,233
+Henderson!
+
+25
+00:02:30,900 --> 00:02:32,777
+Dustin!
+
+26
+00:02:33,611 --> 00:02:34,736
+Ce-a fost asta?
+
+27
+00:02:34,737 --> 00:02:36,989
+Generatorul de scut? L-au găsit?
+
+28
+00:02:36,990 --> 00:02:38,074
+M-am înșelat.
+
+29
+00:02:38,825 --> 00:02:40,243
+M-am înșelat îngrozitor...
+
+30
+00:02:41,578 --> 00:02:43,036
+catastrofal de tare.
+
+31
+00:02:43,037 --> 00:02:46,332
+- Poftim?
+- După ce ai plecat, am găsit un jurnal.
+
+32
+00:02:47,041 --> 00:02:48,710
+<i>Jurnalul lui Brenner.</i>
+
+33
+00:02:50,170 --> 00:02:53,380
+<i>Cheia distrugerii peretelui
+e în acest laborator,</i>
+
+34
+00:02:53,381 --> 00:02:56,049
+<i>dar nu e un generator.</i>
+
+35
+00:02:56,050 --> 00:02:58,636
+Nu e magie neagră.
+Nu e ceva creat de Vecna.
+
+36
+00:03:02,056 --> 00:03:03,391
+Ci de știință.
+
+37
+00:03:04,809 --> 00:03:07,979
+<i>Fizicienii teoreticieni o numesc
+materie exotică.</i>
+
+38
+00:03:08,479 --> 00:03:12,065
+E o sursă de energie
+care ține laolaltă acel perete uriaș.
+
+39
+00:03:12,066 --> 00:03:14,569
+Cred că Nancy tocmai a tras în ea.
+
+40
+00:03:25,747 --> 00:03:28,498
+<i>Și de ce e rău?
+Asta vrem, să trecem de perete.</i>
+
+41
+00:03:28,499 --> 00:03:30,000
+<i>- Nu mă asculți!
+- Ba da.</i>
+
+42
+00:03:30,001 --> 00:03:31,668
+Nu Vecna a făcut peretele!
+
+43
+00:03:31,669 --> 00:03:36,299
+Deci nu e dincolo de el. Nici Holly,
+nici copiii dispăruți, nimeni nu e acolo.
+
+44
+00:03:37,675 --> 00:03:39,636
+Atunci ce e dincolo de perete?
+
+45
+00:03:49,771 --> 00:03:51,105
+De ce s-a oprit?
+
+46
+00:03:57,779 --> 00:04:00,031
+Dustin, ce e dincolo de perete?
+
+47
+00:04:00,740 --> 00:04:01,658
+Moartea.
+
+48
+00:04:11,834 --> 00:04:14,087
+Haideți! Să mergem!
+
+49
+00:04:15,421 --> 00:04:16,798
+Repede! Grăbiți-vă!
+
+50
+00:04:17,507 --> 00:04:18,633
+Atenție!
+
+51
+00:04:19,342 --> 00:04:20,468
+Adăpostiți-vă!
+
+52
+00:04:30,687 --> 00:04:34,648
+Tot timpul ăsta, tot ce am presupus noi
+despre Lumea Răsturnată
+
+53
+00:04:34,649 --> 00:04:37,944
+a fost absolut greșit.
+
+54
+00:04:42,991 --> 00:04:44,033
+Portalul!
+
+55
+00:04:44,617 --> 00:04:45,702
+Portalul!
+
+56
+00:04:46,869 --> 00:04:48,662
+Pot deschide drumul!
+
+57
+00:04:48,663 --> 00:04:52,375
+Nu! Stai în spate! Stai în spatele meu!
+
+58
+00:04:52,917 --> 00:04:54,919
+Nu! Fir-ar să fie!
+
+59
+00:05:06,014 --> 00:05:07,056
+Nu!
+
+60
+00:05:19,777 --> 00:05:22,404
+Locul ăsta, Lumea Răsturnată,
+
+61
+00:05:22,405 --> 00:05:25,991
+<i>nu e o altă dimensiune, nu e o altă lume.</i>
+
+62
+00:05:25,992 --> 00:05:27,701
+<i>E o gaură de vierme.</i>
+
+63
+00:05:27,702 --> 00:05:28,786
+O punte
+
+64
+00:05:29,662 --> 00:05:33,749
+între două puncte din timp și spațiu,
+între lumea noastră și cealaltă.
+
+65
+00:05:33,750 --> 00:05:37,378
+- Și dacă puntea asta e distrusă?
+- Ne ia cu ea.
+
+66
+00:05:39,922 --> 00:05:40,923
+Pe toți.
+
+67
+00:07:03,464 --> 00:07:10,471
+CAPITOLUL ȘASE:
+EVADARE DIN CAMAZOTZ
+
+68
+00:07:41,043 --> 00:07:42,503
+Du-te!
+
+69
+00:07:47,467 --> 00:07:50,386
+Ești teafără? Gata, e în regulă.
+
+70
+00:07:51,179 --> 00:07:53,263
+Suntem în siguranță. Nu intră aici.
+
+71
+00:07:53,264 --> 00:07:54,348
+Max...
+
+72
+00:08:03,858 --> 00:08:05,109
+Holly!
+
+73
+00:08:05,860 --> 00:08:06,861
+Vino!
+
+74
+00:08:10,823 --> 00:08:11,865
+Holly, scumpo...
+
+75
+00:08:11,866 --> 00:08:14,076
+Oprește-te, sau îi fac ei rău.
+
+76
+00:08:16,204 --> 00:08:20,416
+Știu că tu crezi că Max îți e prietenă.
+
+77
+00:08:21,042 --> 00:08:25,253
+Dar te-a păcălit, Holly.
+Ți-a corupt mintea.
+
+78
+00:08:25,254 --> 00:08:27,214
+E o mincinoasă!
+
+79
+00:08:27,215 --> 00:08:29,633
+Nu! Tu ești mincinosul!
+
+80
+00:08:29,634 --> 00:08:32,010
+Te-am văzut! Am văzut ce ești!
+
+81
+00:08:32,011 --> 00:08:35,305
+Ești un monstru! Un monstru dezgustător!
+
+82
+00:08:35,306 --> 00:08:36,848
+Holly!
+
+83
+00:08:36,849 --> 00:08:40,519
+Dacă nu te întorci cu mine acum
+la ceilalți copii,
+
+84
+00:08:40,520 --> 00:08:43,272
+n-am de ales, îi voi face rău lui Max.
+
+85
+00:08:47,026 --> 00:08:49,152
+E posibil să fiu nevoit să o ucid.
+
+86
+00:08:49,153 --> 00:08:51,405
+Și de ce n-o faci? Spune!
+
+87
+00:08:52,156 --> 00:08:53,073
+Sunt aici!
+
+88
+00:08:53,074 --> 00:08:54,908
+Exact!
+
+89
+00:08:54,909 --> 00:08:59,288
+Ți-e frică de o amărâtă de peșteră,
+laș nenorocit ce ești!
+
+90
+00:08:59,956 --> 00:09:02,833
+Situația s-a schimbat, Max.
+
+91
+00:09:03,834 --> 00:09:07,255
+Acum există și alte căi să ajung la tine.
+
+92
+00:09:07,838 --> 00:09:08,839
+Și, Holly...
+
+93
+00:09:09,966 --> 00:09:13,261
+când noua ta prietenă va începe să sufere,
+
+94
+00:09:14,595 --> 00:09:16,180
+căci va suferi,
+
+95
+00:09:16,973 --> 00:09:20,268
+ori te întorci la mine
+și pui capăt suferinței ei,
+
+96
+00:09:21,060 --> 00:09:23,396
+ori îți vezi noua prietenă murind.
+
+97
+00:09:24,230 --> 00:09:26,274
+Viața ei e în mâinile tale.
+
+98
+00:09:38,828 --> 00:09:43,499
+6 NOIEMBRIE
+
+99
+00:10:10,401 --> 00:10:14,946
+<i>Îmi explică cineva
+ce naiba s-a întâmplat acolo?</i>
+
+100
+00:10:14,947 --> 00:10:18,700
+Am ars particulele.
+Le-am văzut urcând în turn.
+
+101
+00:10:18,701 --> 00:10:21,244
+- Le-ați văzut, nu?
+- Absolut.
+
+102
+00:10:21,245 --> 00:10:23,622
+Deci Will trebuia să se fi deconectat.
+
+103
+00:10:23,623 --> 00:10:25,790
+- Teoretic.
+- De ce nu s-a trezit?
+
+104
+00:10:25,791 --> 00:10:30,629
+Cum de a văzut-o pe Max cu Holly?
+E ceva real? Vecna se joacă iar cu noi?
+
+105
+00:10:30,630 --> 00:10:32,505
+N-are nicio logică!
+
+106
+00:10:32,506 --> 00:10:37,093
+Medicii n-au reușit să afle
+de ce e Max în comă, nu?
+
+107
+00:10:37,094 --> 00:10:38,721
+Ce? Nu. De ce?
+
+108
+00:10:40,848 --> 00:10:43,933
+Bine...
+
+109
+00:10:43,934 --> 00:10:47,729
+Să presupunem pentru o clipă
+că tot ce a văzut Will era real.
+
+110
+00:10:47,730 --> 00:10:50,065
+- A văzut-o pe Max cu Holly.
+- Dar cum?
+
+111
+00:10:50,066 --> 00:10:53,194
+Imediat. Să zicem...
+
+112
+00:10:54,070 --> 00:10:55,320
+că el e Will
+
+113
+00:10:55,321 --> 00:10:58,823
+și ea e Holly.
+
+114
+00:10:58,824 --> 00:10:59,909
+Și...
+
+115
+00:11:00,910 --> 00:11:03,621
+Aceasta, desigur, e Max.
+
+116
+00:11:04,580 --> 00:11:06,331
+Sunt în trei locuri diferite:
+
+117
+00:11:06,332 --> 00:11:09,751
+la radio, la spital
+și undeva în Lumea Răsturnată.
+
+118
+00:11:09,752 --> 00:11:11,044
+- Da.
+- Da.
+
+119
+00:11:11,045 --> 00:11:14,798
+Dar au în comun un lucru esențial.
+
+120
+00:11:14,799 --> 00:11:16,217
+Sunt inconștienți.
+
+121
+00:11:18,719 --> 00:11:20,179
+Cum e când te ia Vecna?
+
+122
+00:11:20,846 --> 00:11:24,224
+- Intri în transă.
+- Care arată ca o comă.
+
+123
+00:11:24,225 --> 00:11:27,477
+Sigur că medicii nu știu ce are.
+Max nu e în comă.
+
+124
+00:11:27,478 --> 00:11:29,188
+E în transă.
+
+125
+00:11:29,772 --> 00:11:32,692
+Exact ca Will și ca Holly.
+
+126
+00:11:33,275 --> 00:11:36,486
+Și mă trec fiori
+ca la o notă înaltă a lui Whitney.
+
+127
+00:11:36,487 --> 00:11:38,155
+Dacă mințile lor...
+
+128
+00:11:39,281 --> 00:11:40,700
+sunt în același loc?
+
+129
+00:11:41,784 --> 00:11:43,077
+În mintea lui Vecna.
+
+130
+00:11:44,453 --> 00:11:45,538
+Întemnițați.
+
+131
+00:11:46,580 --> 00:11:48,289
+Așa au fost la un moment dat.
+
+132
+00:11:48,290 --> 00:11:53,712
+Dacă Will are dreptate,
+Max și Holly evadează acum din închisoare.
+
+133
+00:11:53,713 --> 00:11:58,759
+Dacă reușesc,
+se vor întoarce la corpurile lor fizice,
+
+134
+00:11:59,552 --> 00:12:02,387
+iar Max va reveni la viață.
+
+135
+00:12:02,388 --> 00:12:05,265
+Și vor fi fost la propriu
+în mintea lui Vecna.
+
+136
+00:12:05,266 --> 00:12:07,851
+- Vor ști totul. Unde e Will.
+- Și copiii.
+
+137
+00:12:07,852 --> 00:12:10,437
+- Poate și ce plănuiește.
+- E finalul.
+
+138
+00:12:10,438 --> 00:12:12,731
+E posibil ca soarta planetei să stea
+
+139
+00:12:12,732 --> 00:12:16,401
+în mâinile iubitei tale aflate în comă
+și ale surioarei tale.
+
+140
+00:12:16,402 --> 00:12:18,903
+- Merită o încercare.
+- Știi să conduci?
+
+141
+00:12:18,904 --> 00:12:20,530
+- N-am carnet.
+- Merge.
+
+142
+00:12:20,531 --> 00:12:23,701
+Ia mașina lui Joyce.
+Mergeți la Max. Eu stau cu Will.
+
+143
+00:12:24,285 --> 00:12:25,286
+Bine.
+
+144
+00:13:04,116 --> 00:13:06,160
+Îți amintești locul ăsta,
+
+145
+00:13:07,745 --> 00:13:08,662
+William?
+
+146
+00:13:13,167 --> 00:13:16,837
+Îți trezește...
+
+147
+00:13:21,383 --> 00:13:22,593
+amintiri?
+
+148
+00:13:23,719 --> 00:13:25,638
+Max, Holly...
+
+149
+00:13:27,139 --> 00:13:28,808
+Au scăpat, nu?
+
+150
+00:13:30,226 --> 00:13:32,227
+Te-a încetinit piciorul rupt?
+
+151
+00:13:32,228 --> 00:13:35,481
+Te crezi deștept, nu?
+
+152
+00:13:35,981 --> 00:13:41,320
+Dar nu uita că e meritul meu.
+
+153
+00:13:41,904 --> 00:13:44,365
+Datorită mie faci parte din asta.
+
+154
+00:13:45,491 --> 00:13:48,285
+Ai fost receptorul meu.
+
+155
+00:13:49,245 --> 00:13:50,913
+Spionul meu.
+
+156
+00:13:52,331 --> 00:13:54,083
+Constructorul meu.
+
+157
+00:13:55,376 --> 00:13:56,377
+Constructor?
+
+158
+00:13:59,755 --> 00:14:03,217
+Cum crezi
+că au apărut tunelurile, William?
+
+159
+00:14:05,886 --> 00:14:08,888
+Tu le-ai construit.
+
+160
+00:14:08,889 --> 00:14:13,561
+<i>Noapte de noapte, când dormeai.</i>
+
+161
+00:14:19,984 --> 00:14:22,820
+În tine, există o mare putere.
+
+162
+00:14:23,654 --> 00:14:26,365
+Dar nu-ți face iluzii, băiete.
+
+163
+00:14:27,449 --> 00:14:30,326
+Sunt puterile mele
+
+164
+00:14:30,327 --> 00:14:34,623
+și sunt mai mari ca niciodată.
+
+165
+00:14:38,961 --> 00:14:41,547
+Mult mai mari.
+
+166
+00:14:51,974 --> 00:14:54,268
+Acum, în sfârșit, e timpul.
+
+167
+00:14:55,394 --> 00:15:01,066
+E timpul ca receptoarele mele
+să ne ducă într-o lume nouă.
+
+168
+00:15:02,860 --> 00:15:04,403
+O lume mai bună.
+
+169
+00:15:05,321 --> 00:15:09,949
+Păcat că lumea asta a ta
+nu va exista niciodată,
+
+170
+00:15:09,950 --> 00:15:13,078
+fiindcă Max are unul dintre receptoare.
+
+171
+00:15:13,662 --> 00:15:17,790
+Există căi
+să scoți o vulpe din vizuină, William.
+
+172
+00:15:17,791 --> 00:15:20,293
+Iar tu mă vei ajuta.
+
+173
+00:15:20,294 --> 00:15:25,048
+Vei fi spionul meu
+
+174
+00:15:25,049 --> 00:15:29,093
+pentru ultima dată.
+
+175
+00:15:29,094 --> 00:15:31,555
+Nu! Niciodată.
+
+176
+00:15:42,274 --> 00:15:44,777
+Cu cât te opui mai mult...
+
+177
+00:15:46,195 --> 00:15:48,739
+cu atât va durea mai tare.
+
+178
+00:16:15,766 --> 00:16:16,767
+Ce proastă sunt!
+
+179
+00:16:21,772 --> 00:16:24,565
+- Ce faci?
+- Mă uit dacă mai e acolo.
+
+180
+00:16:24,566 --> 00:16:25,858
+- Nu e.
+- Știi tu?
+
+181
+00:16:25,859 --> 00:16:28,696
+Știe el că nu ne poate atinge aici. Vino!
+
+182
+00:16:29,279 --> 00:16:32,031
+A zis că acum e altfel,
+că există alte căi.
+
+183
+00:16:32,032 --> 00:16:35,159
+Da, minte.
+Ar trebui să știi asta până acum.
+
+184
+00:16:35,160 --> 00:16:39,914
+Atunci, ce facem? Nimic?
+Ne acceptăm soarta?
+
+185
+00:16:39,915 --> 00:16:43,710
+Nu acceptăm nimic.
+Rămânem în viață până suntem salvate.
+
+186
+00:16:43,711 --> 00:16:45,795
+- De către Unsprezece?
+- Da.
+
+187
+00:16:45,796 --> 00:16:47,255
+Știi tu că ea a fost?
+
+188
+00:16:47,256 --> 00:16:52,176
+Dacă nu știi pe altcineva cu puteri,
+care poate să intre în mintea lui Vecna,
+
+189
+00:16:52,177 --> 00:16:55,096
+să lupte cu el
+și să ne spună prin el să fugim,
+
+190
+00:16:55,097 --> 00:16:56,305
+atunci a fost Unșpe.
+
+191
+00:16:56,306 --> 00:16:59,475
+Adică știe că suntem aici
+și va veni să ne salveze.
+
+192
+00:16:59,476 --> 00:17:04,273
+Te rog, oprește-te!
+Zici că ești fratele tău.
+
+193
+00:17:08,235 --> 00:17:09,236
+Mulțumesc.
+
+194
+00:17:15,659 --> 00:17:19,246
+- De ce nu poate veni Henry aici?
+- Nu știu.
+
+195
+00:17:20,414 --> 00:17:22,750
+Doi ani n-ai avut nimic de făcut.
+
+196
+00:17:24,001 --> 00:17:25,461
+Sigur ai o teorie.
+
+197
+00:17:28,797 --> 00:17:31,967
+Dacă tot stăm și așteptăm,
+mai bine să vorbim.
+
+198
+00:17:38,682 --> 00:17:40,183
+- Închisoarea...
+- Camazotz.
+
+199
+00:17:40,184 --> 00:17:42,269
+Camazotz. Sigur.
+
+200
+00:17:44,521 --> 00:17:46,940
+E compusă din amintirile lui Henry.
+
+201
+00:17:47,816 --> 00:17:50,443
+Inclusiv peștera asta.
+
+202
+00:17:50,444 --> 00:17:56,908
+M-am gândit că e o amintire
+pe care, din varii motive,
+
+203
+00:17:56,909 --> 00:17:59,119
+Henry nu vrea să o retrăiască.
+
+204
+00:18:00,370 --> 00:18:01,789
+Ceva traumatizant.
+
+205
+00:18:03,415 --> 00:18:07,920
+Dar aici nu e nimic
+câtuși de puțin înfricoșător, așa că...
+
+206
+00:18:08,420 --> 00:18:09,505
+poate că nu e așa.
+
+207
+00:18:11,924 --> 00:18:13,509
+Oricum, asta e teoria mea.
+
+208
+00:18:15,010 --> 00:18:16,011
+Îmi place.
+
+209
+00:18:18,472 --> 00:18:19,389
+Mersi.
+
+210
+00:18:19,973 --> 00:18:22,851
+Și, dacă ai dreptate...
+
+211
+00:18:24,436 --> 00:18:27,439
+poate că am putea evada
+prin amintirea asta.
+
+212
+00:18:28,023 --> 00:18:29,358
+- Poftim?
+- Ascultă!
+
+213
+00:18:30,234 --> 00:18:33,486
+Casa mea, podul tău
+au fost tot amintiri traumatizante,
+
+214
+00:18:33,487 --> 00:18:35,404
+care ne-au dus spre ieșire.
+
+215
+00:18:35,405 --> 00:18:38,074
+Poate că și amintirea lui Henry
+ne va duce.
+
+216
+00:18:38,075 --> 00:18:41,035
+În primul rând, nu e nimic aici,
+așa cum am spus.
+
+217
+00:18:41,036 --> 00:18:44,038
+Iar la noi n-au fost
+orice amintiri traumatizante.
+
+218
+00:18:44,039 --> 00:18:47,583
+A fost momentul precis
+în care Henry ne-a furat mintea.
+
+219
+00:18:47,584 --> 00:18:50,629
+- Nu-și poate fura lui mintea, nu?
+- De unde știi?
+
+220
+00:18:51,588 --> 00:18:53,214
+Pentru că nu are sens.
+
+221
+00:18:53,215 --> 00:18:55,551
+Și totul aici are sens?
+
+222
+00:18:57,719 --> 00:18:58,720
+Adică,
+
+223
+00:18:59,721 --> 00:19:01,348
+poate că există...
+
+224
+00:19:02,182 --> 00:19:04,976
+un pasaj secret sau altceva.
+
+225
+00:19:04,977 --> 00:19:08,355
+Da, uitasem de pasajul secret!
+
+226
+00:19:12,234 --> 00:19:15,612
+- Și afară?
+- Nisip. Mult nisip.
+
+227
+00:19:16,280 --> 00:19:17,488
+- Ai căutat?
+- Da.
+
+228
+00:19:17,489 --> 00:19:19,366
+- Peste tot?
+- Sunt kilometri.
+
+229
+00:19:19,950 --> 00:19:21,034
+Deci nu peste tot.
+
+230
+00:19:23,871 --> 00:19:25,454
+Nu te duci acolo.
+
+231
+00:19:25,455 --> 00:19:29,333
+Holly, stăm aici,
+o așteptăm pe Unsprezece. Atât!
+
+232
+00:19:29,334 --> 00:19:32,920
+Nu cred că Henry a mințit
+că poate ajunge la tine.
+
+233
+00:19:32,921 --> 00:19:36,133
+Trebuie să ieșim de aici
+înainte să se întâmple asta.
+
+234
+00:19:36,925 --> 00:19:37,843
+Vii?
+
+235
+00:19:38,427 --> 00:19:41,180
+Sau lași un copil
+nesupravegheat în deșert?
+
+236
+00:19:42,806 --> 00:19:47,311
+Retrag ce-am zis!
+Nu doar zici, chiar ești ca fratele tău!
+
+237
+00:20:01,241 --> 00:20:02,242
+Joyce?
+
+238
+00:20:03,660 --> 00:20:04,995
+Cine a chemat un dric?
+
+239
+00:20:16,465 --> 00:20:17,716
+Mike!
+
+240
+00:20:21,220 --> 00:20:22,261
+Unșpe!
+
+241
+00:20:22,262 --> 00:20:23,555
+Mike...
+
+242
+00:20:30,854 --> 00:20:31,855
+Am venit.
+
+243
+00:20:32,981 --> 00:20:33,899
+Ești bine!
+
+244
+00:20:34,399 --> 00:20:35,400
+Sunt bine.
+
+245
+00:20:36,652 --> 00:20:41,615
+- Ea e Kali, sora mea.
+- El trebuie să fie faimosul Mike.
+
+246
+00:20:42,741 --> 00:20:44,659
+Nu înțeleg.
+
+247
+00:20:44,660 --> 00:20:48,163
+E o poveste lungă.
+Mai bine o spunem pe toată odată.
+
+248
+00:20:49,164 --> 00:20:51,124
+Ceilalți nu ne întâmpină?
+
+249
+00:20:55,671 --> 00:20:56,880
+E aici.
+
+250
+00:21:04,471 --> 00:21:05,472
+Isuse!
+
+251
+00:21:06,682 --> 00:21:09,268
+- De când e așa?
+- De câteva ore.
+
+252
+00:21:10,560 --> 00:21:13,021
+Crezi că îl poți găsi?
+
+253
+00:21:19,027 --> 00:21:21,654
+Cum e? În cât timp dispare
+o gaură de vierme?
+
+254
+00:21:21,655 --> 00:21:24,907
+- Zece minute, douăzeci?
+- Credeam că pe loc. Dar nu.
+
+255
+00:21:24,908 --> 00:21:26,993
+- De ce pari dezamăgit?
+- Nu sunt.
+
+256
+00:21:26,994 --> 00:21:28,911
+- Așa pari.
+- Sunt confuz.
+
+257
+00:21:28,912 --> 00:21:31,205
+Din câte văd, sunt două posibilități.
+
+258
+00:21:31,206 --> 00:21:35,126
+Ori suntem spirite în viața de apoi,
+ceea ce pare puțin probabil,
+
+259
+00:21:35,127 --> 00:21:39,380
+ori Nancy nu a distrus complet
+materia exotică.
+
+260
+00:21:39,381 --> 00:21:42,842
+Dacă o distrugea,
+pereții găurii de vierme se prăbușeau,
+
+261
+00:21:42,843 --> 00:21:44,885
+iar noi eram aspirați în neant.
+
+262
+00:21:44,886 --> 00:21:48,180
+- Bine. De ce mai stăm aici?
+- Unde te duci?
+
+263
+00:21:48,181 --> 00:21:50,933
+Să văd dacă am semnal
+să o găsesc pe Nancy.
+
+264
+00:21:50,934 --> 00:21:52,727
+- Așteaptă!
+- Vino, Henderson.
+
+265
+00:21:52,728 --> 00:21:54,146
+- Stai!
+- Să mergem!
+
+266
+00:21:54,980 --> 00:21:59,275
+- Steve, nu știm dacă e sigur.
+- Ai zis că n-a distrus materia exotică.
+
+267
+00:21:59,276 --> 00:22:03,654
+Nu, am zis că nu a distrus-o complet.
+Dar e clar că a perturbat-o.
+
+268
+00:22:03,655 --> 00:22:07,908
+Nu știm cum va afecta asta
+materia, spațiul-timp sau gravitația.
+
+269
+00:22:07,909 --> 00:22:12,455
+Clădirea ar putea fi o capcană
+mortală, instabilă, care sfidează fizica.
+
+270
+00:22:12,456 --> 00:22:14,206
+Mie mi se pare stabilă.
+
+271
+00:22:14,207 --> 00:22:16,960
+Nancy, mă auzi? Jonathan, ești acolo?
+
+272
+00:22:17,919 --> 00:22:18,920
+E cineva?
+
+273
+00:22:22,549 --> 00:22:23,967
+Măiculiță!
+
+274
+00:22:32,559 --> 00:22:34,770
+Zi-mi că ei nu sunt acolo, sus.
+
+275
+00:22:59,044 --> 00:23:01,880
+Nu! Nancy!
+
+276
+00:23:05,175 --> 00:23:07,593
+Nancy! Nu!
+
+277
+00:23:07,594 --> 00:23:08,636
+Nancy!
+
+278
+00:23:08,637 --> 00:23:10,805
+Haide! Nancy!
+
+279
+00:23:10,806 --> 00:23:12,807
+Haide!
+
+280
+00:23:12,808 --> 00:23:15,602
+- Ești teafără?
+- Da. Așa cred.
+
+281
+00:23:16,645 --> 00:23:19,147
+- Ce s-a întâmplat?
+- Nu știu.
+
+282
+00:23:21,691 --> 00:23:23,067
+Cred că am căzut.
+
+283
+00:23:23,068 --> 00:23:25,194
+Și e clar că nu l-am distrus.
+
+284
+00:23:25,195 --> 00:23:26,530
+Doar l-am enervat.
+
+285
+00:23:29,032 --> 00:23:30,450
+Hai să ne ridicăm!
+
+286
+00:23:33,078 --> 00:23:34,871
+Să plecăm de aici!
+
+287
+00:23:37,499 --> 00:23:39,584
+- Unde e ușa?
+- Fir-ar să fie!
+
+288
+00:23:40,252 --> 00:23:42,337
+Acolo! Vino!
+
+289
+00:23:46,341 --> 00:23:47,342
+La dracu'!
+
+290
+00:23:50,178 --> 00:23:53,723
+Nu! Fir-ar să fie! Nu!
+
+291
+00:23:56,643 --> 00:23:58,186
+Fir-ar a dracu' de treabă!
+
+292
+00:23:59,563 --> 00:24:00,856
+Deschide-te!
+
+293
+00:24:22,002 --> 00:24:25,504
+Nancy n-a lăsat niciun bilet la biserică?
+
+294
+00:24:25,505 --> 00:24:27,966
+Nu, nimic.
+
+295
+00:24:28,675 --> 00:24:31,428
+Asta înseamnă că ori sunt niște nesimțiți,
+
+296
+00:24:32,220 --> 00:24:34,096
+ori au fost prinși de armată.
+
+297
+00:24:34,097 --> 00:24:37,808
+Spre liniștea ta, eu înclin puternic
+spre varianta nesimțirii.
+
+298
+00:24:37,809 --> 00:24:41,479
+Și peretele de carne, nu crezi...
+
+299
+00:24:41,480 --> 00:24:44,274
+Că au fost aspirați dincolo? Nu.
+
+300
+00:24:45,358 --> 00:24:48,570
+Nu știu ce să zic, Mike.
+Sunt la fel de confuz ca tine.
+
+301
+00:24:49,237 --> 00:24:54,450
+Toate astea, Max, Holly, peretele...
+Trebuie să existe o legătură cumva.
+
+302
+00:24:54,451 --> 00:24:58,163
+Nu-mi dau seama cum.
+Parcă lipsește o piesă din puzzle.
+
+303
+00:24:58,872 --> 00:24:59,747
+O piesă mare.
+
+304
+00:24:59,748 --> 00:25:03,459
+Piesele sunt în mintea lui Vecna,
+și avem o cale să intrăm.
+
+305
+00:25:03,460 --> 00:25:05,462
+Doar că Jane n-a găsit nimic.
+
+306
+00:25:06,463 --> 00:25:09,507
+Frate, a venit piaza rea
+să ne înveselească.
+
+307
+00:25:09,508 --> 00:25:11,091
+Se chinuie.
+
+308
+00:25:11,092 --> 00:25:13,302
+Da? Poate că are nevoie de timp.
+
+309
+00:25:13,303 --> 00:25:15,471
+Devine mai slabă, nu mai puternică.
+
+310
+00:25:15,472 --> 00:25:20,976
+Ești expertă în Unșpe?
+Cât ai stat cu ea, o zi și jumătate?
+
+311
+00:25:20,977 --> 00:25:23,187
+Mai mult decât tine.
+
+312
+00:25:23,188 --> 00:25:26,982
+Am crescut împreună. Și o cheamă Jane.
+
+313
+00:25:26,983 --> 00:25:29,026
+- Jane Hopper.
+- Vreau să ajut.
+
+314
+00:25:29,027 --> 00:25:32,321
+Vrei să ajuți!
+Scuze, mi s-a terminat recunoștința.
+
+315
+00:25:32,322 --> 00:25:34,114
+Ziceai că e o luptă inutilă.
+
+316
+00:25:34,115 --> 00:25:37,326
+- Ai zis că n-are rost ce facem?
+- N-am zis asta.
+
+317
+00:25:37,327 --> 00:25:40,287
+Serios? Mie mi s-a părut că ai zis.
+
+318
+00:25:40,288 --> 00:25:43,249
+După două secunde cu ea,
+i-ai intrat în minte.
+
+319
+00:25:43,250 --> 00:25:46,502
+Probabil că nu-l găsește pe Will
+fiindcă ai derutat-o.
+
+320
+00:25:46,503 --> 00:25:50,881
+Era derutată când am cunoscut-o.
+Din cauza ta și a minciunilor tale!
+
+321
+00:25:50,882 --> 00:25:54,218
+- Tot ce am făcut...
+- A fost să o protejezi.
+
+322
+00:25:54,219 --> 00:25:55,511
+Tu spune-ți asta,
+
+323
+00:25:55,512 --> 00:25:58,806
+dar dacă vrei să o protejezi,
+trebuie să știe adevărul
+
+324
+00:25:58,807 --> 00:26:01,767
+și trebuie să fie pregătită
+pentru ce o așteaptă
+
+325
+00:26:01,768 --> 00:26:04,061
+după ce se termină chestia asta.
+
+326
+00:26:04,062 --> 00:26:08,399
+- Uciderea lui Henry nu e sfârșitul.
+- Ce înseamnă asta?
+
+327
+00:26:08,400 --> 00:26:13,237
+Nu înseamnă nimic. E un copil.
+Habar n-are despre ce vorbește.
+
+328
+00:26:13,238 --> 00:26:17,158
+- Spune numai prostii.
+- Cred că știi că nu e așa.
+
+329
+00:26:18,368 --> 00:26:22,789
+Dar așa cum o minți pe Jane,
+te minți și pe tine însuți.
+
+330
+00:26:25,125 --> 00:26:27,752
+Mă întrebi de ce sunt încă aici?
+
+331
+00:26:29,504 --> 00:26:34,467
+Vreau să mă asigur
+că nu se va mai repeta ce s-a întâmplat.
+
+332
+00:26:41,057 --> 00:26:41,891
+Unșpe!
+
+333
+00:26:46,313 --> 00:26:47,314
+Unșpe!
+
+334
+00:26:48,023 --> 00:26:49,691
+E totul în regulă?
+
+335
+00:26:50,984 --> 00:26:53,694
+Nu dau de el. Îmi scapă întruna.
+
+336
+00:26:53,695 --> 00:26:58,949
+Avem mâncare. Mănâncă, odihnește-te.
+Încarcă-ți bateria. Mai încercăm.
+
+337
+00:26:58,950 --> 00:27:00,035
+Sau...
+
+338
+00:27:00,869 --> 00:27:02,412
+amplificăm semnalul.
+
+339
+00:27:02,996 --> 00:27:04,830
+- Rezervorul.
+- Da. Îl pregătim.
+
+340
+00:27:04,831 --> 00:27:06,749
+Tu oricum îți încarci bateria.
+
+341
+00:27:06,750 --> 00:27:10,545
+Plus că a fost greu de construit,
+așa că vreau să fie folosit.
+
+342
+00:27:13,048 --> 00:27:17,469
+SPITALUL MEMORIAL HAWKINS
+
+343
+00:27:18,386 --> 00:27:21,180
+- Doris, semnez după.
+- Eu îl susțin emoțional!
+
+344
+00:27:21,181 --> 00:27:23,266
+Dră Buckley!
+
+345
+00:27:24,309 --> 00:27:25,560
+Știi ceva?
+
+346
+00:27:28,104 --> 00:27:29,229
+Bună!
+
+347
+00:27:29,230 --> 00:27:30,898
+- Trebuie să vorbim.
+- Da.
+
+348
+00:27:30,899 --> 00:27:33,067
+- Robin!
+- Trebuie să rezolv. Du-te!
+
+349
+00:27:33,068 --> 00:27:34,151
+Și planul nostru?
+
+350
+00:27:34,152 --> 00:27:35,236
+Vickie!
+
+351
+00:27:37,030 --> 00:27:39,740
+Vic, știu că ești supărată.
+Ai tot dreptul.
+
+352
+00:27:39,741 --> 00:27:41,659
+- Ești căutată.
+- Cine mă caută?
+
+353
+00:27:41,660 --> 00:27:43,661
+- Paza, poliția militară.
+- De ce?
+
+354
+00:27:43,662 --> 00:27:46,121
+- Nu face pe proasta.
+- Nu știu ce zici.
+
+355
+00:27:46,122 --> 00:27:47,831
+Bine, îți dau un indiciu.
+
+356
+00:27:47,832 --> 00:27:50,377
+Tu, salonul dlui Bailey, benzodiazepine.
+
+357
+00:27:51,086 --> 00:27:52,503
+Ți-ai adus aminte?
+
+358
+00:27:52,504 --> 00:27:55,839
+Robin, trebuie să-mi spui
+ce naiba se întâmplă cu tine.
+
+359
+00:27:55,840 --> 00:27:57,467
+Aici și acum.
+
+360
+00:28:03,014 --> 00:28:05,975
+Max, e timpul să vii acasă.
+
+361
+00:28:21,324 --> 00:28:25,411
+- Gata, cred că am stat destul aici.
+- Am căutat o parte infimă.
+
+362
+00:28:25,412 --> 00:28:27,413
+În sfârșit, înțelegi.
+
+363
+00:28:27,414 --> 00:28:30,541
+Eu am petrecut mult timp
+căutând aici, prea mult.
+
+364
+00:28:30,542 --> 00:28:33,627
+N-o să găsești tu brusc
+ceva ce n-am găsit eu.
+
+365
+00:28:33,628 --> 00:28:36,547
+Ți-a povestit fratele meu
+despre unchiul Eric?
+
+366
+00:28:36,548 --> 00:28:37,798
+Unchiul Eric?
+
+367
+00:28:37,799 --> 00:28:40,384
+E detectorist. Știi ce înseamnă?
+
+368
+00:28:40,385 --> 00:28:43,595
+- Caută obiecte de metal.
+- Da, cu detectorul.
+
+369
+00:28:43,596 --> 00:28:47,266
+Caută comori vechi
+rămase în pământ de la oamenii morți.
+
+370
+00:28:47,267 --> 00:28:50,477
+Merge des
+în parcul de distracții Indiana Beach.
+
+371
+00:28:50,478 --> 00:28:55,023
+A căutat acolo ani întregi,
+dar a găsit doar nimicuri ieftine.
+
+372
+00:28:55,024 --> 00:28:58,068
+Apoi, într-o zi,
+deschide ziarul și ce să vezi?
+
+373
+00:28:58,069 --> 00:29:00,863
+Un turist a găsit o cutie de conserve
+
+374
+00:29:00,864 --> 00:29:04,032
+cu monede de aur și argint
+valorând milioane.
+
+375
+00:29:04,033 --> 00:29:07,286
+Am înțeles, în acest scenariu,
+eu sunt unchiul Eric.
+
+376
+00:29:07,287 --> 00:29:08,705
+Iar eu sunt turistul.
+
+377
+00:29:19,090 --> 00:29:20,383
+Ce proastă sunt!
+
+378
+00:29:37,525 --> 00:29:39,152
+Litera „M” marchează locul.
+
+379
+00:29:43,656 --> 00:29:45,282
+- Unde te duci?
+- Am o idee.
+
+380
+00:29:45,283 --> 00:29:47,242
+- Ce idee?
+- Îți arăt acolo.
+
+381
+00:29:47,243 --> 00:29:49,828
+- Holly!
+- Ai zis că vrei să ne întoarcem.
+
+382
+00:29:49,829 --> 00:29:51,581
+Ei bine, ne întoarcem.
+
+383
+00:29:54,000 --> 00:29:57,294
+Fraților, dacă ne auziți, venim.
+Repet, venim!
+
+384
+00:29:57,295 --> 00:30:00,297
+Steve, mai încet! Mai sus e mai periculos.
+
+385
+00:30:00,298 --> 00:30:04,260
+- Încă un motiv să ne grăbim.
+- Nu suntem de folos morți. Steve!
+
+386
+00:30:13,436 --> 00:30:14,729
+Cum spuneam...
+
+387
+00:30:20,318 --> 00:30:21,319
+Hai odată!
+
+388
+00:30:30,245 --> 00:30:31,662
+Ce faci?
+
+389
+00:30:31,663 --> 00:30:34,999
+Câteva etaje mai jos,
+un soldat părea să fi spart ușa.
+
+390
+00:30:41,965 --> 00:30:43,258
+Ferește-te!
+
+391
+00:30:47,846 --> 00:30:49,055
+La dracu'! Înapoi!
+
+392
+00:30:52,308 --> 00:30:53,976
+Fir-ar să fie!
+
+393
+00:30:53,977 --> 00:30:55,228
+Dumnezeule!
+
+394
+00:31:01,943 --> 00:31:02,944
+Drăcia dracului!
+
+395
+00:31:05,572 --> 00:31:08,074
+Masa! Urcă-te pe masă!
+
+396
+00:31:18,418 --> 00:31:19,544
+Și acum?
+
+397
+00:31:26,009 --> 00:31:28,051
+Ajutor!
+
+398
+00:31:28,052 --> 00:31:30,429
+- Ajutor!
+- Steve!
+
+399
+00:31:30,430 --> 00:31:33,640
+- Ajutor!
+- Se aude? Ajutor!
+
+400
+00:31:33,641 --> 00:31:36,853
+- Ajutor!
+- Ajutor!
+
+401
+00:32:12,013 --> 00:32:13,056
+E aproape gata.
+
+402
+00:32:17,143 --> 00:32:18,561
+Unșpe o să rezolve asta.
+
+403
+00:32:19,604 --> 00:32:20,813
+O să rezolve.
+
+404
+00:32:25,151 --> 00:32:27,236
+A fost ideea mea, Hop.
+
+405
+00:32:28,529 --> 00:32:29,447
+A fost...
+
+406
+00:32:30,031 --> 00:32:32,659
+A fost ideea mea să facă asta.
+
+407
+00:32:33,159 --> 00:32:37,537
+Nu știu, m-am gândit
+că, după tot ce s-a întâmplat,
+
+408
+00:32:37,538 --> 00:32:39,791
+după tot ce l-am văzut făcând...
+
+409
+00:32:40,917 --> 00:32:46,588
+M-am gândit că, în tot acest timp
+în care m-am străduit să-l protejez,
+
+410
+00:32:46,589 --> 00:32:49,258
+de fapt, doar l-am ținut pe loc.
+
+411
+00:32:51,010 --> 00:32:55,180
+Fiindcă nu l-am ascultat
+și nu am avut încredere în el.
+
+412
+00:32:55,181 --> 00:32:56,683
+Și că, dacă aș fi fost...
+
+413
+00:32:57,809 --> 00:33:01,436
+Dacă l-aș crede și i-aș da libertate,
+
+414
+00:33:01,437 --> 00:33:04,398
+cumva, s-ar rezolva totul.
+
+415
+00:33:04,399 --> 00:33:05,483
+Și...
+
+416
+00:33:06,234 --> 00:33:11,363
+Pare că fac doar alegeri greșite.
+
+417
+00:33:11,364 --> 00:33:12,448
+Te înțeleg.
+
+418
+00:33:13,992 --> 00:33:18,161
+Îi poți împinge
+în situații pentru care nu sunt pregătiți,
+
+419
+00:33:18,162 --> 00:33:23,250
+poți fi ca mine, poți fi prea protector,
+ei se vor supăra pe tine oricum.
+
+420
+00:33:23,251 --> 00:33:25,837
+Joyce, e o bucurie a vieții de părinte.
+
+421
+00:33:28,381 --> 00:33:32,719
+Toată viața ți se va aminti
+că fiecare alegere pe care ai făcut-o
+
+422
+00:33:33,511 --> 00:33:34,971
+a fost una greșită.
+
+423
+00:33:38,516 --> 00:33:40,059
+Nu e vina ta, Joyce.
+
+424
+00:33:42,979 --> 00:33:44,313
+Nu e vina ta.
+
+425
+00:33:59,871 --> 00:34:02,165
+Arată bine costumul! E de la Murray?
+
+426
+00:34:02,874 --> 00:34:03,875
+Da.
+
+427
+00:34:05,752 --> 00:34:07,628
+Moș Crăciun are gusturi bune.
+
+428
+00:34:11,966 --> 00:34:17,596
+Ascultă! Când eram la radio,
+Kali a zis ceva ciudat.
+
+429
+00:34:17,597 --> 00:34:20,850
+A zis că nu se termină,
+chiar dacă-l ucidem pe Henry.
+
+430
+00:34:21,434 --> 00:34:22,685
+Știi ce vrea să zică?
+
+431
+00:34:23,728 --> 00:34:25,146
+Nu contează.
+
+432
+00:34:25,855 --> 00:34:27,231
+Mai trebuie apă caldă.
+
+433
+00:34:27,815 --> 00:34:31,026
+Bine, dacă nu contează,
+de ce era Hop supărat pe ea?
+
+434
+00:34:31,027 --> 00:34:32,402
+Nu e important, Mike.
+
+435
+00:34:32,403 --> 00:34:34,237
+- Prietenii nu mint.
+- Nu mint!
+
+436
+00:34:34,238 --> 00:34:37,657
+Eviți să răspunzi. Adică trișezi.
+Vreau doar să ajut.
+
+437
+00:34:37,658 --> 00:34:42,080
+- Nu poți ajuta. Nu cu asta.
+- Lasă-mă să decid eu.
+
+438
+00:34:44,248 --> 00:34:45,249
+Unșpe, serios!
+
+439
+00:34:50,379 --> 00:34:52,923
+Există un laborator în Lumea Răsturnată.
+
+440
+00:34:52,924 --> 00:34:55,551
+Acolo, reiau programul lui Tata.
+
+441
+00:34:56,511 --> 00:34:58,262
+Vor să creeze numere noi.
+
+442
+00:35:01,974 --> 00:35:03,059
+Armata?
+
+443
+00:35:06,437 --> 00:35:07,771
+Bine.
+
+444
+00:35:07,772 --> 00:35:11,942
+Atunci, după ce îl ucidem pe Vecna,
+distrugem noul laborator.
+
+445
+00:35:11,943 --> 00:35:16,238
+- Închidem programul. Încă o misiune.
+- Mike, nu înțelegi.
+
+446
+00:35:16,239 --> 00:35:19,449
+N-au nevoie de un laborator
+pentru numere noi.
+
+447
+00:35:19,450 --> 00:35:20,993
+Sângele lui Henry...
+
+448
+00:35:22,495 --> 00:35:23,703
+e în mine.
+
+449
+00:35:23,704 --> 00:35:25,540
+Nu sunt monstru.
+
+450
+00:35:26,749 --> 00:35:28,209
+Acum știu asta.
+
+451
+00:35:28,793 --> 00:35:30,837
+Dar cu mine, cu sângele meu,
+
+452
+00:35:32,004 --> 00:35:34,382
+ei pot crea mai mulți monștri.
+
+453
+00:35:35,466 --> 00:35:37,718
+Pot face mai mulți ca Henry.
+
+454
+00:35:38,302 --> 00:35:40,262
+Armata te va căuta mereu.
+
+455
+00:35:40,263 --> 00:35:43,390
+Am știut asta mereu.
+De-asta nu rămânem în Hawkins.
+
+456
+00:35:43,391 --> 00:35:46,351
+Când se termină totul, plecăm.
+
+457
+00:35:46,352 --> 00:35:49,312
+Fugim într-un ținut îndepărtat.
+Îți amintești?
+
+458
+00:35:49,313 --> 00:35:51,732
+Într-un loc în care nu putem fi găsiți.
+
+459
+00:35:52,316 --> 00:35:55,444
+Un loc în care e cel puțin o cascadă.
+
+460
+00:35:56,445 --> 00:35:57,446
+Mike...
+
+461
+00:35:59,240 --> 00:36:02,493
+Asta nu e o campanie din jocul vostru.
+
+462
+00:36:03,619 --> 00:36:05,371
+Nu alegi cum se termină.
+
+463
+00:36:06,164 --> 00:36:07,331
+De data asta, nu.
+
+464
+00:36:09,125 --> 00:36:10,334
+Poate că nu eu.
+
+465
+00:36:11,419 --> 00:36:12,669
+Dar noi, da.
+
+466
+00:36:12,670 --> 00:36:16,215
+Tu, eu, Lucas, Will și Dustin.
+
+467
+00:36:16,799 --> 00:36:18,426
+Fiindcă e povestea noastră.
+
+468
+00:36:19,468 --> 00:36:21,804
+Și începe cu recuperarea lui Will.
+
+469
+00:36:38,154 --> 00:36:38,988
+Max!
+
+470
+00:36:49,165 --> 00:36:51,374
+Nu mai ai nevoie de ochean, știi?
+
+471
+00:36:51,375 --> 00:36:53,335
+- Aia e peștera mea.
+- Da.
+
+472
+00:36:53,336 --> 00:36:56,005
+- Și ai capacul pus.
+- Da.
+
+473
+00:36:57,381 --> 00:36:58,382
+Uită-te!
+
+474
+00:36:59,717 --> 00:37:00,843
+Cu capacul pus.
+
+475
+00:37:06,098 --> 00:37:09,059
+- Totul e foarte întunecat.
+- Dar nu complet.
+
+476
+00:37:09,060 --> 00:37:12,896
+Partea prin care se vede
+are aceeași formă ca intrarea peșterii.
+
+477
+00:37:12,897 --> 00:37:17,317
+Ce șanse sunt să se fi spart așa,
+ca peștera în care știm că a fost Henry?
+
+478
+00:37:17,318 --> 00:37:20,654
+Capacul, cred eu,
+e o hartă făcută de Henry în tinerețe,
+
+479
+00:37:20,655 --> 00:37:23,199
+o hartă care ne duce într-un loc secret.
+
+480
+00:37:24,033 --> 00:37:26,285
+Trebuie să aliniem formele.
+
+481
+00:37:27,536 --> 00:37:30,038
+Și ce crezi că vom găsi în locul secret?
+
+482
+00:37:30,039 --> 00:37:34,168
+- Amintirea traumatizantă a lui Henry?
+- Da. Și ieșirea din Camazotz.
+
+483
+00:37:35,044 --> 00:37:37,296
+Cel puțin, asta e teoria mea.
+
+484
+00:37:38,214 --> 00:37:39,714
+- Îmi place.
+- Mulțumesc.
+
+485
+00:37:39,715 --> 00:37:42,008
+Dar teoria ta are un mic punct slab.
+
+486
+00:37:42,009 --> 00:37:44,844
+Suntem lângă locul secret,
+am vederea bună,
+
+487
+00:37:44,845 --> 00:37:48,140
+dar văd doar nenorocitul ăsta de nisip.
+
+488
+00:37:51,018 --> 00:37:51,852
+Ținte-te!
+
+489
+00:37:52,645 --> 00:37:53,896
+Ține-te!
+
+490
+00:38:12,748 --> 00:38:14,375
+Litera „M” marchează locul.
+
+491
+00:38:22,717 --> 00:38:25,802
+Vic, ai de gând să spui ceva?
+
+492
+00:38:25,803 --> 00:38:28,888
+Nu e clar ce vrea să spună fața ta.
+
+493
+00:38:28,889 --> 00:38:33,060
+Știu că e mult de digerat,
+mai ales dintr-odată.
+
+494
+00:38:33,561 --> 00:38:35,478
+Monștri, dimensiuni alternative...
+
+495
+00:38:35,479 --> 00:38:39,065
+Înțeleg că drogarea familiei Turnbow
+n-a fost chiar etică...
+
+496
+00:38:39,066 --> 00:38:44,112
+- Oprește-te, Robin. Te rog, oprește-te!
+- Am încercat să-ți spun de multe ori.
+
+497
+00:38:44,113 --> 00:38:47,991
+Nu, ai mințit.
+Apoi ai continuat să minți iar și iar.
+
+498
+00:38:47,992 --> 00:38:50,368
+- Știam că e ceva.
+- Îmi pare rău!
+
+499
+00:38:50,369 --> 00:38:54,039
+„A fost nebunie. Vorbim mâine.”
+„Scuze, altă criză la radio.”
+
+500
+00:38:54,040 --> 00:38:56,291
+Cine lucrează noaptea la radio?
+
+501
+00:38:56,292 --> 00:38:59,377
+Și cine e atât de prost
+încât să creadă asta?
+
+502
+00:38:59,378 --> 00:39:00,962
+Se pare că eu, Vickie,
+
+503
+00:39:00,963 --> 00:39:05,508
+care stau și aștept lângă telefon,
+în timp ce tu te droghezi cu prietenii.
+
+504
+00:39:05,509 --> 00:39:06,718
+Mă droghez?
+
+505
+00:39:06,719 --> 00:39:10,347
+Zău, Robin! Acum ești în sevraj.
+
+506
+00:39:10,348 --> 00:39:12,265
+Greșești. Nu iau droguri.
+
+507
+00:39:12,266 --> 00:39:14,059
+- Scuze...
+- Uită-te la mine!
+
+508
+00:39:14,060 --> 00:39:17,729
+Ai fost ocupată
+să vânezi monștri cu prietenii tăi!
+
+509
+00:39:17,730 --> 00:39:20,190
+Doamne! Poate că tu chiar crezi.
+
+510
+00:39:20,191 --> 00:39:23,777
+Având în vedere cât ai luat,
+dacă te oprești brusc,
+
+511
+00:39:23,778 --> 00:39:26,071
+devii confuză, paranoică, halucinezi...
+
+512
+00:39:26,072 --> 00:39:28,990
+Nu sunt halucinații!
+
+513
+00:39:28,991 --> 00:39:30,784
+Bine. Să recapitulăm.
+
+514
+00:39:30,785 --> 00:39:32,994
+- Un vrăjitor malefic...
+- Da.
+
+515
+00:39:32,995 --> 00:39:34,454
+- ...fură copii.
+- Da.
+
+516
+00:39:34,455 --> 00:39:36,999
+- Și îi duce într-o lume imaginară.
+- Da.
+
+517
+00:39:38,459 --> 00:39:42,128
+Vickie, pământul s-a crăpat în patru.
+
+518
+00:39:42,129 --> 00:39:44,756
+Armata a ocupat orașul.
+
+519
+00:39:44,757 --> 00:39:47,301
+Chiar e o nebunie ce spun?
+
+520
+00:39:48,511 --> 00:39:49,803
+Prostii!
+
+521
+00:39:49,804 --> 00:39:52,514
+Vrei să știi ce transmite fața mea acum?
+
+522
+00:39:52,515 --> 00:39:54,099
+- Da.
+- Furie.
+
+523
+00:39:54,100 --> 00:40:00,314
+Cu o urmă,
+dar una extrem de fină, de îngrijorare.
+
+524
+00:40:01,232 --> 00:40:03,441
+Oricât de furioasă aș fi acum,
+
+525
+00:40:03,442 --> 00:40:06,778
+nu ești în apele tale, Robin,
+și ai nevoie de ajutor.
+
+526
+00:40:06,779 --> 00:40:08,739
+Ai nevoie de ajutor serios.
+
+527
+00:40:09,740 --> 00:40:12,075
+- ...un furt de medicamente.
+- Stai aici!
+
+528
+00:40:12,076 --> 00:40:14,285
+- Ați văzut-o cumva?
+- Robin Buckley?
+
+529
+00:40:14,286 --> 00:40:17,248
+Da, e aici.
+Am văzut-o intrând în salonul acela.
+
+530
+00:40:19,417 --> 00:40:21,543
+- Vickie, iartă-mă.
+- Nu face asta.
+
+531
+00:40:21,544 --> 00:40:23,129
+- Acum o să plec.
+- Robin!
+
+532
+00:40:25,923 --> 00:40:27,133
+Cu tine vorbesc!
+
+533
+00:40:27,800 --> 00:40:28,717
+Buckley, stai!
+
+534
+00:40:32,638 --> 00:40:34,014
+Unde plecai?
+
+535
+00:40:36,684 --> 00:40:39,018
+- Ajutor!
+- Ajutor!
+
+536
+00:40:39,019 --> 00:40:40,937
+- Ajutor!
+- Dustin!
+
+537
+00:40:40,938 --> 00:40:42,690
+Ajutor! Steve!
+
+538
+00:40:46,193 --> 00:40:47,278
+Mulțumesc.
+
+539
+00:40:49,780 --> 00:40:53,825
+Ce naiba faci? N-o să meargă. Stai!
+
+540
+00:40:53,826 --> 00:40:57,120
+Steve, oprește-te!
+Vorbesc serios. Nu e sigur!
+
+541
+00:40:57,121 --> 00:40:59,622
+- O să cazi!
+- E instabilă, am înțeles.
+
+542
+00:40:59,623 --> 00:41:04,127
+- Nu! Nu mai fi un nesimțit!
+- Nu sunt. Vreau să ajung la ei!
+
+543
+00:41:04,128 --> 00:41:07,172
+Îți riști întruna viața,
+și nu vreau să se repete.
+
+544
+00:41:07,173 --> 00:41:08,840
+Nu mai fi așa egoist!
+
+545
+00:41:08,841 --> 00:41:11,801
+Dacă te duci acolo, o să mori,
+și nu mai suport.
+
+546
+00:41:11,802 --> 00:41:14,220
+Nu vreau să mori. Nu pot trăi iar asta.
+
+547
+00:41:14,221 --> 00:41:18,267
+Să nu se mai întâmple!
+Te rog, să nu se mai întâmple.
+
+548
+00:41:19,351 --> 00:41:20,352
+Nu cu tine.
+
+549
+00:41:21,520 --> 00:41:22,604
+Îmi pare rău!
+
+550
+00:41:22,605 --> 00:41:23,898
+Nu...
+
+551
+00:41:35,743 --> 00:41:37,369
+Ajutor!
+
+552
+00:41:37,870 --> 00:41:39,997
+- Ce naiba? Ajutor!
+- Ajutor!
+
+553
+00:41:42,082 --> 00:41:43,626
+Jos! Așază-te!
+
+554
+00:41:45,252 --> 00:41:47,921
+- Ce facem?
+- Distribuim greutatea.
+
+555
+00:41:47,922 --> 00:41:52,343
+Dl Goldstein, fizică. Câștigăm timp.
+
+556
+00:41:53,511 --> 00:41:55,470
+Cred că ne-au auzit deja.
+
+557
+00:41:55,471 --> 00:41:57,096
+Și de ce nu au răspuns?
+
+558
+00:41:57,097 --> 00:41:59,432
+Și dacă răspundeau, ce puteau face?
+
+559
+00:41:59,433 --> 00:42:01,393
+Ceva. Orice.
+
+560
+00:42:06,857 --> 00:42:08,024
+Nu vin.
+
+561
+00:42:08,025 --> 00:42:09,567
+Nu spune asta!
+
+562
+00:42:09,568 --> 00:42:10,903
+Ai zis să fiu sincer.
+
+563
+00:42:31,257 --> 00:42:32,758
+Îi urăsc pe The Clash.
+
+564
+00:42:35,010 --> 00:42:35,928
+Poftim?
+
+565
+00:42:38,389 --> 00:42:40,515
+Îi urăsc pe The Clash.
+
+566
+00:42:40,516 --> 00:42:44,311
+Când pui un cântec de-ale lor,
+încerc să mă rup de realitate.
+
+567
+00:42:46,355 --> 00:42:47,397
+Da.
+
+568
+00:42:47,398 --> 00:42:50,900
+Urăsc să-ți citesc articolele.
+Nu vrei să auzi ce cred.
+
+569
+00:42:50,901 --> 00:42:54,028
+- Vrei să auzi că sunt grozave.
+- Fiindcă așa sunt.
+
+570
+00:42:54,029 --> 00:42:58,117
+- De cele mai multe ori.
+- De cele mai multe... Bine.
+
+571
+00:42:59,243 --> 00:43:01,661
+N-am citit <i>Abatorul cinci.</i>
+
+572
+00:43:01,662 --> 00:43:04,289
+Doar un rezumat, și am zis că mi-a plăcut.
+
+573
+00:43:04,290 --> 00:43:08,293
+Nici eu, <i>Anna Karenina.</i>
+Doar un rezumat, și am zis că mi-a plăcut.
+
+574
+00:43:08,294 --> 00:43:10,878
+Mereu întârzii exact șase minute.
+
+575
+00:43:10,879 --> 00:43:15,008
+Nu spun nimic,
+dar îmi vine să sparg pereții.
+
+576
+00:43:15,009 --> 00:43:17,635
+- Am donat puloverul tău roz.
+- Poftim?
+
+577
+00:43:17,636 --> 00:43:19,971
+- L-am căutat.
+- Știi că urăsc rozul.
+
+578
+00:43:19,972 --> 00:43:22,473
+M-am simțit vinovat. E bine așa?
+
+579
+00:43:22,474 --> 00:43:26,144
+Am aruncat ultima pungă
+cu Deliciul Palmierului Violet.
+
+580
+00:43:26,145 --> 00:43:28,438
+- Nu m-am simțit vinovată.
+- Pe bune?
+
+581
+00:43:28,439 --> 00:43:31,357
+- Nu-mi placi drogat.
+- Nici tu mie, beată.
+
+582
+00:43:31,358 --> 00:43:34,402
+Nu-mi place deloc
+când tu ești drogat, și eu, beată.
+
+583
+00:43:34,403 --> 00:43:35,738
+Nici mie.
+
+584
+00:43:36,572 --> 00:43:38,032
+De ce facem asta?
+
+585
+00:43:41,410 --> 00:43:42,494
+Habar n-am.
+
+586
+00:43:51,211 --> 00:43:53,130
+Nu m-am înscris la Emerson.
+
+587
+00:43:55,007 --> 00:43:56,008
+Știu.
+
+588
+00:43:57,885 --> 00:43:59,595
+De ce n-ai spus nimic?
+
+589
+00:44:00,846 --> 00:44:02,264
+De ce nu te-ai înscris?
+
+590
+00:44:06,060 --> 00:44:07,353
+Nu sunt sigur.
+
+591
+00:44:12,983 --> 00:44:14,568
+M-am simțit...
+
+592
+00:44:16,570 --> 00:44:18,405
+ca și cum făceam ceva greșit.
+
+593
+00:44:21,617 --> 00:44:24,787
+Ceva contrar
+mersului natural al lucrurilor.
+
+594
+00:44:26,455 --> 00:44:27,456
+Vezi tu,
+
+595
+00:44:29,124 --> 00:44:31,584
+după toate prin câte am trecut...
+
+596
+00:44:31,585 --> 00:44:33,629
+Trauma noastră comună?
+
+597
+00:44:35,381 --> 00:44:36,382
+Da.
+
+598
+00:44:38,342 --> 00:44:42,428
+Cum ar putea altcineva să înțeleagă?
+
+599
+00:44:42,429 --> 00:44:46,558
+Lucrul acesta...
+
+600
+00:44:47,976 --> 00:44:50,145
+ne unește pe veci.
+
+601
+00:44:51,021 --> 00:44:52,022
+Înțelegi?
+
+602
+00:44:54,149 --> 00:44:56,151
+M-a făcut să mă simt în siguranță.
+
+603
+00:44:57,277 --> 00:44:58,278
+Pe de altă parte...
+
+604
+00:45:00,864 --> 00:45:01,782
+Nu știu...
+
+605
+00:45:02,783 --> 00:45:04,159
+Poate fi sufocant.
+
+606
+00:45:05,869 --> 00:45:06,870
+Da.
+
+607
+00:45:10,916 --> 00:45:12,334
+În vacanța de primăvară,
+
+608
+00:45:13,293 --> 00:45:15,170
+când tu erai în Lenora,
+
+609
+00:45:16,672 --> 00:45:19,298
+nu a fost nevoie să rămân aici să lucrez.
+
+610
+00:45:19,299 --> 00:45:21,969
+Puteam să-l rog pe Fred să-mi țină locul.
+
+611
+00:45:24,430 --> 00:45:26,682
+Dar ceva m-a făcut să rămân aici.
+
+612
+00:45:28,183 --> 00:45:32,354
+Senzația că aveam nevoie de spațiu.
+
+613
+00:45:34,565 --> 00:45:36,525
+Ca să fii cu altcineva?
+
+614
+00:45:41,989 --> 00:45:43,532
+Steve e băiat bun.
+
+615
+00:45:45,451 --> 00:45:46,744
+Mă face să râd.
+
+616
+00:45:47,870 --> 00:45:52,458
+Și are o freză mai tare ca a ta.
+Mult mai tare.
+
+617
+00:45:53,333 --> 00:45:54,251
+Dar nu e cazul.
+
+618
+00:45:56,879 --> 00:45:59,173
+N-a fost vorba de asta.
+
+619
+00:45:59,757 --> 00:46:01,632
+Suntem foarte diferiți.
+
+620
+00:46:01,633 --> 00:46:05,428
+Știi ce mi-a zis? Că vrea șase copii.
+
+621
+00:46:05,429 --> 00:46:08,891
+- Șase copii?
+- Șase bulgărași.
+
+622
+00:46:09,767 --> 00:46:11,101
+Un Happy Meal!
+
+623
+00:46:12,686 --> 00:46:13,854
+Ideea e...
+
+624
+00:46:15,481 --> 00:46:18,525
+că știe ce vrea, iar asta e grozav.
+
+625
+00:46:19,026 --> 00:46:22,070
+Dar eu nu știu.
+
+626
+00:46:23,947 --> 00:46:24,865
+Și...
+
+627
+00:46:25,949 --> 00:46:28,911
+speram că voi avea timp să aflu.
+
+628
+00:46:30,162 --> 00:46:32,705
+- Dar apoi...
+- Lumea s-a rupt în patru.
+
+629
+00:46:32,706 --> 00:46:34,082
+Și acum...
+
+630
+00:46:36,835 --> 00:46:37,836
+Acum...
+
+631
+00:46:48,764 --> 00:46:50,682
+Am o ultimă mărturisire.
+
+632
+00:46:51,767 --> 00:46:53,101
+Una importantă.
+
+633
+00:46:59,691 --> 00:47:01,235
+John Coltrane!
+
+634
+00:47:01,860 --> 00:47:06,156
+Mi-am dat seama
+că am greșit mult în relația cu tine.
+
+635
+00:47:08,450 --> 00:47:11,328
+Că ar fi frumos
+să fac ceva bine până la urmă.
+
+636
+00:47:12,371 --> 00:47:13,372
+Poftim!
+
+637
+00:47:31,348 --> 00:47:32,766
+Nancy Wheeler...
+
+638
+00:47:35,310 --> 00:47:36,395
+vrei...
+
+639
+00:47:38,272 --> 00:47:41,108
+să nu te măriți cu mine?
+
+640
+00:47:48,115 --> 00:47:50,075
+Am încercat să mă conving
+
+641
+00:47:51,451 --> 00:47:55,621
+că asta ar putea cumva să rezolve totul.
+
+642
+00:47:55,622 --> 00:47:58,333
+Dar ar fi înrăutățit lucrurile.
+
+643
+00:47:59,459 --> 00:48:04,506
+De-asta îmi stă în buzunar
+ca o ghiulea de două zile.
+
+644
+00:48:07,301 --> 00:48:08,552
+Ce zici?
+
+645
+00:48:12,723 --> 00:48:14,766
+Accepți să mă refuzi?
+
+646
+00:48:15,976 --> 00:48:17,936
+Accept să te refuz.
+
+647
+00:48:20,397 --> 00:48:21,523
+Te-am iubit.
+
+648
+00:48:22,816 --> 00:48:25,944
+Te iubesc, Nancy Wheeler.
+
+649
+00:48:27,446 --> 00:48:29,823
+Te iubesc, Jonathan Byers.
+
+650
+00:49:05,609 --> 00:49:06,610
+Doamne!
+
+651
+00:49:15,911 --> 00:49:18,538
+Jonathan! Doamne!
+
+652
+00:49:21,625 --> 00:49:22,626
+Doamne!
+
+653
+00:49:49,653 --> 00:49:52,572
+- Mulțumesc!
+- O să-l găsesc.
+
+654
+00:49:54,074 --> 00:49:55,701
+Îl aduc acasă.
+
+655
+00:50:03,375 --> 00:50:06,211
+Bine. Nu uita, dacă vrei să ieși...
+
+656
+00:50:35,574 --> 00:50:37,409
+Will, sunt aici.
+
+657
+00:50:39,327 --> 00:50:41,747
+Vreau să-mi arăți unde ești.
+
+658
+00:50:43,373 --> 00:50:45,208
+Arată-mi unde ești.
+
+659
+00:51:06,313 --> 00:51:07,314
+Will!
+
+660
+00:51:10,609 --> 00:51:11,610
+Will!
+
+661
+00:51:12,194 --> 00:51:13,402
+Will, mă auzi?
+
+662
+00:51:13,403 --> 00:51:14,738
+Will, trezește-te!
+
+663
+00:51:42,974 --> 00:51:44,142
+Mi-o dai mie?
+
+664
+00:51:51,983 --> 00:51:53,568
+Oare a căzut cineva aici?
+
+665
+00:51:58,031 --> 00:52:00,699
+E doar o amintire, nu?
+
+666
+00:52:00,700 --> 00:52:02,660
+Nimic nu ne poate face rău.
+
+667
+00:52:02,661 --> 00:52:04,079
+Nimic nu ne face rău.
+
+668
+00:52:18,009 --> 00:52:19,260
+Stai în spatele meu.
+
+669
+00:52:19,261 --> 00:52:21,263
+- Dar ai zis...
+- Știu ce am zis.
+
+670
+00:52:33,400 --> 00:52:34,776
+Cum am fost găsit?
+
+671
+00:52:37,112 --> 00:52:39,113
+Cum am fost găsit?
+
+672
+00:52:39,114 --> 00:52:42,032
+Ne vede. Cum e posibil să ne vadă?
+
+673
+00:52:42,033 --> 00:52:43,368
+Nu vă fac rău!
+
+674
+00:52:44,035 --> 00:52:46,829
+Vă rog, domnule, nu trageți!
+
+675
+00:52:46,830 --> 00:52:48,164
+Cine ești?
+
+676
+00:52:48,165 --> 00:52:50,833
+Henry Creel. Locuiesc în apropiere.
+
+677
+00:52:50,834 --> 00:52:52,960
+- Cine te-a trimis?
+- Nimeni.
+
+678
+00:52:52,961 --> 00:52:55,212
+- Ei te-au trimis.
+- Am auzit țipete.
+
+679
+00:52:55,213 --> 00:52:56,505
+Ei te-au trimis!
+
+680
+00:52:56,506 --> 00:52:59,217
+Sunteți confuz. Aveți nevoie de un doctor.
+
+681
+00:53:13,773 --> 00:53:15,650
+Vă rog!
+
+682
+00:53:24,159 --> 00:53:25,076
+Holly!
+
+683
+00:53:26,077 --> 00:53:26,995
+Holly!
+
+684
+00:53:31,416 --> 00:53:32,417
+Fir-ar să fie!
+
+685
+00:53:35,170 --> 00:53:36,879
+E în regulă.
+
+686
+00:53:36,880 --> 00:53:41,342
+De ce l-a rănit omul ăla pe Henry?
+L-a rănit. El voia să-l ajute.
+
+687
+00:53:41,343 --> 00:53:43,177
+- Nu știu.
+- De-asta e rău?
+
+688
+00:53:43,178 --> 00:53:47,224
+Nu știu. Dar s-a terminat.
+Trebuie să ne mișcăm.
+
+689
+00:54:37,482 --> 00:54:38,691
+Ai avut dreptate!
+
+690
+00:54:38,692 --> 00:54:41,528
+Ieșirea din Camazotz e aici.
+
+691
+00:54:50,370 --> 00:54:51,288
+Max...
+
+692
+00:55:01,840 --> 00:55:08,555
+<i>O să spionezi pentru mine
+pentru ultima dată.</i>
+
+693
+00:55:20,066 --> 00:55:21,067
+Te-am găsit.
+
+694
+00:55:22,861 --> 00:55:26,488
+Will, e în regulă. Sunt aici.
+
+695
+00:55:26,489 --> 00:55:28,116
+- Unșpe...
+- Sunt aici.
+
+696
+00:55:28,700 --> 00:55:30,701
+- Unșpe...
+- Eu sunt.
+
+697
+00:55:30,702 --> 00:55:32,411
+Te duc acasă. E în regulă.
+
+698
+00:55:32,412 --> 00:55:35,622
+Am încercat să-l opresc, dar n-am putut.
+
+699
+00:55:35,623 --> 00:55:36,708
+A văzut!
+
+700
+00:55:37,292 --> 00:55:39,002
+Ce a văzut?
+
+701
+00:55:39,711 --> 00:55:40,628
+Pe Max.
+
+702
+00:55:41,838 --> 00:55:43,381
+Știe unde e.
+
+703
+00:55:44,090 --> 00:55:45,842
+I-a trimis după ea.
+
+704
+00:55:46,718 --> 00:55:49,387
+Vin să o ia. În Hawkins.
+
+705
+00:55:53,350 --> 00:55:54,475
+- Unșpe!
+- Ce faci?
+
+706
+00:55:54,476 --> 00:55:55,560
+Ești bine?
+
+707
+00:55:56,227 --> 00:55:58,355
+- Ce s-a întâmplat?
+- E bine?
+
+708
+00:55:59,397 --> 00:56:01,900
+Vecna o va ucide pe Max.
+
+709
+00:56:02,484 --> 00:56:04,569
+Trebuie să ajungem la spital acum.
+
+710
+00:56:05,362 --> 00:56:08,864
+- Sunteți surzi? E în sevraj.
+- Ba nu sunt!
+
+711
+00:56:08,865 --> 00:56:13,035
+Trebuie să fie la spital, nu la pușcărie.
+Ce să vezi? E la spital!
+
+712
+00:56:13,036 --> 00:56:16,164
+Suntem în Hawkins, scumpo.
+Am mai văzut drogați.
+
+713
+00:56:21,419 --> 00:56:23,380
+Pană de curent la spital.
+
+714
+00:56:23,880 --> 00:56:26,215
+Nasol de bunica. Nu e treaba noastră.
+
+715
+00:56:26,216 --> 00:56:30,677
+- Nu înțelegeți. Trebuie să evacuăm!
+- Nu trebuie nimic. Mișcă, drogato!
+
+716
+00:56:30,678 --> 00:56:32,137
+Nu sunt drogată!
+
+717
+00:56:32,138 --> 00:56:36,475
+Dacă nu-i scoatem pe toți afară acum,
+o să murim cu toții!
+
+718
+00:56:36,476 --> 00:56:41,438
+Nu există nimic pe lumea asta
+care să te scape de pușcărie.
+
+719
+00:56:41,439 --> 00:56:44,234
+- Nu-ți mai bate gura.
+- Trebuie să evacuăm.
+
+720
+00:56:48,446 --> 00:56:50,407
+- Drăcia dracului!
+- Fugi!
+
+721
+00:57:13,513 --> 00:57:16,098
+- Nu pe noi ne vor.
+- Ce zici?
+
+722
+00:57:16,099 --> 00:57:19,184
+Nu pe noi ne vor. Știi altă ieșire?
+
+723
+00:57:19,185 --> 00:57:21,563
+La subsol! Prin parcarea personalului.
+
+724
+00:57:23,690 --> 00:57:24,691
+Bine...
+
+725
+00:57:25,233 --> 00:57:27,277
+Hai, Lucas, răspunde!
+
+726
+00:57:30,280 --> 00:57:32,030
+Răspunde... Ce faci?
+
+727
+00:57:32,031 --> 00:57:33,323
+- Știu engleză?
+- Nu.
+
+728
+00:57:33,324 --> 00:57:34,993
+- Nu suna la telefon.
+- Ce?
+
+729
+00:57:36,411 --> 00:57:38,620
+<i>Lucas, sunt Robin. Vine un demogorgon.</i>
+
+730
+00:57:38,621 --> 00:57:41,832
+Mă auzi? Vine un demogorgon.
+Scoate-o pe Max de acolo.
+
+731
+00:57:41,833 --> 00:57:45,253
+Ia liftul. Sunt pe scări.
+Ne vedem la subsol.
+
+732
+00:58:12,113 --> 00:58:13,156
+Hai odată!
+
+733
+00:58:23,208 --> 00:58:24,292
+La dracu'!
+
+734
+00:58:25,543 --> 00:58:26,503
+Rahat! Haide!
+
+735
+00:58:44,521 --> 00:58:46,231
+Drăcia dracului!
+
+736
+00:58:47,732 --> 00:58:51,276
+Nu se clintește.
+Trebuie să încercăm să ne strecurăm.
+
+737
+00:58:51,277 --> 00:58:52,362
+Vino!
+
+738
+00:58:58,076 --> 00:58:59,076
+Ai reușit?
+
+739
+00:58:59,077 --> 00:59:00,537
+- Da.
+- Bine.
+
+740
+00:59:04,249 --> 00:59:06,668
+- Trage-mă de mână.
+- Bine.
+
+741
+00:59:30,400 --> 00:59:32,776
+- Isuse!
+- Vin! Sunt în spatele meu!
+
+742
+00:59:32,777 --> 00:59:34,279
+- Să mergem!
+- Pe unde?
+
+743
+00:59:35,738 --> 00:59:38,116
+Pe aici! Ce naiba se întâmplă?
+
+744
+00:59:39,409 --> 00:59:41,034
+- Aici!
+- Cum ne găsesc?
+
+745
+00:59:41,035 --> 00:59:43,787
+- Nu știu, dar trebuie să plecăm!
+- Haide!
+
+746
+00:59:43,788 --> 00:59:45,706
+- Vino!
+- Du-te!
+
+747
+00:59:45,707 --> 00:59:48,209
+Haide! Închide ușa!
+
+748
+00:59:50,670 --> 00:59:52,714
+- Drace!
+- Hai! Nu vă opriți!
+
+749
+00:59:53,673 --> 00:59:54,965
+- Haide.
+- La dracu'!
+
+750
+00:59:54,966 --> 00:59:56,634
+Să mergem!
+
+751
+00:59:57,719 --> 01:00:00,221
+- Ușa! Deschide ușa!
+- Repede!
+
+752
+01:00:05,393 --> 01:00:07,728
+Fir-ar să fie! Pe aici! Haideți!
+
+753
+01:00:07,729 --> 01:00:08,813
+Jos!
+
+754
+01:00:18,072 --> 01:00:20,783
+Îmi pare foarte rău
+că te-am crezut drogată.
+
+755
+01:00:22,035 --> 01:00:26,623
+Îmi pare rău că te-am mințit
+ridicol de mult timp.
+
+756
+01:00:27,332 --> 01:00:30,709
+Să știi că n-am mințit
+în legătură cu Enzo.
+
+757
+01:00:30,710 --> 01:00:33,045
+Dacă, printr-un miracol, supraviețuim,
+
+758
+01:00:33,046 --> 01:00:38,592
+te duc acolo și comandăm desert.
+
+759
+01:00:38,593 --> 01:00:39,552
+Ne-am înțeles?
+
+760
+01:01:05,286 --> 01:01:06,703
+Trebuie să-l oprim.
+
+761
+01:01:06,704 --> 01:01:10,291
+Nu se poate. Nu! Max se întoarce.
+
+762
+01:01:10,875 --> 01:01:12,043
+Trebuie.
+
+763
+01:01:13,044 --> 01:01:14,337
+Se întoarce!
+
+764
+01:01:21,344 --> 01:01:22,470
+Ești bine?
+
+765
+01:01:24,013 --> 01:01:25,139
+- Coboară!
+- Bine.
+
+766
+01:01:35,692 --> 01:01:36,734
+Bine...
+
+767
+01:01:40,530 --> 01:01:42,532
+Ești gata să mergi acasă, turisto?
+
+768
+01:01:45,076 --> 01:01:46,035
+Da.
+
+769
+01:03:14,540 --> 01:03:17,375
+OXIGEN
+INFLAMABIL
+
+770
+01:03:17,376 --> 01:03:19,587
+FIERBINTE
+TEMPERATURĂ DE USCARE
+
+771
+01:04:25,695 --> 01:04:26,737
+Lucas!
+
+772
+01:04:33,452 --> 01:04:35,121
+Holly, stai!
+
+773
+01:04:37,331 --> 01:04:39,833
+- Nu poți veni cu mine.
+- Cum așa?
+
+774
+01:04:39,834 --> 01:04:42,712
+- Ce vrei să spui?
+- Drumul ăsta duce la mine.
+
+775
+01:04:43,588 --> 01:04:48,049
+Duce la corpul meu, nu la al tău.
+Trebuie să-ți găsești drumul tău.
+
+776
+01:04:48,050 --> 01:04:51,678
+Cum? Nu o am pe Kate Bush.
+Nici nu știu cine e!
+
+777
+01:04:51,679 --> 01:04:55,766
+N-ai nevoie de Kate Bush ca să pleci.
+Se pare că nici eu.
+
+778
+01:04:56,350 --> 01:04:58,185
+Muzica nu e singura cale.
+
+779
+01:04:58,686 --> 01:05:03,149
+Ai nevoie de ceva
+care te leagă de lumea reală, de casă.
+
+780
+01:05:03,816 --> 01:05:07,485
+Ceva puternic, cu adevărat important.
+
+781
+01:05:07,486 --> 01:05:11,198
+Când Lucas m-a luat de mână în spital,
+
+782
+01:05:12,158 --> 01:05:13,200
+am simțit.
+
+783
+01:05:13,784 --> 01:05:14,785
+Chiar aici.
+
+784
+01:05:16,120 --> 01:05:18,581
+Dar am simțit ceva și aici, în interior.
+
+785
+01:05:19,290 --> 01:05:20,874
+Eu nu am iubit.
+
+786
+01:05:20,875 --> 01:05:24,419
+N-ai nevoie de un iubit,
+ci doar de ceva special,
+
+787
+01:05:24,420 --> 01:05:27,547
+ceva care te face
+să te simți în siguranță,
+
+788
+01:05:27,548 --> 01:05:31,677
+ceva care-ți dă putere și speranță.
+
+789
+01:05:32,261 --> 01:05:35,097
+- Holly Eroina.
+- E cu tine acum.
+
+790
+01:05:36,599 --> 01:05:38,767
+Dar e cu tine și în lumea reală.
+
+791
+01:05:38,768 --> 01:05:42,771
+Oriunde ai fi,
+trebuie doar să o urmezi până acasă.
+
+792
+01:05:42,772 --> 01:05:43,856
+Cum?
+
+793
+01:05:44,690 --> 01:05:49,612
+Pur și simplu, încearcă să-ți amintești
+ce înseamnă pentru tine.
+
+794
+01:05:50,655 --> 01:05:52,990
+Nu înseamnă nimic important.
+
+795
+01:05:55,076 --> 01:05:56,369
+E doar o jucărie.
+
+796
+01:05:57,411 --> 01:06:00,330
+Dacă e doar o jucărie,
+de ce o ai mereu cu tine?
+
+797
+01:06:00,331 --> 01:06:05,585
+Mike a zis că are puteri divine,
+că nu se sperie niciodată
+
+798
+01:06:05,586 --> 01:06:09,631
+și că, dacă o să-mi fie teamă vreodată,
+pot să mă transform în ea.
+
+799
+01:06:09,632 --> 01:06:13,052
+Încerc întruna, dar nu funcționează.
+
+800
+01:06:15,346 --> 01:06:17,348
+Orice aș face, tot eu sunt.
+
+801
+01:06:19,600 --> 01:06:22,185
+Fata care are nevoie de lampă de noapte.
+
+802
+01:06:22,186 --> 01:06:26,690
+Când mama a fost atacată, n-am salvat-o.
+Nici pe mine nu m-am salvat.
+
+803
+01:06:26,691 --> 01:06:28,359
+Holly, stai în spate!
+
+804
+01:06:29,610 --> 01:06:31,528
+N-am făcut nicio mișcare.
+
+805
+01:06:31,529 --> 01:06:33,531
+Nici când Henry te-a atacat...
+
+806
+01:06:34,198 --> 01:06:35,408
+Nu!
+
+807
+01:06:35,908 --> 01:06:37,159
+...n-am făcut nimic.
+
+808
+01:06:37,743 --> 01:06:40,746
+Nu e nimic eroic în asta.
+
+809
+01:06:41,330 --> 01:06:44,207
+Nu puteai face nimic atunci, Holly.
+
+810
+01:06:44,208 --> 01:06:47,378
+Ești o Wheeler. Ești deșteaptă.
+
+811
+01:06:48,087 --> 01:06:51,716
+Chiar crezi
+că i-ai fi oprit pe monștri cu un vătrai?
+
+812
+01:06:52,299 --> 01:06:55,051
+Și cred că uiți câteva aspecte importante.
+
+813
+01:06:55,052 --> 01:06:57,887
+Când ne-am cunoscut, ai intrat în pădure,
+
+814
+01:06:57,888 --> 01:07:00,557
+deși Henry îți zisese
+că acolo sunt monștri.
+
+815
+01:07:00,558 --> 01:07:02,976
+Apoi m-ai urmat în peșteră,
+
+816
+01:07:02,977 --> 01:07:05,687
+deși nu aveai motive
+să ai încredere în mine.
+
+817
+01:07:05,688 --> 01:07:11,860
+Iar când ți-am zis să te întorci la Henry,
+să te pui iar în pericol, nu ai ezitat.
+
+818
+01:07:11,861 --> 01:07:15,823
+Azi, când eu am renunțat, tu n-ai făcut-o.
+
+819
+01:07:17,408 --> 01:07:19,618
+Sunt aici de foarte mult timp, Holly.
+
+820
+01:07:20,911 --> 01:07:22,079
+Foarte mult.
+
+821
+01:07:24,040 --> 01:07:25,875
+Nu am reușit să scap.
+
+822
+01:07:27,793 --> 01:07:28,794
+Dar tu?
+
+823
+01:07:30,046 --> 01:07:32,380
+Ai găsit o cale de ieșire din Camazotz.
+
+824
+01:07:32,381 --> 01:07:33,716
+Datorită ție,
+
+825
+01:07:35,092 --> 01:07:36,635
+o să-mi văd prietenii.
+
+826
+01:07:37,887 --> 01:07:39,221
+O să-l văd pe Lucas.
+
+827
+01:07:41,182 --> 01:07:43,392
+M-ai salvat, Holly Wheeler.
+
+828
+01:07:44,977 --> 01:07:46,062
+Tu m-ai salvat.
+
+829
+01:07:48,314 --> 01:07:52,610
+Așa că, vezi bine,
+Holly Eroina nu e doar o jucărie.
+
+830
+01:07:54,528 --> 01:07:56,030
+Ești chiar tu, Holly.
+
+831
+01:07:57,698 --> 01:07:58,699
+Ești chiar tu.
+
+832
+01:08:18,761 --> 01:08:20,513
+De unde ai știut că va merge?
+
+833
+01:08:22,264 --> 01:08:23,724
+N-am știut.
+
+834
+01:08:26,060 --> 01:08:30,480
+Mai ai un drum lung de făcut.
+Nu știu unde o să te trezești.
+
+835
+01:08:30,481 --> 01:08:36,945
+Cred că Vecna te ține în Lumea Răsturnată.
+Ține minte, e exact ca Hawkins.
+
+836
+01:08:36,946 --> 01:08:39,948
+Găsește-ți drumul spre casă
+și ascunde-te acolo.
+
+837
+01:08:39,949 --> 01:08:42,284
+Noi o să te găsim. Bine?
+
+838
+01:08:58,759 --> 01:09:00,219
+Ne vedem dincolo.
+
+839
+01:09:00,886 --> 01:09:01,887
+Dincolo.
+
+840
+01:12:27,676 --> 01:12:29,136
+Subtitrarea: Dan Ilioiu
+

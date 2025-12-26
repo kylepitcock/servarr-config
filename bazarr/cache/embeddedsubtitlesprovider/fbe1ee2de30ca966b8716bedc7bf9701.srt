@@ -1,0 +1,1912 @@
+1
+00:00:01,000 --> 00:00:01,833
+Stehenbleiben.
+
+2
+00:00:01,958 --> 00:00:04,291
+Du bist hier
+in der Pre-Mor-Unternehmenszone.
+
+3
+00:00:06,041 --> 00:00:06,916
+Er atmet nicht.
+
+4
+00:00:07,041 --> 00:00:08,083
+Du hast ihn getötet.
+
+5
+00:00:09,041 --> 00:00:13,083
+<i>"Pre-Mor-Behörde sucht Kenaribewohner</i>
+<i>von Ferrix zwecks Befragung.</i>
+
+6
+00:00:13,291 --> 00:00:14,916
+<i>"Wer über Informationen verfügt,</i>
+
+7
+00:00:15,000 --> 00:00:19,083
+<i>"kontaktiert bitte unverzüglich</i>
+<i>die Preox-Morlana Sicherheitszentrale."</i>
+
+8
+00:00:19,250 --> 00:00:20,125
+Ein Verdächtiger?
+
+9
+00:00:20,208 --> 00:00:21,666
+<i>Cassian Andor.</i>
+
+10
+00:00:21,750 --> 00:00:24,250
+<i>"Widerstand,</i>
+<i>Zerstörung von imperialem Eigentum,</i>
+
+11
+00:00:24,333 --> 00:00:25,625
+<i>"Angriff auf einen Soldaten."</i>
+
+12
+00:00:25,708 --> 00:00:27,625
+Wer weiß noch, dass du von Kenari stammst?
+
+13
+00:00:28,958 --> 00:00:30,041
+Bix sucht nach dir.
+
+14
+00:00:30,208 --> 00:00:32,500
+-Bix hat nichts damit zu tun.
+-Wer erzählte diesen
+
+15
+00:00:32,625 --> 00:00:34,333
+Pre-Mor-Bastarden von Kenari?
+
+16
+00:00:34,500 --> 00:00:35,625
+<i>"Kenari.</i>
+
+17
+00:00:37,208 --> 00:00:39,875
+<i>"Seit imperialem Minenunglück verlassen."</i>
+
+18
+00:00:40,208 --> 00:00:41,166
+<i>Keine Überlebenden.</i>
+
+19
+00:00:42,041 --> 00:00:44,458
+<i>Andor gilt als bewaffnet und gefährlich.</i>
+
+20
+00:00:44,541 --> 00:00:46,875
+<i>Er mag nicht wie ein</i>
+<i>furchteinflößender Feind wirken,</i>
+
+21
+00:00:46,958 --> 00:00:49,791
+doch zwei unserer Männer sind tot,
+weil sie diesem Irrtum erlagen.
+
+22
+00:00:49,875 --> 00:00:51,208
+Ich habe was zu verkaufen.
+
+23
+00:00:51,791 --> 00:00:52,625
+Was?
+
+24
+00:00:52,750 --> 00:00:54,708
+<i>Eine nicht aufspürbare</i>
+<i>NS-9 Starpath-Einheit.</i>
+
+25
+00:00:54,791 --> 00:00:56,125
+<i>Weißt du, was das wert ist?</i>
+
+26
+00:00:56,750 --> 00:00:57,750
+<i>Genug, um abzutauchen,</i>
+
+27
+00:00:58,125 --> 00:00:59,625
+<i>bis sich alles beruhigt hat.</i>
+
+28
+00:01:00,166 --> 00:01:01,833
+<i>Dein Freund wird sie haben wollen.</i>
+
+29
+00:01:01,958 --> 00:01:02,958
+<i>Er wird kommen.</i>
+
+30
+00:04:43,875 --> 00:04:44,958
+Bereit zum Abkoppeln.
+
+31
+00:04:47,416 --> 00:04:48,416
+Langsam.
+
+32
+00:05:02,333 --> 00:05:03,708
+Nimm das Teil da vorne.
+
+33
+00:05:14,000 --> 00:05:16,000
+Wie's aussieht, habe ich bald etwas Geld.
+
+34
+00:05:16,083 --> 00:05:17,666
+Sobald ich's habe, bin ich weg.
+
+35
+00:05:17,750 --> 00:05:18,750
+Wann?
+
+36
+00:05:19,791 --> 00:05:20,708
+Heute.
+
+37
+00:05:21,833 --> 00:05:22,708
+Das klingt nicht gut.
+
+38
+00:05:22,875 --> 00:05:24,541
+Ich gebe Maarva was davon.
+
+39
+00:05:24,708 --> 00:05:26,166
+Sie begleicht meine Schulden.
+
+40
+00:05:27,125 --> 00:05:28,458
+Pass auf sie auf.
+
+41
+00:05:29,083 --> 00:05:30,083
+Wohin gehst du?
+
+42
+00:05:30,208 --> 00:05:31,583
+Besser, du weißt es nicht.
+
+43
+00:05:32,291 --> 00:05:33,458
+Ich komme wieder.
+
+44
+00:05:33,583 --> 00:05:35,000
+Ich finde einen Weg.
+
+45
+00:05:55,500 --> 00:05:57,000
+<i>Willkommen am Ferrix-Terminal.</i>
+
+46
+00:05:57,541 --> 00:06:00,000
+<i>Vergewissern Sie sich vor dem Ausstieg,</i>
+<i>dass Sie nichts vergessen haben.</i>
+
+47
+00:06:07,333 --> 00:06:09,041
+Du wohnst nicht im Hotel, oder?
+
+48
+00:06:10,208 --> 00:06:11,250
+Heute Nacht nicht.
+
+49
+00:06:11,333 --> 00:06:12,416
+Besser so.
+
+50
+00:06:12,583 --> 00:06:14,250
+Ist die ultimative Ferrix-Abzocke.
+
+51
+00:06:16,750 --> 00:06:17,833
+Pass auf dein Geld auf.
+
+52
+00:06:37,208 --> 00:06:38,125
+Danke.
+
+53
+00:06:41,166 --> 00:06:43,916
+Es gibt ein Problem.
+Ich konnte nicht mehr Bescheid sagen.
+
+54
+00:06:44,000 --> 00:06:45,208
+Ganz ruhig.
+
+55
+00:06:45,291 --> 00:06:47,666
+Die Pre-Mor Konzernsicherheit
+gab eine Fahndung raus,
+
+56
+00:06:47,750 --> 00:06:49,500
+auf die Cassian passt.
+
+57
+00:06:49,666 --> 00:06:50,916
+Hab's gesehen.
+
+58
+00:06:51,000 --> 00:06:52,875
+Der Bericht enthält keinen Namen.
+
+59
+00:06:52,958 --> 00:06:55,333
+Es heißt, sie suchen jemanden von Kenari.
+
+60
+00:06:55,500 --> 00:06:57,833
+Laut imperialer Gefängnisakte
+stammt er von Fest.
+
+61
+00:06:57,916 --> 00:06:59,583
+Das erzählte er immer.
+
+62
+00:07:00,916 --> 00:07:02,416
+Wurde er identifiziert?
+
+63
+00:07:02,625 --> 00:07:04,500
+Ich glaube, nur wenige kennen ihn.
+
+64
+00:07:05,916 --> 00:07:07,791
+Tötete er die Männer auf Morlana?
+
+65
+00:07:09,750 --> 00:07:11,625
+Dann sollten wir uns besser beeilen.
+
+66
+00:07:13,208 --> 00:07:14,291
+Wo ist er?
+
+67
+00:07:14,458 --> 00:07:16,416
+Ost-Gelände. Gebäude neun.
+
+68
+00:07:18,625 --> 00:07:19,583
+Traust du ihm?
+
+69
+00:07:20,458 --> 00:07:21,458
+Er wird kommen.
+
+70
+00:08:14,375 --> 00:08:16,083
+Dampfdichte akzeptabel.
+
+71
+00:08:16,250 --> 00:08:17,958
+Konzentration in der Luft minimal.
+
+72
+00:08:18,083 --> 00:08:20,125
+Keine toxischen Gase nachweisbar.
+
+73
+00:08:20,333 --> 00:08:21,666
+Na, bitte. Jetzt zufrieden?
+
+74
+00:08:23,250 --> 00:08:24,666
+Holen wir uns die Steuerung.
+
+75
+00:08:24,750 --> 00:08:26,416
+Vielleicht sollten wir lieber abhauen.
+
+76
+00:08:26,500 --> 00:08:27,541
+Es ist sicher.
+
+77
+00:08:27,666 --> 00:08:29,250
+Was es auch war, es ist verbrannt.
+
+78
+00:08:29,375 --> 00:08:30,791
+Jetzt setz die Maske ab.
+
+79
+00:08:32,541 --> 00:08:33,791
+Mir geht's um die Zeit.
+
+80
+00:08:33,875 --> 00:08:35,250
+Du sagtest höchstens 20 Minuten.
+
+81
+00:08:38,000 --> 00:08:39,500
+Ich will nicht wissen, was das ist.
+
+82
+00:08:39,666 --> 00:08:42,416
+Da vorne sind mindestens sechs brandneue
+
+83
+00:08:42,625 --> 00:08:43,625
+Brennstoffkanister.
+
+84
+00:08:43,708 --> 00:08:45,333
+Wir haben mehr, als wir tragen können.
+
+85
+00:08:45,416 --> 00:08:46,958
+Was ist der aktuelle Preis dafür?
+
+86
+00:08:47,125 --> 00:08:48,625
+Zum Verkauf oder Tausch?
+
+87
+00:08:48,708 --> 00:08:49,875
+Machst du Witze?
+
+88
+00:08:51,500 --> 00:08:53,416
+Wir verschwinden, sofort.
+
+89
+00:08:54,000 --> 00:08:55,416
+Kann alles Mögliche sein.
+
+90
+00:08:56,375 --> 00:08:59,375
+Wenn das so ist, sehen wir unbedingt nach.
+
+91
+00:09:18,375 --> 00:09:20,041
+Dein Elan gefällt mir, Kleiner.
+
+92
+00:09:21,000 --> 00:09:23,041
+Du solltest weg sein, wenn die kommen.
+
+93
+00:09:30,208 --> 00:09:31,541
+Er versteht dich nicht.
+
+94
+00:09:33,125 --> 00:09:34,791
+Republikanische Fregatte im Anflug.
+
+95
+00:10:16,666 --> 00:10:17,708
+West-Team ist vor Ort.
+
+96
+00:10:20,916 --> 00:10:22,458
+Ost-Team, Lagebericht.
+
+97
+00:10:23,458 --> 00:10:24,625
+<i>Ost-Team im Anflug.</i>
+
+98
+00:10:24,791 --> 00:10:26,208
+<i>Drei Minuten bis zur Landezone.</i>
+
+99
+00:10:27,041 --> 00:10:28,166
+<i>Nord-Team, Lagebericht.</i>
+
+100
+00:10:29,208 --> 00:10:31,166
+<i>Hier Nord-Team. Sind vor Ort.</i>
+
+101
+00:10:31,833 --> 00:10:33,750
+Verstanden. Auf Empfang bleiben.
+
+102
+00:10:45,083 --> 00:10:46,875
+Hab länger keine Blauen mehr gesehen.
+
+103
+00:10:48,125 --> 00:10:49,458
+Was machen die denn hier?
+
+104
+00:10:50,333 --> 00:10:51,541
+Die suchen nach jemandem.
+
+105
+00:11:12,791 --> 00:11:14,583
+Es sind neun Minuten bis zum Frachter.
+
+106
+00:11:14,750 --> 00:11:17,208
+Ihn hier zurücklassen? Ist das dein Ernst?
+
+107
+00:11:17,291 --> 00:11:18,416
+Lass ihn laufen.
+
+108
+00:11:19,875 --> 00:11:21,750
+-Wir wollen dir helfen.
+-Komm nicht näher.
+
+109
+00:11:21,833 --> 00:11:24,333
+-Wo ist das republikanische Schiff?
+-In der Umlaufbahn.
+
+110
+00:11:24,416 --> 00:11:26,166
+-Die töten ihn.
+-Die töten uns.
+
+111
+00:11:26,250 --> 00:11:27,916
+B, die K.O.-Tropfen.
+
+112
+00:11:28,625 --> 00:11:29,750
+Nein, Maarva, nicht.
+
+113
+00:11:30,083 --> 00:11:32,333
+-Sei still, Clem.
+-Er hat Familie hier.
+
+114
+00:11:32,916 --> 00:11:34,416
+Sie töteten einen Offizier.
+
+115
+00:11:34,541 --> 00:11:36,500
+Sie sind Freiwild,
+sobald die Fregatte landet.
+
+116
+00:11:43,875 --> 00:11:45,583
+Überleg dir das noch mal.
+
+117
+00:11:46,083 --> 00:11:47,416
+Dafür ist später noch Zeit.
+
+118
+00:11:47,500 --> 00:11:49,375
+Ich lasse ihn hier nicht sterben.
+
+119
+00:11:52,958 --> 00:11:54,166
+Ost-Team ist vor Ort.
+
+120
+00:11:54,833 --> 00:11:56,583
+Ost-Team, Position sichern.
+
+121
+00:11:56,875 --> 00:11:57,833
+<i>Verstanden.</i>
+
+122
+00:12:10,833 --> 00:12:12,708
+Wir haben einen Haftbefehl
+für Cassian Andor.
+
+123
+00:12:24,541 --> 00:12:26,875
+Wieso liegt der Schrott noch da draußen?
+
+124
+00:12:27,166 --> 00:12:29,250
+Wolltest du den nicht wegbringen?
+
+125
+00:12:29,500 --> 00:12:31,666
+Stimmt. Hatte ich vergessen.
+
+126
+00:12:42,625 --> 00:12:43,708
+Sucht alles ab.
+
+127
+00:12:44,000 --> 00:12:45,250
+Runter mit dem Zeug.
+
+128
+00:12:47,166 --> 00:12:49,416
+Sie sollten sich wirklich schämen.
+
+129
+00:12:50,750 --> 00:12:53,625
+Sie können das beenden,
+indem Sie uns verraten, wo er ist.
+
+130
+00:12:58,291 --> 00:12:59,250
+Behaltet sie im Auge.
+
+131
+00:12:59,333 --> 00:13:01,375
+Hier ist ein weiterer Bewohner, Sir.
+
+132
+00:13:05,500 --> 00:13:06,958
+Wo ist Cassian, Droide?
+
+133
+00:13:08,250 --> 00:13:09,166
+Stromzufuhr kappen.
+
+134
+00:13:10,125 --> 00:13:12,583
+Lass dich nicht einschüchtern.
+Das dürfen die nicht.
+
+135
+00:13:13,000 --> 00:13:14,166
+-Die sind ...
+-Mund halten.
+
+136
+00:13:22,125 --> 00:13:23,208
+<i>Bist du schon zurück?</i>
+
+137
+00:13:23,791 --> 00:13:25,875
+<i>Sag mir, dass diese Dinger funktionieren.</i>
+
+138
+00:13:27,083 --> 00:13:28,333
+B, antworte.
+
+139
+00:13:29,500 --> 00:13:30,708
+<i>Lädst du dich auf?</i>
+
+140
+00:13:34,791 --> 00:13:36,958
+Sag Maarva, dass es mir leidtut.
+
+141
+00:13:38,083 --> 00:13:40,083
+<i>Ich vergaß, dir das zu sagen.</i>
+
+142
+00:13:41,500 --> 00:13:43,250
+<i>Achte darauf, dass sie ausreichend heizt.</i>
+
+143
+00:13:43,333 --> 00:13:45,458
+-Ost.
+<i>-Du weißt, wie schnell sie friert.</i>
+
+144
+00:13:45,541 --> 00:13:48,041
+Ost. Ost-Nordost. Ich hab ihn.
+
+145
+00:13:48,125 --> 00:13:50,208
+-Bleibt ein Mann hier?
+<i>-B, hörst du mich?</i>
+
+146
+00:13:50,291 --> 00:13:51,291
+<i>Bitte kommen.</i>
+
+147
+00:13:51,375 --> 00:13:52,458
+Wir fallen auf.
+
+148
+00:13:53,500 --> 00:13:54,791
+Ich denke, zwei, Sir.
+
+149
+00:13:55,458 --> 00:13:56,458
+Meldung an Ost-Team.
+
+150
+00:13:56,583 --> 00:13:57,541
+Wir sind unterwegs.
+
+151
+00:13:57,625 --> 00:13:59,708
+Sie beide, mit mir. Sie bleiben hier.
+
+152
+00:13:59,791 --> 00:14:00,625
+<i>Hörst du mich?</i>
+
+153
+00:14:00,708 --> 00:14:02,208
+Behalten Sie sie im Auge.
+
+154
+00:14:03,500 --> 00:14:05,000
+Bist du auf Empfang?
+
+155
+00:14:06,083 --> 00:14:06,916
+Antwor...
+
+156
+00:14:11,208 --> 00:14:12,166
+Andor?
+
+157
+00:14:18,000 --> 00:14:19,000
+Du bist gekommen.
+
+158
+00:14:23,291 --> 00:14:24,500
+Sind wir allein?
+
+159
+00:14:25,250 --> 00:14:26,291
+Ich schon.
+
+160
+00:14:27,708 --> 00:14:28,708
+<i>Was ist mit Maarva?</i>
+
+161
+00:14:28,791 --> 00:14:30,000
+Sie ist eine alte Frau.
+
+162
+00:14:30,333 --> 00:14:32,000
+Zurück. Aus dem Weg.
+
+163
+00:14:32,708 --> 00:14:33,958
+Es gibt's nichts zu sehen.
+
+164
+00:14:34,208 --> 00:14:35,500
+Alles wie immer.
+
+165
+00:14:35,625 --> 00:14:37,416
+Der Haftbefehl ist Konzernanweisung.
+
+166
+00:14:37,583 --> 00:14:38,708
+Zurück jetzt.
+
+167
+00:14:41,000 --> 00:14:42,041
+Wie weit?
+
+168
+00:14:42,208 --> 00:14:43,625
+Zehn Minuten Fußmarsch.
+
+169
+00:14:43,708 --> 00:14:45,458
+Das Ost-Team sichert das Gelände.
+
+170
+00:14:46,875 --> 00:14:49,083
+-Wie viel?
+-Vierzigtausend.
+
+171
+00:14:51,250 --> 00:14:52,458
+Vierzigtausend?
+
+172
+00:14:52,541 --> 00:14:54,791
+Vierzigtausend Kredits ist günstig.
+
+173
+00:14:55,458 --> 00:14:56,291
+Ach ja?
+
+174
+00:14:57,625 --> 00:14:59,333
+Eine nicht aufspürbare Starpath-Einheit.
+
+175
+00:14:59,500 --> 00:15:01,875
+Vektorkristalle und Siegel sind intakt.
+
+176
+00:15:02,000 --> 00:15:05,250
+Damit findet man imperiale Koordinaten
+in neun radialen Parsec.
+
+177
+00:15:05,416 --> 00:15:06,541
+Ist es hier?
+
+178
+00:15:06,708 --> 00:15:08,083
+Ist das Geld hier?
+
+179
+00:15:09,000 --> 00:15:10,916
+Woher weiß ich, dass es funktioniert?
+
+180
+00:15:11,166 --> 00:15:12,083
+Es ist versiegelt.
+
+181
+00:15:12,250 --> 00:15:14,291
+Sobald ich's aktiviere,
+verliert es an Wert.
+
+182
+00:15:14,500 --> 00:15:16,416
+Du könntest mich übers Ohr hauen.
+
+183
+00:15:18,833 --> 00:15:20,291
+Ich gebe dir mein Wort.
+
+184
+00:15:20,791 --> 00:15:22,708
+Und wenn das nicht genügt?
+
+185
+00:15:24,916 --> 00:15:26,791
+Du weißt, wo ich wohne.
+
+186
+00:15:27,000 --> 00:15:29,791
+Sodass ich dich finden kann,
+wenn ich unzufrieden bin?
+
+187
+00:15:32,583 --> 00:15:34,541
+Hat Bix dich jemals betrogen?
+
+188
+00:15:35,291 --> 00:15:38,125
+Du hast also nicht vor, abzuhauen?
+
+189
+00:15:44,791 --> 00:15:46,416
+Die Konzernler suchen nach Cassian.
+
+190
+00:15:46,500 --> 00:15:47,583
+Wilmon sah sie.
+
+191
+00:15:47,750 --> 00:15:48,666
+Bei Maarva.
+
+192
+00:15:49,458 --> 00:15:51,625
+Was in Chobbs Namen hat er diesmal getan?
+
+193
+00:15:52,875 --> 00:15:54,958
+Es gab eine Fahndung. Hast du sie gesehen?
+
+194
+00:15:55,041 --> 00:15:56,375
+"Kenari-Bewohner gesucht".
+
+195
+00:15:57,333 --> 00:15:59,166
+Ich denke nach. Lass mich nachdenken.
+
+196
+00:15:59,250 --> 00:16:00,625
+Ist es das, worum es hier geht?
+
+197
+00:16:03,250 --> 00:16:04,541
+Jemand hat ihn verpfiffen.
+
+198
+00:16:04,625 --> 00:16:06,125
+Was? Wie meinst du das?
+
+199
+00:16:06,208 --> 00:16:08,083
+-Ich muss ihn finden.
+-Nein. Bix, nicht.
+
+200
+00:16:08,166 --> 00:16:10,000
+-Einer muss es tun.
+-Er kann überall sein.
+
+201
+00:16:10,166 --> 00:16:11,333
+Nicht.
+
+202
+00:16:11,708 --> 00:16:13,291
+Nicht was?
+
+203
+00:16:14,083 --> 00:16:15,791
+Er kann auf sich selbst aufpassen.
+
+204
+00:16:16,958 --> 00:16:17,833
+Wer?
+
+205
+00:16:18,666 --> 00:16:20,333
+Du weißt, von wem wir sprechen?
+
+206
+00:16:25,541 --> 00:16:28,250
+Hab ich dir je erzählt,
+dass Cassian von Kenari ist?
+
+207
+00:16:30,250 --> 00:16:31,500
+Ich erinnere mich nicht.
+
+208
+00:16:32,541 --> 00:16:33,625
+Ich schon.
+
+209
+00:16:34,958 --> 00:16:36,333
+Ich erinnere mich.
+
+210
+00:16:38,000 --> 00:16:39,083
+Wie konntest du nur?
+
+211
+00:16:39,333 --> 00:16:40,250
+Moment.
+
+212
+00:16:40,583 --> 00:16:41,750
+Was ist hier los?
+
+213
+00:16:42,041 --> 00:16:43,708
+Ich fasse es einfach nicht.
+
+214
+00:16:46,541 --> 00:16:48,083
+Was hast du getan?
+
+215
+00:16:53,500 --> 00:16:54,708
+Woher hast du die?
+
+216
+00:16:54,791 --> 00:16:56,625
+Was macht das für 'nen Unterschied?
+
+217
+00:16:56,708 --> 00:16:58,166
+Ich sehe drei Möglichkeiten.
+
+218
+00:16:58,541 --> 00:17:00,291
+Du bist ein imperialer Spion,
+
+219
+00:17:00,375 --> 00:17:02,833
+du dienst als Strohmann für den,
+den ich sprechen will,
+
+220
+00:17:03,041 --> 00:17:04,333
+oder du sagst die Wahrheit.
+
+221
+00:17:04,500 --> 00:17:05,791
+Ich sehe eine Möglichkeit.
+
+222
+00:17:05,875 --> 00:17:08,083
+Entweder du hast mein Geld oder nicht.
+
+223
+00:17:12,791 --> 00:17:13,916
+Welche ist es?
+
+224
+00:17:15,791 --> 00:17:17,083
+Ich kenne Bix' Masche.
+
+225
+00:17:17,166 --> 00:17:18,375
+Ihr bestecht Quartiermeister
+
+226
+00:17:18,500 --> 00:17:20,083
+wegen der Wertsachen auf den Schiffen,
+
+227
+00:17:20,208 --> 00:17:21,458
+bevor man sie verschrottet.
+
+228
+00:17:21,583 --> 00:17:23,000
+Aber nicht so was.
+
+229
+00:17:23,291 --> 00:17:25,875
+So was würden die dir nicht überlassen.
+
+230
+00:17:27,916 --> 00:17:29,625
+Das Teil habe ich allein beschafft.
+
+231
+00:17:29,833 --> 00:17:31,375
+Wie ist das möglich?
+
+232
+00:17:31,458 --> 00:17:34,666
+Es war unter Verschluss auf der
+Imperialen Flottenbasis in Steergard.
+
+233
+00:17:35,375 --> 00:17:36,791
+Du hast das Geld, ich die Box.
+
+234
+00:17:36,875 --> 00:17:38,291
+Was gibt's noch zu besprechen?
+
+235
+00:17:38,458 --> 00:17:40,750
+Tausend Kredits, wenn du es mir verrätst.
+
+236
+00:17:41,958 --> 00:17:43,375
+Noch mal tausend?
+
+237
+00:17:43,458 --> 00:17:44,291
+Deal.
+
+238
+00:17:45,541 --> 00:17:46,625
+Wie?
+
+239
+00:17:52,250 --> 00:17:54,333
+Man geht rein, als gehört man dazu.
+
+240
+00:17:55,083 --> 00:17:58,500
+-Das ist aber nicht alles.
+-Um das Imperium zu beklauen?
+
+241
+00:17:59,083 --> 00:18:00,208
+Was glaubst du denn?
+
+242
+00:18:00,291 --> 00:18:03,208
+'ne Uniform, schmutzige Hände,
+imperiales Werkzeug.
+
+243
+00:18:04,125 --> 00:18:07,166
+Die sind derart von sich eingenommen,
+die juckt das nicht.
+
+244
+00:18:08,041 --> 00:18:09,875
+Die sind so fett und selbstzufrieden,
+
+245
+00:18:10,083 --> 00:18:12,125
+die können sich das nicht mal vorstellen.
+
+246
+00:18:12,291 --> 00:18:13,916
+Was nicht vorstellen?
+
+247
+00:18:14,125 --> 00:18:16,875
+Dass jemand wie ich
+in ihr Haus kommen könnte,
+
+248
+00:18:17,000 --> 00:18:18,458
+dort herumläuft,
+
+249
+00:18:18,583 --> 00:18:20,916
+in ihr Essen spuckt, ihre Sachen klaut.
+
+250
+00:18:21,958 --> 00:18:24,208
+Deren Arroganz ist bemerkenswert.
+
+251
+00:18:24,666 --> 00:18:26,416
+Sie denken nicht mal an uns.
+
+252
+00:18:27,291 --> 00:18:28,166
+Uns?
+
+253
+00:18:28,291 --> 00:18:30,250
+-Ich kenne dich nicht.
+-Wohl wahr.
+
+254
+00:18:30,458 --> 00:18:32,125
+Aber ich kenne dich.
+
+255
+00:18:33,083 --> 00:18:35,833
+Diese Zeit wird enden, Cassian Andor.
+
+256
+00:18:36,458 --> 00:18:39,875
+Wie sie lachen,
+sich durch Menschenmengen hindurchdrängen.
+
+257
+00:18:41,083 --> 00:18:42,916
+Der Klang dieser Stimme, die dir sagt:
+
+258
+00:18:43,000 --> 00:18:44,875
+"Bleib stehen, lauf, verschwinde".
+
+259
+00:18:46,000 --> 00:18:47,500
+Die dir einredet, zu sterben.
+
+260
+00:18:48,166 --> 00:18:49,750
+Lässt einen nicht los.
+
+261
+00:18:49,833 --> 00:18:52,083
+Wieso lässt du mich
+nicht das Geld zählen?
+
+262
+00:18:52,416 --> 00:18:54,500
+Aber schon bald werden sie an uns denken.
+
+263
+00:18:54,583 --> 00:18:55,791
+Wir sollten verschwinden.
+
+264
+00:18:56,375 --> 00:18:59,458
+Schon sehr bald
+kriegen sie was anderes zu hören.
+
+265
+00:18:59,625 --> 00:19:01,458
+Die dürfen dich damit nicht erwischen.
+
+266
+00:19:03,625 --> 00:19:05,666
+Hängen sie mich dann?
+
+267
+00:19:05,833 --> 00:19:08,500
+Bringen mich zur Rix Road
+und knüpfen mich auf.
+
+268
+00:19:09,125 --> 00:19:10,750
+Wäre nicht das erste Mal, oder?
+
+269
+00:19:12,083 --> 00:19:14,291
+Erhängten sie da nicht auch deinen Vater?
+
+270
+00:19:15,083 --> 00:19:17,041
+Wer bist du?
+
+271
+00:19:17,666 --> 00:19:19,458
+Was soll das?
+
+272
+00:19:20,916 --> 00:19:22,750
+Ich sagte doch, ich kenne dich.
+
+273
+00:19:23,208 --> 00:19:24,791
+Ich weiß alles über dich.
+
+274
+00:19:25,000 --> 00:19:28,041
+Ich will die Box und nehme sie,
+wenn das alles ist, was ich kriege.
+
+275
+00:19:28,750 --> 00:19:32,041
+Ich hatte mir mehr erhofft und denke,
+ich hab's gefunden.
+
+276
+00:19:34,291 --> 00:19:35,500
+Komm mit mir.
+
+277
+00:19:36,208 --> 00:19:37,916
+Woher weißt du von mir?
+
+278
+00:19:38,708 --> 00:19:40,833
+Ich hoffte auf eine
+entspanntere Unterhaltung,
+
+279
+00:19:40,958 --> 00:19:43,166
+aber du hast recht, wir haben keine Zeit.
+
+280
+00:19:43,250 --> 00:19:46,708
+Entgegen dem, was du sagst,
+bezweifle ich, dass du hierbleibst.
+
+281
+00:19:46,833 --> 00:19:48,916
+Du hast auf Morlana Eins
+zwei Konzernler getötet
+
+282
+00:19:49,000 --> 00:19:50,875
+und wirst deswegen gesucht.
+
+283
+00:19:50,958 --> 00:19:53,166
+Es wäre schade,
+wenn sie dich schnappen würden.
+
+284
+00:19:53,958 --> 00:19:55,291
+Schade um dein Talent.
+
+285
+00:19:56,000 --> 00:19:57,541
+Wer bist du?
+
+286
+00:19:57,750 --> 00:19:59,333
+Falsche Frage.
+
+287
+00:20:00,458 --> 00:20:03,250
+Frag lieber, wie viel Zeit wir noch haben,
+um hier abzuhauen.
+
+288
+00:20:03,375 --> 00:20:05,875
+Warum sollte ich mit dir
+irgendwohin gehen?
+
+289
+00:20:06,625 --> 00:20:10,416
+Willst du diese Bastarde
+nicht auch bekämpfen?
+
+290
+00:20:16,916 --> 00:20:18,666
+Los, los. Lauf.
+
+291
+00:20:32,708 --> 00:20:34,125
+Schlag Alarm, los.
+
+292
+00:20:43,875 --> 00:20:45,333
+Was hat das zu bedeuten?
+
+293
+00:20:45,541 --> 00:20:48,041
+Das Signal. Los, kommt.
+
+294
+00:20:52,708 --> 00:20:53,875
+Was soll das alles?
+
+295
+00:20:53,958 --> 00:20:55,166
+Einschüchterungstaktik.
+
+296
+00:20:55,958 --> 00:20:57,500
+Nur Bluff und Getöse.
+
+297
+00:21:06,708 --> 00:21:08,000
+Wie bist du hergekommen?
+
+298
+00:21:08,125 --> 00:21:10,000
+Ich habe ein Schiff nahe der Fähre.
+
+299
+00:21:10,083 --> 00:21:12,208
+Vielleicht bist du der imperiale Spion.
+
+300
+00:21:12,416 --> 00:21:13,500
+Zu welchem Zweck?
+
+301
+00:21:14,083 --> 00:21:16,041
+Wenn du wusstest, dass man mich sucht,
+
+302
+00:21:16,333 --> 00:21:17,958
+warum kommst du dann her?
+
+303
+00:21:18,166 --> 00:21:19,375
+Besondere Menschen sind rar.
+
+304
+00:21:19,541 --> 00:21:21,708
+Ich wollte nicht, dass man dich tötet.
+
+305
+00:21:22,125 --> 00:21:25,333
+Ich dachte, wir hätten noch Zeit,
+aber ich habe mich geirrt.
+
+306
+00:21:28,500 --> 00:21:29,333
+Darf ich?
+
+307
+00:21:30,166 --> 00:21:32,500
+Ich bin im Moment deine einzige Chance.
+
+308
+00:21:32,625 --> 00:21:34,333
+Soll dich deine Vorsicht umbringen?
+
+309
+00:21:38,916 --> 00:21:40,791
+-Trägst du ein Comlink?
+-Warum?
+
+310
+00:21:40,958 --> 00:21:42,458
+Gib her. Los, gib es mir.
+
+311
+00:21:43,083 --> 00:21:44,083
+Her damit.
+
+312
+00:21:49,000 --> 00:21:49,833
+Regel Nummer eins:
+
+313
+00:21:51,000 --> 00:21:53,500
+Trage nichts bei dir,
+worüber du keine Kontrolle hast.
+
+314
+00:21:58,500 --> 00:21:59,666
+Da.
+
+315
+00:22:00,833 --> 00:22:01,916
+Sie blockieren die Türen.
+
+316
+00:22:03,750 --> 00:22:05,041
+Wir sind umzingelt.
+
+317
+00:22:07,375 --> 00:22:08,708
+Hierher, kommt.
+
+318
+00:22:13,458 --> 00:22:14,708
+Stehenbleiben.
+
+319
+00:22:14,875 --> 00:22:16,041
+Ich sagte, stehenbleiben.
+
+320
+00:22:17,125 --> 00:22:18,833
+Du siehst verängstigt aus.
+
+321
+00:22:19,000 --> 00:22:20,666
+Du läufst nicht nach Hause, oder?
+
+322
+00:22:21,291 --> 00:22:22,708
+<i>West-Team, hier ist Ost-Team.</i>
+
+323
+00:22:22,791 --> 00:22:25,083
+<i>Wir sind in Position vor der Fabrik.</i>
+<i>Zugriff?</i>
+
+324
+00:22:26,500 --> 00:22:27,333
+Warten Sie auf uns.
+
+325
+00:22:27,458 --> 00:22:29,541
+Wir sind gleich da. Umgebung sichern.
+
+326
+00:22:29,625 --> 00:22:31,125
+Sie sitzen in der Falle, Sir.
+
+327
+00:22:31,750 --> 00:22:33,333
+Lassen wir sie zuschnappen.
+
+328
+00:22:33,833 --> 00:22:35,250
+Worauf warten die?
+
+329
+00:22:35,416 --> 00:22:36,958
+Auf Verstärkung.
+
+330
+00:22:38,666 --> 00:22:40,333
+Wie kommen wir hier raus?
+
+331
+00:22:40,458 --> 00:22:41,833
+Mein Plan hat sich erledigt.
+
+332
+00:22:41,916 --> 00:22:44,083
+Zu deinem Schiff sind's 40 Kilometer
+durchs Ödland.
+
+333
+00:22:44,166 --> 00:22:46,375
+Wir brauchen einen Speeder.
+Was ist die beste Option?
+
+334
+00:22:46,458 --> 00:22:47,875
+Westen. In die Stadt.
+
+335
+00:22:48,166 --> 00:22:49,500
+Wo führt der hin?
+
+336
+00:22:49,583 --> 00:22:51,750
+-Unter den alten Ofen.
+-Nach draußen?
+
+337
+00:22:52,541 --> 00:22:53,708
+Das ist der lange Weg.
+
+338
+00:22:57,750 --> 00:23:00,291
+-Was ist das?
+-Ich habe Sprengladungen angebracht.
+
+339
+00:23:00,958 --> 00:23:01,875
+Wann?
+
+340
+00:23:01,958 --> 00:23:02,791
+Regel Nummer zwei:
+
+341
+00:23:02,916 --> 00:23:05,291
+Bereite beim Reingehen deine Flucht vor.
+Gleich knallt's.
+
+342
+00:23:25,583 --> 00:23:26,791
+Los jetzt.
+
+343
+00:23:27,125 --> 00:23:28,291
+Die Box. Sie liegt noch da.
+
+344
+00:23:31,166 --> 00:23:32,625
+Da ist er.
+
+345
+00:23:45,291 --> 00:23:46,583
+In Deckung.
+
+346
+00:23:49,875 --> 00:23:52,708
+-Ich hol sie. Gib mir Feuerschutz.
+-Vergiss die Box.
+
+347
+00:24:04,083 --> 00:24:05,333
+<i>Wir stehen unter Beschuss.</i>
+
+348
+00:24:05,416 --> 00:24:06,875
+Ich sagte doch, warten.
+
+349
+00:24:06,958 --> 00:24:08,291
+<i>Zwei Mann sind tot.</i>
+
+350
+00:24:09,000 --> 00:24:10,416
+Ost-Team, Meldung wiederholen.
+
+351
+00:24:11,291 --> 00:24:12,541
+Ost-Team, Meldung wiederholen.
+
+352
+00:24:29,375 --> 00:24:30,708
+Los, komm.
+
+353
+00:24:48,583 --> 00:24:49,625
+Vorsicht.
+
+354
+00:25:08,250 --> 00:25:09,666
+Jetzt. Lauf.
+
+355
+00:25:15,958 --> 00:25:16,875
+Ost-Team.
+
+356
+00:25:17,583 --> 00:25:19,000
+Wie ist die Lage bei euch?
+
+357
+00:25:20,458 --> 00:25:21,791
+Nord-Team, wo seid ihr?
+
+358
+00:25:22,708 --> 00:25:24,000
+Hier gibt's keine Schilder.
+
+359
+00:25:24,083 --> 00:25:24,958
+Kein Straßenname.
+
+360
+00:25:25,625 --> 00:25:27,291
+<i>Wir sind in einem Feuergefecht.</i>
+
+361
+00:25:27,375 --> 00:25:28,666
+<i>Ich brauche Ihre Position.</i>
+
+362
+00:25:30,666 --> 00:25:32,375
+Ich sagte, warten.
+
+363
+00:25:39,833 --> 00:25:41,291
+Warte. Die Box.
+
+364
+00:25:41,458 --> 00:25:42,791
+Die Box ist noch da drin.
+
+365
+00:25:42,916 --> 00:25:44,083
+Ich dachte, du wärst klug.
+
+366
+00:25:44,166 --> 00:25:45,666
+Und wenn's nur noch einen gibt?
+
+367
+00:25:45,750 --> 00:25:47,708
+Die rücken nicht nur zu viert an.
+
+368
+00:25:51,333 --> 00:25:53,916
+Wir sind in der North Stairs Lane.
+North Stairs Lane.
+
+369
+00:25:54,166 --> 00:25:55,000
+Lass sie.
+
+370
+00:25:55,083 --> 00:25:58,000
+<i>Ihre Männer sollen in die Rix Road</i>
+<i>und starten Sie einen Taktik-Pod.</i>
+
+371
+00:26:00,416 --> 00:26:02,416
+-Was habt ihr getan?
+-Keinen Schritt weiter.
+
+372
+00:26:03,000 --> 00:26:05,166
+-Sie blutet.
+-Ich sagte, stehenbleiben.
+
+373
+00:26:05,583 --> 00:26:06,708
+<i>Nord-Team, Lagebericht.</i>
+
+374
+00:26:06,916 --> 00:26:08,375
+Wer war das?
+
+375
+00:26:11,625 --> 00:26:12,958
+Timm.
+
+376
+00:26:14,666 --> 00:26:16,083
+<i>Nord-Team, Lagebericht.</i>
+
+377
+00:26:16,250 --> 00:26:17,708
+<i>Was ist los?</i>
+
+378
+00:26:17,833 --> 00:26:19,791
+<i>Ich brauche Luftaufklärung, sofort.</i>
+
+379
+00:26:20,291 --> 00:26:22,041
+Verstanden, Sir. Augenblick.
+
+380
+00:26:23,000 --> 00:26:24,458
+Gib mir die Waffe.
+
+381
+00:26:24,625 --> 00:26:25,458
+Wieso?
+
+382
+00:26:25,541 --> 00:26:27,500
+Du läufst sofort zum Pod.
+
+383
+00:26:27,583 --> 00:26:29,041
+Ganz allein?
+
+384
+00:26:29,125 --> 00:26:31,500
+Bring den Pod in die Luft.
+Bleib auf Empfang.
+
+385
+00:26:31,583 --> 00:26:32,583
+Beweg dich.
+
+386
+00:26:34,583 --> 00:26:35,666
+Verschwinden wir.
+
+387
+00:26:36,416 --> 00:26:37,958
+Nord-Team rückt vor zur Rix Road.
+
+388
+00:26:38,125 --> 00:26:39,958
+Luftunterstützung kommt.
+
+389
+00:26:44,375 --> 00:26:45,791
+Jetzt sind es drei Mann?
+
+390
+00:26:45,916 --> 00:26:47,166
+Wie ist das möglich?
+
+391
+00:26:47,333 --> 00:26:48,791
+Die jagten das Gebäude hoch.
+
+392
+00:26:48,875 --> 00:26:50,416
+Die haben Sprengstoff.
+
+393
+00:26:50,500 --> 00:26:51,583
+Moment.
+
+394
+00:26:51,750 --> 00:26:52,625
+Was heißt "die"?
+
+395
+00:26:52,708 --> 00:26:54,125
+<i>Es sind zwei.</i>
+
+396
+00:26:54,208 --> 00:26:56,208
+<i>Zwei Menschen. Schwer bewaffnet.</i>
+
+397
+00:26:56,416 --> 00:26:57,833
+<i>Kommen direkt auf Sie zu.</i>
+
+398
+00:26:58,125 --> 00:26:58,958
+Einkesseln.
+
+399
+00:26:59,041 --> 00:27:01,291
+Weiter vorrücken. Bleiben Sie auf Empfang.
+
+400
+00:27:01,375 --> 00:27:03,125
+-Es sind zwei?
+-Scheint so.
+
+401
+00:27:03,208 --> 00:27:04,875
+Und wir stehen hier nur herum?
+
+402
+00:27:06,583 --> 00:27:07,666
+Sie haben recht.
+
+403
+00:27:09,000 --> 00:27:10,208
+Wir teilen uns auf.
+
+404
+00:27:10,333 --> 00:27:11,791
+Gehen in Position
+
+405
+00:27:12,291 --> 00:27:13,708
+und knallen sie vor Ort ab.
+
+406
+00:27:13,791 --> 00:27:14,708
+Waffe.
+
+407
+00:27:14,833 --> 00:27:15,875
+Vorwärts.
+
+408
+00:27:15,958 --> 00:27:17,500
+Linke Flanke. Rechte Flanke.
+
+409
+00:28:00,000 --> 00:28:01,375
+Setzt einem ganz schön zu.
+
+410
+00:28:02,291 --> 00:28:03,375
+Ruhe.
+
+411
+00:28:05,708 --> 00:28:07,875
+Das ist der Klang der Vergeltung.
+
+412
+00:28:19,000 --> 00:28:21,875
+Man will, dass es aufhört,
+aber es kommt immer wieder.
+
+413
+00:28:21,958 --> 00:28:24,291
+Halt gefälligst den Mund.
+
+414
+00:28:32,958 --> 00:28:34,291
+Wenn es aufhört,
+
+415
+00:28:36,541 --> 00:28:38,833
+ist es Zeit,
+sich ernsthaft Sorgen zu machen.
+
+416
+00:28:40,333 --> 00:28:41,500
+Wieso?
+
+417
+00:28:41,583 --> 00:28:42,708
+Was geschieht dann?
+
+418
+00:28:51,750 --> 00:28:52,666
+Gesichert.
+
+419
+00:28:54,541 --> 00:28:55,541
+Los.
+
+420
+00:28:57,375 --> 00:28:58,541
+<i>Nord-Team, Status.</i>
+
+421
+00:28:59,000 --> 00:29:00,416
+Auf Position.
+
+422
+00:29:00,916 --> 00:29:01,916
+<i>Augen auf, Männer.</i>
+
+423
+00:29:02,750 --> 00:29:04,041
+<i>Waffen im Anschlag.</i>
+
+424
+00:29:39,583 --> 00:29:40,708
+Weg mit der Waffe.
+
+425
+00:29:46,916 --> 00:29:48,166
+Leg dein Comm ab.
+
+426
+00:29:51,833 --> 00:29:52,833
+Auf den Boden.
+
+427
+00:29:57,833 --> 00:29:58,708
+Wie viele seid ihr?
+
+428
+00:30:00,708 --> 00:30:01,833
+Ich weiß es nicht.
+
+429
+00:30:02,583 --> 00:30:03,458
+Töte ihn.
+
+430
+00:30:04,583 --> 00:30:05,666
+Wie viele?
+
+431
+00:30:07,916 --> 00:30:08,750
+Ich töte ihn.
+
+432
+00:30:08,833 --> 00:30:10,750
+Zwölf. Vierzehn.
+
+433
+00:30:11,666 --> 00:30:13,416
+Ein Dutzend Mann, zwei Offiziere.
+
+434
+00:30:13,833 --> 00:30:14,916
+Ich schwöre.
+
+435
+00:31:12,208 --> 00:31:13,333
+Waren die das?
+
+436
+00:31:13,541 --> 00:31:15,625
+<i>Keine Ahnung. Nicht zu sehen von hier.</i>
+
+437
+00:31:15,708 --> 00:31:17,333
+Wer sollte es sonst sein?
+
+438
+00:31:17,541 --> 00:31:19,291
+<i>Dann hätten wir sie im Rücken.</i>
+
+439
+00:31:21,916 --> 00:31:23,041
+Das ist eine Belagerung.
+
+440
+00:31:23,166 --> 00:31:24,500
+Die kesseln uns ein.
+
+441
+00:31:28,791 --> 00:31:30,000
+Welchen willst du nehmen?
+
+442
+00:31:33,583 --> 00:31:36,000
+Wie viele von den Sprengsätzen
+hast du noch?
+
+443
+00:31:52,916 --> 00:31:54,208
+Ich bin da, Sir.
+
+444
+00:31:58,708 --> 00:32:00,291
+Das sind sie. Sie entkommen.
+
+445
+00:32:06,333 --> 00:32:08,416
+Feuer. Schießt sie ab.
+
+446
+00:32:17,458 --> 00:32:18,375
+Feuer.
+
+447
+00:32:41,416 --> 00:32:42,416
+Da ist er.
+
+448
+00:32:51,791 --> 00:32:52,958
+Nord-Team, kommen.
+
+449
+00:32:53,958 --> 00:32:55,333
+Nord-Team, kommen.
+
+450
+00:33:09,541 --> 00:33:10,541
+Bacta.
+
+451
+00:33:22,000 --> 00:33:25,208
+Hier ist Delta-Eins.
+Brauchen sofort Verwundeten-Transport.
+
+452
+00:33:26,833 --> 00:33:29,083
+Nova. Hier ist Delta-Eins.
+
+453
+00:34:23,291 --> 00:34:25,583
+Bix, komm. Wir müssen hier weg.
+
+454
+00:34:52,041 --> 00:34:55,125
+Reißen Sie sich zusammen.
+Zurück auf Position, Männer.
+
+455
+00:34:57,000 --> 00:34:59,916
+Nova, hier ist Delta-Eins.
+Kam mein letzter Funkspruch an?
+
+456
+00:35:00,000 --> 00:35:01,083
+Verstehe.
+
+457
+00:35:01,166 --> 00:35:02,625
+Wir müssen hier weg.
+
+458
+00:35:05,500 --> 00:35:06,833
+Wir müssen hier weg.
+
+459
+00:35:09,083 --> 00:35:10,833
+Wir müssen sofort hier weg.
+
+460
+00:40:06,541 --> 00:40:08,541
+Untertitel von: Silke Fuhrmann
+

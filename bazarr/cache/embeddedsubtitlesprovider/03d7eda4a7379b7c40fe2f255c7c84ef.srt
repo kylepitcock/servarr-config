@@ -1,0 +1,196 @@
+1
+00:00:07,125 --> 00:00:08,625
+EEN NETFLIX ORIGINAL-SERIE
+
+2
+00:00:58,166 --> 00:00:59,791
+Ik ga hier dood.
+
+3
+00:01:47,958 --> 00:01:49,708
+ZUURSTOFTEKORT
+ZOEK SCHUILPLAATS
+
+4
+00:01:51,666 --> 00:01:53,250
+STATUS: OFFLINE
+15,42 kilometer
+
+5
+00:02:14,125 --> 00:02:15,000
+ZUURSTOF
+KRITIEK
+
+6
+00:02:15,083 --> 00:02:15,916
+ACTIVEREN
+
+7
+00:02:16,000 --> 00:02:16,833
+ACTIEF
+
+8
+00:02:29,791 --> 00:02:32,041
+Dat was dus ook een zware landing.
+
+9
+00:03:02,291 --> 00:03:04,416
+OVERLEVINGSSLUIS
+817-RD9G
+
+10
+00:03:08,750 --> 00:03:11,000
+Overlevingssluis, actief.
+
+11
+00:03:11,083 --> 00:03:13,208
+Waarschuwing: schade ontdekt.
+
+12
+00:03:23,125 --> 00:03:24,875
+Communicatienetwerk, functioneel.
+
+13
+00:03:24,958 --> 00:03:26,500
+NOODSIGNAAL
+WACHT OP ZENDING
+
+14
+00:03:29,750 --> 00:03:31,291
+Onderhoudsrobotica...
+
+15
+00:03:35,583 --> 00:03:36,541
+...fout.
+
+16
+00:03:36,625 --> 00:03:38,083
+Stuk schroot.
+
+17
+00:03:38,166 --> 00:03:41,625
+Onderhoudsrobotica, fout.
+
+18
+00:03:45,666 --> 00:03:49,041
+Onderhoudsrobotica, storing.
+
+19
+00:03:49,625 --> 00:03:50,458
+Wacht.
+
+20
+00:03:54,625 --> 00:03:56,916
+Stop. Programma stoppen.
+
+21
+00:03:57,833 --> 00:03:59,333
+Programma stoppen.
+
+22
+00:04:00,375 --> 00:04:02,000
+Onmogelijk.
+
+23
+00:04:50,875 --> 00:04:52,583
+GEVAAR
+VIJANDELIJKE WAPENS
+
+24
+00:04:54,666 --> 00:04:56,583
+Prometheus CVW2.
+
+25
+00:04:56,666 --> 00:04:59,416
+ECM's online. U mag ingrijpen.
+
+26
+00:04:59,500 --> 00:05:00,791
+Nova 6, onderweg.
+
+27
+00:05:00,875 --> 00:05:02,291
+Nova 9, onderweg.
+
+28
+00:05:02,375 --> 00:05:03,458
+Nova 4, onderweg.
+
+29
+00:05:03,541 --> 00:05:06,000
+Bevestigd. Wapens toegestaan.
+
+30
+00:05:06,083 --> 00:05:08,041
+Begrepen. Wapens activeren.
+
+31
+00:05:08,125 --> 00:05:11,125
+De bom is een Divine Flash 12 Judgment 2.
+
+32
+00:05:12,250 --> 00:05:14,000
+Actief. Klaar voor de jacht.
+
+33
+00:05:14,083 --> 00:05:18,333
+Nova-eskader, in echelonformatie.
+Snel en genadeloos toeslaan.
+
+34
+00:07:01,625 --> 00:07:05,208
+Eenheid 731, vijandelijk vuur.
+
+35
+00:07:08,750 --> 00:07:10,375
+We zijn raket één kwijt.
+
+36
+00:07:15,416 --> 00:07:16,291
+Vuur.
+
+37
+00:07:17,166 --> 00:07:19,291
+Kom op.
+
+38
+00:07:27,333 --> 00:07:29,500
+NOODSTOP
+
+39
+00:09:59,875 --> 00:10:02,500
+NOODSIGNAAL
+WACHT OP ZENDING
+
+40
+00:10:14,500 --> 00:10:16,125
+Noodoproep ontvangen.
+
+41
+00:10:16,208 --> 00:10:21,750
+Overlevingssluis 817-RD9G.
+Redding onderweg.
+
+42
+00:10:26,875 --> 00:10:30,250
+Waarschuwing:
+storing bij de onderhoudsrobot.
+
+43
+00:10:32,333 --> 00:10:35,625
+Waarschuwing:
+storing bij de onderhoudsrobot.
+
+44
+00:10:35,708 --> 00:10:37,125
+Dat meen je niet.
+
+45
+00:10:38,000 --> 00:10:41,291
+Waarschuwing:
+storing bij de onderhoudsrobot.
+
+46
+00:12:03,083 --> 00:12:05,583
+Ondertiteld door: Geert van den Elzen
+

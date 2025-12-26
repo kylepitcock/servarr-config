@@ -32,3 +32,4 @@ MediaCover/
 # Ignore specific data folders from the error
 data/db/
 huntarr/logs/
+nzbget/intermediate/

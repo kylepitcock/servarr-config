@@ -1,0 +1,201 @@
+1
+00:00:07,125 --> 00:00:08,625
+PŮVODNÍ SERIÁL NETFLIX
+
+2
+00:00:27,750 --> 00:00:30,458
+Záchranný modul
+
+3
+00:00:58,166 --> 00:00:59,791
+Já tady zemřu.
+
+4
+00:01:47,958 --> 00:01:49,708
+VAROVÁNÍ - ZBYLÝ KYSLÍK
+NAJDĚTE ÚKRYT
+
+5
+00:01:51,666 --> 00:01:53,250
+STAV: OFFLINE
+15,42 km
+
+6
+00:02:13,958 --> 00:02:15,000
+KRITICKÁ ÚROVEŇ KYSLÍKU
+
+7
+00:02:15,083 --> 00:02:15,916
+AKTIVOVAT
+
+8
+00:02:16,000 --> 00:02:16,833
+AKTIVACE...
+
+9
+00:02:28,208 --> 00:02:29,291
+Sakra.
+
+10
+00:02:29,791 --> 00:02:32,041
+Zdá se, že oba jsme přistáli tvrdě.
+
+11
+00:03:02,291 --> 00:03:04,416
+VÍTEJTE NA ZÁCHRANNÉ STANICI
+817-RD9G
+
+12
+00:03:08,750 --> 00:03:11,000
+<i>Záchranná stanice aktivována.</i>
+
+13
+00:03:11,083 --> 00:03:13,208
+<i>Varování, zachyceno poškození.</i>
+
+14
+00:03:23,125 --> 00:03:24,875
+<i>Komunikační síť, funkční.</i>
+
+15
+00:03:24,958 --> 00:03:26,500
+ZÁCHRANNÝ SIGNÁL
+ČEKÁ NA PŘENOS
+
+16
+00:03:29,750 --> 00:03:31,291
+<i>Robotika údržby...</i>
+
+17
+00:03:35,583 --> 00:03:36,541
+<i>chyba.</i>
+
+18
+00:03:36,625 --> 00:03:38,083
+Krám jeden.
+
+19
+00:03:38,166 --> 00:03:41,625
+<i>Robotika údržby, chyba.</i>
+
+20
+00:03:45,666 --> 00:03:49,041
+<i>Robotika údržby, porucha.</i>
+
+21
+00:03:49,625 --> 00:03:50,458
+Počkej!
+
+22
+00:03:54,625 --> 00:03:56,916
+Stůj! Zadrž! Zastav program!
+
+23
+00:03:57,833 --> 00:03:59,333
+Zastav program!
+
+24
+00:04:00,375 --> 00:04:02,000
+<i>Nedokážu splnit.</i>
+
+25
+00:04:50,875 --> 00:04:52,583
+NEPŘÁTELSKÉ ZBRANĚ
+V PŘÍSTUPOVÉ DRÁZE
+
+26
+00:04:54,666 --> 00:04:56,583
+<i>Promethee CVW2.</i>
+
+27
+00:04:56,666 --> 00:04:59,416
+<i>Řídicí moduly jsou online,
+můžete zasáhnout.</i>
+
+28
+00:04:59,500 --> 00:05:00,791
+<i>Nova 6 na cestě.</i>
+
+29
+00:05:00,875 --> 00:05:02,291
+<i>Nova 9 na cestě.</i>
+
+30
+00:05:02,375 --> 00:05:03,458
+Nova 4 na cestě.
+
+31
+00:05:03,541 --> 00:05:06,000
+<i>Beru na vědomí, jdete do ostré střelby.</i>
+
+32
+00:05:06,083 --> 00:05:08,041
+Rozumím. Ostrá střelba.
+
+33
+00:05:08,125 --> 00:05:11,125
+Střely Boží záblesk 12, Boží trest 2.
+
+34
+00:05:12,250 --> 00:05:14,000
+Připraven ke střelbě.
+
+35
+00:05:14,083 --> 00:05:18,333
+<i>Eskadro Nova, stupňovitá formace.
+Zaútočte rychle a tvrdě.</i>
+
+36
+00:07:01,625 --> 00:07:05,208
+<i>731, nepřátelská palba.</i>
+
+37
+00:07:08,750 --> 00:07:10,375
+Ztratili jsme Raketu 1!
+
+38
+00:07:15,416 --> 00:07:16,291
+Pal!
+
+39
+00:07:17,166 --> 00:07:19,291
+No tak, dělej. No tak.
+
+40
+00:07:27,333 --> 00:07:29,500
+HAVÁRIE
+
+41
+00:09:59,875 --> 00:10:02,500
+ZÁCHRANNÝ SIGNÁL
+ČEKÁ NA PŘENOS
+
+42
+00:10:14,500 --> 00:10:16,125
+<i>Nouzový signál zachycen.</i>
+
+43
+00:10:16,208 --> 00:10:21,750
+<i>Záchranná stanice 817-RD9G.
+Záchrana na cestě.</i>
+
+44
+00:10:26,875 --> 00:10:30,250
+<i>Varování, porucha robota údržby.</i>
+
+45
+00:10:32,333 --> 00:10:35,625
+<i>Varování, porucha robota údržby.</i>
+
+46
+00:10:35,708 --> 00:10:37,125
+Nekecej.
+
+47
+00:10:38,000 --> 00:10:41,291
+<i>Varování, porucha robota údržby.</i>
+
+48
+00:12:03,083 --> 00:12:05,583
+Překlad titulků: A. M. Kroulík Frimlová
+

@@ -1,0 +1,430 @@
+1
+00:00:09,583 --> 00:00:11,583
+[musique électronique rythmée]
+
+2
+00:00:21,333 --> 00:00:22,625
+[la musique s'arrête]
+
+3
+00:00:23,208 --> 00:00:24,625
+[notes électroniques]
+
+4
+00:00:28,250 --> 00:00:32,125
+LA NUIT DES PETITS MORTS
+
+5
+00:00:33,208 --> 00:00:36,083
+[les personnages parlent
+d'une voix accélérée et aiguë]
+
+6
+00:00:36,166 --> 00:00:37,708
+[musique inquiétante]
+
+7
+00:00:37,791 --> 00:00:39,791
+- [croassement]
+- [hululement]
+
+8
+00:00:45,375 --> 00:00:46,750
+[pneus qui crissent]
+
+9
+00:00:48,416 --> 00:00:50,625
+- [dérapage]
+- [musique hip-hop à la radio]
+
+10
+00:00:51,583 --> 00:00:53,958
+- [femme] Ça va être fou.
+- [homme] Partante ?
+
+11
+00:00:54,041 --> 00:00:55,916
+- [femme] On est là pour ça.
+- [homme] Ouais.
+
+12
+00:00:56,416 --> 00:00:58,375
+- J'ai envie qu'on parte loin.
+- [bris de verre]
+
+13
+00:00:58,458 --> 00:01:00,041
+[femme] C'est vrai ? Promis ?
+
+14
+00:01:00,125 --> 00:01:01,166
+[homme] Promis.
+
+15
+00:01:01,250 --> 00:01:03,916
+- [baisers]
+- [gémissements]
+
+16
+00:01:04,000 --> 00:01:05,166
+[petit rire]
+
+17
+00:01:05,250 --> 00:01:07,833
+- [homme] C'est parfait, ici.
+- [gémissements]
+
+18
+00:01:07,916 --> 00:01:09,541
+[homme] Attends, comme ça, bébé.
+
+19
+00:01:09,625 --> 00:01:11,625
+- [gémissements]
+- [baisers]
+
+20
+00:01:11,708 --> 00:01:13,083
+[claquements]
+
+21
+00:01:13,166 --> 00:01:14,458
+[homme] Comme ça !
+
+22
+00:01:14,541 --> 00:01:17,208
+[gémissements]
+
+23
+00:01:17,291 --> 00:01:18,541
+[homme] Regarde !
+
+24
+00:01:18,625 --> 00:01:19,958
+[faux gémissements]
+
+25
+00:01:20,041 --> 00:01:20,916
+[cri]
+
+26
+00:01:21,000 --> 00:01:23,666
+- [femme] Non, mon amour !
+- [musique angoissante]
+
+27
+00:01:24,166 --> 00:01:25,583
+[femme] Oh, mon Dieu !
+
+28
+00:01:25,666 --> 00:01:26,666
+[cri]
+
+29
+00:01:26,750 --> 00:01:28,333
+[grognements des zombies]
+
+30
+00:01:28,416 --> 00:01:30,333
+[femme, terrifiée] Non !
+
+31
+00:01:30,416 --> 00:01:31,791
+[grognements]
+
+32
+00:01:32,291 --> 00:01:34,333
+[grognements des zombies]
+
+33
+00:01:37,666 --> 00:01:39,125
+[la musique s'arrête]
+
+34
+00:01:39,208 --> 00:01:41,666
+[musique classique orchestrale]
+
+35
+00:01:47,958 --> 00:01:49,458
+[femme 2] J'ai trouvé un appart
+
+36
+00:01:49,541 --> 00:01:52,583
+beaucoup moins cher,
+mais je sais pas pour le quartier.
+
+37
+00:01:52,666 --> 00:01:54,416
+- [grognement]
+- [cri]
+
+38
+00:01:54,500 --> 00:01:56,500
+[cri terrifié]
+
+39
+00:01:59,333 --> 00:02:00,750
+[grognement]
+
+40
+00:02:02,958 --> 00:02:04,458
+[la musique s'intensifie]
+
+41
+00:02:04,541 --> 00:02:06,583
+- [klaxon]
+- [cris terrifiés]
+
+42
+00:02:06,666 --> 00:02:07,916
+[homme 2] C'est quoi, ça ?
+
+43
+00:02:08,000 --> 00:02:09,875
+[cris terrifiés]
+
+44
+00:02:09,958 --> 00:02:10,958
+[ambulance]
+
+45
+00:02:11,041 --> 00:02:13,208
+[dérapage]
+
+46
+00:02:14,458 --> 00:02:15,375
+[impact]
+
+47
+00:02:16,541 --> 00:02:18,541
+[grognements]
+
+48
+00:02:20,333 --> 00:02:22,166
+[femme 3] Dans la voiture !
+
+49
+00:02:22,250 --> 00:02:24,500
+Dépêchez-vous, il va nous tuer !
+
+50
+00:02:24,583 --> 00:02:25,791
+[grognement]
+
+51
+00:02:26,875 --> 00:02:28,125
+[cris]
+
+52
+00:02:28,791 --> 00:02:29,791
+[sirène de train]
+
+53
+00:02:31,916 --> 00:02:32,958
+[cris]
+
+54
+00:02:33,583 --> 00:02:35,500
+[cris terrifiés]
+
+55
+00:02:37,500 --> 00:02:39,500
+- [klaxon]
+- [homme 3] Dégagez de là !
+
+56
+00:02:39,583 --> 00:02:41,291
+[cris]
+
+57
+00:02:41,375 --> 00:02:43,750
+- [musique sportive]
+- [gargouillements]
+
+58
+00:02:45,833 --> 00:02:47,166
+[musique dramatique]
+
+59
+00:02:49,208 --> 00:02:50,333
+[grognements]
+
+60
+00:02:50,416 --> 00:02:51,625
+[dialogue indistinct]
+
+61
+00:02:51,708 --> 00:02:55,250
+[lutte et cris d'effort]
+
+62
+00:02:55,333 --> 00:02:56,625
+[tirs]
+
+63
+00:02:56,708 --> 00:02:59,125
+[homme 4] Non, ne tirez pas !
+
+64
+00:03:00,333 --> 00:03:02,000
+[rafales]
+
+65
+00:03:05,083 --> 00:03:08,041
+[homme 5] On les défonce !
+Tire-leur dans les couilles !
+
+66
+00:03:08,125 --> 00:03:10,250
+[homme 6]
+Putain, ils arrivent de partout !
+
+67
+00:03:10,333 --> 00:03:11,291
+[grincement]
+
+68
+00:03:11,375 --> 00:03:12,833
+[grognements]
+
+69
+00:03:12,916 --> 00:03:14,500
+[la musique s'intensifie]
+
+70
+00:03:14,583 --> 00:03:15,833
+[hélicoptère en approche]
+
+71
+00:03:15,916 --> 00:03:17,416
+[cris]
+
+72
+00:03:17,500 --> 00:03:19,083
+- [sonnerie]
+- [Président] J'écoute.
+
+73
+00:03:19,166 --> 00:03:21,583
+Des zombies ? Pas dans notre pays !
+
+74
+00:03:22,208 --> 00:03:24,125
+[pilote] <i>Préparez-vous à tirer.</i>
+
+75
+00:03:24,208 --> 00:03:25,083
+[chute de bombes]
+
+76
+00:03:25,166 --> 00:03:27,166
+[musique classique dramatique]
+
+77
+00:03:27,833 --> 00:03:30,000
+- [vocalises dramatiques]
+- [mitraillage]
+
+78
+00:03:35,625 --> 00:03:37,708
+- [tirs]
+- [homme 7] Vous aviez prévu ça ?
+
+79
+00:03:37,791 --> 00:03:39,666
+[rire sadique]
+
+80
+00:03:40,166 --> 00:03:42,458
+- [grognements]
+- [cloche du tram]
+
+81
+00:03:42,541 --> 00:03:43,791
+[tirs]
+
+82
+00:03:43,875 --> 00:03:44,833
+[cloche]
+
+83
+00:03:46,166 --> 00:03:48,166
+[crépitements]
+
+84
+00:03:53,083 --> 00:03:54,916
+[tirs]
+
+85
+00:03:55,000 --> 00:03:57,000
+- [grognements]
+- [tirs]
+
+86
+00:03:58,583 --> 00:03:59,708
+[les tirs s'arrêtent]
+
+87
+00:04:06,958 --> 00:04:08,958
+[grognements]
+
+88
+00:04:09,041 --> 00:04:11,041
+[râles profonds]
+
+89
+00:04:21,500 --> 00:04:24,208
+- [sonnerie]
+- [Président] Qu'est-ce qu'on va faire ?
+
+90
+00:04:24,291 --> 00:04:26,375
+- Attendez, non, attendez !
+- [tirs]
+
+91
+00:04:26,458 --> 00:04:27,916
+- [Président] Et puis merde.
+- [bip]
+
+92
+00:04:28,000 --> 00:04:28,833
+[alarme]
+
+93
+00:04:28,916 --> 00:04:30,333
+[Président] Prenez-vous ça !
+
+94
+00:04:31,958 --> 00:04:33,958
+[alarme]
+
+95
+00:04:34,583 --> 00:04:36,041
+[couinements des pingouins]
+
+96
+00:04:38,833 --> 00:04:42,000
+- [la musique classique s'intensifie]
+- [vocalises dramatiques]
+
+97
+00:04:52,666 --> 00:04:53,500
+[flatulence]
+
+98
+00:04:53,583 --> 00:04:54,666
+[la musique s'arrête]
+
+99
+00:04:57,875 --> 00:04:59,875
+[notes électroniques]
+
+100
+00:05:04,500 --> 00:05:06,500
+[musique classique rapide]
+
+101
+00:05:50,458 --> 00:05:51,875
+[la musique s'arrête]
+

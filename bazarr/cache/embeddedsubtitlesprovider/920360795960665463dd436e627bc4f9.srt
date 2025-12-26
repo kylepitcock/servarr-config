@@ -1,0 +1,757 @@
+1
+00:00:09,583 --> 00:00:12,458
+[musica synth elettronica]
+
+2
+00:00:19,875 --> 00:00:21,250
+[musica sfuma]
+
+3
+00:00:23,250 --> 00:00:24,708
+[ronzio elettronico]
+
+4
+00:00:35,333 --> 00:00:37,166
+[fruscio di vento]
+
+5
+00:00:38,541 --> 00:00:40,291
+[nota di pianoforte cupa]
+
+6
+00:00:40,375 --> 00:00:42,125
+[gracchiare di corvi]
+
+7
+00:00:43,333 --> 00:00:45,333
+[scroscio]
+
+8
+00:00:47,166 --> 00:00:51,250
+[cinguettio di uccellini,
+vocio, clangore metallico]
+
+9
+00:00:52,333 --> 00:00:53,958
+[cavalli nitriscono]
+
+10
+00:00:58,666 --> 00:01:00,166
+[frinire di insetti]
+
+11
+00:01:06,375 --> 00:01:07,625
+[rumori si interrompono]
+
+12
+00:01:11,000 --> 00:01:13,000
+[dialoghi inudibili]
+
+13
+00:01:16,583 --> 00:01:18,583
+[clangore metallico]
+
+14
+00:01:20,541 --> 00:01:21,458
+[cavallo sbuffa]
+
+15
+00:01:21,541 --> 00:01:22,791
+[rumori si interrompono]
+
+16
+00:01:25,166 --> 00:01:28,208
+- [nota di pianoforte cupa]
+- [uomo fa versi ululati]
+
+17
+00:01:30,291 --> 00:01:32,166
+- [chiacchiericcio]
+- [cavallo sbuffa]
+
+18
+00:01:32,250 --> 00:01:34,083
+[cinguettio, frinire di insetti]
+
+19
+00:01:34,166 --> 00:01:35,500
+[rumori si interrompono]
+
+20
+00:01:36,416 --> 00:01:37,458
+[rumori riprendono]
+
+21
+00:01:50,750 --> 00:01:52,375
+[rumori si interrompono]
+
+22
+00:01:57,000 --> 00:01:59,750
+[cinguettio di uccellini, vocio]
+
+23
+00:01:59,833 --> 00:02:01,000
+[sciacquio]
+
+24
+00:02:01,083 --> 00:02:03,458
+[note di pianoforte cupe]
+
+25
+00:02:03,541 --> 00:02:05,958
+[frinire di insetti, nitrito di cavallo]
+
+26
+00:02:09,000 --> 00:02:11,333
+[cantano in coro]
+
+27
+00:02:17,041 --> 00:02:18,583
+[tintinnio di gioielli]
+
+28
+00:02:20,166 --> 00:02:21,333
+[donna grida]
+
+29
+00:02:21,416 --> 00:02:22,625
+[tutti sussultano]
+
+30
+00:02:23,708 --> 00:02:24,875
+[donna grida]
+
+31
+00:02:24,958 --> 00:02:26,833
+[sussultano]
+
+32
+00:02:26,916 --> 00:02:29,083
+[musica techno]
+
+33
+00:02:30,416 --> 00:02:32,291
+[risate, vocio]
+
+34
+00:02:32,916 --> 00:02:34,416
+[grida]
+
+35
+00:02:34,500 --> 00:02:35,458
+[rumori ovattati]
+
+36
+00:02:38,416 --> 00:02:40,416
+[battito cardiaco]
+
+37
+00:02:41,833 --> 00:02:43,750
+[grido ovattato]
+
+38
+00:02:46,000 --> 00:02:47,750
+[grida]
+
+39
+00:02:47,833 --> 00:02:49,875
+[musica techno continua]
+
+40
+00:02:51,583 --> 00:02:53,291
+[gridano]
+
+41
+00:02:58,041 --> 00:03:00,125
+[soldati gridano]
+
+42
+00:03:01,500 --> 00:03:03,500
+[urlano]
+
+43
+00:03:08,708 --> 00:03:10,041
+[rumori ovattati]
+
+44
+00:03:12,541 --> 00:03:14,541
+[rumori riprendono]
+
+45
+00:03:14,625 --> 00:03:16,625
+[musica techno continua]
+
+46
+00:03:24,666 --> 00:03:25,875
+[soldati gridano]
+
+47
+00:03:27,166 --> 00:03:28,500
+[cavalli nitriscono]
+
+48
+00:03:37,833 --> 00:03:38,916
+[urla ovattate]
+
+49
+00:03:42,791 --> 00:03:43,916
+[urla ovattate]
+
+50
+00:03:45,083 --> 00:03:46,541
+[gorgoglio]
+
+51
+00:03:48,416 --> 00:03:49,583
+[donna grida]
+
+52
+00:03:49,666 --> 00:03:51,833
+[urla ovattate]
+
+53
+00:03:57,541 --> 00:03:59,000
+[donna grida]
+
+54
+00:04:02,416 --> 00:04:04,166
+[cala il silenzio]
+
+55
+00:04:05,375 --> 00:04:07,375
+[frinire di insetti]
+
+56
+00:04:11,041 --> 00:04:12,125
+[grida]
+
+57
+00:04:12,208 --> 00:04:13,458
+[rumori si interrompono]
+
+58
+00:04:14,041 --> 00:04:17,333
+[grida]
+
+59
+00:04:17,416 --> 00:04:18,541
+[rumori si interrompono]
+
+60
+00:04:18,625 --> 00:04:19,625
+[grida]
+
+61
+00:04:20,291 --> 00:04:21,583
+[sussulta]
+
+62
+00:04:28,666 --> 00:04:30,958
+[cavalli nitriscono]
+
+63
+00:04:34,833 --> 00:04:36,541
+[musica strumentale cupa]
+
+64
+00:04:41,333 --> 00:04:42,500
+[ansima]
+
+65
+00:04:44,666 --> 00:04:46,041
+[cavalli nitriscono]
+
+66
+00:04:50,333 --> 00:04:51,875
+[rumori si interrompono]
+
+67
+00:04:52,458 --> 00:04:54,833
+- [nitrito di cavalli]
+- [cavallo sbuffa]
+
+68
+00:04:54,916 --> 00:04:56,625
+[clangore metallico]
+
+69
+00:05:01,458 --> 00:05:03,291
+[rumori si interrompono]
+
+70
+00:05:04,375 --> 00:05:06,833
+[uomo urla]
+
+71
+00:05:06,916 --> 00:05:08,916
+[rumori si interrompono]
+
+72
+00:05:10,958 --> 00:05:12,833
+[uomo urla, sussulta]
+
+73
+00:05:13,958 --> 00:05:16,166
+[musica strumentale tesa]
+
+74
+00:05:19,375 --> 00:05:22,458
+[cinguettio di uccellini,
+frinire di insetti]
+
+75
+00:05:25,250 --> 00:05:26,333
+[tossisce]
+
+76
+00:05:26,833 --> 00:05:28,125
+[geme]
+
+77
+00:05:31,375 --> 00:05:32,333
+[vomita]
+
+78
+00:05:42,000 --> 00:05:44,708
+[nitrito di cavallo]
+
+79
+00:05:44,791 --> 00:05:46,416
+[grugnito di cavallo]
+
+80
+00:05:50,291 --> 00:05:52,333
+[cavallo geme]
+
+81
+00:05:52,416 --> 00:05:54,083
+[rumori si interrompono]
+
+82
+00:05:54,750 --> 00:05:56,250
+[clangore metallico]
+
+83
+00:05:58,875 --> 00:06:00,875
+[sciacquio di fiume]
+
+84
+00:06:00,958 --> 00:06:02,833
+[fa versi di sforzo]
+
+85
+00:06:11,000 --> 00:06:12,416
+[rumori ovattati]
+
+86
+00:06:14,500 --> 00:06:16,875
+- [sciacquio di fiume]
+- [clangore metallico]
+
+87
+00:06:16,958 --> 00:06:18,833
+[gracchiare di corvi]
+
+88
+00:06:22,791 --> 00:06:24,541
+[nota strumentale cupa]
+
+89
+00:06:26,458 --> 00:06:29,333
+- [frinire di insetti]
+- [note di pianoforte sinistre]
+
+90
+00:06:36,125 --> 00:06:38,125
+[tintinnio di gioielli]
+
+91
+00:06:41,833 --> 00:06:43,625
+[musica strumentale tesa]
+
+92
+00:07:05,833 --> 00:07:07,750
+[cinguettio di uccellini]
+
+93
+00:07:09,875 --> 00:07:11,583
+[rumori si interrompono]
+
+94
+00:07:17,708 --> 00:07:20,000
+[cinguettio di uccellini]
+
+95
+00:07:20,083 --> 00:07:21,916
+[rumori si interrompono]
+
+96
+00:07:23,500 --> 00:07:25,541
+[cinguettio, sciacquio di fiume]
+
+97
+00:07:27,583 --> 00:07:30,083
+[rumori ovattati]
+
+98
+00:07:34,625 --> 00:07:36,291
+- [clangore]
+- [tintinnio]
+
+99
+00:07:36,375 --> 00:07:37,666
+[ansimano]
+
+100
+00:07:41,250 --> 00:07:42,250
+[sussulta]
+
+101
+00:08:05,250 --> 00:08:06,625
+[note ricche di suspense]
+
+102
+00:08:18,791 --> 00:08:20,083
+[note ricche di suspense]
+
+103
+00:08:32,500 --> 00:08:34,166
+[note ricche di suspense]
+
+104
+00:08:40,500 --> 00:08:42,708
+[musica strumentale avventurosa]
+
+105
+00:09:12,625 --> 00:09:14,625
+[musica in crescendo]
+
+106
+00:09:17,541 --> 00:09:19,333
+[rumori si interrompono]
+
+107
+00:09:20,708 --> 00:09:22,708
+[sciabordio di cascata]
+
+108
+00:09:22,791 --> 00:09:24,125
+[rumori si interrompono]
+
+109
+00:09:24,208 --> 00:09:25,333
+[sciabordio di cascata]
+
+110
+00:09:25,416 --> 00:09:26,791
+[rumori si interrompono]
+
+111
+00:09:27,333 --> 00:09:29,041
+[uomo urla]
+
+112
+00:09:29,125 --> 00:09:30,583
+[geme]
+
+113
+00:09:39,500 --> 00:09:40,666
+[scricchiolio ovattato]
+
+114
+00:09:43,000 --> 00:09:45,375
+[nota di pianoforte cupa]
+
+115
+00:09:48,666 --> 00:09:50,833
+[musica strumentale sinistra]
+
+116
+00:09:50,916 --> 00:09:52,208
+[suoni ovattati]
+
+117
+00:09:55,333 --> 00:09:56,833
+[tintinnio di gioielli]
+
+118
+00:09:56,916 --> 00:09:58,666
+[suoni ovattati]
+
+119
+00:10:03,250 --> 00:10:04,250
+[uomo urla]
+
+120
+00:10:04,333 --> 00:10:05,875
+[rumori si interrompono]
+
+121
+00:10:06,375 --> 00:10:09,041
+[musica strumentale sinistra continua]
+
+122
+00:10:11,041 --> 00:10:13,000
+[musica in crescendo]
+
+123
+00:10:16,250 --> 00:10:19,625
+[ronzio di mosche, sciabordio di cascata]
+
+124
+00:10:22,916 --> 00:10:26,000
+[musica vocale malinconica]
+
+125
+00:10:28,583 --> 00:10:30,083
+[tintinnio di gioielli]
+
+126
+00:10:41,000 --> 00:10:42,458
+[uomo si lamenta]
+
+127
+00:10:44,291 --> 00:10:45,833
+[sciabordio ovattato]
+
+128
+00:10:54,500 --> 00:10:56,500
+[cinguettio di uccellini]
+
+129
+00:11:04,416 --> 00:11:06,083
+[cavallo nitrisce]
+
+130
+00:11:06,958 --> 00:11:08,166
+[musica vocale sfuma]
+
+131
+00:11:08,250 --> 00:11:09,500
+[frinire di insetti]
+
+132
+00:11:19,583 --> 00:11:22,500
+[musica vocale femminile struggente]
+
+133
+00:11:23,083 --> 00:11:24,875
+[rombo cupo]
+
+134
+00:11:33,125 --> 00:11:34,833
+[suoni ovattati]
+
+135
+00:11:39,583 --> 00:11:40,791
+[tintinnio di gioielli]
+
+136
+00:11:43,166 --> 00:11:46,833
+[fa versi di sforzo]
+
+137
+00:11:54,375 --> 00:11:55,875
+[musica si interrompe]
+
+138
+00:12:01,166 --> 00:12:02,708
+[rumori si interrompono]
+
+139
+00:12:03,791 --> 00:12:04,916
+[sciabordio]
+
+140
+00:12:09,208 --> 00:12:10,416
+[rumori ovattati]
+
+141
+00:12:14,666 --> 00:12:15,708
+[gorgoglio]
+
+142
+00:12:15,791 --> 00:12:17,250
+[rumori ovattati]
+
+143
+00:12:27,000 --> 00:12:28,125
+[respiro di donna]
+
+144
+00:12:28,208 --> 00:12:29,666
+[cinguettio di uccellini]
+
+145
+00:12:31,416 --> 00:12:32,958
+- [uomo urla]
+- [ronzio]
+
+146
+00:12:35,000 --> 00:12:37,416
+- [cinguettio di uccellini]
+- [uomo urla]
+
+147
+00:12:38,083 --> 00:12:40,625
+[urla]
+
+148
+00:12:44,833 --> 00:12:46,791
+[continua a urlare]
+
+149
+00:12:53,416 --> 00:12:55,125
+[urla echeggiano]
+
+150
+00:12:57,541 --> 00:12:59,833
+[musica strumentale tesa]
+
+151
+00:12:59,916 --> 00:13:01,541
+[uomo urla]
+
+152
+00:13:01,625 --> 00:13:03,708
+[rumori si interrompono]
+
+153
+00:13:06,083 --> 00:13:07,291
+[uomo ansima]
+
+154
+00:13:07,375 --> 00:13:08,833
+[cinguettio di uccellini]
+
+155
+00:13:11,375 --> 00:13:13,000
+[uomo tira su col naso]
+
+156
+00:13:17,458 --> 00:13:18,875
+[urla]
+
+157
+00:13:19,833 --> 00:13:21,000
+[grida]
+
+158
+00:13:21,750 --> 00:13:22,750
+[ride]
+
+159
+00:13:24,583 --> 00:13:28,250
+- [musica strumentale epica]
+- [cavalli nitriscono, sbuffano]
+
+160
+00:13:33,375 --> 00:13:35,916
+[musica si fa solenne e cupa]
+
+161
+00:13:39,958 --> 00:13:42,083
+[nitrito di cavalli]
+
+162
+00:13:44,125 --> 00:13:45,541
+[donna urla disperata]
+
+163
+00:13:51,250 --> 00:13:52,166
+[urla]
+
+164
+00:13:54,750 --> 00:13:56,125
+[piange]
+
+165
+00:14:02,000 --> 00:14:03,833
+- [grida]
+- [uomo urla]
+
+166
+00:14:06,666 --> 00:14:08,333
+- [grida]
+- [uomo urla]
+
+167
+00:14:11,500 --> 00:14:14,958
+[musica strumentale solenne cupa continua]
+
+168
+00:14:18,791 --> 00:14:19,791
+[urla]
+
+169
+00:14:21,708 --> 00:14:22,791
+[grida]
+
+170
+00:14:22,875 --> 00:14:24,666
+[urla]
+
+171
+00:14:28,375 --> 00:14:29,708
+[geme]
+
+172
+00:14:29,791 --> 00:14:31,708
+[donna grida]
+
+173
+00:14:31,791 --> 00:14:34,291
+[uomo urla, ride]
+
+174
+00:14:35,875 --> 00:14:36,708
+[grida]
+
+175
+00:14:40,083 --> 00:14:41,041
+[grida]
+
+176
+00:14:41,125 --> 00:14:43,125
+[uomo urla]
+
+177
+00:14:44,458 --> 00:14:46,708
+[musica si fa drammatica]
+
+178
+00:14:46,791 --> 00:14:48,791
+[musica copre rumori]
+
+179
+00:15:17,583 --> 00:15:20,250
+[donna grida]
+
+180
+00:15:35,791 --> 00:15:37,375
+[musica si interrompe]
+
+181
+00:15:38,000 --> 00:15:40,000
+[nota di pianoforte cupa]
+
+182
+00:15:41,583 --> 00:15:43,875
+[musica strumentale sinistra]
+
+183
+00:15:48,291 --> 00:15:49,750
+[musica sfuma]
+
+184
+00:15:54,416 --> 00:15:56,166
+[ronzio elettronico]
+
+185
+00:16:01,041 --> 00:16:04,916
+[musica di pianoforte cupa]
+
+186
+00:17:04,916 --> 00:17:06,041
+[musica si interrompe]
+

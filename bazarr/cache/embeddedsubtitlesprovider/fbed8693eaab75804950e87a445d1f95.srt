@@ -1,0 +1,399 @@
+1
+00:00:08,208 --> 00:00:11,083
+[música de apertura]
+
+2
+00:00:26,875 --> 00:00:29,875
+REFUGIO
+
+3
+00:00:33,916 --> 00:00:35,916
+[respiración agitada]
+
+4
+00:00:39,833 --> 00:00:41,833
+[música inquietante]
+
+5
+00:00:48,416 --> 00:00:50,416
+[música se intensifica]
+
+6
+00:00:58,458 --> 00:00:59,666
+Moriré aquí.
+
+7
+00:01:19,333 --> 00:01:21,333
+[audio amortiguado]
+
+8
+00:01:24,500 --> 00:01:25,500
+[gime de dolor]
+
+9
+00:01:26,500 --> 00:01:28,500
+[respira hondo]
+
+10
+00:01:37,000 --> 00:01:39,000
+[explosiones lejanas]
+
+11
+00:01:43,166 --> 00:01:46,750
+[pitidos electrónicos]
+
+12
+00:01:47,958 --> 00:01:49,708
+OXÍGENO RESTANTE
+UBICAR REFUGIO
+
+13
+00:01:51,666 --> 00:01:53,250
+ESTADO: DESCONECTADO
+15.42 KM
+
+14
+00:01:58,416 --> 00:02:00,416
+[música inquietante]
+
+15
+00:02:14,125 --> 00:02:14,958
+OXÍGENO MÍNIMO
+
+16
+00:02:15,041 --> 00:02:16,250
+ACTIVAR
+
+17
+00:02:28,416 --> 00:02:29,375
+Carajo.
+
+18
+00:02:30,250 --> 00:02:32,250
+A ti no te fue mejor que a mí.
+
+19
+00:02:32,875 --> 00:02:35,375
+[música inquietante]
+
+20
+00:02:59,791 --> 00:03:01,291
+[pitidos]
+
+21
+00:03:02,291 --> 00:03:04,416
+LE DAMOS LA BIENVENIDA AL REFUGIO 817-RD9G
+
+22
+00:03:08,791 --> 00:03:10,583
+[voz mujer] <i>Refugio activado.</i>
+
+23
+00:03:11,083 --> 00:03:13,125
+<i>Advertencia: daño detectado.</i>
+
+24
+00:03:13,208 --> 00:03:14,958
+<i>Haciendo un diagnóstico.</i>
+
+25
+00:03:18,375 --> 00:03:20,708
+<i>Núcleos de fusión: activos.</i>
+
+26
+00:03:23,125 --> 00:03:24,833
+<i>Red de comunicación: activa.</i>
+
+27
+00:03:24,916 --> 00:03:26,500
+SEÑAL DE RESCATE
+ESPERANDO TRANSMISIÓN
+
+28
+00:03:26,583 --> 00:03:27,541
+[clac]
+
+29
+00:03:29,750 --> 00:03:31,541
+<i>Robot de mantenimiento...</i>
+
+30
+00:03:31,625 --> 00:03:33,125
+[zumbido]
+
+31
+00:03:33,208 --> 00:03:34,916
+[zumbido distorsionado]
+
+32
+00:03:35,625 --> 00:03:36,458
+<i>...error.</i>
+
+33
+00:03:36,541 --> 00:03:38,083
+Hojalata.
+
+34
+00:03:38,666 --> 00:03:41,791
+<i>Robot de mantenimiento: error.</i>
+
+35
+00:03:45,791 --> 00:03:49,041
+<i>Robot de mantenimiento: fallando.</i>
+
+36
+00:03:50,041 --> 00:03:51,041
+¡Oye, no!
+
+37
+00:03:51,541 --> 00:03:53,125
+[pitidos acelerados]
+
+38
+00:03:53,208 --> 00:03:55,583
+- [rugido]
+- ¡No! ¡Alto! ¡Espera!
+
+39
+00:03:56,208 --> 00:03:57,750
+¡Suspende!
+
+40
+00:03:57,833 --> 00:03:58,916
+¡Suspende!
+
+41
+00:04:00,500 --> 00:04:02,750
+<i>- Imposible de cumplir.</i>
+- [pitidos acelerados]
+
+42
+00:04:05,458 --> 00:04:08,458
+[música inquietante]
+
+43
+00:04:17,666 --> 00:04:18,666
+[pitidos cesan]
+
+44
+00:04:30,125 --> 00:04:32,125
+[golpes estruendosos]
+
+45
+00:04:35,416 --> 00:04:37,041
+[gime de dolor]
+
+46
+00:04:46,791 --> 00:04:48,500
+[pitidos]
+
+47
+00:04:50,875 --> 00:04:52,583
+DENTRO DEL RADIO DEL ENEMIGO
+
+48
+00:04:54,958 --> 00:04:57,125
+[mujer 1 por radio] <i>Ala de Prometeo CVW2.</i>
+
+49
+00:04:57,208 --> 00:04:59,333
+<i>ECM listo. Tienen luz verde.</i>
+
+50
+00:04:59,416 --> 00:05:00,791
+[hombre] <i>Nova 6, en camino.</i>
+
+51
+00:05:00,875 --> 00:05:02,291
+[mujer 2] <i>Nova 9, en camino.</i>
+
+52
+00:05:02,375 --> 00:05:03,666
+Nova 4, en camino.
+
+53
+00:05:03,750 --> 00:05:06,000
+[mujer 1] <i>Recibido. Permiso para disparar.</i>
+
+54
+00:05:06,083 --> 00:05:08,041
+Recibido. Seguros fuera.
+
+55
+00:05:08,125 --> 00:05:11,333
+La carga es un Destello Divino
+de nivel dos.
+
+56
+00:05:12,750 --> 00:05:14,083
+Armado y listo.
+
+57
+00:05:14,166 --> 00:05:18,333
+[mujer 1] <i>Escuadrón Nova, listos.
+Formación diagonal. Entran y salen.</i>
+
+58
+00:05:19,875 --> 00:05:21,916
+[música de tensión]
+
+59
+00:05:26,750 --> 00:05:29,750
+[jadea]
+
+60
+00:05:31,375 --> 00:05:33,375
+[zumbido lejano]
+
+61
+00:05:41,916 --> 00:05:43,916
+[pasos metálicos se acercan]
+
+62
+00:05:47,125 --> 00:05:49,125
+[música inquietante]
+
+63
+00:06:00,791 --> 00:06:03,625
+[gime de dolor]
+
+64
+00:06:04,166 --> 00:06:05,541
+[estrépito]
+
+65
+00:06:16,125 --> 00:06:17,958
+[pitidos acelerados]
+
+66
+00:06:24,916 --> 00:06:25,916
+[pitidos cesan]
+
+67
+00:06:27,583 --> 00:06:29,583
+[zumbido]
+
+68
+00:06:41,291 --> 00:06:43,166
+[lanza grito contenido]
+
+69
+00:06:43,250 --> 00:06:45,250
+[pitidos acelerados]
+
+70
+00:07:01,791 --> 00:07:04,916
+[mujer] <i>¡731! ¡731!
+¡Viene ataque enemigo!</i>
+
+71
+00:07:09,250 --> 00:07:10,250
+¡Perdimos la nave 1!
+
+72
+00:07:15,416 --> 00:07:16,291
+[hombre] ¡Fuego!
+
+73
+00:07:23,583 --> 00:07:27,250
+- [gime de dolor]
+- [alarma]
+
+74
+00:07:27,333 --> 00:07:29,500
+APAGADO DE EMERGENCIA
+
+75
+00:07:48,791 --> 00:07:50,791
+[audio amortiguado]
+
+76
+00:08:16,750 --> 00:08:18,750
+[zumbido lejano]
+
+77
+00:08:21,666 --> 00:08:23,666
+[pasos metálicos lejanos]
+
+78
+00:08:28,416 --> 00:08:29,458
+Mmm.
+
+79
+00:08:29,541 --> 00:08:30,541
+[gruñe]
+
+80
+00:08:31,583 --> 00:08:33,583
+[zumbido lejano]
+
+81
+00:08:35,833 --> 00:08:37,791
+[zumbido cercano]
+
+82
+00:08:37,875 --> 00:08:40,625
+- [golpe musical]
+- [pitidos acelerados]
+
+83
+00:09:56,041 --> 00:09:58,041
+[robot se apaga]
+
+84
+00:09:59,583 --> 00:10:01,666
+SEÑAL DE RESCATE
+ESPERANDO TRANSMISIÓN
+
+85
+00:10:01,750 --> 00:10:04,333
+[pasos]
+
+86
+00:10:05,416 --> 00:10:06,416
+[pitido]
+
+87
+00:10:13,333 --> 00:10:14,875
+[pitidos electrónicos]
+
+88
+00:10:14,958 --> 00:10:19,625
+[voz mujer] <i>Señal de auxilio recibida.
+Refugio 817-RD9G.</i>
+
+89
+00:10:20,166 --> 00:10:21,291
+<i>Rescate enviado.</i>
+
+90
+00:10:21,375 --> 00:10:23,208
+[música esperanzadora]
+
+91
+00:10:23,291 --> 00:10:24,458
+[gime de dolor]
+
+92
+00:10:27,000 --> 00:10:30,708
+<i>Advertencia:
+robot de mantenimiento fallando.</i>
+
+93
+00:10:32,666 --> 00:10:36,000
+<i>Advertencia:
+robot de mantenimiento fallando.</i>
+
+94
+00:10:36,083 --> 00:10:37,416
+No me digas.
+
+95
+00:10:38,041 --> 00:10:41,333
+<i>Advertencia:
+robot de mantenimiento fallando.</i>
+
+96
+00:10:58,333 --> 00:11:01,333
+[música de cierre]
+

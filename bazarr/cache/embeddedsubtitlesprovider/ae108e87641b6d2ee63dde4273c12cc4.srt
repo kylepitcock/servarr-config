@@ -1,0 +1,878 @@
+1
+00:00:09,583 --> 00:00:12,458
+[musique électronique rythmée]
+
+2
+00:00:21,333 --> 00:00:22,500
+[la musique s'arrête]
+
+3
+00:00:23,208 --> 00:00:24,791
+[notes électroniques]
+
+4
+00:00:35,333 --> 00:00:38,458
+- [chant des oiseaux]
+- [souffle du vent]
+
+5
+00:00:38,541 --> 00:00:40,291
+[notes inquiétantes]
+
+6
+00:00:40,375 --> 00:00:42,125
+[croassement de corbeaux]
+
+7
+00:00:43,333 --> 00:00:45,333
+[fracas de cascade]
+
+8
+00:00:47,166 --> 00:00:49,166
+[bavardages indistincts]
+
+9
+00:00:49,250 --> 00:00:51,250
+[cliquetis métallique]
+
+10
+00:00:52,333 --> 00:00:53,958
+[hennissements]
+
+11
+00:00:56,541 --> 00:00:58,583
+[chant des oiseaux]
+
+12
+00:00:58,666 --> 00:01:00,250
+[chant d'insectes]
+
+13
+00:01:02,708 --> 00:01:06,291
+[brouhaha puissant]
+
+14
+00:01:06,375 --> 00:01:08,541
+[silence]
+
+15
+00:01:11,000 --> 00:01:13,166
+[échange inaudible]
+
+16
+00:01:16,583 --> 00:01:18,583
+[cliquetis métallique]
+
+17
+00:01:20,541 --> 00:01:21,458
+[hennissement]
+
+18
+00:01:21,541 --> 00:01:22,791
+[silence]
+
+19
+00:01:25,166 --> 00:01:27,958
+- [notes inquiétantes]
+- [cri étrange]
+
+20
+00:01:30,291 --> 00:01:32,000
+- [bavardages]
+- [hennissements]
+
+21
+00:01:32,083 --> 00:01:34,083
+[chant d'oiseaux]
+
+22
+00:01:34,166 --> 00:01:36,333
+[silence]
+
+23
+00:01:36,416 --> 00:01:38,041
+[les sons reprennent]
+
+24
+00:01:44,333 --> 00:01:45,583
+[musique de tension]
+
+25
+00:01:48,041 --> 00:01:49,208
+[cliquetis métallique]
+
+26
+00:01:49,291 --> 00:01:50,666
+[échanges indistincts]
+
+27
+00:01:50,750 --> 00:01:52,375
+[silence]
+
+28
+00:01:54,500 --> 00:01:56,916
+[notes mystérieuses]
+
+29
+00:01:57,000 --> 00:01:59,750
+- [chant des oiseaux]
+- [bavardage des soldats]
+
+30
+00:01:59,833 --> 00:02:01,000
+[clapotis]
+
+31
+00:02:01,083 --> 00:02:02,333
+[musique inquiétante]
+
+32
+00:02:03,541 --> 00:02:05,958
+- [hennissements]
+- [chant d'insectes]
+
+33
+00:02:09,000 --> 00:02:11,333
+[prière indistincte]
+
+34
+00:02:14,583 --> 00:02:16,958
+[la prière continue]
+
+35
+00:02:17,041 --> 00:02:20,083
+- [tintement des bijoux]
+- [notes mystérieuses]
+
+36
+00:02:20,166 --> 00:02:21,333
+[cri de femme]
+
+37
+00:02:21,416 --> 00:02:22,625
+[surprise]
+
+38
+00:02:23,708 --> 00:02:24,875
+[cri de femme]
+
+39
+00:02:24,958 --> 00:02:26,833
+[voix paniquées]
+
+40
+00:02:26,916 --> 00:02:29,083
+[musique rythmée]
+
+41
+00:02:30,416 --> 00:02:32,291
+[rires lubriques]
+
+42
+00:02:32,916 --> 00:02:34,416
+[cri aigu]
+
+43
+00:02:34,500 --> 00:02:38,333
+[ambiance sonore étouffée]
+
+44
+00:02:41,833 --> 00:02:43,750
+[cri de femme toujours étouffé]
+
+45
+00:02:46,000 --> 00:02:47,750
+[cris enragés des soldats]
+
+46
+00:02:47,833 --> 00:02:50,625
+[la musique rythmée continue]
+
+47
+00:02:51,583 --> 00:02:53,291
+[cris enragés]
+
+48
+00:02:57,000 --> 00:03:00,125
+[cris mêlés de la femme et des soldats]
+
+49
+00:03:01,500 --> 00:03:03,500
+[cris des soldats]
+
+50
+00:03:08,708 --> 00:03:10,041
+[silence]
+
+51
+00:03:12,541 --> 00:03:14,541
+[les sons reprennent]
+
+52
+00:03:15,416 --> 00:03:17,208
+[la musique rythmée continue]
+
+53
+00:03:24,666 --> 00:03:25,875
+[cris des soldats]
+
+54
+00:03:27,166 --> 00:03:28,500
+[hennissements]
+
+55
+00:03:30,500 --> 00:03:31,791
+[hennissement]
+
+56
+00:03:37,833 --> 00:03:38,916
+[cri étouffé]
+
+57
+00:03:42,791 --> 00:03:43,916
+[cri étouffé]
+
+58
+00:03:45,083 --> 00:03:46,541
+[gargouillements]
+
+59
+00:03:48,416 --> 00:03:49,583
+[la femme crie]
+
+60
+00:03:49,666 --> 00:03:51,833
+[cris étouffés]
+
+61
+00:03:57,541 --> 00:03:59,000
+[la femme crie]
+
+62
+00:04:02,416 --> 00:04:05,291
+- [le cri s'atténue]
+- [la musique rythmée s'arrête]
+
+63
+00:04:05,375 --> 00:04:07,375
+[chants d'insectes]
+
+64
+00:04:08,833 --> 00:04:10,125
+[silence]
+
+65
+00:04:11,041 --> 00:04:12,125
+[cri]
+
+66
+00:04:12,208 --> 00:04:13,458
+[silence]
+
+67
+00:04:14,041 --> 00:04:17,333
+[cri insistant]
+
+68
+00:04:17,416 --> 00:04:18,541
+[silence]
+
+69
+00:04:18,625 --> 00:04:20,125
+[cri paniqué]
+
+70
+00:04:20,208 --> 00:04:21,166
+[souffle court]
+
+71
+00:04:23,083 --> 00:04:25,250
+[chant d'oiseaux]
+
+72
+00:04:28,666 --> 00:04:30,958
+[hennissements]
+
+73
+00:04:34,833 --> 00:04:36,541
+[notes inquiétantes]
+
+74
+00:04:37,583 --> 00:04:39,166
+[cliquetis métallique]
+
+75
+00:04:44,666 --> 00:04:46,041
+[hennissements]
+
+76
+00:04:50,333 --> 00:04:52,375
+[silence]
+
+77
+00:04:52,458 --> 00:04:54,250
+[hennissements]
+
+78
+00:04:54,916 --> 00:04:56,625
+[cliquetis métallique]
+
+79
+00:05:01,458 --> 00:05:02,750
+[silence]
+
+80
+00:05:04,375 --> 00:05:06,833
+[l'homme crie]
+
+81
+00:05:06,916 --> 00:05:08,291
+[silence]
+
+82
+00:05:10,958 --> 00:05:12,833
+[l'homme crie]
+
+83
+00:05:13,958 --> 00:05:15,666
+[notes de tension]
+
+84
+00:05:19,375 --> 00:05:20,750
+[chant des oiseaux]
+
+85
+00:05:22,541 --> 00:05:25,041
+[cliquetis métallique]
+
+86
+00:05:25,125 --> 00:05:26,291
+[il tousse]
+
+87
+00:05:26,833 --> 00:05:28,125
+[il grogne]
+
+88
+00:05:30,125 --> 00:05:32,333
+[souffle court]
+
+89
+00:05:37,375 --> 00:05:40,250
+[cliquetis métallique]
+
+90
+00:05:42,000 --> 00:05:44,708
+[hennissement]
+
+91
+00:05:44,791 --> 00:05:46,416
+[le cheval geint]
+
+92
+00:05:50,291 --> 00:05:52,333
+[le cheval gémit]
+
+93
+00:05:52,416 --> 00:05:53,375
+[silence]
+
+94
+00:05:54,750 --> 00:05:56,250
+[cliquetis métallique]
+
+95
+00:05:58,875 --> 00:06:00,875
+[écoulement de la rivière]
+
+96
+00:06:00,958 --> 00:06:02,833
+[grognement]
+
+97
+00:06:11,000 --> 00:06:12,416
+[silence]
+
+98
+00:06:14,500 --> 00:06:16,500
+[cliquetis métallique]
+
+99
+00:06:16,583 --> 00:06:18,458
+[corbeaux]
+
+100
+00:06:26,458 --> 00:06:28,875
+- [chant d'insectes]
+- [notes inquiétantes]
+
+101
+00:06:30,208 --> 00:06:31,833
+[clapotis]
+
+102
+00:06:36,125 --> 00:06:38,958
+- [tintement des bijoux]
+- [petits cris]
+
+103
+00:06:41,833 --> 00:06:43,625
+[notes angoissantes]
+
+104
+00:06:45,291 --> 00:06:48,500
+- [tintement des bijoux]
+- [cliquetis métallique]
+
+105
+00:06:59,208 --> 00:07:01,583
+[tintement des bijoux]
+
+106
+00:07:05,833 --> 00:07:07,000
+[chant des oiseaux]
+
+107
+00:07:09,875 --> 00:07:11,291
+[silence]
+
+108
+00:07:17,708 --> 00:07:20,000
+[tintements et cliquetis métalliques]
+
+109
+00:07:20,083 --> 00:07:21,166
+[silence]
+
+110
+00:07:23,500 --> 00:07:25,541
+- [chant d'oiseaux]
+- [rivière]
+
+111
+00:07:25,625 --> 00:07:26,500
+[silence]
+
+112
+00:07:34,625 --> 00:07:36,291
+[tintement des bijoux]
+
+113
+00:07:36,375 --> 00:07:37,666
+[respiration lourde]
+
+114
+00:07:39,083 --> 00:07:41,666
+- [gémissement]
+- [tintement qui s'éloigne]
+
+115
+00:07:42,958 --> 00:07:45,291
+[tintement des bijoux]
+
+116
+00:07:48,458 --> 00:07:51,000
+[notes intrigantes]
+
+117
+00:07:52,791 --> 00:07:55,041
+[cliquetis métallique]
+
+118
+00:07:59,875 --> 00:08:02,291
+[fracas de la cascade]
+
+119
+00:08:05,416 --> 00:08:06,625
+[musique intrigante]
+
+120
+00:08:19,000 --> 00:08:20,833
+[la musique intrigante continue]
+
+121
+00:08:36,166 --> 00:08:38,166
+[la musique intrigante continue]
+
+122
+00:09:12,625 --> 00:09:15,583
+[la musique intrigante s'intensifie]
+
+123
+00:09:17,541 --> 00:09:18,541
+[silence]
+
+124
+00:09:20,708 --> 00:09:22,708
+[fracas de la cascade]
+
+125
+00:09:22,791 --> 00:09:24,125
+[silence]
+
+126
+00:09:24,208 --> 00:09:25,333
+[fracas de la cascade]
+
+127
+00:09:25,416 --> 00:09:26,375
+[silence]
+
+128
+00:09:27,333 --> 00:09:29,041
+[l'homme crie]
+
+129
+00:09:29,125 --> 00:09:30,583
+[l'homme grogne]
+
+130
+00:09:39,500 --> 00:09:40,666
+[craquement]
+
+131
+00:09:40,750 --> 00:09:42,916
+[ambiance sonore étouffée]
+
+132
+00:09:43,000 --> 00:09:45,375
+[musique inquiétante]
+
+133
+00:09:50,916 --> 00:09:52,291
+[ambiance sonore étouffée]
+
+134
+00:09:55,333 --> 00:09:56,833
+[tintement des bijoux]
+
+135
+00:09:56,916 --> 00:09:58,666
+[ambiance sonore étouffée]
+
+136
+00:09:58,750 --> 00:10:00,166
+[carnage inaudible]
+
+137
+00:10:03,250 --> 00:10:04,250
+[grognement]
+
+138
+00:10:04,333 --> 00:10:05,750
+[silence]
+
+139
+00:10:06,375 --> 00:10:08,375
+[la musique inquiétante continue]
+
+140
+00:10:12,041 --> 00:10:15,041
+[la musique inquiétante
+s'intensifie puis s'arrête]
+
+141
+00:10:16,250 --> 00:10:18,791
+[bourdonnement de mouches]
+
+142
+00:10:18,875 --> 00:10:21,291
+- [chants des oiseaux]
+- [cliquetis métallique]
+
+143
+00:10:22,916 --> 00:10:24,541
+[chant triste]
+
+144
+00:10:28,583 --> 00:10:30,083
+[tintement des bijoux]
+
+145
+00:10:33,833 --> 00:10:35,833
+[tintement des bijoux]
+
+146
+00:10:41,000 --> 00:10:41,958
+[effort]
+
+147
+00:10:44,291 --> 00:10:45,750
+[le chant triste continue]
+
+148
+00:10:54,500 --> 00:10:57,083
+- [chant des oiseaux]
+- [tintement des bijoux]
+
+149
+00:11:04,416 --> 00:11:06,083
+[hennissement]
+
+150
+00:11:06,833 --> 00:11:08,166
+[le chant triste s'arrête]
+
+151
+00:11:08,250 --> 00:11:09,500
+[chant d'insectes]
+
+152
+00:11:19,583 --> 00:11:21,583
+[chœur de femmes]
+
+153
+00:11:23,083 --> 00:11:24,875
+[grognement en approche]
+
+154
+00:11:33,125 --> 00:11:34,833
+[sons étouffés]
+
+155
+00:11:38,250 --> 00:11:40,791
+[le chant des femmes continue]
+
+156
+00:11:42,625 --> 00:11:43,875
+[grognements d'effort]
+
+157
+00:11:51,625 --> 00:11:53,750
+[tintement des bijoux]
+
+158
+00:11:53,833 --> 00:11:55,875
+[le chant des femmes s'arrête]
+
+159
+00:11:55,958 --> 00:11:58,708
+[tintement des bijoux]
+
+160
+00:12:01,166 --> 00:12:02,583
+[silence]
+
+161
+00:12:09,208 --> 00:12:10,458
+[silence]
+
+162
+00:12:14,666 --> 00:12:15,708
+[grondement sous l'eau]
+
+163
+00:12:15,791 --> 00:12:17,250
+[ambiance sonore étouffée]
+
+164
+00:12:27,000 --> 00:12:28,125
+[respiration de femme]
+
+165
+00:12:28,208 --> 00:12:29,666
+[chant d'oiseaux puissants]
+
+166
+00:12:29,750 --> 00:12:31,333
+[chant d'insectes puissants]
+
+167
+00:12:31,416 --> 00:12:33,791
+- [cri surpris]
+- [bourdonnements]
+
+168
+00:12:35,000 --> 00:12:37,416
+- [chant d'oiseaux puissants]
+- [cri paniqué]
+
+169
+00:12:38,083 --> 00:12:40,625
+- [cris paniqués]
+- [tintement des bijoux]
+
+170
+00:12:40,708 --> 00:12:44,125
+[l'ambiance sonore puissante persiste]
+
+171
+00:12:44,833 --> 00:12:46,875
+[il crie]
+
+172
+00:12:53,416 --> 00:12:55,125
+[écho des cris]
+
+173
+00:12:59,916 --> 00:13:01,166
+[cris]
+
+174
+00:13:01,708 --> 00:13:03,250
+[silence]
+
+175
+00:13:06,083 --> 00:13:07,291
+[souffle court]
+
+176
+00:13:07,375 --> 00:13:08,833
+[chant des oiseaux]
+
+177
+00:13:11,166 --> 00:13:12,375
+[reniflement]
+
+178
+00:13:15,250 --> 00:13:17,375
+[chant des oiseaux]
+
+179
+00:13:17,458 --> 00:13:18,875
+[grognement]
+
+180
+00:13:19,833 --> 00:13:21,000
+[cri]
+
+181
+00:13:21,750 --> 00:13:22,750
+[rire]
+
+182
+00:13:24,583 --> 00:13:25,833
+[musique dramatique]
+
+183
+00:13:25,916 --> 00:13:28,250
+[hennissements]
+
+184
+00:13:33,375 --> 00:13:35,000
+[chants d'insectes]
+
+185
+00:13:39,958 --> 00:13:42,083
+- [hennissements]
+- [tintement des bijoux]
+
+186
+00:13:42,166 --> 00:13:44,041
+[la musique dramatique continue]
+
+187
+00:13:44,125 --> 00:13:45,541
+[plainte]
+
+188
+00:13:51,041 --> 00:13:52,166
+[elle crie]
+
+189
+00:13:54,291 --> 00:13:56,291
+[plainte et respiration coupée]
+
+190
+00:14:02,000 --> 00:14:03,833
+- [elle crie]
+- [grognement]
+
+191
+00:14:06,666 --> 00:14:08,333
+- [elle crie]
+- [grognement]
+
+192
+00:14:09,583 --> 00:14:11,416
+[sanglots]
+
+193
+00:14:11,500 --> 00:14:13,500
+[la musique dramatique continue]
+
+194
+00:14:18,791 --> 00:14:19,791
+[grognement]
+
+195
+00:14:21,708 --> 00:14:22,791
+[cri aigu]
+
+196
+00:14:22,875 --> 00:14:24,666
+[grognement]
+
+197
+00:14:29,791 --> 00:14:31,708
+[elle crie]
+
+198
+00:14:31,791 --> 00:14:34,291
+[rire fou]
+
+199
+00:14:41,125 --> 00:14:44,375
+- [la femme crie]
+- [l'homme crie et grogne]
+
+200
+00:14:46,791 --> 00:14:48,791
+[la musique dramatique s'intensifie]
+
+201
+00:14:49,458 --> 00:14:51,208
+[l'homme crie]
+
+202
+00:14:55,333 --> 00:14:57,333
+[l'homme crie]
+
+203
+00:15:00,666 --> 00:15:02,666
+[la musique dramatique continue]
+
+204
+00:15:17,541 --> 00:15:20,250
+[la femme crie]
+
+205
+00:15:21,541 --> 00:15:24,500
+[la musique dramatique continue]
+
+206
+00:15:34,083 --> 00:15:35,708
+[la musique dramatique s'arrête]
+
+207
+00:15:38,000 --> 00:15:40,000
+[musique inquiétante]
+
+208
+00:15:41,583 --> 00:15:43,125
+[grincement]
+
+209
+00:15:46,125 --> 00:15:48,208
+[chant angoissant]
+
+210
+00:15:48,291 --> 00:15:49,750
+[la musique s'arrête]
+
+211
+00:15:54,416 --> 00:15:56,166
+[notes électroniques]
+
+212
+00:16:01,041 --> 00:16:03,375
+[musique douce et triste]
+
+213
+00:16:03,458 --> 00:16:05,458
+[ambiance aquatique]
+
+214
+00:17:03,166 --> 00:17:05,041
+[la musique douce s'arrête]
+

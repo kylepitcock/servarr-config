@@ -1,0 +1,7822 @@
+1
+00:00:06,474 --> 00:00:08,009
+[news anchor on radio]
+<i><font color="white"> The news never ends.</font></i>
+
+2
+00:00:08,142 --> 00:00:09,878
+<i><font color="white"> This is 1080 GCR.</font></i>
+
+3
+00:00:10,012 --> 00:00:13,380
+<i><font color="white"> You get all the news
+</font></i><i><font color="white"> you need,
+</font></i><i><font color="white"> all day long.</font></i>
+
+4
+00:00:14,015 --> 00:00:15,817
+<i><font color="white"> Good morning.</font></i>
+
+5
+00:00:15,951 --> 00:00:18,053
+<i><font color="white"> It's 42 degrees
+ at 10:30 on this Thursday,
+</font></i><i><font color="white"> October 15th.</font></i>
+
+6
+00:00:18,186 --> 00:00:20,655
+<i><font color="white"> I'm Stan L. Brooks,
+</font></i><i><font color="white"> and here's
+</font></i><i><font color="white"> what's happening.</font></i>
+
+7
+00:00:20,789 --> 00:00:22,958
+<i><font color="white"> It's day 18
+ of the garbage strike,</font></i>
+
+8
+00:00:23,091 --> 00:00:25,794
+<i><font color="white"> with 10,000 tons
+</font></i><i><font color="white"> of garbage
+ piling up every day.</font></i>
+
+9
+00:00:25,927 --> 00:00:28,029
+<i><font color="white"> Even the nicest sections
+</font></i><i><font color="white"> of the city</font></i>
+
+10
+00:00:28,162 --> 00:00:29,531
+<i><font color="white"> are looking like slums.</font></i>
+
+11
+00:00:29,664 --> 00:00:31,266
+<i><font color="white"> Health Commissioner
+</font></i><i><font color="white"> Edward O'Rourke is</font></i>
+
+12
+00:00:31,399 --> 00:00:33,167
+<i><font color="white"> declaring a city-wide
+</font></i><i><font color="white"> state of emergency</font></i>
+
+13
+00:00:33,301 --> 00:00:35,137
+<i><font color="white">for the first time in decades.</font></i>
+
+14
+00:00:35,270 --> 00:00:37,205
+[O'Rourke]<i><font color="white"> There's no need
+</font></i><i><font color="white"> to wait until
+</font></i><i><font color="white"> somebody dies</font></i>
+
+15
+00:00:37,339 --> 00:00:38,806
+<i><font color="white"> or comes down
+ with typhoid fever.</font></i>
+
+16
+00:00:38,940 --> 00:00:40,942
+<i><font color="white"> It's already
+ a serious situation.</font></i>
+
+17
+00:00:41,076 --> 00:00:42,410
+[news anchor]
+<i><font color="white"> It's something
+</font></i><i><font color="white"> that affects</font></i>
+
+18
+00:00:42,544 --> 00:00:43,912
+<i><font color="white"> almost everyone
+</font></i><i><font color="white"> in the city,</font></i>
+
+19
+00:00:44,045 --> 00:00:45,780
+<i><font color="white"> no matter who they are
+</font></i><i><font color="white"> or where they live.</font></i>
+
+20
+00:00:45,914 --> 00:00:47,849
+[man 1]<i><font color="white"> You can't
+</font></i><i><font color="white"> go down
+</font></i><i><font color="white"> no one avenue</font></i>
+
+21
+00:00:47,983 --> 00:00:50,185
+<i><font color="white"> without seeing nothing
+</font></i><i><font color="white"> but garbage and rats.</font></i>
+
+22
+00:00:50,318 --> 00:00:51,552
+[man 2]<i><font color="white"> It's starting to
+</font></i><i><font color="white"> affect my business</font></i>
+
+23
+00:00:51,686 --> 00:00:53,087
+<i><font color="white"> when customers
+ can't get in here</font></i>
+
+24
+00:00:53,221 --> 00:00:54,823
+<i><font color="white"> because of
+ the garbage situation.</font></i>
+
+25
+00:00:54,956 --> 00:00:56,624
+[woman 1]<i><font color="white"> I'm not
+</font></i><i><font color="white"> out that long
+</font></i><i><font color="white"> to smell it,</font></i>
+
+26
+00:00:56,758 --> 00:00:58,393
+<i><font color="white"> but I think
+ to look at it,
+ it's terrible.</font></i>
+
+27
+00:00:58,526 --> 00:01:00,028
+[man 3]
+<i><font color="white"> It don't
+ affect me except</font></i>
+
+28
+00:01:00,161 --> 00:01:01,862
+<i><font color="white"> for the very bad
+</font></i><i><font color="white"> smell here.</font></i>
+
+29
+00:01:01,996 --> 00:01:02,997
+<i><font color="white"> It's horrific.</font></i>
+
+30
+00:01:03,131 --> 00:01:04,532
+[woman 2]<i><font color="white"> It's a mess.</font></i>
+
+31
+00:01:04,666 --> 00:01:06,234
+<i><font color="white"> I've been in this country
+</font></i><i><font color="white"> for 50 years,</font></i>
+
+32
+00:01:06,368 --> 00:01:07,568
+<i><font color="white"> and I've never seen
+</font></i><i><font color="white"> anything like it.</font></i>
+
+33
+00:01:07,702 --> 00:01:09,003
+<i><font color="white"> What is this world
+</font></i><i><font color="white"> coming to?</font></i>
+
+34
+00:01:09,137 --> 00:01:10,839
+[man 4]<i><font color="white"> Put 'em
+</font></i><i><font color="white"> in a room,</font></i>
+
+35
+00:01:10,973 --> 00:01:12,540
+<i><font color="white"> let 'em sit there
+</font></i><i><font color="white"> and talk until
+ they get it over with.</font></i>
+
+36
+00:01:12,674 --> 00:01:14,609
+<i><font color="white"> 24 hours, 48 hours,
+</font></i><i><font color="white"> how long it takes.</font></i>
+
+37
+00:01:14,743 --> 00:01:16,344
+[man 5]<i><font color="white"> The idea of
+ the National Guard
+</font></i><i><font color="white"> moving in</font></i>
+
+38
+00:01:16,477 --> 00:01:18,045
+<i><font color="white"> and cleaning up
+ is a good idea.</font></i>
+
+39
+00:01:18,179 --> 00:01:19,614
+[news anchor]<i><font color="white"> In other news,</font></i>
+
+40
+00:01:19,748 --> 00:01:21,182
+<i><font color="white"> the building industry
+</font></i><i><font color="white"> and landlords today</font></i>
+
+41
+00:01:21,316 --> 00:01:22,584
+<i><font color="white"> expressed concern
+</font></i><i><font color="white"> over the latest</font></i>
+
+42
+00:01:22,717 --> 00:01:24,352
+<i><font color="white"> increase in
+ heating oil prices.</font></i>
+
+43
+00:01:24,485 --> 00:01:25,720
+<i><font color="white"> Renters in the metro area</font></i>
+
+44
+00:01:25,854 --> 00:01:27,588
+<i><font color="white"> are certain to
+ feel the pinch...</font></i>
+
+45
+00:01:27,722 --> 00:01:28,822
+[grunts sadly]
+
+46
+00:01:30,558 --> 00:01:32,393
+[upbeat music
+playing on piano]
+
+47
+00:01:32,527 --> 00:01:33,661
+[people chattering
+   and yelling]
+
+48
+00:01:33,794 --> 00:01:34,795
+[car horns honking]
+
+49
+00:02:02,657 --> 00:02:03,891
+[boy 1] Yo, what's up
+with your shoes, bro?
+
+50
+00:02:04,025 --> 00:02:05,727
+[boy 2] Nice outfit, pal.
+
+51
+00:02:05,861 --> 00:02:07,228
+[boy 1] If you're
+  gonna be a clown,
+at least you could be
+
+52
+00:02:07,362 --> 00:02:08,696
+a good one.
+You know that, right?
+
+53
+00:02:08,830 --> 00:02:10,231
+-[Arthur] Hey! Hey!
+ -[boy 3] Grab it!
+
+54
+00:02:10,364 --> 00:02:11,365
+[boy 4] Go, go, go!
+
+55
+00:02:11,499 --> 00:02:13,000
+[Arthur] Hey!
+
+56
+00:02:13,134 --> 00:02:14,569
+[boy 2] He's coming!
+
+57
+00:02:14,703 --> 00:02:16,671
+Come on, clown,
+     let's go!
+We've got the sign.
+
+58
+00:02:16,805 --> 00:02:18,539
+-[boy 2] Look at
+   him running.
+-[boy 1] Let's go!
+
+59
+00:02:18,672 --> 00:02:20,041
+Stop them!
+
+60
+00:02:20,175 --> 00:02:21,576
+[boy 1] Go, go, go, go!
+    Watch the car,
+    watch the car!
+
+61
+00:02:21,709 --> 00:02:23,678
+-[horns honking]
+-[laughs mockingly]
+
+62
+00:02:23,811 --> 00:02:25,813
+[boy 1] Where's
+your sign, clown?
+
+63
+00:02:25,947 --> 00:02:27,214
+-[driver] Hey!
+   -[yelps]
+
+64
+00:02:27,348 --> 00:02:28,749
+[horns honking]
+
+65
+00:02:28,883 --> 00:02:30,183
+[panting]
+
+66
+00:02:31,619 --> 00:02:33,153
+[boy 1] Go, clown!
+     Come on!
+
+67
+00:02:33,287 --> 00:02:34,355
+Stop them!
+
+68
+00:02:34,488 --> 00:02:35,689
+[boys shouting]
+
+69
+00:02:36,290 --> 00:02:37,791
+Go! Come on!
+
+70
+00:02:40,194 --> 00:02:41,328
+[Arthur] Stop them!
+
+71
+00:02:41,462 --> 00:02:43,363
+Come on, run!
+
+72
+00:02:45,266 --> 00:02:46,767
+Hey!
+
+73
+00:02:47,968 --> 00:02:49,336
+You fucking...
+
+74
+00:02:49,470 --> 00:02:51,238
+[continues panting]
+
+75
+00:02:53,875 --> 00:02:56,043
+-[groans]
+-[boy 2] Oh, shit!
+    Good hit.
+
+76
+00:02:56,177 --> 00:02:57,779
+[boy 1] Come on!
+Beat his ass up.
+
+77
+00:02:57,912 --> 00:02:59,914
+Come on!
+  This guy's weak.
+He can't do nothing.
+
+78
+00:03:00,047 --> 00:03:01,983
+Harder! Harder!
+
+79
+00:03:02,116 --> 00:03:03,351
+Beat him up.
+Take his stuff.
+
+80
+00:03:03,484 --> 00:03:06,220
+Let's go, let's go!
+ Come on. Let's go!
+
+81
+00:03:06,354 --> 00:03:07,721
+[breathing heavily]
+
+82
+00:03:08,322 --> 00:03:09,757
+[groans]
+
+83
+00:03:09,890 --> 00:03:11,258
+[labored breathing]
+
+84
+00:03:41,455 --> 00:03:43,357
+[strained laughing]
+
+85
+00:03:50,130 --> 00:03:51,565
+[clears throat]
+
+86
+00:03:51,699 --> 00:03:53,600
+[continues laughing]
+
+87
+00:04:01,041 --> 00:04:02,776
+Ha!
+
+88
+00:04:02,910 --> 00:04:04,378
+[chuckling]
+
+89
+00:04:05,546 --> 00:04:07,447
+[laughing]
+
+90
+00:04:15,155 --> 00:04:16,657
+[wheezes]
+
+91
+00:04:16,790 --> 00:04:17,858
+[grunts]
+
+92
+00:04:17,992 --> 00:04:20,293
+[laughing]
+
+93
+00:04:25,466 --> 00:04:27,701
+[wheezes]
+
+94
+00:04:27,835 --> 00:04:28,969
+[clears throat]
+
+95
+00:04:29,637 --> 00:04:31,304
+[laughing tearfully]
+
+96
+00:04:37,044 --> 00:04:38,578
+[Arthur chuckles]
+
+97
+00:04:39,313 --> 00:04:40,514
+[Arthur sniffles]
+
+98
+00:04:50,024 --> 00:04:52,326
+Is it just me,
+
+99
+00:04:52,460 --> 00:04:55,061
+or is it
+getting crazier
+  out there?
+
+100
+00:04:58,533 --> 00:05:01,902
+-It is
+certainly tense.
+     -Hmm.
+
+101
+00:05:02,036 --> 00:05:03,704
+People are upset.
+
+102
+00:05:03,838 --> 00:05:06,941
+They're struggling.
+ Looking for work.
+
+103
+00:05:07,074 --> 00:05:08,308
+These are tough times.
+
+104
+00:05:08,442 --> 00:05:09,643
+[exhales]
+
+105
+00:05:11,312 --> 00:05:12,913
+How about you?
+
+106
+00:05:14,215 --> 00:05:16,683
+Have you been
+    keeping up
+with your journal?
+
+107
+00:05:18,319 --> 00:05:20,120
+Yes, ma'am.
+
+108
+00:05:21,555 --> 00:05:23,657
+Great.
+
+109
+00:05:23,791 --> 00:05:25,625
+Did you bring it
+   with you?
+
+110
+00:05:30,097 --> 00:05:31,566
+Arthur.
+
+111
+00:05:31,699 --> 00:05:33,501
+Last time,
+     I asked you
+to bring your journal
+
+112
+00:05:33,634 --> 00:05:36,003
+with you
+for these appointments.
+
+113
+00:05:36,136 --> 00:05:37,604
+Can I see it?
+
+114
+00:05:49,183 --> 00:05:52,486
+I've been
+  using it
+as a journal,
+
+115
+00:05:54,188 --> 00:05:56,690
+but also
+as a joke diary.
+
+116
+00:05:56,824 --> 00:06:00,527
+Funny thoughts
+or observations.
+
+117
+00:06:01,428 --> 00:06:02,830
+I think
+I told you
+
+118
+00:06:02,964 --> 00:06:05,966
+I'm pursuing
+     a career
+in stand-up comedy.
+
+119
+00:06:09,303 --> 00:06:11,004
+No, you didn't.
+
+120
+00:06:12,373 --> 00:06:14,574
+I think I did.
+
+121
+00:06:22,817 --> 00:06:26,953
+"I just hope my death
+  makes more sense
+   than my life."
+
+122
+00:06:29,456 --> 00:06:30,857
+[laughs]
+
+123
+00:06:42,770 --> 00:06:45,239
+How does it feel
+   to have to
+   come here?
+
+124
+00:06:45,373 --> 00:06:48,575
+Does it help to
+ have someone
+  to talk to?
+
+125
+00:06:52,413 --> 00:06:53,681
+I think
+I felt better
+
+126
+00:06:53,815 --> 00:06:55,882
+when I was
+   locked up
+in the hospital.
+
+127
+00:06:57,718 --> 00:06:59,119
+And have you
+thought more about
+
+128
+00:07:00,421 --> 00:07:02,256
+why you were
+ locked up?
+
+129
+00:07:02,389 --> 00:07:04,724
+[head thudding]
+
+130
+00:07:07,594 --> 00:07:09,529
+Who knows?
+
+131
+00:07:16,270 --> 00:07:18,005
+I was wondering
+ if you could
+ask the doctor
+
+132
+00:07:18,139 --> 00:07:20,473
+to increase
+my medication.
+
+133
+00:07:25,847 --> 00:07:29,684
+Arthur, you're on
+seven different medications.
+
+134
+00:07:29,817 --> 00:07:32,686
+Surely,
+  they must be
+doing something.
+
+135
+00:07:34,922 --> 00:07:38,258
+I just don't want to
+feel so bad anymore.
+
+136
+00:08:05,118 --> 00:08:06,053
+[gasps]
+
+137
+00:08:06,186 --> 00:08:07,187
+[laughing]
+
+138
+00:08:14,128 --> 00:08:16,663
+Would you please
+stop bothering my kid?
+
+139
+00:08:19,600 --> 00:08:20,534
+I wasn't bothering him.
+       I was...
+
+140
+00:08:20,667 --> 00:08:22,035
+Just stop.
+
+141
+00:08:23,404 --> 00:08:25,271
+[Arthur laughing]
+
+142
+00:08:30,478 --> 00:08:32,246
+What?
+You think that's funny?
+
+143
+00:08:32,379 --> 00:08:34,147
+[continues laughing]
+
+144
+00:08:39,353 --> 00:08:40,621
+[gagging]
+
+145
+00:08:40,755 --> 00:08:42,255
+I'm sorry.
+I have a...
+ [laughing]
+
+146
+00:08:58,739 --> 00:09:00,240
+I'm sorry.
+[continues laughing]
+
+147
+00:09:01,842 --> 00:09:03,043
+[woman exhales]
+
+148
+00:09:07,882 --> 00:09:09,683
+[Arthur continues laughing]
+
+149
+00:10:27,494 --> 00:10:29,195
+[music playing]
+
+150
+00:10:34,868 --> 00:10:36,069
+[exhales]
+
+151
+00:10:38,506 --> 00:10:39,973
+[Penny] Happy,
+did you check the mail
+
+152
+00:10:40,107 --> 00:10:41,575
+before you came up?
+
+153
+00:10:41,708 --> 00:10:43,376
+Yeah, Mom.
+
+154
+00:10:44,277 --> 00:10:45,945
+Nothing.
+
+155
+00:10:48,683 --> 00:10:50,418
+[news anchor 1 on TV]
+<i><font color="white"> And finally, tonight,</font></i>
+
+156
+00:10:50,551 --> 00:10:52,986
+<i><font color="white"> just when you thought
+ it couldn't get any worse...</font></i>
+
+157
+00:10:53,120 --> 00:10:54,488
+<i><font color="white"> ...authorities are saying</font></i>
+
+158
+00:10:54,622 --> 00:10:56,590
+<i><font color="white"> the city is under siege
+</font></i><i><font color="white"> by scores of rats.</font></i>
+
+159
+00:10:56,723 --> 00:10:58,025
+<i><font color="white"> And not just any rats,</font></i>
+
+160
+00:10:58,159 --> 00:11:00,127
+<i><font color="white"> but super rats,
+ who are hard to kill.</font></i>
+
+161
+00:11:00,261 --> 00:11:02,395
+He must not be
+getting my letters.
+
+162
+00:11:02,529 --> 00:11:03,564
+Yeah.
+
+163
+00:11:03,697 --> 00:11:05,732
+It's Thomas Wayne,
+       Mom.
+
+164
+00:11:05,866 --> 00:11:07,201
+He's a busy man.
+
+165
+00:11:07,335 --> 00:11:11,338
+Please. I worked
+for that family
+   for years.
+
+166
+00:11:11,472 --> 00:11:13,873
+The least he could do
+   is write back.
+
+167
+00:11:15,142 --> 00:11:18,445
+Here.
+     Don't get
+all worked up. Eat.
+
+168
+00:11:18,578 --> 00:11:19,813
+You need to eat.
+
+169
+00:11:19,947 --> 00:11:23,483
+You need to eat.
+    Look how
+skinny you are.
+
+170
+00:11:23,617 --> 00:11:25,486
+[clears throat]
+
+171
+00:11:25,620 --> 00:11:26,887
+[news anchor 1]<i><font color="white"> Both victims
+</font></i><i><font color="white"> were taken
+</font></i><i><font color="white"> to Gotham General.</font></i>
+
+172
+00:11:27,021 --> 00:11:28,389
+[news anchor 2]
+<i><font color="white"> Sounds like</font></i>
+
+173
+00:11:28,522 --> 00:11:30,157
+<i><font color="white"> the city needs to
+ find the Pied Piper.</font></i>
+
+174
+00:11:30,291 --> 00:11:31,959
+He'll make
+  a great mayor.
+Everybody says so.
+
+175
+00:11:32,093 --> 00:11:35,963
+Oh, yeah.
+  Everybody who?
+Who do you talk to?
+
+176
+00:11:36,096 --> 00:11:38,399
+Well, everybody
+ on the news.
+
+177
+00:11:38,532 --> 00:11:40,867
+He's the only one
+ who could save
+    the city.
+
+178
+00:11:41,001 --> 00:11:42,468
+He owes it to us.
+
+179
+00:11:44,539 --> 00:11:46,807
+-[theme music playing]
+      -Come sit.
+    It's starting.
+
+180
+00:11:46,940 --> 00:11:49,343
+Yay, Murray.
+
+181
+00:11:49,477 --> 00:11:53,013
+[announcer on TV]
+<i><font color="white"> From NCB Studios
+ in Gotham City,</font></i>
+
+182
+00:11:53,147 --> 00:11:57,251
+<i><font color="white"> it's</font></i> Live with
+Murray Franklin!
+
+183
+00:11:57,385 --> 00:12:00,654
+<i><font color="white"> Tonight, Murray welcomes
+</font></i><i><font color="white"> Sandra Winger...</font></i>
+
+184
+00:12:00,787 --> 00:12:02,289
+Oh, Sandra Winger's on.
+
+185
+00:12:02,423 --> 00:12:05,192
+<i><font color="white"> ...and the piano stylings
+</font></i><i><font color="white"> of Yeldon and Chantel.</font></i>
+
+186
+00:12:05,326 --> 00:12:07,361
+<i><font color="white"> Joining Murray,
+</font></i><i><font color="white"> as always,</font></i>
+
+187
+00:12:07,495 --> 00:12:10,230
+<i><font color="white"> Ellis Drane
+ and his jazz orchestra.</font></i>
+
+188
+00:12:10,364 --> 00:12:13,300
+<i><font color="white"> And now,
+ without further ado,</font></i>
+
+189
+00:12:13,433 --> 00:12:16,003
+Murray Franklin.
+
+190
+00:12:16,137 --> 00:12:18,204
+-[upbeat jazz music playing]
+    -[audience cheering]
+
+191
+00:12:26,614 --> 00:12:28,115
+-[music ends]
+-[audience cheering loudly]
+
+192
+00:12:28,249 --> 00:12:30,350
+-Thank you.
+-[Arthur cheering]
+
+193
+00:12:31,485 --> 00:12:32,553
+Thank you.
+
+194
+00:12:32,686 --> 00:12:35,422
+We got a great-looking
+  audience tonight.
+
+195
+00:12:35,555 --> 00:12:37,224
+Yeah!
+
+196
+00:12:37,357 --> 00:12:39,526
+Wow. Thank you.
+  Thank you.
+
+197
+00:12:39,659 --> 00:12:41,162
+Thank you.
+
+198
+00:12:41,295 --> 00:12:43,531
+So, everybody's
+    heard about
+the super rats that
+
+199
+00:12:43,664 --> 00:12:46,133
+-are in Gotham now,
+      right?
+ -[audience] Yeah.
+
+200
+00:12:46,267 --> 00:12:49,770
+Well, today,
+  the mayor said
+he has a solution.
+
+201
+00:12:49,903 --> 00:12:51,538
+You ready for this?
+
+202
+00:12:51,671 --> 00:12:52,906
+Super cats.
+
+203
+00:12:53,040 --> 00:12:54,540
+[all laughing]
+
+204
+00:12:57,211 --> 00:12:58,745
+But in all seriousness,
+I mean, these rats are...
+
+205
+00:12:58,879 --> 00:13:00,447
+[Arthur] I love you,
+      Murray!
+
+206
+00:13:00,581 --> 00:13:02,249
+[audience chuckling]
+
+207
+00:13:02,382 --> 00:13:03,550
+I love you, too.
+
+208
+00:13:03,684 --> 00:13:05,219
+[all laughing]
+
+209
+00:13:05,353 --> 00:13:07,220
+Hey, Bobby,
+would you put
+the lights on?
+
+210
+00:13:07,354 --> 00:13:08,589
+Who is that?
+
+211
+00:13:08,723 --> 00:13:10,624
+Was that you?
+    You wanna
+stand up, please?
+
+212
+00:13:10,757 --> 00:13:12,692
+Stand up for me.
+
+213
+00:13:12,826 --> 00:13:14,027
+Go ahead.
+
+214
+00:13:18,966 --> 00:13:21,034
+What's your name?
+
+215
+00:13:21,168 --> 00:13:23,170
+Hi, Murray. Arthur.
+
+216
+00:13:23,303 --> 00:13:24,905
+-Arthur?
+-My name's Arthur.
+
+217
+00:13:25,039 --> 00:13:26,840
+Oh, okay.
+       Well, there's
+something special about you,
+
+218
+00:13:26,974 --> 00:13:28,008
+Arthur, I could tell.
+
+219
+00:13:28,141 --> 00:13:29,243
+Where are you from?
+
+220
+00:13:29,376 --> 00:13:31,045
+I live right here
+   in the city
+
+221
+00:13:31,178 --> 00:13:33,046
+-with my [stammers] mother.
+   -[audience laughing]
+
+222
+00:13:34,214 --> 00:13:35,382
+[Murray] Okay,
+   hold on.
+   Hold on.
+
+223
+00:13:35,516 --> 00:13:37,318
+There's nothing funny
+     about that.
+
+224
+00:13:37,451 --> 00:13:39,387
+I lived with my mother
+  before I made it.
+   Just me and her.
+
+225
+00:13:39,520 --> 00:13:42,256
+I'm that kid whose father
+      went out for
+  a pack of cigarettes,
+
+226
+00:13:42,389 --> 00:13:43,523
+and he never
+ came back.
+
+227
+00:13:43,657 --> 00:13:44,892
+[audience] Aww.
+
+228
+00:13:45,025 --> 00:13:46,694
+[Arthur] I know
+what that's like, Murray.
+
+229
+00:13:46,828 --> 00:13:49,329
+I've been the man
+of the house for as long
+   as I can remember.
+
+230
+00:13:49,463 --> 00:13:51,464
+I take good care
+ of my mother.
+
+231
+00:13:55,403 --> 00:13:58,538
+All that sacrifice,
+ she must love you
+    very much.
+
+232
+00:13:58,672 --> 00:14:00,308
+She does.
+
+233
+00:14:00,441 --> 00:14:04,245
+She always tells me
+to smile and put on
+   a happy face.
+
+234
+00:14:04,378 --> 00:14:07,013
+She says I was
+put here to spread
+joy and laughter.
+
+235
+00:14:07,147 --> 00:14:08,915
+[audience] Aww.
+
+236
+00:14:11,017 --> 00:14:12,218
+Wow.
+
+237
+00:14:14,622 --> 00:14:17,424
+I like that.
+I like that a lot.
+  Come on down.
+
+238
+00:14:17,558 --> 00:14:20,427
+Come on.
+     For that,
+you gotta come down.
+
+239
+00:14:20,561 --> 00:14:22,029
+-[audience cheering]
+ -Come on! Come on.
+
+240
+00:14:22,162 --> 00:14:23,963
+[upbeat jazz music playing]
+
+241
+00:14:30,070 --> 00:14:31,270
+Come on.
+
+242
+00:14:39,780 --> 00:14:41,481
+[audience cheering loudly]
+
+243
+00:14:46,253 --> 00:14:48,655
+Okay, we got
+a big show tonight.
+    Stay tuned.
+
+244
+00:14:48,789 --> 00:14:51,091
+We'll be right back.
+
+245
+00:14:51,225 --> 00:14:52,660
+That was great,
+    Arthur.
+  Thank you.
+
+246
+00:14:52,793 --> 00:14:54,694
+I mean,
+  I loved hearing
+what you had to say.
+
+247
+00:14:54,828 --> 00:14:55,996
+It made my day.
+
+248
+00:14:56,129 --> 00:14:57,498
+Thanks, Murray.
+
+249
+00:14:57,631 --> 00:14:59,299
+You see all this,
+the lights, the show,
+
+250
+00:14:59,433 --> 00:15:00,868
+the audience,
+all that stuff?
+
+251
+00:15:01,001 --> 00:15:02,069
+I'd give it all up
+  in a heartbeat
+
+252
+00:15:02,202 --> 00:15:03,536
+to have a kid
+  like you.
+
+253
+00:15:20,320 --> 00:15:22,422
+[stretching shoe]
+
+254
+00:15:33,868 --> 00:15:35,668
+-[indistinct chattering]
+-[music playing on radio]
+
+255
+00:15:42,676 --> 00:15:43,676
+[sighs]
+
+256
+00:15:45,813 --> 00:15:47,914
+-[Randall]
+   What's up, ladies?
+-Hey, Randall. What's up?
+
+257
+00:15:48,048 --> 00:15:49,783
+Another day
+in chuckle town.
+
+258
+00:15:49,916 --> 00:15:51,117
+[man] Yup.
+
+259
+00:15:54,554 --> 00:15:55,621
+You okay?
+
+260
+00:15:57,391 --> 00:16:00,193
+I heard about
+the beatdown you took.
+
+261
+00:16:00,794 --> 00:16:02,963
+Fucking savages.
+
+262
+00:16:03,097 --> 00:16:05,765
+It was just
+      a bunch of kids.
+I should have left it alone.
+
+263
+00:16:05,899 --> 00:16:07,401
+No.
+
+264
+00:16:07,535 --> 00:16:09,336
+They'll take everything
+       from you
+    if you do that.
+
+265
+00:16:09,469 --> 00:16:11,238
+All the crazy shit
+    out there.
+
+266
+00:16:11,371 --> 00:16:13,339
+-They're animals.
+   -[chuckles]
+
+267
+00:16:17,744 --> 00:16:19,178
+You know what?
+
+268
+00:16:24,184 --> 00:16:25,384
+Here.
+
+269
+00:16:26,920 --> 00:16:28,555
+What is it?
+
+270
+00:16:28,688 --> 00:16:29,755
+Take it.
+
+271
+00:16:30,690 --> 00:16:31,757
+It's for you.
+
+272
+00:16:34,828 --> 00:16:36,330
+[chuckling]
+
+273
+00:16:36,464 --> 00:16:38,565
+[Randall] You gotta
+ protect yourself
+    out there.
+
+274
+00:16:38,699 --> 00:16:40,500
+Otherwise,
+you're gonna
+get fucked.
+
+275
+00:16:42,001 --> 00:16:43,336
+Randall,
+
+276
+00:16:44,505 --> 00:16:47,406
+I'm not supposed to
+    have a gun.
+
+277
+00:16:48,842 --> 00:16:50,911
+Don't sweat it, Art.
+
+278
+00:16:51,044 --> 00:16:52,379
+No one
+has to know.
+
+279
+00:16:52,513 --> 00:16:54,848
+And you can
+  pay me back
+some other time.
+
+280
+00:16:54,981 --> 00:16:56,349
+You know
+you're my boy.
+
+281
+00:16:57,117 --> 00:16:58,184
+[laughing]
+
+282
+00:16:58,318 --> 00:16:59,686
+[Gary] Arthur,
+
+283
+00:16:59,820 --> 00:17:01,889
+Hoyt wants to
+see you in his office.
+
+284
+00:17:02,022 --> 00:17:04,824
+Hey, Gary.
+    You know what
+I've always wondered?
+
+285
+00:17:04,958 --> 00:17:06,126
+No idea.
+
+286
+00:17:06,260 --> 00:17:07,994
+Do you people call it
+   miniature golf
+
+287
+00:17:08,128 --> 00:17:10,330
+or is it just golf
+     to you?
+
+288
+00:17:10,464 --> 00:17:12,098
+[Randall and Arthur
+     laughing]
+
+289
+00:17:14,701 --> 00:17:16,502
+[man] Punch him
+ in the dick,
+     Gary.
+
+290
+00:17:18,138 --> 00:17:20,206
+[laughing]
+
+291
+00:17:33,286 --> 00:17:34,988
+Hello, Hoyt.
+
+292
+00:17:35,122 --> 00:17:37,524
+Gary said
+you wanted
+to see me.
+
+293
+00:17:37,658 --> 00:17:40,727
+How's the comedy career?
+    Are you a famous
+     stand-up yet?
+
+294
+00:17:40,860 --> 00:17:42,129
+Not quite.
+
+295
+00:17:42,262 --> 00:17:44,131
+Just been
+ working on
+my material.
+
+296
+00:17:44,264 --> 00:17:46,199
+No, don't sit.
+This'll be quick.
+
+297
+00:17:46,333 --> 00:17:47,934
+Look,
+I like you, Arthur.
+
+298
+00:17:48,068 --> 00:17:49,336
+You know,
+a lot of the guys,
+
+299
+00:17:49,470 --> 00:17:50,836
+they think you're a freak,
+     but I like you.
+
+300
+00:17:52,105 --> 00:17:54,241
+I don't even know
+ why I like you.
+
+301
+00:17:54,374 --> 00:17:56,477
+But I got
+another complaint.
+
+302
+00:17:56,610 --> 00:17:59,446
+It's starting
+to piss me off.
+Kenny's Music.
+
+303
+00:17:59,579 --> 00:18:01,448
+The guy said
+you disappeared.
+
+304
+00:18:01,581 --> 00:18:03,282
+Never even
+returned his sign.
+
+305
+00:18:03,984 --> 00:18:05,985
+Because I got jumped.
+
+306
+00:18:06,119 --> 00:18:07,887
+Didn't you hear?
+
+307
+00:18:08,021 --> 00:18:09,623
+For a sign?
+
+308
+00:18:09,757 --> 00:18:12,092
+That's bullshit.
+It doesn't even
+  make sense.
+
+309
+00:18:12,225 --> 00:18:13,994
+Just get him
+his sign back.
+
+310
+00:18:14,128 --> 00:18:16,830
+He's going
+   out of business,
+for God's sake, Arthur.
+
+311
+00:18:16,963 --> 00:18:18,599
+Why would
+I keep his sign?
+
+312
+00:18:18,732 --> 00:18:21,734
+How the fuck do I know?
+   Why does anybody
+     do anything?
+
+313
+00:18:22,769 --> 00:18:24,771
+If you don't
+return the sign,
+
+314
+00:18:24,905 --> 00:18:27,340
+I gotta take it
+out of your paycheck.
+
+315
+00:18:28,208 --> 00:18:29,508
+Are we clear?
+
+316
+00:18:30,744 --> 00:18:33,547
+Listen,
+I'm trying to help you.
+
+317
+00:18:33,680 --> 00:18:35,849
+Okay? And I'll tell you
+    something else.
+
+318
+00:18:35,982 --> 00:18:37,384
+The other guys,
+
+319
+00:18:37,518 --> 00:18:39,152
+they don't feel comfortable
+    around you, Arthur,
+
+320
+00:18:39,286 --> 00:18:41,254
+because people
+think you're weird.
+
+321
+00:18:41,388 --> 00:18:44,190
+Okay? And I can't
+have that around me.
+
+322
+00:18:44,324 --> 00:18:45,858
+[Hoyt continues indistinctly]
+
+323
+00:18:50,997 --> 00:18:52,331
+[grunting]
+
+324
+00:19:25,632 --> 00:19:26,832
+[elevator bell dings]
+
+325
+00:19:29,135 --> 00:19:30,603
+[jabbing buttons]
+
+326
+00:19:33,740 --> 00:19:34,974
+[Sophie] Wait,
+ wait, wait.
+
+327
+00:19:35,108 --> 00:19:36,309
+Wait.
+
+328
+00:19:39,312 --> 00:19:40,613
+Thank you.
+
+329
+00:20:00,333 --> 00:20:02,302
+[GiGi giggles]
+
+330
+00:20:02,436 --> 00:20:05,304
+This building
+is so awful,
+  isn't it?
+
+331
+00:20:06,807 --> 00:20:09,376
+This building
+ is so awful,
+right, Mommy?
+
+332
+00:20:09,509 --> 00:20:12,045
+Yes, we can
+hear you, GiGi.
+
+333
+00:20:12,178 --> 00:20:15,014
+It's so awful,
+    Mommy.
+
+334
+00:20:15,148 --> 00:20:16,082
+[imitates gunshot]
+
+335
+00:20:16,216 --> 00:20:17,416
+Right, Mommy?
+
+336
+00:20:22,122 --> 00:20:23,322
+[elevator bell dings]
+
+337
+00:20:24,991 --> 00:20:26,593
+-Good night.
+-[GiGi] This building's
+
+338
+00:20:26,727 --> 00:20:27,794
+-so awful,
+ isn't it?
+ -Mmm-hmm.
+
+339
+00:20:27,928 --> 00:20:30,396
+-[baby crying]
+-[man shouting]
+
+340
+00:20:33,666 --> 00:20:34,667
+Hey.
+
+341
+00:20:36,202 --> 00:20:37,503
+[imitates gunshot]
+
+342
+00:20:41,240 --> 00:20:42,441
+Come on.
+
+343
+00:20:47,681 --> 00:20:50,049
+[upbeat music playing]
+
+344
+00:20:50,884 --> 00:20:52,051
+[door closes]
+
+345
+00:21:01,561 --> 00:21:02,829
+-[Arthur] Look up.
+  -[Penny] Mmm.
+
+346
+00:21:02,963 --> 00:21:04,932
+Maybe the mailman's
+throwing them away.
+
+347
+00:21:05,065 --> 00:21:08,768
+Mom, why are
+   these letters
+so important to you?
+
+348
+00:21:08,902 --> 00:21:10,270
+What do you think
+ he's gonna do?
+
+349
+00:21:10,403 --> 00:21:12,472
+He's gonna help us.
+
+350
+00:21:12,606 --> 00:21:16,743
+But you worked for him,
+  what, 30 years ago?
+
+351
+00:21:16,876 --> 00:21:18,778
+Why would
+he help us?
+
+352
+00:21:18,912 --> 00:21:22,349
+Because Thomas Wayne
+   is a good man.
+
+353
+00:21:22,482 --> 00:21:24,952
+If he knew
+how we were living,
+
+354
+00:21:25,085 --> 00:21:29,823
+if he saw this place,
+      it would
+   make him sick.
+
+355
+00:21:29,957 --> 00:21:32,892
+I can't explain
+      it to you
+any better than that.
+
+356
+00:21:34,394 --> 00:21:36,695
+I don't want
+  you worrying
+about money, Mom.
+
+357
+00:21:37,964 --> 00:21:39,299
+Or me.
+
+358
+00:21:39,432 --> 00:21:40,667
+Everybody's telling me
+
+359
+00:21:40,801 --> 00:21:44,171
+that my stand-up's
+ready for the big clubs.
+
+360
+00:21:44,304 --> 00:21:47,440
+But, Happy,
+     what makes you
+think you could do that?
+
+361
+00:21:47,574 --> 00:21:50,143
+-What do you mean?
+    -I mean...
+
+362
+00:21:50,277 --> 00:21:52,912
+Don't you have
+   to be funny
+to be a comedian?
+
+363
+00:21:54,347 --> 00:21:56,081
+[men on TV singing]
+
+364
+00:22:30,683 --> 00:22:31,884
+[Arthur imitates gunshot]
+
+365
+00:22:56,442 --> 00:22:57,843
+Hey, what's your name?
+
+366
+00:22:59,011 --> 00:23:00,680
+Arthur.
+
+367
+00:23:00,814 --> 00:23:04,416
+Hey, Arthur,
+you're a really
+ good dancer.
+
+368
+00:23:04,984 --> 00:23:06,486
+I know.
+
+369
+00:23:06,619 --> 00:23:08,921
+You know who's not?
+       Him.
+
+370
+00:23:12,592 --> 00:23:14,094
+[increases volume]
+
+371
+00:23:14,228 --> 00:23:16,362
+[Penny] Happy,
+what was that?
+ Are you okay?
+
+372
+00:23:16,496 --> 00:23:17,964
+[Arthur] Mom, what?
+
+373
+00:23:18,098 --> 00:23:19,766
+[Penny] That noise!
+   Did you hear
+    that noise?
+
+374
+00:23:19,900 --> 00:23:22,302
+I'm watching
+an old war movie!
+
+375
+00:23:22,435 --> 00:23:23,903
+[Penny] Turn it down!
+
+376
+00:23:24,037 --> 00:23:25,638
+-Um...
+-[men continue singing]
+
+377
+00:23:30,343 --> 00:23:32,178
+Sorry, Mom.
+
+378
+00:23:32,312 --> 00:23:34,146
+[children chattering]
+
+379
+00:23:40,253 --> 00:23:41,687
+[indistinct conversation]
+
+380
+00:23:44,657 --> 00:23:45,958
+You good?
+
+381
+00:24:23,429 --> 00:24:25,130
+[indistinct conversation]
+
+382
+00:24:31,104 --> 00:24:32,104
+[car horn honks]
+
+383
+00:24:44,817 --> 00:24:46,018
+[car horn honks]
+
+384
+00:24:50,323 --> 00:24:52,926
+[audience laughing]
+
+385
+00:24:53,060 --> 00:24:56,529
+It's nice to see
+ these couples
+out at my show.
+
+386
+00:24:56,663 --> 00:24:58,765
+I have a wife.
+We love to role-play.
+
+387
+00:24:58,899 --> 00:25:01,668
+-[audience] Ooh!
+-Yes, yes, very sexy.
+
+388
+00:25:01,801 --> 00:25:03,403
+My favorite one
+ right now is
+
+389
+00:25:03,536 --> 00:25:06,439
+professor and senior
+  who really needs
+
+390
+00:25:06,573 --> 00:25:07,774
+to pass my class
+  to graduate.
+
+391
+00:25:07,907 --> 00:25:08,942
+[audience laughing]
+
+392
+00:25:09,075 --> 00:25:10,576
+-Yes.
+-[audience whooping]
+
+393
+00:25:11,745 --> 00:25:13,246
+So, I'll tell you
+ how I operate.
+
+394
+00:25:13,379 --> 00:25:14,648
+I'm a professor at
+
+395
+00:25:14,781 --> 00:25:16,048
+a prestigious
+New England university...
+
+396
+00:25:16,182 --> 00:25:17,551
+[Arthur laughing]
+
+397
+00:25:17,684 --> 00:25:21,420
+...and my wife
+   is a senior in my
+"Intro To Western Civ."
+
+398
+00:25:21,554 --> 00:25:23,389
+[audience laughing]
+
+399
+00:25:23,523 --> 00:25:25,192
+I know. I know.
+
+400
+00:25:25,325 --> 00:25:28,895
+Why is she a senior
+     in the intro?
+I didn't buy it either.
+
+401
+00:25:29,029 --> 00:25:30,830
+So, she comes to me
+during my office hours.
+
+402
+00:25:30,963 --> 00:25:32,232
+[Arthur laughing]
+
+403
+00:25:32,365 --> 00:25:33,967
+It's Monday and Wednesday,
+      three to five.
+
+404
+00:25:34,101 --> 00:25:36,002
+She says,
+   "Excuse me,
+Professor Lewis."
+
+405
+00:25:36,136 --> 00:25:38,071
+I can't use
+my real last name
+ at this college
+
+406
+00:25:38,204 --> 00:25:39,772
+'cause they
+don't hire Jews.
+
+407
+00:25:39,906 --> 00:25:41,574
+[audience laughing]
+
+408
+00:25:41,708 --> 00:25:42,842
+It's something I'll address
+
+409
+00:25:42,976 --> 00:25:45,111
+once I have tenure,
+  but for now...
+
+410
+00:25:45,245 --> 00:25:46,946
+She says,
+  "Excuse me,
+Professor Lewis,
+
+411
+00:25:47,080 --> 00:25:48,348
+I think I might be
+in danger of failing
+
+412
+00:25:48,481 --> 00:25:49,649
+your 'Intro to Western Civ,'
+
+413
+00:25:49,782 --> 00:25:50,917
+and I just want
+  you to know
+
+414
+00:25:51,051 --> 00:25:53,253
+I'm willing to do
+anything to pass."
+
+415
+00:25:53,386 --> 00:25:57,723
+And I said, "Anything?"
+    And she said...
+        [moans]
+
+416
+00:26:48,508 --> 00:26:49,775
+[Arthur chuckles]
+
+417
+00:26:56,682 --> 00:26:57,983
+[doorbell buzzing]
+
+418
+00:27:03,723 --> 00:27:06,626
+-[Arthur] Oh, hey.
+      -Hey.
+
+419
+00:27:06,759 --> 00:27:08,393
+Were you following
+    me today?
+
+420
+00:27:11,831 --> 00:27:13,832
+Yeah.
+
+421
+00:27:15,535 --> 00:27:17,938
+I thought
+that was you.
+
+422
+00:27:18,071 --> 00:27:20,806
+I was hoping
+  you'd come in
+and rob the place.
+
+423
+00:27:22,642 --> 00:27:24,077
+I have a gun.
+
+424
+00:27:24,210 --> 00:27:26,111
+I could come
+by tomorrow.
+
+425
+00:27:27,380 --> 00:27:28,380
+[chuckles]
+
+426
+00:27:29,482 --> 00:27:31,049
+You're so funny, Arthur.
+
+427
+00:27:33,252 --> 00:27:34,287
+Yeah.
+
+428
+00:27:34,420 --> 00:27:37,023
+You know,
+I do stand-up comedy.
+
+429
+00:27:37,157 --> 00:27:40,159
+You should maybe
+    come see
+a show sometime.
+
+430
+00:27:40,760 --> 00:27:42,194
+I could do that.
+
+431
+00:27:42,328 --> 00:27:43,363
+Yeah?
+
+432
+00:27:43,496 --> 00:27:45,397
+Yeah.
+You'll let me
+ know when?
+
+433
+00:27:45,531 --> 00:27:46,732
+Yeah.
+
+434
+00:27:53,273 --> 00:27:55,575
+[man]<i><font color="white"> ♪ If you're happy
+</font></i><i><font color="white"> and you know it ♪</font></i>
+
+435
+00:27:55,708 --> 00:27:56,943
+<i><font color="white"> ♪ Wiggle your ears ♪</font></i>
+
+436
+00:27:57,077 --> 00:27:58,511
+[chorus]
+<i><font color="white"> ♪ Wiggle your ears ♪</font></i>
+
+437
+00:27:58,645 --> 00:28:00,079
+[all]<i><font color="white"> ♪ If you're happy
+</font></i><i><font color="white"> and you know it ♪</font></i>
+
+438
+00:28:00,213 --> 00:28:01,481
+<i><font color="white"> ♪ Wiggle your ears ♪</font></i>
+
+439
+00:28:01,614 --> 00:28:03,016
+<i><font color="white"> ♪ Wiggle your ears ♪</font></i>
+
+440
+00:28:03,149 --> 00:28:04,884
+<i><font color="white"> ♪ If you're happy
+ and you know it ♪</font></i>
+
+441
+00:28:05,018 --> 00:28:07,087
+<i><font color="white"> ♪ And you really
+ want to show it ♪</font></i>
+
+442
+00:28:07,220 --> 00:28:09,155
+<i><font color="white"> ♪ If you're happy
+ and you know it ♪</font></i>
+
+443
+00:28:09,288 --> 00:28:11,591
+<i><font color="white"> ♪ Wiggle your ears ♪</font></i>
+
+444
+00:28:11,725 --> 00:28:13,826
+<i><font color="white"> ♪ If you're happy
+ and you know it ♪</font></i>
+
+445
+00:28:13,960 --> 00:28:15,194
+<i><font color="white"> ♪ Stomp your feet ♪</font></i>
+
+446
+00:28:15,328 --> 00:28:16,930
+<i><font color="white"> ♪ Stomp your feet ♪</font></i>
+
+447
+00:28:17,063 --> 00:28:18,531
+<i><font color="white"> ♪ If you're happy
+ and you know it ♪</font></i>
+
+448
+00:28:18,665 --> 00:28:19,765
+<i><font color="white"> ♪ Stomp your feet ♪</font></i>
+
+449
+00:28:19,899 --> 00:28:21,301
+<i><font color="white"> ♪ Stomp your feet ♪</font></i>
+
+450
+00:28:21,434 --> 00:28:23,136
+<i><font color="white"> ♪ If you're happy
+ and you know it ♪</font></i>
+
+451
+00:28:23,269 --> 00:28:25,372
+<i><font color="white"> ♪ And you really
+ want to show it ♪</font></i>
+
+452
+00:28:25,505 --> 00:28:27,740
+<i><font color="white"> ♪ If you're happy
+ and you know it ♪</font></i>
+
+453
+00:28:27,874 --> 00:28:30,243
+<i><font color="white"> ♪ Stomp your feet ♪</font></i>
+
+454
+00:28:30,377 --> 00:28:31,911
+<i><font color="white"> ♪ If you're happy
+ and you know it ♪</font></i>
+
+455
+00:28:32,045 --> 00:28:33,579
+-[Arthur yelps]
+<i><font color="white"> -♪ Shout "hurray" ♪</font></i>
+
+456
+00:28:33,713 --> 00:28:35,115
+<i><font color="white"> ♪ Shout "hurray" ♪</font></i>
+
+457
+00:28:35,248 --> 00:28:36,849
+<i><font color="white"> ♪ If you're happy
+ and you know it ♪</font></i>
+
+458
+00:28:36,983 --> 00:28:38,318
+<i><font color="white"> ♪ Shout "hurray" ♪</font></i>
+
+459
+00:28:38,451 --> 00:28:40,053
+<i><font color="white"> -♪ Shout "hurray" ♪
+</font></i>  -[child giggles]
+
+460
+00:28:40,186 --> 00:28:41,955
+<i><font color="white"> ♪ If you're happy
+ and you know it ♪</font></i>
+
+461
+00:28:42,089 --> 00:28:43,523
+-[Arthur giggles]
+<i><font color="white"> -♪ And you
+ really want to... ♪</font></i>
+
+462
+00:28:43,656 --> 00:28:46,993
+Hoyt, please,
+I love this job.
+
+463
+00:28:47,126 --> 00:28:49,229
+<i><font color="white"> Arthur, I need
+</font></i><i><font color="white"> to know why</font></i>
+
+464
+00:28:49,362 --> 00:28:51,464
+<i><font color="white"> you brought a gun
+ into a kids' hospital.</font></i>
+
+465
+00:28:51,598 --> 00:28:54,767
+It's a prop.
+  It's part
+of my act now.
+
+466
+00:28:54,901 --> 00:28:56,569
+<i><font color="white"> That's bullshit.
+</font></i><i><font color="white"> Bullshit.</font></i>
+
+467
+00:28:56,703 --> 00:28:59,605
+<i><font color="white"> What kind of clown
+ carries a fucking gun?</font></i>
+
+468
+00:28:59,739 --> 00:29:01,074
+<i><font color="white"> Besides,
+ Randall told me</font></i>
+
+469
+00:29:01,207 --> 00:29:04,110
+<i><font color="white"> you tried to buy a .38
+</font></i><i><font color="white"> off him last week.</font></i>
+
+470
+00:29:04,243 --> 00:29:05,745
+Randall told you that?
+
+471
+00:29:05,879 --> 00:29:08,714
+<i><font color="white"> You're a fuck-up,
+</font></i><i><font color="white"> Arthur,
+</font></i><i><font color="white"> and a liar.</font></i>
+
+472
+00:29:08,848 --> 00:29:10,048
+<i><font color="white"> -You're fired!
+</font></i>  -[hangs up]
+
+473
+00:29:13,219 --> 00:29:14,419
+[dial tone droning]
+
+474
+00:29:36,042 --> 00:29:37,109
+[announcer on PA]
+<i><font color="white"> Jefferson Street.</font></i>
+
+475
+00:29:37,243 --> 00:29:39,044
+<i><font color="white"> Next stop, Ninth Ave.</font></i>
+
+476
+00:29:41,648 --> 00:29:43,082
+[man 1] I'm telling you,
+ she wanted my number.
+
+477
+00:29:43,216 --> 00:29:44,918
+We should've just stayed.
+
+478
+00:29:45,052 --> 00:29:46,987
+[man 2] You're dreaming, man.
+    She wasn't interested
+           at all.
+
+479
+00:29:47,120 --> 00:29:49,688
+[man 1] Are you nuts?
+Did you see how close
+  we were dancing?
+
+480
+00:29:49,822 --> 00:29:51,057
+She was in love.
+
+481
+00:29:51,191 --> 00:29:52,692
+She couldn't wait to
+ get away from you.
+
+482
+00:29:52,826 --> 00:29:55,193
+Ryan! Ryan,
+     am I crazy?
+Tell him what you saw.
+
+483
+00:29:57,464 --> 00:29:59,498
+[slurring drunkenly] Hey,
+      you want some
+      French fries?
+
+484
+00:30:02,301 --> 00:30:03,969
+Hello?
+
+485
+00:30:05,071 --> 00:30:06,138
+Talking to you.
+     Hey.
+
+486
+00:30:06,272 --> 00:30:08,106
+[woman]
+No, thank you.
+
+487
+00:30:08,741 --> 00:30:10,108
+[men laughing]
+
+488
+00:30:10,876 --> 00:30:12,277
+You sure?
+
+489
+00:30:13,980 --> 00:30:15,280
+They're real good.
+
+490
+00:30:17,751 --> 00:30:20,953
+Don't ignore him.
+   He's being
+  nice to you.
+
+491
+00:30:21,954 --> 00:30:22,988
+Whoo...
+
+492
+00:30:23,122 --> 00:30:24,923
+[men laughing]
+
+493
+00:30:26,826 --> 00:30:28,126
+[chuckles]
+
+494
+00:30:29,528 --> 00:30:30,696
+[laughing continues]
+
+495
+00:30:30,830 --> 00:30:32,230
+[Arthur laughing]
+
+496
+00:30:47,547 --> 00:30:49,448
+Is something funny,
+     asshole?
+
+497
+00:30:50,783 --> 00:30:52,017
+[gasping]
+
+498
+00:30:52,151 --> 00:30:53,486
+[continues laughing]
+
+499
+00:30:53,619 --> 00:30:55,120
+-Bitch!
+-[all jeer]
+
+500
+00:30:58,724 --> 00:31:00,192
+[men snickering]
+
+501
+00:31:01,727 --> 00:31:05,298
+<i><font color="white"> ♪ Isn't it rich? ♪</font></i>
+
+502
+00:31:05,431 --> 00:31:08,166
+<i><font color="white"> -♪ Are we a pair? ♪
+</font></i>  -[men laughing]
+
+503
+00:31:10,336 --> 00:31:13,072
+<i><font color="white"> ♪ Me here at last
+</font></i><i><font color="white"> on the ground ♪</font></i>
+
+504
+00:31:13,206 --> 00:31:16,208
+<i><font color="white"> ♪ And you
+ in mid-air ♪</font></i>
+
+505
+00:31:16,342 --> 00:31:20,079
+<i><font color="white"> ♪ Send in the clowns ♪</font></i>
+
+506
+00:31:20,213 --> 00:31:21,980
+[Arthur continues laughing]
+
+507
+00:31:23,449 --> 00:31:25,484
+<i><font color="white"> ♪ Isn't it bliss? ♪</font></i>
+
+508
+00:31:26,852 --> 00:31:29,522
+<i><font color="white"> ♪ Don't you approve? ♪</font></i>
+
+509
+00:31:29,656 --> 00:31:31,991
+<i><font color="white"> ♪ One who keeps
+ tearing around ♪</font></i>
+
+510
+00:31:32,125 --> 00:31:34,994
+<i><font color="white"> ♪ And one who
+</font></i><i><font color="white"> can't move ♪</font></i>
+
+511
+00:31:35,128 --> 00:31:38,264
+<i><font color="white"> ♪ Where are the clowns? ♪</font></i>
+
+512
+00:31:38,398 --> 00:31:42,768
+<i><font color="white"> ♪ There ought
+ to be clowns ♪</font></i>
+
+513
+00:31:42,902 --> 00:31:44,403
+[both laughing]
+
+514
+00:31:51,844 --> 00:31:54,914
+So, buddy,
+        tell us,
+what's so fucking funny?
+
+515
+00:31:55,047 --> 00:31:56,948
+Nothing. [laughing]
+
+516
+00:32:00,586 --> 00:32:02,455
+I have...
+I have a condition.
+
+517
+00:32:02,589 --> 00:32:04,690
+I'll tell you
+what you have,
+ you asshole.
+
+518
+00:32:04,823 --> 00:32:06,124
+[men] Whoa!
+
+519
+00:32:08,294 --> 00:32:10,496
+[Arthur] Please, stop!
+
+520
+00:32:10,630 --> 00:32:12,632
+[groans] We got
+ a kicker, huh?
+
+521
+00:32:12,765 --> 00:32:15,000
+Hey, hold him steady.
+  Hold him steady.
+
+522
+00:32:17,203 --> 00:32:19,137
+Stay down, freak!
+
+523
+00:32:20,139 --> 00:32:21,440
+[men grunting
+and laughing]
+
+524
+00:32:28,948 --> 00:32:30,148
+[gunshot]
+
+525
+00:32:32,685 --> 00:32:34,419
+[screaming]
+
+526
+00:32:37,890 --> 00:32:39,458
+Hey!
+[continues screaming]
+
+527
+00:32:41,994 --> 00:32:43,361
+[breathing heavily]
+
+528
+00:32:59,378 --> 00:33:01,547
+[man continues screaming]
+
+529
+00:33:01,681 --> 00:33:02,982
+[announcer on PA]
+<i><font color="white"> Ninth Avenue.</font></i>
+
+530
+00:33:03,115 --> 00:33:04,316
+<i><font color="white"> Next stop,
+ Hunter's Point.</font></i>
+
+531
+00:33:04,450 --> 00:33:05,717
+Hey!
+
+532
+00:33:11,591 --> 00:33:13,625
+<i><font color="white"> Stand clear of
+ the closing doors.</font></i>
+
+533
+00:33:15,661 --> 00:33:16,795
+[man yelping]
+
+534
+00:33:27,106 --> 00:33:28,306
+[groans]
+
+535
+00:33:29,308 --> 00:33:31,143
+[man whimpering]
+
+536
+00:33:31,277 --> 00:33:32,744
+[breathing heavily]
+
+537
+00:33:35,614 --> 00:33:37,082
+[man screams]
+
+538
+00:33:39,018 --> 00:33:40,218
+[gun clicking]
+
+539
+00:33:46,992 --> 00:33:48,293
+[panting]
+
+540
+00:33:50,429 --> 00:33:53,265
+-[ears ringing loudly]
+     -Shit. Shit.
+
+541
+00:34:31,136 --> 00:34:32,537
+[panting]
+
+542
+00:36:12,371 --> 00:36:13,705
+[elevator bell dings]
+
+543
+00:36:46,606 --> 00:36:48,574
+[man 1] I read it was
+a guy in full makeup.
+
+544
+00:36:48,708 --> 00:36:51,077
+[man 2] No, it says
+    right here
+  it was a mask.
+
+545
+00:36:51,210 --> 00:36:53,513
+[man 1] Either way,
+        I think
+it's good for business.
+
+546
+00:36:53,646 --> 00:36:56,115
+They got clowns
+   on the front
+of every newspaper.
+
+547
+00:36:56,248 --> 00:36:57,416
+Big man,
+what's the good word?
+
+548
+00:36:57,549 --> 00:36:58,818
+[Gary] Hey.
+
+549
+00:36:58,951 --> 00:37:01,520
+["My Name Is Carnival"
+  playing on radio]
+
+550
+00:37:01,654 --> 00:37:04,022
+Hey, Arthur,
+   I heard
+what happened.
+
+551
+00:37:04,156 --> 00:37:05,390
+Sorry, mate.
+
+552
+00:37:05,524 --> 00:37:07,126
+[Randall] Yeah.
+
+553
+00:37:07,259 --> 00:37:08,460
+It doesn't seem fair,
+
+554
+00:37:08,594 --> 00:37:10,695
+getting fired like that.
+
+555
+00:37:11,664 --> 00:37:12,932
+Did you really
+ bring a gun
+
+556
+00:37:13,065 --> 00:37:15,067
+to the
+children's hospital,
+       Artie?
+
+557
+00:37:15,201 --> 00:37:16,769
+What the fuck
+  would you
+do that for?
+
+558
+00:37:16,902 --> 00:37:18,337
+Is that part of
+your new act, Arthur?
+
+559
+00:37:18,471 --> 00:37:19,572
+If your dancing
+doesn't do the trick,
+
+560
+00:37:19,705 --> 00:37:20,872
+you're just gonna
+ shoot yourself?
+
+561
+00:37:21,006 --> 00:37:22,341
+[men laughing]
+
+562
+00:37:22,475 --> 00:37:23,808
+Why don't you
+ ask Randall
+  about it?
+
+563
+00:37:24,810 --> 00:37:25,978
+It was his gun.
+
+564
+00:37:26,112 --> 00:37:27,813
+-[Randall] What?
+  -I still owe
+ you for that,
+
+565
+00:37:27,946 --> 00:37:28,948
+don't I?
+
+566
+00:37:29,081 --> 00:37:31,217
+What the fuck
+are you talking about?
+
+567
+00:37:31,350 --> 00:37:33,118
+Stop talking
+out of your ass, Art.
+
+568
+00:37:33,252 --> 00:37:34,452
+[honking horn]
+
+569
+00:37:38,290 --> 00:37:39,791
+[Arthur gasps] Oh, no!
+
+570
+00:37:41,393 --> 00:37:43,361
+I forgot
+to punch out.
+
+571
+00:37:46,465 --> 00:37:47,899
+[laughing]
+
+572
+00:37:53,205 --> 00:37:55,006
+["My Name Is Carnival"
+  continues playing]
+
+573
+00:38:13,226 --> 00:38:15,428
+[Chuck on TV]<i><font color="white"> And as our city
+</font></i><i><font color="white"> tries to make sense</font></i>
+
+574
+00:38:15,562 --> 00:38:19,331
+<i><font color="white"> of the brutal
+</font></i><i><font color="white"> triple murder
+ on the subway last week,</font></i>
+
+575
+00:38:19,465 --> 00:38:20,866
+<i><font color="white"> we're joined
+ by Thomas Wayne.</font></i>
+
+576
+00:38:21,000 --> 00:38:23,402
+Happy, look,
+Thomas Wayne's on TV.
+
+577
+00:38:23,535 --> 00:38:24,904
+Yes, Mother.
+
+578
+00:38:25,037 --> 00:38:26,438
+[Thomas]<i><font color="white"> Thanks for
+ having me on, Chuck.</font></i>
+
+579
+00:38:26,572 --> 00:38:27,606
+[Penny]
+They're asking
+  him about
+
+580
+00:38:27,740 --> 00:38:29,008
+those horrible
+subway murders.
+
+581
+00:38:29,141 --> 00:38:30,609
+[Chuck]<i><font color="white"> Thank you, Thomas.
+</font></i><i><font color="white"> I know</font></i>
+
+582
+00:38:30,743 --> 00:38:32,611
+<i><font color="white"> this is a difficult time
+</font></i><i><font color="white"> for you.</font></i>
+
+583
+00:38:32,744 --> 00:38:34,280
+Why him?
+
+584
+00:38:34,413 --> 00:38:36,115
+Looks like
+he's gained weight.
+
+585
+00:38:36,249 --> 00:38:38,650
+[Thomas]<i><font color="white"> Yes,
+</font></i><i><font color="white"> all three worked
+ for Wayne Investments.</font></i>
+
+586
+00:38:38,784 --> 00:38:40,519
+<i><font color="white"> Good, decent, educated.</font></i>
+
+587
+00:38:40,653 --> 00:38:43,555
+<i><font color="white"> Although I didn't know
+ any of them personally.</font></i>
+
+588
+00:38:44,923 --> 00:38:46,392
+<i><font color="white"> Like all Wayne employees,</font></i>
+
+589
+00:38:46,525 --> 00:38:48,761
+<i><font color="white"> past and present,
+</font></i><i><font color="white"> they're family.</font></i>
+
+590
+00:38:48,895 --> 00:38:50,663
+Did you hear that?
+   I told you,
+  we're family.
+
+591
+00:38:50,797 --> 00:38:52,398
+-[shushing]
+-[Chuck]<i><font color="white"> There now
+</font></i><i><font color="white"> seems to be</font></i>
+
+592
+00:38:52,532 --> 00:38:54,434
+<i><font color="white"> a groundswell
+ of anti-rich sentiment
+</font></i><i><font color="white"> in the city.</font></i>
+
+593
+00:38:54,567 --> 00:38:56,702
+<i><font color="white"> It's almost
+</font></i><i><font color="white"> as if our
+ less fortunate residents</font></i>
+
+594
+00:38:56,836 --> 00:38:59,004
+<i><font color="white"> are taking the side
+</font></i><i><font color="white"> of the killer.</font></i>
+
+595
+00:38:59,138 --> 00:39:00,873
+[Thomas]<i><font color="white"> Yes,
+ and it's a shame.</font></i>
+
+596
+00:39:01,006 --> 00:39:02,408
+<i><font color="white"> It's one
+ of the reasons why</font></i>
+
+597
+00:39:02,541 --> 00:39:03,875
+<i><font color="white"> I'm considering
+ a run for mayor.</font></i>
+
+598
+00:39:04,576 --> 00:39:06,745
+<i><font color="white"> Gotham's lost its way.</font></i>
+
+599
+00:39:06,879 --> 00:39:08,447
+<i><font color="white"> What about
+ the eyewitness report</font></i>
+
+600
+00:39:08,581 --> 00:39:11,317
+<i><font color="white"> of the suspect
+</font></i><i><font color="white"> being a man
+ in a clown mask?</font></i>
+
+601
+00:39:11,451 --> 00:39:13,519
+[Thomas]<i><font color="white"> Well,
+</font></i><i><font color="white"> it makes
+ total sense to me.</font></i>
+
+602
+00:39:13,653 --> 00:39:15,955
+<i><font color="white"> What kind of coward
+</font></i><i><font color="white"> would do something
+</font></i><i><font color="white"> that cold-blooded?</font></i>
+
+603
+00:39:16,088 --> 00:39:18,490
+<i><font color="white"> Someone who hides
+</font></i><i><font color="white"> behind a mask.</font></i>
+
+604
+00:39:18,624 --> 00:39:19,959
+<i><font color="white"> Someone who is envious</font></i>
+
+605
+00:39:20,092 --> 00:39:24,030
+<i><font color="white"> of those more fortunate
+</font></i><i><font color="white"> than themselves,</font></i>
+
+606
+00:39:24,163 --> 00:39:26,999
+<i><font color="white"> yet they're too scared
+ to show their own face.</font></i>
+
+607
+00:39:27,133 --> 00:39:30,069
+<i><font color="white"> And until those
+</font></i><i><font color="white"> kind of people
+ change for the better,</font></i>
+
+608
+00:39:30,203 --> 00:39:33,873
+<i><font color="white"> those of us
+</font></i><i><font color="white"> who have made
+ something of our lives</font></i>
+
+609
+00:39:34,006 --> 00:39:36,475
+<i><font color="white"> will always look
+ at those who haven't</font></i>
+
+610
+00:39:36,608 --> 00:39:39,144
+<i><font color="white"> as nothing but clowns.</font></i>
+
+611
+00:39:39,277 --> 00:39:41,013
+[laughs]
+
+612
+00:39:41,147 --> 00:39:42,981
+<i><font color="white"> Thomas Wayne,
+</font></i><i><font color="white"> thank you for
+ coming in this morning.</font></i>
+
+613
+00:39:43,115 --> 00:39:44,115
+It's not funny.
+
+614
+00:40:03,368 --> 00:40:05,571
+[laughs]
+
+615
+00:40:05,705 --> 00:40:08,106
+I heard this song
+  on the radio
+ the other day,
+
+616
+00:40:10,576 --> 00:40:14,979
+and the guy was singing
+     that his name
+     was Carnival.
+
+617
+00:40:15,914 --> 00:40:17,182
+[social worker] Arthur...
+
+618
+00:40:17,315 --> 00:40:18,650
+Which is crazy,
+
+619
+00:40:20,753 --> 00:40:24,723
+because that's
+my clown name at work.
+
+620
+00:40:24,857 --> 00:40:27,625
+And until
+a little while ago,
+
+621
+00:40:28,627 --> 00:40:31,229
+it was like
+nobody ever saw me.
+
+622
+00:40:33,065 --> 00:40:35,768
+Even I didn't know
+if I really existed.
+
+623
+00:40:35,901 --> 00:40:38,603
+Arthur, I have
+some bad news for you.
+
+624
+00:40:41,673 --> 00:40:43,207
+You don't listen,
+     do you?
+
+625
+00:40:44,744 --> 00:40:49,682
+I don't think
+   you ever
+really hear me.
+
+626
+00:40:49,815 --> 00:40:52,451
+You just ask
+the same questions
+   every week.
+
+627
+00:40:52,585 --> 00:40:56,922
+"How's your job?
+    Are you having
+any negative thoughts?"
+
+628
+00:40:57,056 --> 00:41:00,826
+All I have are
+negative thoughts,
+
+629
+00:41:00,959 --> 00:41:03,829
+but you don't
+listen anyway.
+
+630
+00:41:03,962 --> 00:41:07,266
+I said,
+for my whole life,
+
+631
+00:41:07,399 --> 00:41:10,969
+I didn't know
+if I even really existed.
+
+632
+00:41:12,137 --> 00:41:13,905
+But I do.
+
+633
+00:41:15,074 --> 00:41:19,210
+And people are
+starting to notice.
+
+634
+00:41:20,812 --> 00:41:22,615
+They've cut our funding.
+
+635
+00:41:22,748 --> 00:41:24,682
+We're closing down
+our offices next week.
+
+636
+00:41:26,052 --> 00:41:27,920
+The city has
+   cut funding
+across the board.
+
+637
+00:41:28,053 --> 00:41:30,022
+Social Services is
+  part of that.
+
+638
+00:41:30,156 --> 00:41:32,590
+This is the last time
+  we'll be meeting.
+
+639
+00:41:33,358 --> 00:41:34,692
+Okay.
+
+640
+00:41:38,464 --> 00:41:40,865
+They don't give a shit
+     about people
+  like you, Arthur.
+
+641
+00:41:42,868 --> 00:41:44,336
+And they really
+don't give a shit
+
+642
+00:41:44,470 --> 00:41:46,638
+about people
+like me, either.
+
+643
+00:41:49,641 --> 00:41:51,109
+Fuck.
+
+644
+00:41:59,085 --> 00:42:01,886
+How am I supposed
+    to get my
+ medication now?
+
+645
+00:42:04,690 --> 00:42:06,557
+Who do I talk to?
+
+646
+00:42:08,727 --> 00:42:10,762
+I'm sorry, Arthur.
+
+647
+00:42:12,999 --> 00:42:17,236
+<i><font color="white"> I think... I think
+ most women look at sex
+</font></i><i><font color="white"> like buying a car.</font></i>
+
+648
+00:42:17,370 --> 00:42:20,105
+<i><font color="white"> You know, like,
+</font></i><i><font color="white"> "Can I see myself
+ in this long-term?"</font></i>
+
+649
+00:42:20,238 --> 00:42:22,240
+<i><font color="white"> "Is it safe?"</font></i>
+
+650
+00:42:22,374 --> 00:42:23,742
+<i><font color="white"> "Is it reliable?"</font></i>
+
+651
+00:42:23,876 --> 00:42:26,012
+<i><font color="white"> -"Could it kill me?"
+</font></i> -[audience laughing]
+
+652
+00:42:26,145 --> 00:42:28,180
+<i><font color="white"> Most guys,
+</font></i><i><font color="white"> we look at sex
+ like parking a car.</font></i>
+
+653
+00:42:28,314 --> 00:42:30,816
+<i><font color="white"> We're like,
+ "There's a spot."</font></i>
+
+654
+00:42:30,949 --> 00:42:32,251
+<i><font color="white"> "There's another spot.</font></i>
+
+655
+00:42:32,384 --> 00:42:33,852
+<i><font color="white"> -That would work."
+</font></i>-[Arthur exhales deeply]
+
+656
+00:42:33,986 --> 00:42:35,854
+<i><font color="white"> "Oh, I have to pay?
+</font></i><i><font color="white"> Never mind."</font></i>
+
+657
+00:42:35,987 --> 00:42:37,389
+[audience laughing]
+
+658
+00:42:37,523 --> 00:42:40,392
+<i><font color="white"> "Handicapped?
+ I hope no one sees this."</font></i>
+
+659
+00:42:40,525 --> 00:42:42,695
+[audience laughing]
+
+660
+00:42:42,829 --> 00:42:45,330
+<i><font color="white"> All right, that's my time.
+</font></i><i><font color="white"> Thank you
+</font></i><i><font color="white"> very much, guys.</font></i>
+
+661
+00:42:45,464 --> 00:42:46,931
+[audience applauding]
+
+662
+00:42:50,336 --> 00:42:53,772
+[emcee] One more time
+for Sam Morril, y'all.
+
+663
+00:42:53,906 --> 00:42:55,674
+All right, now,
+this next comic describes
+
+664
+00:42:55,808 --> 00:42:57,910
+himself as
+a lifelong Gotham resident
+
+665
+00:42:58,043 --> 00:43:00,478
+who from a young age
+  was always told
+
+666
+00:43:00,612 --> 00:43:02,281
+that his purpose in life
+
+667
+00:43:02,415 --> 00:43:06,118
+was to bring laughter and joy
+       into this cold,
+         dark world.
+
+668
+00:43:06,251 --> 00:43:07,853
+-Um... Okay.
+-[audience laughing]
+
+669
+00:43:07,987 --> 00:43:10,188
+Please help me
+      welcome
+Arthur Fleck, y'all.
+
+670
+00:43:10,322 --> 00:43:11,323
+Arthur Fleck.
+
+671
+00:43:11,456 --> 00:43:12,857
+[audience applauding]
+
+672
+00:43:23,435 --> 00:43:24,635
+[sighs nervously]
+
+673
+00:43:26,871 --> 00:43:28,806
+[laughing]
+
+674
+00:43:33,578 --> 00:43:35,280
+[snorts]
+
+675
+00:43:35,414 --> 00:43:38,249
+Hello, it's good
+  to be here.
+   [laughing]
+
+676
+00:43:48,727 --> 00:43:49,794
+[clears throat]
+
+677
+00:43:49,928 --> 00:43:51,829
+[coughing]
+
+678
+00:43:53,565 --> 00:43:54,966
+[laughing]
+
+679
+00:43:57,769 --> 00:43:58,970
+[gagging]
+
+680
+00:44:02,875 --> 00:44:05,777
+I hated school
+when I was a kid.
+
+681
+00:44:05,911 --> 00:44:07,712
+-[microphone feedback]
+     -[laughing]
+
+682
+00:44:11,549 --> 00:44:12,984
+[gagging]
+
+683
+00:44:14,719 --> 00:44:16,254
+[burps]
+
+684
+00:44:16,388 --> 00:44:17,922
+[breathing heavily]
+
+685
+00:44:21,260 --> 00:44:26,265
+I hated school
+  as a kid.
+  [laughing]
+
+686
+00:44:27,532 --> 00:44:29,067
+My mother
+would say,
+
+687
+00:44:29,201 --> 00:44:30,803
+[imitates Penny]
+"You should enjoy it.
+
+688
+00:44:30,936 --> 00:44:33,104
+One day,
+  you'll have to
+work for a living."
+
+689
+00:44:34,273 --> 00:44:35,607
+[normal voice]
+"No, I won't, Ma,
+
+690
+00:44:35,741 --> 00:44:37,442
+I'm gonna
+be a comedian."
+
+691
+00:44:37,575 --> 00:44:38,943
+[laughing]
+
+692
+00:44:46,684 --> 00:44:48,019
+Um...
+
+693
+00:44:49,988 --> 00:44:52,291
+Here's one.
+
+694
+00:44:52,424 --> 00:44:55,294
+You know, I was
+ just thinking
+the other day,
+
+695
+00:44:55,427 --> 00:44:57,795
+-why are
+the rich people...
+-["Smile" playing]
+
+696
+00:45:05,604 --> 00:45:06,538
+[audience laughing]
+
+697
+00:45:06,671 --> 00:45:08,072
+[audience applauding]
+
+698
+00:45:13,912 --> 00:45:15,780
+[indistinct chattering]
+
+699
+00:45:38,003 --> 00:45:39,470
+You believe that shit?
+
+700
+00:45:41,339 --> 00:45:42,340
+Fuck 'em.
+
+701
+00:45:44,176 --> 00:45:47,078
+I think the guy
+  that did it
+  is a hero.
+
+702
+00:45:49,014 --> 00:45:51,116
+Three less pricks
+ in Gotham City,
+
+703
+00:45:51,249 --> 00:45:53,451
+only a million
+ more to go.
+
+704
+00:45:53,585 --> 00:45:55,052
+["Smile" continues playing]
+
+705
+00:46:11,903 --> 00:46:13,337
+[laughing]
+
+706
+00:46:19,911 --> 00:46:21,545
+[TV playing]
+
+707
+00:46:24,883 --> 00:46:26,518
+[Murray on TV]
+<i><font color="white"> And, buddy,
+</font></i><i><font color="white"> as always,</font></i>
+
+708
+00:46:26,651 --> 00:46:27,853
+<i><font color="white"> thanks for the laughs.</font></i>
+
+709
+00:46:27,986 --> 00:46:29,288
+<i><font color="white"> I'm sure
+ we'll see you again.</font></i>
+
+710
+00:46:29,421 --> 00:46:30,756
+<i><font color="white"> You know
+ we'll be here, right?</font></i>
+
+711
+00:46:30,889 --> 00:46:32,591
+<i><font color="white"> -I hope.
+</font></i>-[audience laughing]
+
+712
+00:46:32,725 --> 00:46:35,894
+<i><font color="white"> Tomorrow night,
+ we have Diana Hudson,
+</font></i><i><font color="white"> Greg Gordon,</font></i>
+
+713
+00:46:36,028 --> 00:46:39,464
+<i><font color="white"> and animal expert,
+</font></i><i><font color="white"> Hugh Little.</font></i>
+
+714
+00:46:39,598 --> 00:46:40,866
+<i><font color="white"> Thanks for watching.</font></i>
+
+715
+00:46:40,999 --> 00:46:43,201
+<i><font color="white"> Good night,
+ and always remember,</font></i>
+
+716
+00:46:43,335 --> 00:46:44,803
+<i><font color="white"> -that's life.
+</font></i>-["That's Life" playing]
+
+717
+00:46:44,936 --> 00:46:46,337
+[audience applauding]
+
+718
+00:46:49,107 --> 00:46:50,441
+[softly] That's life.
+
+719
+00:46:55,114 --> 00:46:58,350
+Momma, time
+  to wake up
+and go to bed.
+
+720
+00:46:58,483 --> 00:46:59,984
+-Hmm? Oh...
+-[grunting]
+
+721
+00:47:01,986 --> 00:47:03,554
+Oh, Happy.
+
+722
+00:47:06,224 --> 00:47:07,959
+Happy, I wrote
+ a new letter.
+
+723
+00:47:08,093 --> 00:47:10,529
+Come on,
+dance with me.
+
+724
+00:47:10,662 --> 00:47:13,097
+[Penny] For
+ Thomas Wayne.
+It's important.
+
+725
+00:47:13,231 --> 00:47:14,432
+[Arthur whistles]
+
+726
+00:47:17,035 --> 00:47:18,402
+[Penny chuckles]
+
+727
+00:47:20,038 --> 00:47:21,973
+[Arthur humming]
+
+728
+00:47:22,107 --> 00:47:23,675
+You smell like cologne.
+
+729
+00:47:23,809 --> 00:47:26,578
+It's 'cause
+ I just had
+a big date.
+
+730
+00:47:26,711 --> 00:47:28,546
+[chuckles] Oh.
+
+731
+00:47:31,116 --> 00:47:33,117
+Just don't forget
+   to mail it.
+
+732
+00:47:34,185 --> 00:47:36,187
+[music continues playing]
+
+733
+00:47:58,577 --> 00:48:00,245
+[announcer]<i><font color="white"> The
+ Murray Franklin Show
+</font></i><i><font color="white"> is taped live</font></i>
+
+734
+00:48:00,378 --> 00:48:01,680
+<i><font color="white"> before a studio audience</font></i>
+
+735
+00:48:01,813 --> 00:48:04,315
+<i><font color="white"> in beautiful downtown
+</font></i><i><font color="white"> Gotham City.</font></i>
+
+736
+00:48:07,552 --> 00:48:08,552
+[music ends]
+
+737
+00:49:06,211 --> 00:49:09,080
+You're gonna kill me.
+You're gonna give me
+   a heart attack!
+
+738
+00:49:09,214 --> 00:49:10,415
+Don't give me your...
+
+739
+00:49:10,549 --> 00:49:12,351
+-[pounding on door]
+ -[Penny] No. No.
+
+740
+00:49:12,484 --> 00:49:15,653
+I'm not talking
+to you until you stop
+    being angry!
+
+741
+00:49:15,787 --> 00:49:16,921
+Okay.
+
+742
+00:49:17,055 --> 00:49:18,322
+Okay.
+
+743
+00:49:22,894 --> 00:49:24,996
+I'm not angry, Mom.
+
+744
+00:49:25,129 --> 00:49:27,598
+I'm not angry.
+
+745
+00:49:27,732 --> 00:49:29,100
+Please.
+
+746
+00:49:29,934 --> 00:49:32,736
+Mom, is this real?
+
+747
+00:49:36,274 --> 00:49:39,444
+He's an
+extraordinary man,
+      Happy.
+
+748
+00:49:39,578 --> 00:49:42,246
+He's a very
+powerful man.
+
+749
+00:49:43,681 --> 00:49:46,218
+We were in love.
+
+750
+00:49:46,351 --> 00:49:48,219
+He said it was
+    best that
+we not be together
+
+751
+00:49:48,353 --> 00:49:50,654
+because of appearances.
+
+752
+00:49:52,824 --> 00:49:56,527
+And I could never
+tell anyone because...
+
+753
+00:49:58,964 --> 00:50:00,531
+Well, I signed
+ some papers.
+
+754
+00:50:02,200 --> 00:50:03,635
+And besides,
+you can imagine
+
+755
+00:50:03,769 --> 00:50:07,471
+what people would say
+ about Thomas and me.
+
+756
+00:50:10,041 --> 00:50:11,542
+What they'd say
+  about you.
+
+757
+00:50:15,513 --> 00:50:17,615
+What would
+they say, Mom?
+
+758
+00:50:17,749 --> 00:50:19,350
+[Penny crying]
+
+759
+00:50:28,193 --> 00:50:29,760
+[train horn blowing]
+
+760
+00:51:32,323 --> 00:51:33,824
+[humming]
+
+761
+00:51:59,250 --> 00:52:00,884
+[Arthur continues humming]
+
+762
+00:52:06,791 --> 00:52:07,791
+[Arthur] Hmm.
+
+763
+00:52:09,193 --> 00:52:10,494
+[Arthur exhales deeply]
+
+764
+00:52:18,669 --> 00:52:19,770
+Hmm.
+
+765
+00:52:25,476 --> 00:52:26,844
+[Arthur laughing]
+
+766
+00:52:30,214 --> 00:52:31,482
+[whistles]
+
+767
+00:52:37,321 --> 00:52:38,689
+[Arthur singing]
+
+768
+00:52:50,868 --> 00:52:51,902
+Hi.
+
+769
+00:52:54,872 --> 00:52:56,373
+What's your name?
+
+770
+00:52:57,375 --> 00:52:59,276
+I'm Bruce.
+
+771
+00:53:00,144 --> 00:53:01,478
+Bruce.
+
+772
+00:53:03,247 --> 00:53:04,648
+I'm Arthur.
+
+773
+00:53:26,437 --> 00:53:27,938
+That's better.
+
+774
+00:53:28,706 --> 00:53:30,541
+[Alfred] Bruce! Bruce!
+
+775
+00:53:31,743 --> 00:53:33,077
+Get away
+from that man.
+
+776
+00:53:33,211 --> 00:53:35,313
+It's okay.
+I'm a good guy.
+
+777
+00:53:35,447 --> 00:53:37,215
+What are you doing?
+   Who are you?
+
+778
+00:53:37,348 --> 00:53:38,883
+I'm here to see
+  Mr. Wayne.
+
+779
+00:53:39,017 --> 00:53:41,819
+Well, you shouldn't be
+ speaking to his son.
+
+780
+00:53:42,954 --> 00:53:44,289
+Why did you give him
+   these flowers?
+
+781
+00:53:44,422 --> 00:53:45,789
+[Arthur] No,
+they're not real.
+
+782
+00:53:47,391 --> 00:53:49,661
+It's magic.
+
+783
+00:53:49,794 --> 00:53:51,329
+I was just trying to
+  make him smile.
+
+784
+00:53:51,462 --> 00:53:54,199
+Well, it's not funny,
+       is it?
+
+785
+00:53:54,332 --> 00:53:55,500
+Do I need
+to call the police?
+
+786
+00:53:55,633 --> 00:53:58,069
+[Arthur] No. Please.
+
+787
+00:53:58,203 --> 00:54:01,573
+My mother's name
+   is Penny.
+  Penny Fleck.
+
+788
+00:54:01,706 --> 00:54:03,241
+She used
+to work here
+ years ago.
+
+789
+00:54:03,375 --> 00:54:05,376
+Can you please tell
+     Mr. Wayne
+I need to see him?
+
+790
+00:54:06,310 --> 00:54:07,878
+You are her son.
+
+791
+00:54:08,012 --> 00:54:09,413
+[Arthur] Yeah.
+
+792
+00:54:09,547 --> 00:54:11,515
+Did you know her?
+
+793
+00:54:14,819 --> 00:54:17,822
+[whispers]
+  I know about
+the two of them.
+
+794
+00:54:17,955 --> 00:54:20,491
+She told me everything.
+
+795
+00:54:21,993 --> 00:54:24,027
+[whispers]
+There's nothing
+   to know.
+
+796
+00:54:25,129 --> 00:54:27,598
+There is no "them."
+
+797
+00:54:27,732 --> 00:54:30,668
+Your mother
+was delusional.
+
+798
+00:54:30,802 --> 00:54:32,069
+She was
+a sick woman.
+
+799
+00:54:32,203 --> 00:54:34,438
+Don't say that.
+
+800
+00:54:35,373 --> 00:54:36,874
+Just go.
+
+801
+00:54:37,008 --> 00:54:38,109
+Mmm?
+
+802
+00:54:38,243 --> 00:54:40,511
+Before you
+make a fool
+of yourself.
+
+803
+00:54:41,846 --> 00:54:44,515
+Thomas Wayne
+is my father.
+
+804
+00:54:44,649 --> 00:54:45,849
+[Alfred laughing]
+
+805
+00:54:47,485 --> 00:54:49,019
+[Alfred yelping]
+
+806
+00:54:49,620 --> 00:54:51,022
+He left me.
+
+807
+00:54:51,155 --> 00:54:52,523
+[Alfred choking]
+
+808
+00:54:53,491 --> 00:54:54,925
+-Let go! Let go!
+-[Arthur grunts]
+
+809
+00:54:56,160 --> 00:54:57,861
+[Alfred continues choking]
+
+810
+00:55:04,402 --> 00:55:05,869
+[panting]
+
+811
+00:55:21,019 --> 00:55:22,888
+Keep the respirations
+      above 15.
+
+812
+00:55:23,021 --> 00:55:25,556
+Slow and steady.
+   We got some
+stairs coming up.
+
+813
+00:55:26,757 --> 00:55:27,925
+Mom?
+
+814
+00:55:28,593 --> 00:55:29,661
+What happened?
+
+815
+00:55:29,794 --> 00:55:31,396
+-Who are you?
+-I'm her son.
+
+816
+00:55:31,529 --> 00:55:32,998
+-What happened?
+-You can probably
+     help us
+
+817
+00:55:33,131 --> 00:55:34,900
+out inside.
+  We don't know
+what happened yet.
+
+818
+00:55:35,033 --> 00:55:36,534
+-Hop in the back
+ of the ambulance.
+-[paramedic 2] Step.
+
+819
+00:55:36,668 --> 00:55:37,735
+[paramedic 1] One more.
+ We got one more lift.
+
+820
+00:55:37,869 --> 00:55:39,037
+[paramedic 2] I'm getting
+
+821
+00:55:39,170 --> 00:55:40,572
+a little resistance here,
+        Michael.
+
+822
+00:55:40,705 --> 00:55:42,974
+[paramedics chattering
+    indistinctly]
+
+823
+00:55:43,107 --> 00:55:44,107
+[paramedic 1] Lift.
+
+824
+00:55:49,547 --> 00:55:51,182
+[Arthur] I'm right here.
+
+825
+00:55:51,315 --> 00:55:52,550
+Excuse me, sir.
+
+826
+00:55:52,684 --> 00:55:53,651
+Does your mother take
+  any medications?
+
+827
+00:55:53,785 --> 00:55:54,819
+-No.
+-Excuse me,
+
+828
+00:55:54,953 --> 00:55:56,655
+-I couldn't hear you.
+        -No.
+
+829
+00:55:56,788 --> 00:55:57,822
+Sir, when was
+  the last time
+you spoke to her?
+
+830
+00:55:57,955 --> 00:55:59,089
+I don't know.
+
+831
+00:56:00,491 --> 00:56:02,025
+[siren wailing]
+
+832
+00:56:43,834 --> 00:56:46,171
+[Garrity] Mr. Fleck.
+
+833
+00:56:46,304 --> 00:56:48,406
+Sorry to bother you.
+I'm Detective Garrity.
+
+834
+00:56:48,540 --> 00:56:50,976
+This is my partner,
+ Detective Burke.
+
+835
+00:56:51,109 --> 00:56:54,044
+We had a few questions
+   for you, but you
+    weren't home,
+
+836
+00:56:55,446 --> 00:56:57,047
+so we spoke
+with your mother.
+
+837
+00:56:58,849 --> 00:56:59,850
+Oh.
+
+838
+00:57:00,785 --> 00:57:02,319
+What did you
+ say to her?
+
+839
+00:57:02,453 --> 00:57:03,454
+Did you do this?
+
+840
+00:57:03,587 --> 00:57:05,023
+What? No.
+
+841
+00:57:05,156 --> 00:57:07,291
+No, no, no.
+We just asked her
+ some questions,
+
+842
+00:57:07,425 --> 00:57:09,026
+and she got hysterical.
+
+843
+00:57:09,160 --> 00:57:10,762
+Hyperventilating,
+
+844
+00:57:10,895 --> 00:57:12,230
+collapsed and
+ hit her head
+ pretty hard.
+
+845
+00:57:12,364 --> 00:57:14,799
+Yeah.
+ The doctor said
+she had a stroke.
+
+846
+00:57:14,932 --> 00:57:17,369
+We're sorry to
+hear about that.
+
+847
+00:57:17,502 --> 00:57:20,571
+But, like I said,
+     I still have
+some questions for you.
+
+848
+00:57:20,705 --> 00:57:21,839
+They're about
+the subway killings
+
+849
+00:57:21,973 --> 00:57:23,207
+that happened
+ last week.
+
+850
+00:57:23,341 --> 00:57:24,775
+You've heard
+about them,
+   right?
+
+851
+00:57:24,909 --> 00:57:25,976
+Yeah.
+
+852
+00:57:26,110 --> 00:57:27,111
+It's horrible.
+
+853
+00:57:27,244 --> 00:57:29,047
+Right.
+
+854
+00:57:29,180 --> 00:57:32,483
+So, we spoke
+with your boss
+over at Haha's.
+
+855
+00:57:32,617 --> 00:57:34,585
+He said you were fired
+  for bringing a gun
+
+856
+00:57:34,719 --> 00:57:36,486
+into the children's hospital.
+
+857
+00:57:37,689 --> 00:57:39,690
+-Is that true,
+  Mr. Fleck?
+-It was a prop.
+
+858
+00:57:39,824 --> 00:57:41,659
+It's part
+of my act.
+
+859
+00:57:41,792 --> 00:57:43,061
+I'm a party clown.
+
+860
+00:57:43,194 --> 00:57:45,529
+All right.
+So, why were
+ you fired?
+
+861
+00:57:46,564 --> 00:57:48,433
+[sighs heavily]
+
+862
+00:57:48,566 --> 00:57:51,202
+They said
+I wasn't funny enough.
+
+863
+00:57:51,335 --> 00:57:53,104
+Can you imagine that?
+
+864
+00:57:53,238 --> 00:57:57,108
+If you don't mind,
+I have to go take care
+    of my mother.
+
+865
+00:57:57,242 --> 00:57:59,843
+[Burke] Your boss also
+       gave us
+  one of your cards.
+
+866
+00:58:01,813 --> 00:58:04,281
+This condition of yours,
+     the laughing,
+
+867
+00:58:05,082 --> 00:58:06,350
+is it real,
+
+868
+00:58:06,484 --> 00:58:08,652
+or some sort
+of clown thing?
+
+869
+00:58:08,786 --> 00:58:11,589
+-A clown thing?
+    -Yeah.
+
+870
+00:58:11,723 --> 00:58:14,157
+I mean,
+ is it part
+of your act?
+
+871
+00:58:16,627 --> 00:58:18,095
+What do you think?
+
+872
+00:58:23,834 --> 00:58:25,102
+[Burke] It's exit only.
+
+873
+00:58:49,493 --> 00:58:51,695
+She's gonna be okay.
+
+874
+00:58:55,867 --> 00:58:57,834
+I'm gonna
+get a coffee.
+
+875
+00:58:58,402 --> 00:58:59,403
+You want one?
+
+876
+00:58:59,536 --> 00:59:00,737
+Yeah.
+
+877
+00:59:11,515 --> 00:59:13,418
+[audience laughing on TV]
+
+878
+00:59:13,552 --> 00:59:16,421
+[Murray]<i><font color="white"> So,
+</font></i><i><font color="white"> the other night,
+ I told my youngest son Billy,</font></i>
+
+879
+00:59:16,554 --> 00:59:19,857
+<i><font color="white"> you know, the new one,
+ the not-so-bright one.</font></i>
+
+880
+00:59:19,991 --> 00:59:21,525
+<i><font color="white"> I told him,
+ "The garbage strike</font></i>
+
+881
+00:59:21,659 --> 00:59:23,328
+<i><font color="white"> is still going on, Billy."</font></i>
+
+882
+00:59:23,461 --> 00:59:25,263
+<i><font color="white"> And he says,
+ and I'm not kidding,
+</font></i><i><font color="white"> Billy says,</font></i>
+
+883
+00:59:25,397 --> 00:59:27,198
+<i><font color="white"> "So, where are
+</font></i><i><font color="white"> we gonna get
+ all our garbage from?"</font></i>
+
+884
+00:59:27,331 --> 00:59:29,567
+-[laughs]
+-[audience laughing]
+
+885
+00:59:29,700 --> 00:59:31,234
+[audience applauding]
+
+886
+00:59:34,472 --> 00:59:36,974
+<i><font color="white"> And finally,
+</font></i><i><font color="white"> in a world
+ where everyone</font></i>
+
+887
+00:59:37,108 --> 00:59:38,543
+<i><font color="white"> thinks they could
+</font></i><i><font color="white"> do my job,</font></i>
+
+888
+00:59:38,676 --> 00:59:40,811
+<i><font color="white"> we got this video tape
+ from Pogo's Comedy Club,</font></i>
+
+889
+00:59:40,945 --> 00:59:42,614
+<i><font color="white"> right here in Gotham.</font></i>
+
+890
+00:59:42,747 --> 00:59:44,115
+<i><font color="white"> Here's a guy who thinks
+</font></i><i><font color="white"> if you just
+</font></i><i><font color="white"> keep laughing,</font></i>
+
+891
+00:59:44,248 --> 00:59:46,651
+<i><font color="white"> it'll somehow
+ make you funny.</font></i>
+
+892
+00:59:46,784 --> 00:59:48,819
+<i><font color="white"> Check out
+ this joker.</font></i>
+
+893
+00:59:49,320 --> 00:59:51,388
+[laughing]
+
+894
+00:59:53,357 --> 00:59:54,759
+Oh, my God.
+
+895
+00:59:54,893 --> 00:59:58,663
+[Arthur on TV]
+<i><font color="white"> I hated school
+</font></i><i><font color="white"> as a kid.</font></i>
+
+896
+00:59:58,796 --> 01:00:01,833
+<i><font color="white"> But my mother
+ would always say,</font></i>
+
+897
+01:00:01,966 --> 01:00:03,535
+[imitates Penny]
+<i><font color="white"> "You should enjoy it.</font></i>
+
+898
+01:00:03,668 --> 01:00:06,304
+<i><font color="white"> One day,
+</font></i><i><font color="white"> you'll have to
+ work for a living."</font></i>
+
+899
+01:00:06,437 --> 01:00:07,905
+[normal voice]
+<i><font color="white"> "No, I won't, Ma.</font></i>
+
+900
+01:00:08,039 --> 01:00:09,740
+<i><font color="white"> I'm gonna be
+ a comedian."</font></i>
+
+901
+01:00:09,874 --> 01:00:12,809
+-[laughing]
+-[Arthur laughing on TV]
+
+902
+01:00:15,880 --> 01:00:18,082
+[laughs]<i><font color="white"> You shoulda
+</font></i><i><font color="white"> listened
+</font></i><i><font color="white"> to your mother.</font></i>
+
+903
+01:00:18,216 --> 01:00:20,218
+[audience laughing
+ and applauding]
+
+904
+01:00:20,351 --> 01:00:22,253
+<i><font color="white"> Hey, one more.
+ One more, Bobby.</font></i>
+
+905
+01:00:22,387 --> 01:00:25,422
+<i><font color="white"> All right, let's see
+</font></i><i><font color="white"> one more.
+</font></i><i><font color="white"> I love this guy.</font></i>
+
+906
+01:00:25,556 --> 01:00:27,124
+[Arthur]<i><font color="white"> It's funny,</font></i>
+
+907
+01:00:27,258 --> 01:00:29,360
+<i><font color="white"> when I was
+ a little boy</font></i>
+
+908
+01:00:29,494 --> 01:00:32,563
+<i><font color="white"> and told people
+</font></i><i><font color="white"> I was gonna
+ be a comedian,</font></i>
+
+909
+01:00:32,697 --> 01:00:34,732
+<i><font color="white"> everyone laughed at me.</font></i>
+
+910
+01:00:34,866 --> 01:00:37,901
+<i><font color="white"> Well, no one's
+</font></i><i><font color="white"> laughing now.</font></i>
+
+911
+01:00:38,903 --> 01:00:40,972
+[audience laughing]
+
+912
+01:00:41,105 --> 01:00:43,007
+<i><font color="white"> You can say
+ that again, pal.</font></i>
+
+913
+01:00:43,140 --> 01:00:44,875
+[audience applauding]
+
+914
+01:00:48,647 --> 01:00:51,516
+<i><font color="white"> All right, we got
+</font></i><i><font color="white"> a great show
+ for you tonight.</font></i>
+
+915
+01:00:51,649 --> 01:00:54,986
+<i><font color="white"> Chuck Conby is here,
+ actress Joanne Mulligan,</font></i>
+
+916
+01:00:55,120 --> 01:00:59,189
+<i><font color="white"> and new music from
+ Mel Rubin and the Stiffs.</font></i>
+
+917
+01:01:04,763 --> 01:01:07,399
+[news anchor]<i><font color="white"> As tensions
+</font></i><i><font color="white"> mount around
+</font></i><i><font color="white"> the metro area,</font></i>
+
+918
+01:01:07,532 --> 01:01:11,202
+<i><font color="white"> Mayor Stokes
+</font></i><i><font color="white"> has pleaded for
+ cooler heads to prevail.</font></i>
+
+919
+01:01:11,336 --> 01:01:13,004
+<i><font color="white"> City services
+ have been affected,</font></i>
+
+920
+01:01:13,137 --> 01:01:15,072
+<i><font color="white"> and some businesses
+</font></i><i><font color="white"> have decided</font></i>
+
+921
+01:01:15,206 --> 01:01:18,042
+<i><font color="white"> to remain closed
+ amid the unrest.</font></i>
+
+922
+01:01:18,176 --> 01:01:20,845
+<i><font color="white"> Chuck Stevens
+ filed this report.</font></i>
+
+923
+01:01:20,978 --> 01:01:22,413
+[Chuck]
+<i><font color="white"> The anger
+ and resentment</font></i>
+
+924
+01:01:22,547 --> 01:01:23,714
+<i><font color="white"> that's been building
+ in the city for weeks</font></i>
+
+925
+01:01:23,848 --> 01:01:25,550
+<i><font color="white"> seems close to exploding.</font></i>
+
+926
+01:01:25,683 --> 01:01:27,852
+<i><font color="white"> Protesters,
+ many dressed
+</font></i><i><font color="white"> as clowns,</font></i>
+
+927
+01:01:27,985 --> 01:01:29,487
+<i><font color="white"> took to the streets today</font></i>
+
+928
+01:01:29,621 --> 01:01:31,022
+<i><font color="white"> in one of
+ several planned
+ demonstrations</font></i>
+
+929
+01:01:31,155 --> 01:01:32,790
+<i><font color="white"> taking on
+ the city's elite,</font></i>
+
+930
+01:01:32,924 --> 01:01:34,459
+<i><font color="white"> including a massive rally
+</font></i><i><font color="white"> outside</font></i>
+
+931
+01:01:34,592 --> 01:01:37,128
+<i><font color="white"> tomorrow night's
+ benefit at Wayne Hall.</font></i>
+
+932
+01:01:37,262 --> 01:01:38,863
+[reporter 1]
+<i><font color="white"> What's the point
+</font></i><i><font color="white"> of all this?</font></i>
+
+933
+01:01:38,997 --> 01:01:40,598
+[bleep]<i><font color="white"> the rich.
+</font></i>[bleep]<i><font color="white"> Thomas Wayne.</font></i>
+
+934
+01:01:40,732 --> 01:01:42,566
+<i><font color="white"> That's what this whole</font></i> [bleep]
+<i><font color="white"> thing is about.</font></i>
+
+935
+01:01:42,700 --> 01:01:44,402
+[bleep]<i><font color="white"> the whole system.</font></i>
+
+936
+01:01:44,535 --> 01:01:45,736
+[Chuck]<i><font color="white"> Wayne,
+ who recently announced</font></i>
+
+937
+01:01:45,870 --> 01:01:47,104
+<i><font color="white"> he is running for mayor,</font></i>
+
+938
+01:01:47,238 --> 01:01:48,940
+<i><font color="white"> will be attending
+</font></i><i><font color="white"> the benefit.</font></i>
+
+939
+01:01:49,073 --> 01:01:51,075
+<i><font color="white"> You might remember
+ it was Thomas Wayne</font></i>
+
+940
+01:01:51,208 --> 01:01:52,577
+<i><font color="white"> who first referred to</font></i>
+
+941
+01:01:52,710 --> 01:01:55,413
+<i><font color="white"> many of Gotham's residents
+</font></i><i><font color="white"> as "clowns."</font></i>
+
+942
+01:01:55,547 --> 01:01:58,749
+<i><font color="white"> Today, he offered
+ little in the way
+</font></i><i><font color="white"> of an apology.</font></i>
+
+943
+01:01:58,883 --> 01:02:00,251
+<i><font color="white"> Well, what
+ I will say is,</font></i>
+
+944
+01:02:00,385 --> 01:02:01,719
+<i><font color="white"> there's something wrong
+</font></i><i><font color="white"> with those people.</font></i>
+
+945
+01:02:01,853 --> 01:02:03,187
+<i><font color="white"> I am here
+ to help them.</font></i>
+
+946
+01:02:03,321 --> 01:02:04,755
+<i><font color="white"> I'm gonna
+ lift them out of poverty,</font></i>
+
+947
+01:02:04,889 --> 01:02:06,023
+<i><font color="white"> help make
+ their lives better.</font></i>
+
+948
+01:02:06,157 --> 01:02:07,959
+<i><font color="white"> That is why
+ I'm running.</font></i>
+
+949
+01:02:08,093 --> 01:02:09,727
+<i><font color="white"> And they may not
+</font></i><i><font color="white"> realize it,
+ but I'm their only hope.</font></i>
+
+950
+01:02:09,860 --> 01:02:11,528
+[protesters shouting]
+
+951
+01:02:25,410 --> 01:02:28,212
+[protesters] Down with Wayne!
+      Down with Wayne!
+
+952
+01:02:28,346 --> 01:02:31,248
+Down with Wayne!
+Down with Wayne!
+
+953
+01:02:33,450 --> 01:02:35,218
+[shouting continues]
+
+954
+01:03:07,151 --> 01:03:08,952
+[lively music
+playing in cinema]
+
+955
+01:03:18,729 --> 01:03:21,498
+-[indistinct chattering]
+  -[audience laughing]
+
+956
+01:03:31,408 --> 01:03:33,310
+[audience continues laughing]
+
+957
+01:03:49,560 --> 01:03:53,063
+-[music continues]
+-[audience laughing]
+
+958
+01:03:57,868 --> 01:03:59,302
+[laughing]
+
+959
+01:04:39,109 --> 01:04:40,977
+[door opens]
+
+960
+01:05:05,903 --> 01:05:07,203
+[door closes]
+
+961
+01:05:11,742 --> 01:05:13,009
+Can I help you, pal?
+
+962
+01:05:15,012 --> 01:05:16,847
+I don't know
+what to say.
+
+963
+01:05:16,980 --> 01:05:18,615
+[flushing]
+
+964
+01:05:18,749 --> 01:05:20,117
+[Thomas chuckles]
+
+965
+01:05:20,251 --> 01:05:22,619
+Do you want
+an autograph
+or something?
+
+966
+01:05:22,753 --> 01:05:23,953
+No.
+
+967
+01:05:29,860 --> 01:05:31,494
+My name is Arthur.
+
+968
+01:05:32,963 --> 01:05:34,664
+Penny Fleck
+is my mother.
+
+969
+01:05:35,966 --> 01:05:37,702
+Jesus.
+
+970
+01:05:37,835 --> 01:05:39,736
+You're the guy
+   that came to
+my house yesterday.
+
+971
+01:05:41,238 --> 01:05:42,940
+-Yes.
+-[Thomas laughs]
+
+972
+01:05:43,073 --> 01:05:44,975
+I'm sorry
+I just showed up.
+
+973
+01:05:45,109 --> 01:05:46,410
+But my mother
+told me everything,
+
+974
+01:05:46,543 --> 01:05:48,279
+and I had
+to talk to you.
+
+975
+01:05:48,412 --> 01:05:50,915
+Look, pal,
+I'm not your father.
+
+976
+01:05:51,048 --> 01:05:52,615
+[chuckling]
+What's wrong with you?
+
+977
+01:05:54,151 --> 01:05:55,985
+Look at us.
+
+978
+01:05:57,187 --> 01:05:58,589
+I think you are.
+
+979
+01:05:58,722 --> 01:06:00,224
+Well, that's impossible
+
+980
+01:06:00,357 --> 01:06:01,525
+because you're adopted,
+
+981
+01:06:01,659 --> 01:06:03,327
+and I never slept with
+     your mother.
+
+982
+01:06:03,461 --> 01:06:04,595
+-I wasn't adopted.
+   -What do you
+  want from me?
+
+983
+01:06:04,728 --> 01:06:05,963
+-Money?
+-No, I don't...
+
+984
+01:06:06,096 --> 01:06:07,197
+I wasn't adopted.
+
+985
+01:06:07,331 --> 01:06:09,166
+Jesus.
+She never told you?
+
+986
+01:06:09,299 --> 01:06:11,001
+Told me what?
+
+987
+01:06:11,134 --> 01:06:12,737
+[sighs]
+
+988
+01:06:12,870 --> 01:06:14,171
+Your mother adopted you
+     while she was
+    working for us.
+
+989
+01:06:14,304 --> 01:06:15,973
+That's not true.
+
+990
+01:06:16,106 --> 01:06:17,308
+Why are you
+saying that?
+
+991
+01:06:17,441 --> 01:06:18,342
+Then she was arrested
+    and committed
+
+992
+01:06:18,475 --> 01:06:19,610
+to Arkham State Hospital,
+
+993
+01:06:19,743 --> 01:06:21,078
+when you were
+just a little boy.
+
+994
+01:06:21,211 --> 01:06:22,379
+Why are you
+saying this?
+
+995
+01:06:22,513 --> 01:06:24,047
+I don't need you to
+   tell me lies.
+
+996
+01:06:24,181 --> 01:06:25,416
+I know
+it seems strange.
+
+997
+01:06:25,549 --> 01:06:27,218
+I don't mean to
+make you uncomfortable.
+
+998
+01:06:27,351 --> 01:06:29,019
+I don't know
+why everyone
+ is so rude.
+
+999
+01:06:29,153 --> 01:06:30,321
+I don't know
+why you are.
+
+1000
+01:06:30,454 --> 01:06:31,856
+I don't want
+anything from you.
+
+1001
+01:06:31,989 --> 01:06:34,358
+Maybe a little
+ bit of warmth,
+maybe a hug, Dad!
+
+1002
+01:06:34,492 --> 01:06:36,493
+How about
+ just a little bit
+of fucking decency?
+
+1003
+01:06:36,627 --> 01:06:38,128
+What is it
+with you people?
+
+1004
+01:06:38,262 --> 01:06:40,430
+You say that stuff
+ about my mother.
+
+1005
+01:06:40,564 --> 01:06:41,798
+She's crazy.
+
+1006
+01:06:41,932 --> 01:06:44,200
+She's... [laughing]
+
+1007
+01:06:51,475 --> 01:06:53,176
+You think
+this is funny?
+
+1008
+01:06:54,478 --> 01:06:57,814
+Dad, it's me.
+  Come on.
+
+1009
+01:06:59,516 --> 01:07:00,384
+[groans]
+
+1010
+01:07:00,517 --> 01:07:01,652
+[Thomas] Touch
+ my son again,
+
+1011
+01:07:01,785 --> 01:07:03,286
+-I'll fucking kill you.
+      -[laughing]
+
+1012
+01:07:08,892 --> 01:07:09,826
+[door closes]
+
+1013
+01:07:09,960 --> 01:07:11,228
+[phone ringing]
+
+1014
+01:07:11,361 --> 01:07:13,096
+[Arthur laughing softly]
+
+1015
+01:07:21,271 --> 01:07:22,740
+[answering machine beeps]
+
+1016
+01:07:22,874 --> 01:07:25,676
+<i><font color="white"> Hello, Mr. Fleck.
+ This is Detective Garrity.</font></i>
+
+1017
+01:07:25,810 --> 01:07:28,079
+<i><font color="white"> We met the other night
+</font></i><i><font color="white"> at Gotham General.</font></i>
+
+1018
+01:07:28,212 --> 01:07:30,448
+<i><font color="white"> My partner and I
+</font></i><i><font color="white"> had a few more
+ questions for you.</font></i>
+
+1019
+01:07:30,582 --> 01:07:33,718
+<i><font color="white"> We stopped by
+ your apartment today,
+ but you weren't home.</font></i>
+
+1020
+01:07:33,851 --> 01:07:35,853
+<i><font color="white"> Please give me a call
+</font></i><i><font color="white"> when you get
+</font></i><i><font color="white"> this message.</font></i>
+
+1021
+01:07:35,986 --> 01:07:37,721
+<i><font color="white"> Again, Detective Garrity,</font></i>
+
+1022
+01:07:37,855 --> 01:07:42,258
+<i><font color="white"> and my number
+</font></i><i><font color="white"> is 212...99.</font></i>
+
+1023
+01:07:43,327 --> 01:07:44,527
+[answering machine beeps]
+
+1024
+01:08:11,855 --> 01:08:13,790
+[phone ringing]
+
+1025
+01:08:23,367 --> 01:08:24,835
+[answering machine beeps]
+
+1026
+01:08:24,969 --> 01:08:26,970
+[Shirley]<i><font color="white"> This message is
+</font></i><i><font color="white"> for Arthur Fleck.</font></i>
+
+1027
+01:08:27,104 --> 01:08:28,606
+<i><font color="white"> My name
+ is Shirley Woods.</font></i>
+
+1028
+01:08:28,739 --> 01:08:31,075
+<i><font color="white"> I work on
+ The Murray Franklin Show.</font></i>
+
+1029
+01:08:31,208 --> 01:08:32,576
+<i><font color="white"> I don't know
+ if you're aware,</font></i>
+
+1030
+01:08:32,710 --> 01:08:33,910
+<i><font color="white"> but Murray played
+ a clip of your stand-up</font></i>
+
+1031
+01:08:34,044 --> 01:08:35,913
+<i><font color="white"> on the show recently,</font></i>
+
+1032
+01:08:36,047 --> 01:08:38,249
+<i><font color="white"> and we have gotten
+ an amazing response
+</font></i><i><font color="white"> from our viewers.</font></i>
+
+1033
+01:08:38,383 --> 01:08:41,150
+<i><font color="white"> Murray asked me
+</font></i><i><font color="white"> to give you a call
+ and see if you're...</font></i>
+
+1034
+01:08:45,288 --> 01:08:46,557
+Who is this?
+
+1035
+01:08:46,690 --> 01:08:48,392
+<i><font color="white"> Oh, hi,
+ this is Shirley Woods.</font></i>
+
+1036
+01:08:48,526 --> 01:08:51,361
+<i><font color="white"> I'm the show booker from
+</font></i>Live with Murray Franklin.
+
+1037
+01:08:51,495 --> 01:08:52,729
+<i><font color="white"> Is this Arthur?</font></i>
+
+1038
+01:08:54,731 --> 01:08:56,033
+Yes.
+
+1039
+01:08:56,167 --> 01:08:57,935
+<i><font color="white"> Hi, Arthur.
+</font></i><i><font color="white"> Well, as
+ I was saying,</font></i>
+
+1040
+01:08:58,069 --> 01:08:59,903
+<i><font color="white"> we've gotten
+</font></i><i><font color="white"> a lot of calls
+ about your clip.</font></i>
+
+1041
+01:09:00,037 --> 01:09:01,672
+<i><font color="white"> Amazing responses.</font></i>
+
+1042
+01:09:01,806 --> 01:09:03,908
+<i><font color="white"> And Murray asked
+</font></i><i><font color="white"> if I would
+ reach out to you</font></i>
+
+1043
+01:09:04,041 --> 01:09:05,942
+<i><font color="white"> to see if you would
+ come on as his guest.</font></i>
+
+1044
+01:09:10,981 --> 01:09:14,284
+Murray wants me
+on The Murray Franklin Show?
+
+1045
+01:09:14,418 --> 01:09:16,220
+<i><font color="white"> Yeah.
+ Isn't that great?</font></i>
+
+1046
+01:09:16,354 --> 01:09:19,990
+<i><font color="white"> He'd love to talk to you,
+</font></i><i><font color="white"> maybe do
+</font></i><i><font color="white"> some of your act?</font></i>
+
+1047
+01:09:20,124 --> 01:09:22,458
+<i><font color="white"> That sound good
+</font></i><i><font color="white"> to you?</font></i>
+
+1048
+01:09:26,530 --> 01:09:28,566
+Yeah, that sounds great.
+
+1049
+01:09:28,699 --> 01:09:30,501
+<i><font color="white"> Can we set up
+</font></i><i><font color="white"> a date
+</font></i><i><font color="white"> right now?</font></i>
+
+1050
+01:09:30,634 --> 01:09:32,602
+<i><font color="white"> Are you available
+</font></i><i><font color="white"> next Thursday?</font></i>
+
+1051
+01:10:05,402 --> 01:10:06,869
+[inaudible]
+
+1052
+01:10:14,311 --> 01:10:16,379
+[indistinct announcement
+         on PA]
+
+1053
+01:10:25,188 --> 01:10:26,724
+[clerk] Hey.
+
+1054
+01:10:26,857 --> 01:10:29,827
+[sighs] Man,
+I'm sorry about that,
+       my man.
+
+1055
+01:10:29,961 --> 01:10:32,063
+All records 10 years
+or older, they store
+  in the basement,
+
+1056
+01:10:32,196 --> 01:10:35,598
+and you're talking
+  about something
+30 years ago, so...
+
+1057
+01:10:36,700 --> 01:10:38,868
+Can I ask you
+ a question?
+
+1058
+01:10:39,002 --> 01:10:40,504
+Sure.
+
+1059
+01:10:40,637 --> 01:10:45,509
+How does someone
+wind up in here?
+
+1060
+01:10:45,643 --> 01:10:49,613
+Have they all,
+ all the people
+committed crimes?
+
+1061
+01:10:49,746 --> 01:10:51,481
+Well, yeah, some have.
+
+1062
+01:10:51,615 --> 01:10:54,518
+You know,
+some are just crazy.
+
+1063
+01:10:54,651 --> 01:10:57,221
+Pose dangers to
+themselves and others.
+
+1064
+01:10:57,354 --> 01:10:58,756
+Some just got
+nowhere else to go.
+
+1065
+01:10:58,889 --> 01:11:00,958
+Don't know
+what to do,
+ you know?
+
+1066
+01:11:01,091 --> 01:11:04,762
+-Yeah.
+I hear you, brother.
+       -Hmm.
+
+1067
+01:11:04,895 --> 01:11:09,066
+Sometimes,
+I don't know
+what to do.
+
+1068
+01:11:09,200 --> 01:11:13,170
+Last time,
+  I ended up taking
+it out on some people.
+
+1069
+01:11:13,304 --> 01:11:17,407
+I thought it was
+  gonna bother me,
+but it really hasn't.
+
+1070
+01:11:18,475 --> 01:11:19,675
+What's that?
+
+1071
+01:11:20,911 --> 01:11:24,347
+I fucked up
+and did some
+ bad shit.
+
+1072
+01:11:24,481 --> 01:11:25,681
+[chuckles]
+
+1073
+01:11:28,352 --> 01:11:29,887
+You know
+what I'm talking about,
+
+1074
+01:11:30,020 --> 01:11:34,991
+it's so hard
+   to just try and
+be happy all the time.
+
+1075
+01:11:37,060 --> 01:11:39,496
+Hey, listen, man.
+
+1076
+01:11:39,630 --> 01:11:41,131
+I'm just
+an administrative assistant.
+
+1077
+01:11:41,265 --> 01:11:42,666
+Like a clerk,
+  you know.
+
+1078
+01:11:42,799 --> 01:11:44,667
+All I do
+is file paperwork.
+
+1079
+01:11:45,569 --> 01:11:47,337
+I don't know
+what to tell you.
+
+1080
+01:11:47,471 --> 01:11:49,306
+But you should
+ see somebody.
+
+1081
+01:11:49,439 --> 01:11:50,574
+You know,
+they got programs,
+
+1082
+01:11:50,707 --> 01:11:53,343
+city services,
+stuff like that.
+
+1083
+01:11:53,476 --> 01:11:54,778
+Oh, yeah.
+
+1084
+01:11:54,912 --> 01:11:56,612
+[in high-pitched voice]
+  They cut all those.
+
+1085
+01:11:57,247 --> 01:11:58,781
+[clerk laughs]
+
+1086
+01:12:01,552 --> 01:12:03,553
+All right,
+here it is.
+  Fleck.
+
+1087
+01:12:03,687 --> 01:12:06,423
+Penny Fleck.
+ Let's see.
+
+1088
+01:12:06,557 --> 01:12:11,328
+Diagnosed by
+Dr. Benjamin Stoner.
+
+1089
+01:12:11,462 --> 01:12:15,699
+Oh. "The patient
+    suffers from
+delusional psychosis
+
+1090
+01:12:15,833 --> 01:12:19,736
+and narcissistic
+personality disorder."
+         Mmm.
+
+1091
+01:12:19,870 --> 01:12:21,571
+"Was found guilty
+ of endangering
+
+1092
+01:12:21,705 --> 01:12:25,441
+the welfare
+of her own child."
+
+1093
+01:12:33,483 --> 01:12:34,684
+What?
+
+1094
+01:12:37,821 --> 01:12:39,589
+You said
+she's your mother.
+
+1095
+01:12:44,360 --> 01:12:46,030
+Uh...
+
+1096
+01:12:46,163 --> 01:12:47,931
+I'm sorry, man.
+ Like I said, I can't
+release these records,
+
+1097
+01:12:48,065 --> 01:12:51,301
+you know,
+without proper forms.
+
+1098
+01:12:51,435 --> 01:12:53,671
+I could
+get in trouble.
+
+1099
+01:12:53,804 --> 01:12:56,039
+Look, if you want
+to bring your mom
+ in here to sign,
+
+1100
+01:12:56,173 --> 01:12:57,775
+that'll be much easier,
+
+1101
+01:12:57,908 --> 01:13:00,343
+but I can't
+let this go without
+her signature, okay?
+
+1102
+01:13:00,477 --> 01:13:01,677
+I'm sorry.
+
+1103
+01:13:05,615 --> 01:13:08,318
+No, man! Shit!
+
+1104
+01:13:08,452 --> 01:13:10,553
+Come on, man.
+ Give it...
+
+1105
+01:13:11,287 --> 01:13:13,723
+Hey! Hey!
+
+1106
+01:13:25,535 --> 01:13:27,203
+[panting]
+
+1107
+01:13:48,024 --> 01:13:49,025
+[door closes]
+
+1108
+01:14:11,482 --> 01:14:15,152
+[Stoner]<i><font color="white"> We went
+ over this, Penny.
+</font></i><i><font color="white"> You adopted him.</font></i>
+
+1109
+01:14:15,286 --> 01:14:17,654
+<i><font color="white"> We have
+ all the paperwork
+</font></i><i><font color="white"> right here.</font></i>
+
+1110
+01:14:17,788 --> 01:14:19,990
+[Young Penny]
+<i><font color="white"> That's not true.</font></i>
+
+1111
+01:14:20,123 --> 01:14:22,492
+Thomas had that
+ all made up,
+
+1112
+01:14:22,626 --> 01:14:25,528
+so it stayed
+ our secret.
+
+1113
+01:14:25,662 --> 01:14:26,930
+[gasps]
+
+1114
+01:14:27,064 --> 01:14:29,966
+[Stoner]<i><font color="white"> You also
+</font></i><i><font color="white"> stood by</font></i>
+
+1115
+01:14:30,100 --> 01:14:31,501
+while one
+of your boyfriends
+
+1116
+01:14:31,635 --> 01:14:35,204
+repeatedly abused
+ your adopted son
+
+1117
+01:14:36,506 --> 01:14:37,707
+and battered you.
+
+1118
+01:14:42,378 --> 01:14:43,813
+[laughing]
+
+1119
+01:14:57,327 --> 01:14:59,129
+Penny,
+
+1120
+01:14:59,263 --> 01:15:03,166
+your son
+was found tied
+to a radiator
+
+1121
+01:15:03,300 --> 01:15:05,636
+in your filthy apartment.
+
+1122
+01:15:05,769 --> 01:15:08,371
+Malnourished with multiple
+ bruises across his body
+
+1123
+01:15:08,505 --> 01:15:10,440
+and severe trauma
+  to his head.
+
+1124
+01:15:10,573 --> 01:15:12,309
+[Arthur laughing]
+
+1125
+01:15:12,443 --> 01:15:15,012
+[Young Penny]
+I never heard
+  him cry.
+
+1126
+01:15:15,145 --> 01:15:18,914
+He's always been
+  such a happy
+  little boy.
+
+1127
+01:15:19,649 --> 01:15:21,217
+[laughing tearfully]
+
+1128
+01:15:34,430 --> 01:15:36,265
+[crying]
+
+1129
+01:15:50,947 --> 01:15:52,148
+[elevator bell dings]
+
+1130
+01:17:17,868 --> 01:17:19,669
+-[GiGi whines]
+-[Sophie shushing]
+
+1131
+01:17:19,803 --> 01:17:21,337
+[Sophie] It's time
+     for bed.
+
+1132
+01:17:22,539 --> 01:17:23,739
+[door closes]
+
+1133
+01:17:24,741 --> 01:17:26,376
+[gasps] Oh, my God!
+
+1134
+01:17:26,510 --> 01:17:28,711
+-What are you
+  doing in here?
+-[thunder rumbling]
+
+1135
+01:17:30,881 --> 01:17:32,982
+You're in the
+wrong apartment.
+
+1136
+01:17:39,489 --> 01:17:41,624
+Your name's Arthur, right?
+
+1137
+01:17:41,758 --> 01:17:43,125
+You live
+down the hall.
+
+1138
+01:17:46,096 --> 01:17:48,130
+I really
+need you to leave.
+
+1139
+01:17:52,169 --> 01:17:55,337
+My little girl
+   is sleeping
+in the other room.
+
+1140
+01:18:00,443 --> 01:18:01,710
+Please.
+
+1141
+01:18:04,247 --> 01:18:06,448
+I had a bad day.
+
+1142
+01:18:09,119 --> 01:18:11,921
+Can I call someone?
+Is your mother home?
+
+1143
+01:18:31,874 --> 01:18:33,075
+[gasps]
+
+1144
+01:18:34,711 --> 01:18:35,978
+[chuckling]
+
+1145
+01:18:49,392 --> 01:18:50,392
+[door closes]
+
+1146
+01:19:01,704 --> 01:19:03,172
+[laughing]
+
+1147
+01:19:08,578 --> 01:19:09,778
+[sniffling]
+
+1148
+01:19:12,882 --> 01:19:14,450
+[laughing]
+
+1149
+01:19:19,489 --> 01:19:21,090
+[sirens wailing]
+
+1150
+01:19:29,232 --> 01:19:31,400
+[continues laughing]
+
+1151
+01:19:37,941 --> 01:19:39,809
+-[banging on wall]
+ -[man] Shut up!
+
+1152
+01:19:39,943 --> 01:19:42,244
+[continues laughing]
+
+1153
+01:19:47,917 --> 01:19:50,419
+[heart monitor beeping]
+
+1154
+01:19:58,861 --> 01:20:00,396
+Hey, Penny.
+
+1155
+01:20:02,765 --> 01:20:04,233
+Penny Fleck.
+
+1156
+01:20:12,175 --> 01:20:14,243
+I always hated
+  that name.
+
+1157
+01:20:17,547 --> 01:20:19,882
+You know
+how you used
+ to tell me
+
+1158
+01:20:21,518 --> 01:20:24,420
+that my laugh
+was a condition?
+
+1159
+01:20:25,655 --> 01:20:28,123
+That there was
+something wrong
+   with me?
+
+1160
+01:20:30,993 --> 01:20:32,361
+There isn't.
+
+1161
+01:20:35,064 --> 01:20:37,066
+That's the real me.
+
+1162
+01:20:37,200 --> 01:20:39,001
+[Penny, weakly] Happy.
+
+1163
+01:20:40,970 --> 01:20:43,539
+Happy. Hmm.
+
+1164
+01:20:46,809 --> 01:20:49,379
+I haven't been happy
+
+1165
+01:20:49,512 --> 01:20:52,114
+one minute of
+my entire fucking life.
+
+1166
+01:20:58,888 --> 01:21:00,422
+You know
+what's funny?
+
+1167
+01:21:03,026 --> 01:21:05,060
+You know
+  what really
+makes me laugh?
+
+1168
+01:21:07,164 --> 01:21:09,898
+I used to think
+  that my life
+was a tragedy...
+
+1169
+01:21:10,433 --> 01:21:11,167
+[grunts]
+
+1170
+01:21:11,300 --> 01:21:13,503
+...but now I realize
+
+1171
+01:21:13,636 --> 01:21:15,304
+it's a fucking comedy.
+
+1172
+01:21:16,139 --> 01:21:17,273
+[muffled grunting]
+
+1173
+01:21:17,407 --> 01:21:19,274
+[heart monitor
+beeping rapidly]
+
+1174
+01:21:20,576 --> 01:21:23,078
+[Penny fighting]
+
+1175
+01:21:29,585 --> 01:21:31,253
+[muffled screaming]
+
+1176
+01:21:40,363 --> 01:21:42,231
+[heart monitor
+stops beeping]
+
+1177
+01:21:58,681 --> 01:22:00,015
+[exhales]
+
+1178
+01:22:07,157 --> 01:22:09,258
+-[music playing]
+-[audience applauding]
+
+1179
+01:22:10,927 --> 01:22:12,996
+[fast-forwarding]
+
+1180
+01:22:13,129 --> 01:22:14,997
+-[music playing]
+-[audience applauding]
+
+1181
+01:22:23,139 --> 01:22:24,540
+[fast-forwarding]
+
+1182
+01:22:25,541 --> 01:22:27,177
+[Murray]<i><font color="white"> A very fine actor.</font></i>
+
+1183
+01:22:27,310 --> 01:22:29,813
+<i><font color="white"> He's got a new movie
+ called</font></i> American Playboy
+
+1184
+01:22:29,946 --> 01:22:31,848
+<i><font color="white"> opening this week
+ across the country.</font></i>
+
+1185
+01:22:31,982 --> 01:22:33,983
+<i><font color="white"> Will you
+ please welcome
+ a good friend</font></i>
+
+1186
+01:22:34,117 --> 01:22:36,119
+<i><font color="white"> of the show,
+ Mr. Ethan Chase.</font></i>
+
+1187
+01:22:36,252 --> 01:22:38,620
+-[music playing]
+-[audience applauding]
+
+1188
+01:22:55,739 --> 01:22:57,674
+<i><font color="white"> Good to see you, Ethan.
+</font></i><i><font color="white"> You're looking
+</font></i><i><font color="white"> great, Ethan.</font></i>
+
+1189
+01:22:57,808 --> 01:22:59,475
+[Ethan]<i><font color="white"> Thank you very much.
+</font></i><i><font color="white"> You're looking
+</font></i><i><font color="white"> good yourself.</font></i>
+
+1190
+01:22:59,609 --> 01:23:01,211
+[Murray]<i><font color="white"> Ah,
+ can't complain.</font></i>
+
+1191
+01:23:01,344 --> 01:23:03,645
+Hey, Murray.
+Thanks so much
+for having...
+
+1192
+01:23:04,914 --> 01:23:06,383
+Hey, Murray.
+
+1193
+01:23:06,516 --> 01:23:08,418
+Thank you so much
+  for having me
+  on the show.
+
+1194
+01:23:08,551 --> 01:23:11,053
+It's been
+a lifelong dream
+    of mine.
+
+1195
+01:23:12,889 --> 01:23:14,290
+[Murray]<i><font color="white"> I'm nervous
+</font></i><i><font color="white"> right now.</font></i>
+
+1196
+01:23:14,424 --> 01:23:15,759
+[audience laughing on video]
+
+1197
+01:23:15,892 --> 01:23:18,161
+-[Ethan]<i><font color="white"> You are?
+</font></i>-[Murray]<i><font color="white"> I am nervous.</font></i>
+
+1198
+01:23:18,294 --> 01:23:20,429
+Hey, Murray.
+I've been on...
+
+1199
+01:23:20,563 --> 01:23:21,797
+[muttering]
+
+1200
+01:23:22,898 --> 01:23:24,634
+[sighs]
+
+1201
+01:23:24,767 --> 01:23:25,767
+[continues muttering]
+
+1202
+01:23:33,276 --> 01:23:35,043
+I'm sorry.
+What's that?
+
+1203
+01:23:36,145 --> 01:23:38,180
+Oh, that's
+very funny, Murray.
+
+1204
+01:23:39,215 --> 01:23:41,350
+You know,
+I'm also a comedian.
+
+1205
+01:23:41,484 --> 01:23:42,852
+Would you like
+to hear a joke?
+
+1206
+01:23:42,985 --> 01:23:43,953
+[audience cheering]
+
+1207
+01:23:44,087 --> 01:23:46,722
+Yeah?
+All of you?
+
+1208
+01:23:46,856 --> 01:23:48,056
+Okay.
+
+1209
+01:23:50,893 --> 01:23:51,894
+Knock...
+
+1210
+01:23:52,028 --> 01:23:53,328
+Knock, knock.
+
+1211
+01:23:55,898 --> 01:23:57,299
+[audience gasps]
+
+1212
+01:24:01,738 --> 01:24:03,405
+-[chuckles]
+-[audience laughing]
+
+1213
+01:24:07,043 --> 01:24:08,477
+Knock, knock.
+
+1214
+01:24:09,979 --> 01:24:11,514
+[gun clicks]
+
+1215
+01:24:11,648 --> 01:24:13,983
+-[audience laughing]
+  -[gun clatters]
+
+1216
+01:24:14,116 --> 01:24:16,118
+[audience applauding]
+
+1217
+01:24:18,154 --> 01:24:20,088
+["That's Life" playing]
+
+1218
+01:25:47,410 --> 01:25:49,544
+-[doorbell buzzing]
+-[music continues playing]
+
+1219
+01:26:03,025 --> 01:26:04,493
+[doorbell buzzing insistently]
+
+1220
+01:26:05,761 --> 01:26:06,828
+Coming.
+
+1221
+01:26:17,907 --> 01:26:19,241
+[Gary] Hey, Arthur.
+
+1222
+01:26:19,375 --> 01:26:20,575
+How's it going?
+
+1223
+01:26:21,377 --> 01:26:23,112
+Oh, hey, guys.
+
+1224
+01:26:23,245 --> 01:26:24,580
+Come on in.
+
+1225
+01:26:24,714 --> 01:26:26,214
+Did you get
+ a new gig?
+
+1226
+01:26:26,782 --> 01:26:28,184
+No.
+
+1227
+01:26:28,318 --> 01:26:31,554
+Oh, you must be
+     going down to
+that rally at City Hall.
+
+1228
+01:26:31,687 --> 01:26:33,422
+I hear
+it's gonna be nuts.
+
+1229
+01:26:33,556 --> 01:26:35,424
+Oh, is that today?
+
+1230
+01:26:35,991 --> 01:26:37,593
+Yeah.
+
+1231
+01:26:37,727 --> 01:26:39,461
+What's with
+the makeup then?
+
+1232
+01:26:40,830 --> 01:26:42,231
+My mom died.
+
+1233
+01:26:42,364 --> 01:26:43,732
+I'm celebrating.
+
+1234
+01:26:44,467 --> 01:26:45,468
+Right. We heard.
+
+1235
+01:26:45,601 --> 01:26:47,237
+That's why
+we came by.
+
+1236
+01:26:47,370 --> 01:26:50,039
+We figured, you know,
+    you could use
+  some cheering up.
+
+1237
+01:26:50,172 --> 01:26:51,874
+[Arthur] Aw, that's sweet.
+
+1238
+01:26:52,008 --> 01:26:55,411
+But, no, I feel good.
+
+1239
+01:26:55,545 --> 01:26:57,246
+Yeah, I stopped
+taking my medication.
+
+1240
+01:26:57,380 --> 01:26:59,281
+I feel
+a lot better now.
+
+1241
+01:27:01,184 --> 01:27:03,785
+Oh, okay.
+Good for you.
+
+1242
+01:27:05,688 --> 01:27:08,591
+So, hey, listen,
+  I don't know
+ if you heard,
+
+1243
+01:27:08,725 --> 01:27:11,728
+but the cops
+have been coming
+around the shop,
+
+1244
+01:27:11,861 --> 01:27:15,765
+talking to all the guys
+      about those
+    subway murders.
+
+1245
+01:27:15,899 --> 01:27:17,933
+-And, um...
+-They didn't
+ talk to me.
+
+1246
+01:27:19,702 --> 01:27:22,739
+That's because
+    the suspect was
+a regular-sized person.
+
+1247
+01:27:22,873 --> 01:27:25,674
+If it was
+     a fucking midget,
+you'd be in jail right now.
+
+1248
+01:27:26,509 --> 01:27:28,310
+[Arthur laughing]
+
+1249
+01:27:31,313 --> 01:27:32,515
+Anyway, um,
+
+1250
+01:27:32,648 --> 01:27:36,652
+Hoyt said
+that they talked
+    to you,
+
+1251
+01:27:36,786 --> 01:27:38,154
+and now
+they're looking for me,
+
+1252
+01:27:38,287 --> 01:27:39,755
+and I just wanna know
+   what you said.
+
+1253
+01:27:39,889 --> 01:27:41,624
+Make sure
+our stories line up.
+
+1254
+01:27:41,758 --> 01:27:44,594
+-Seeing as how
+     you're my boy.
+-Yeah, that's important.
+
+1255
+01:27:44,728 --> 01:27:46,462
+-That makes
+   a lot of sense.
+-You know what I mean?
+
+1256
+01:27:46,596 --> 01:27:48,664
+Thank you, Randall.
+ Thank you so much.
+
+1257
+01:27:48,798 --> 01:27:50,065
+-[Randall groaning]
+ -[Gary screaming]
+
+1258
+01:27:54,170 --> 01:27:55,571
+[Gary] Arthur!
+
+1259
+01:27:55,705 --> 01:27:57,372
+-No!
+-[Randall's head thudding]
+
+1260
+01:27:58,440 --> 01:27:59,641
+What?
+
+1261
+01:28:00,909 --> 01:28:01,910
+No!
+
+1262
+01:28:03,412 --> 01:28:04,846
+-[Arthur panting]
+ -[Gary sobbing]
+
+1263
+01:28:09,652 --> 01:28:11,721
+Why would
+you do that, Arthur?
+
+1264
+01:28:11,855 --> 01:28:14,556
+-[breathing rapidly]
+-[Gary continues sobbing]
+
+1265
+01:28:32,775 --> 01:28:34,844
+Do you watch
+The Murray Franklin Show?
+
+1266
+01:28:34,977 --> 01:28:36,711
+-[Gary whimpering]
+      -Yeah.
+
+1267
+01:28:37,780 --> 01:28:39,882
+I'm gonna be
+ on tonight.
+
+1268
+01:28:40,015 --> 01:28:41,650
+[whimpering]
+
+1269
+01:28:43,853 --> 01:28:45,788
+[in cockney accent]
+It fucking crazy, innit?
+
+1270
+01:28:45,921 --> 01:28:47,789
+Me on the telly.
+
+1271
+01:28:49,625 --> 01:28:51,793
+What the fuck, Arthur?
+
+1272
+01:28:52,795 --> 01:28:54,062
+[normal voice] What?
+
+1273
+01:28:59,068 --> 01:29:00,469
+It's okay, Gary.
+
+1274
+01:29:00,603 --> 01:29:01,870
+You can go.
+
+1275
+01:29:02,004 --> 01:29:03,004
+[Gary groaning]
+
+1276
+01:29:04,273 --> 01:29:05,974
+I'm not gonna
+  hurt you.
+
+1277
+01:29:08,944 --> 01:29:10,379
+Oh!
+
+1278
+01:29:10,513 --> 01:29:12,781
+Don't look.
+ Just go.
+
+1279
+01:29:17,453 --> 01:29:18,653
+[Arthur yells]
+
+1280
+01:29:19,588 --> 01:29:21,122
+[whimpering]
+
+1281
+01:29:25,227 --> 01:29:26,428
+[crying] Fuck.
+
+1282
+01:29:27,162 --> 01:29:28,530
+[sighs tearfully]
+
+1283
+01:29:31,467 --> 01:29:32,801
+Hey, Arthur?
+
+1284
+01:29:32,935 --> 01:29:34,771
+Yeah?
+
+1285
+01:29:34,904 --> 01:29:37,639
+[stammering]
+Arthur, can you
+ get the lock?
+
+1286
+01:29:40,609 --> 01:29:42,044
+Shit.
+
+1287
+01:29:42,177 --> 01:29:43,745
+Sorry, Gary.
+
+1288
+01:29:54,523 --> 01:29:55,757
+Gary?
+
+1289
+01:29:55,891 --> 01:29:56,892
+Yeah.
+
+1290
+01:29:59,128 --> 01:30:01,997
+You were
+the only one that was
+  ever nice to me.
+
+1291
+01:30:04,066 --> 01:30:05,433
+Skedaddle.
+
+1292
+01:30:09,204 --> 01:30:10,539
+[exhales]
+
+1293
+01:30:14,376 --> 01:30:16,545
+[rock music playing]
+
+1294
+01:30:20,749 --> 01:30:21,950
+[elevator bell dings]
+
+1295
+01:31:01,590 --> 01:31:03,625
+[sinister music playing]
+
+1296
+01:31:32,421 --> 01:31:33,689
+Hey, Arthur!
+
+1297
+01:31:33,822 --> 01:31:35,390
+We need to talk.
+
+1298
+01:31:35,524 --> 01:31:36,558
+[Arthur] Oh!
+
+1299
+01:31:36,692 --> 01:31:38,893
+Hey! Stop, Arthur!
+
+1300
+01:31:44,233 --> 01:31:45,300
+[Garrity] Arthur!
+
+1301
+01:31:47,770 --> 01:31:49,671
+Watch it!
+Out of the way!
+
+1302
+01:31:52,608 --> 01:31:53,808
+[Burke] Move!
+
+1303
+01:31:55,611 --> 01:31:56,811
+-[horns honking]
+    -Arthur!
+
+1304
+01:31:57,646 --> 01:31:59,047
+Shit.
+
+1305
+01:32:01,350 --> 01:32:02,617
+[detectives] Hey! Hey!
+
+1306
+01:32:09,458 --> 01:32:10,659
+[Garrity] Arthur, stop!
+
+1307
+01:32:16,231 --> 01:32:17,232
+[Burke] Go! Go!
+
+1308
+01:32:18,968 --> 01:32:21,236
+[announcer on PA]<i><font color="white"> Now
+ departing, O-Train,
+</font></i><i><font color="white"> downtown.</font></i>
+
+1309
+01:32:23,005 --> 01:32:25,006
+<i><font color="white"> Stand clear of
+ the closing doors.</font></i>
+
+1310
+01:32:27,209 --> 01:32:28,209
+[panting]
+
+1311
+01:32:34,350 --> 01:32:37,052
+Hold that train!
+    Hold it!
+
+1312
+01:32:38,787 --> 01:32:40,923
+Get out!
+Get outta here!
+
+1313
+01:32:41,057 --> 01:32:42,891
+[announcer on PA]
+<i><font color="white"> Next stop, Bedford Park.</font></i>
+
+1314
+01:32:51,600 --> 01:32:52,967
+[crowd yelling]
+
+1315
+01:32:57,272 --> 01:32:58,273
+Masks off!
+
+1316
+01:32:58,407 --> 01:32:59,908
+Get your mask off!
+
+1317
+01:33:00,576 --> 01:33:02,377
+Signs down! Now!
+
+1318
+01:33:11,520 --> 01:33:13,088
+Police! Signs down!
+
+1319
+01:33:14,223 --> 01:33:15,290
+Signs down.
+
+1320
+01:33:19,862 --> 01:33:21,196
+What the fuck!
+
+1321
+01:33:22,364 --> 01:33:23,799
+[both grunting]
+
+1322
+01:33:23,933 --> 01:33:25,300
+-[man] Beat his ass!
+ -[crowd shouting]
+
+1323
+01:33:31,874 --> 01:33:33,508
+Stop fighting! Police!
+
+1324
+01:33:33,642 --> 01:33:35,944
+Police! Get down!
+
+1325
+01:33:37,880 --> 01:33:40,181
+Get down!
+Get the fuck back!
+
+1326
+01:33:41,049 --> 01:33:42,250
+Police! Get down.
+
+1327
+01:33:42,985 --> 01:33:44,285
+Get the fuck down!
+
+1328
+01:33:48,858 --> 01:33:51,393
+Stay the fuck back!
+       Down!
+
+1329
+01:33:51,827 --> 01:33:53,161
+[gunshot]
+
+1330
+01:33:53,295 --> 01:33:54,295
+[groans]
+
+1331
+01:33:54,897 --> 01:33:56,097
+What the...
+
+1332
+01:33:59,401 --> 01:34:00,735
+Arthur!
+
+1333
+01:34:00,869 --> 01:34:02,004
+Burke!
+
+1334
+01:34:02,138 --> 01:34:03,472
+-[Arthur laughing]
+ -[crowd shouting]
+
+1335
+01:34:03,605 --> 01:34:05,173
+Don't do it!
+
+1336
+01:34:17,586 --> 01:34:18,787
+[laughs]
+
+1337
+01:34:54,857 --> 01:34:56,258
+<i><font color="white"> Two officers on the train</font></i>
+
+1338
+01:34:56,392 --> 01:34:57,593
+<i><font color="white"> were violently confronted
+</font></i><i><font color="white"> by the crowd,</font></i>
+
+1339
+01:34:57,726 --> 01:34:59,128
+<i><font color="white"> and tonight are in serious</font></i>
+
+1340
+01:34:59,262 --> 01:35:01,330
+<i><font color="white"> but stable condition
+ at Gotham Metropolitan.</font></i>
+
+1341
+01:35:01,464 --> 01:35:03,532
+-[laughs]
+<i><font color="white"> -We're going
+ live now to</font></i>
+
+1342
+01:35:03,666 --> 01:35:05,268
+<i><font color="white"> co-anchor Courtney Weathers,</font></i>
+
+1343
+01:35:05,401 --> 01:35:07,002
+<i><font color="white"> who's standing by outside
+ the Bedford Park Station,</font></i>
+
+1344
+01:35:07,136 --> 01:35:09,005
+<i><font color="white"> near where the shooting
+</font></i><i><font color="white"> took place.</font></i>
+
+1345
+01:35:09,138 --> 01:35:10,972
+<i><font color="white"> Courtney,
+</font></i><i><font color="white"> what's the
+ scene there?</font></i>
+
+1346
+01:35:11,106 --> 01:35:12,374
+[knocking on door]
+
+1347
+01:35:12,507 --> 01:35:13,508
+[door opens]
+
+1348
+01:35:16,244 --> 01:35:17,246
+Murray.
+
+1349
+01:35:17,379 --> 01:35:18,881
+Hey, hey, hey.
+It's Mr. Franklin, buddy.
+
+1350
+01:35:19,014 --> 01:35:21,516
+Oh, come on, Gene.
+That's all bullshit.
+
+1351
+01:35:22,584 --> 01:35:23,952
+Thank you, Murray.
+
+1352
+01:35:24,920 --> 01:35:26,989
+I feel like
+I know you.
+
+1353
+01:35:27,122 --> 01:35:29,191
+I've been
+watching you forever.
+
+1354
+01:35:29,324 --> 01:35:30,425
+Thank you.
+
+1355
+01:35:30,559 --> 01:35:31,860
+What's with the face?
+
+1356
+01:35:31,994 --> 01:35:34,095
+I mean,
+ are you part
+of the protest?
+
+1357
+01:35:34,229 --> 01:35:35,197
+No.
+
+1358
+01:35:35,331 --> 01:35:37,599
+No, I don't believe
+  in any of that.
+
+1359
+01:35:37,733 --> 01:35:39,568
+I don't believe
+ in anything.
+
+1360
+01:35:39,702 --> 01:35:41,537
+I just thought
+ it'd be good
+ for my act.
+
+1361
+01:35:41,670 --> 01:35:43,239
+For your act?
+Didn't you hear
+
+1362
+01:35:43,372 --> 01:35:44,940
+what happened
+    on the subway?
+Some clown got killed.
+
+1363
+01:35:45,074 --> 01:35:46,375
+He's aware of that.
+He's aware of that. Yeah.
+
+1364
+01:35:46,508 --> 01:35:47,943
+No, I hadn't heard.
+
+1365
+01:35:48,077 --> 01:35:49,278
+-Yeah.
+-You see? This is
+
+1366
+01:35:49,411 --> 01:35:50,813
+what I'm telling you.
+   The audience is
+
+1367
+01:35:50,946 --> 01:35:52,081
+gonna go crazy
+if you put this guy on.
+
+1368
+01:35:52,214 --> 01:35:53,949
+Maybe for a bit,
+but not a whole segment.
+
+1369
+01:35:54,083 --> 01:35:56,752
+Gene, it's gonna work.
+   It's gonna work.
+
+1370
+01:35:56,886 --> 01:35:59,421
+-We're gonna
+       go with it.
+-[Arthur and Murray laugh]
+
+1371
+01:35:59,554 --> 01:36:00,889
+Thank you, Murray.
+
+1372
+01:36:01,023 --> 01:36:02,191
+Couple rules, though.
+
+1373
+01:36:02,324 --> 01:36:04,059
+No cursing.
+No off-color material.
+
+1374
+01:36:04,192 --> 01:36:05,761
+We do a clean show.
+
+1375
+01:36:05,894 --> 01:36:07,062
+-Okay?
+-Mmm-hmm.
+
+1376
+01:36:07,196 --> 01:36:08,697
+You'll go on
+right after Dr. Sally.
+
+1377
+01:36:08,830 --> 01:36:09,832
+I love Dr. Sally.
+
+1378
+01:36:09,965 --> 01:36:11,267
+Good, good.
+Someone will
+
+1379
+01:36:11,400 --> 01:36:13,635
+-come and
+get you, okay?
+-Okay. Perfect.
+
+1380
+01:36:13,769 --> 01:36:14,803
+Good luck.
+
+1381
+01:36:14,937 --> 01:36:16,137
+-Thanks, Murray.
+     -Okay.
+
+1382
+01:36:17,139 --> 01:36:20,275
+-Murray, one small thing.
+         -Yeah.
+
+1383
+01:36:20,409 --> 01:36:22,144
+When you
+bring me out,
+
+1384
+01:36:22,277 --> 01:36:24,179
+can you
+introduce me as Joker?
+
+1385
+01:36:24,313 --> 01:36:26,448
+What's wrong
+with your real name?
+
+1386
+01:36:26,582 --> 01:36:29,184
+That's what
+you called me
+on the show.
+
+1387
+01:36:29,317 --> 01:36:30,418
+A joker.
+
+1388
+01:36:30,552 --> 01:36:31,720
+Do you remember?
+
+1389
+01:36:31,854 --> 01:36:33,656
+-Did I?
+-[Gene] I don't know.
+
+1390
+01:36:33,789 --> 01:36:36,258
+Well, if you say so,
+   kid, you know,
+    Joker it is.
+
+1391
+01:36:36,391 --> 01:36:37,392
+It's good.
+
+1392
+01:36:37,526 --> 01:36:38,593
+Thanks, Murray.
+
+1393
+01:36:51,440 --> 01:36:52,607
+[gun clicks]
+
+1394
+01:37:00,449 --> 01:37:02,017
+[Murray] I'll try it,
+      you know,
+
+1395
+01:37:02,151 --> 01:37:03,752
+but I'm not sure
+  my wife will
+ let me do it.
+
+1396
+01:37:03,885 --> 01:37:05,053
+[audience laughing]
+
+1397
+01:37:05,187 --> 01:37:06,522
+Maybe my next wife.
+
+1398
+01:37:06,655 --> 01:37:08,389
+-[Murray laughing]
+-[audience cheering]
+
+1399
+01:37:10,226 --> 01:37:12,027
+You gotta see
+our next guest
+ for yourself.
+
+1400
+01:37:12,161 --> 01:37:14,329
+I'm pretty sure
+     this guy
+could use a doctor.
+
+1401
+01:37:14,463 --> 01:37:15,664
+-[audience laughing]
+  -[Dr. Sally] Oh!
+
+1402
+01:37:15,798 --> 01:37:17,433
+Does he have
+sexual problems?
+
+1403
+01:37:17,567 --> 01:37:19,634
+[Murray] Oh, he looks
+    like he's got
+ a lot of problems.
+
+1404
+01:37:19,768 --> 01:37:21,370
+[audience laughing]
+
+1405
+01:37:21,504 --> 01:37:23,639
+All right, Bobby,
+let's show that clip
+   one last time.
+
+1406
+01:37:23,772 --> 01:37:25,473
+[Arthur laughing
+   on video]
+
+1407
+01:37:29,712 --> 01:37:33,014
+[Arthur]
+<i><font color="white"> I hated school
+</font></i><i><font color="white"> as a kid.</font></i>
+
+1408
+01:37:34,450 --> 01:37:37,486
+<i><font color="white"> But my mother
+ would always say,</font></i>
+
+1409
+01:37:37,620 --> 01:37:39,388
+[imitates Penny]
+<i><font color="white"> "You should enjoy it.</font></i>
+
+1410
+01:37:39,522 --> 01:37:42,191
+<i><font color="white"> One day,
+</font></i><i><font color="white"> you'll have to
+ work for a living."</font></i>
+
+1411
+01:37:42,324 --> 01:37:43,459
+[normal voice]
+<i><font color="white"> "No, I won't, Ma.</font></i>
+
+1412
+01:37:43,592 --> 01:37:45,627
+<i><font color="white"> I'm gonna be
+ a comedian."</font></i>
+
+1413
+01:37:45,761 --> 01:37:47,628
+[Arthur laughing on video]
+
+1414
+01:37:51,734 --> 01:37:55,404
+-[Murray] Okay.
+     You may...
+-[audience laughing]
+
+1415
+01:37:55,538 --> 01:37:58,741
+You may have seen
+    that clip
+of our next guest.
+
+1416
+01:37:58,874 --> 01:38:01,376
+Now, before
+  he comes out,
+I just want to say
+
+1417
+01:38:01,510 --> 01:38:03,045
+that we're
+all heartbroken
+
+1418
+01:38:03,179 --> 01:38:05,147
+about what's going on
+ in the city tonight.
+
+1419
+01:38:05,281 --> 01:38:07,516
+But this is
+how he wanted
+to come out,
+
+1420
+01:38:07,650 --> 01:38:11,019
+and honestly,
+  I think we could
+all use a good laugh.
+
+1421
+01:38:11,153 --> 01:38:14,323
+So, please welcome, Joker.
+
+1422
+01:38:14,456 --> 01:38:16,657
+-[music playing]
+-[audience applauding]
+
+1423
+01:38:28,370 --> 01:38:30,338
+[audience cheering]
+
+1424
+01:38:41,717 --> 01:38:43,518
+[audience whooping
+  and whistling]
+
+1425
+01:38:55,998 --> 01:38:57,232
+Are you
+all right, Doctor?
+
+1426
+01:38:57,365 --> 01:38:59,000
+[audience laughing]
+
+1427
+01:39:01,170 --> 01:39:03,738
+Well,
+that was quite
+ an entrance.
+
+1428
+01:39:07,609 --> 01:39:09,444
+[scattered laughter
+  from audience]
+
+1429
+01:39:10,178 --> 01:39:11,379
+You okay?
+
+1430
+01:39:14,049 --> 01:39:15,384
+Yeah.
+
+1431
+01:39:15,517 --> 01:39:18,486
+This is exactly
+how I imagined it.
+
+1432
+01:39:20,255 --> 01:39:22,023
+Well, that makes
+   one of us.
+
+1433
+01:39:22,157 --> 01:39:23,625
+[audience laughing]
+
+1434
+01:39:23,759 --> 01:39:24,759
+[audience applauding]
+
+1435
+01:39:28,797 --> 01:39:31,132
+So, can you tell us
+ about this look?
+
+1436
+01:39:31,266 --> 01:39:32,868
+When we spoke earlier,
+
+1437
+01:39:33,002 --> 01:39:34,769
+you mentioned that
+   this look is not
+a political statement.
+
+1438
+01:39:34,903 --> 01:39:36,171
+Is that right?
+
+1439
+01:39:36,305 --> 01:39:37,573
+That's right, Murray.
+ I'm not political.
+
+1440
+01:39:37,706 --> 01:39:40,342
+I'm just trying to
+make people laugh.
+
+1441
+01:39:40,476 --> 01:39:42,677
+-And how's that
+   going for you?
+-[audience laughing]
+
+1442
+01:39:43,545 --> 01:39:45,146
+[laughing]
+
+1443
+01:39:50,552 --> 01:39:52,421
+So, I know
+you're a comedian.
+
+1444
+01:39:52,554 --> 01:39:54,356
+You been working on
+ any new material?
+
+1445
+01:39:54,489 --> 01:39:55,790
+You wanna
+tell us a joke?
+
+1446
+01:39:56,758 --> 01:39:58,059
+[audience applauding]
+
+1447
+01:40:01,563 --> 01:40:02,563
+Yeah?
+
+1448
+01:40:04,699 --> 01:40:05,700
+Okay.
+
+1449
+01:40:09,271 --> 01:40:10,771
+[audience laughing]
+
+1450
+01:40:11,740 --> 01:40:13,441
+He's got a book.
+
+1451
+01:40:14,175 --> 01:40:15,743
+A book of jokes.
+
+1452
+01:40:25,420 --> 01:40:27,122
+Take your time.
+We got all night.
+
+1453
+01:40:27,255 --> 01:40:29,056
+[audience laughing]
+
+1454
+01:40:30,458 --> 01:40:31,659
+[Murray chuckles]
+
+1455
+01:40:32,961 --> 01:40:35,396
+Okay, okay.
+Here's one.
+
+1456
+01:40:38,300 --> 01:40:40,902
+Knock, knock.
+
+1457
+01:40:41,036 --> 01:40:42,437
+And you had to
+ look that up?
+
+1458
+01:40:42,571 --> 01:40:44,272
+-[laughing]
+-[audience laughing]
+
+1459
+01:40:44,406 --> 01:40:46,140
+[audience applauding]
+
+1460
+01:40:49,411 --> 01:40:51,312
+I want to
+get it right.
+
+1461
+01:40:52,981 --> 01:40:54,616
+Knock, knock.
+
+1462
+01:40:54,749 --> 01:40:56,350
+Who's there?
+
+1463
+01:40:57,519 --> 01:40:59,054
+It's the police, ma'am.
+
+1464
+01:40:59,188 --> 01:41:00,856
+Your son's been hit
+ by a drunk driver.
+
+1465
+01:41:00,989 --> 01:41:04,025
+-He's dead. [laughing]
+  -[audience gasps]
+
+1466
+01:41:04,159 --> 01:41:05,327
+[plays sad note]
+
+1467
+01:41:05,460 --> 01:41:07,129
+-[audience booing]
+ -Oh, no, no, no.
+
+1468
+01:41:07,262 --> 01:41:09,064
+No, you cannot
+joke about that.
+
+1469
+01:41:09,197 --> 01:41:10,966
+Yeah, that's
+not funny, Arthur.
+
+1470
+01:41:11,100 --> 01:41:14,202
+That's not that
+   kind of humor
+we do on this show.
+
+1471
+01:41:14,336 --> 01:41:16,572
+Okay. I'm...
+Yeah, I'm sorry.
+
+1472
+01:41:16,706 --> 01:41:21,142
+It's just, you know,
+ it's been a rough
+ few weeks, Murray.
+
+1473
+01:41:21,276 --> 01:41:22,744
+[chuckling]
+
+1474
+01:41:22,877 --> 01:41:24,745
+Ever since
+
+1475
+01:41:26,982 --> 01:41:29,484
+I killed
+   those three
+Wall Street guys.
+
+1476
+01:41:29,617 --> 01:41:30,751
+[all gasp]
+
+1477
+01:41:35,757 --> 01:41:38,125
+Okay, I'm waiting
+for the punch line.
+
+1478
+01:41:39,327 --> 01:41:41,295
+There is
+no punch line.
+
+1479
+01:41:42,431 --> 01:41:44,532
+-It's not a joke.
+-[audience murmuring]
+
+1480
+01:41:49,071 --> 01:41:50,138
+You're serious,
+  aren't you?
+
+1481
+01:41:50,272 --> 01:41:51,440
+You're telling us
+   you killed
+
+1482
+01:41:51,573 --> 01:41:52,640
+those three young men
+   on the subway?
+
+1483
+01:41:52,774 --> 01:41:53,642
+[Arthur] Mmm-hmm.
+
+1484
+01:41:53,775 --> 01:41:55,477
+And why should
+we believe you?
+
+1485
+01:41:55,610 --> 01:41:57,778
+I got nothing
+left to lose.
+
+1486
+01:41:59,581 --> 01:42:01,816
+Nothing can
+hurt me anymore.
+
+1487
+01:42:03,618 --> 01:42:04,619
+[laughs]
+
+1488
+01:42:04,753 --> 01:42:08,189
+My life is
+nothing but a comedy.
+
+1489
+01:42:08,323 --> 01:42:10,258
+[audience booing]
+
+1490
+01:42:11,360 --> 01:42:12,661
+Well, let me
+get this straight,
+
+1491
+01:42:12,795 --> 01:42:14,862
+you think that killing
+ those guys is funny?
+
+1492
+01:42:15,597 --> 01:42:16,798
+I do.
+
+1493
+01:42:16,932 --> 01:42:19,634
+And I'm tired
+of pretending
+  it's not.
+
+1494
+01:42:19,768 --> 01:42:22,103
+Comedy is subjective,
+       Murray.
+
+1495
+01:42:22,237 --> 01:42:24,005
+Isn't that
+what they say?
+
+1496
+01:42:24,139 --> 01:42:25,740
+All of you,
+
+1497
+01:42:25,874 --> 01:42:28,543
+the system
+that knows so much,
+
+1498
+01:42:28,677 --> 01:42:31,447
+you decide
+what's right or wrong.
+
+1499
+01:42:31,580 --> 01:42:36,585
+The same way
+  that you decide
+what's funny or not!
+
+1500
+01:42:38,219 --> 01:42:39,688
+[man] Get him off!
+
+1501
+01:42:39,822 --> 01:42:43,692
+Well, okay,
+     I think
+I might understand
+
+1502
+01:42:43,825 --> 01:42:45,360
+that you did this to
+ start a movement,
+
+1503
+01:42:45,493 --> 01:42:48,062
+to become a symbol?
+
+1504
+01:42:48,196 --> 01:42:49,631
+Come on, Murray.
+
+1505
+01:42:49,765 --> 01:42:51,032
+Do I look like
+the kind of clown
+
+1506
+01:42:51,166 --> 01:42:52,634
+that could
+start a movement?
+
+1507
+01:42:52,768 --> 01:42:55,637
+I killed those guys
+because they were awful.
+
+1508
+01:42:55,771 --> 01:42:58,373
+Everybody is awful
+   these days.
+
+1509
+01:42:58,507 --> 01:43:00,742
+It's enough to
+make anyone crazy.
+
+1510
+01:43:00,876 --> 01:43:02,678
+[Murray] Okay.
+So, that's it,
+ you're crazy.
+
+1511
+01:43:02,811 --> 01:43:05,446
+That's your defense
+    for killing
+ three young men?
+
+1512
+01:43:05,947 --> 01:43:07,449
+No.
+
+1513
+01:43:07,583 --> 01:43:11,152
+They couldn't
+    carry a tune
+to save their lives.
+
+1514
+01:43:11,286 --> 01:43:12,721
+[audience booing]
+
+1515
+01:43:12,855 --> 01:43:16,758
+Oh, why is everybody
+      so upset
+ about these guys?
+
+1516
+01:43:16,892 --> 01:43:18,627
+If it was me
+dying on the sidewalk,
+
+1517
+01:43:18,760 --> 01:43:20,262
+you'd walk
+right over me!
+
+1518
+01:43:20,395 --> 01:43:22,497
+I pass you every day,
+and you don't notice me.
+
+1519
+01:43:22,631 --> 01:43:24,766
+But these guys, what,
+ because Thomas Wayne
+
+1520
+01:43:24,900 --> 01:43:26,535
+went and cried
+  about them
+    on TV?
+
+1521
+01:43:26,668 --> 01:43:28,903
+You have a problem
+with Thomas Wayne, too?
+
+1522
+01:43:29,037 --> 01:43:30,773
+Yes, I do.
+
+1523
+01:43:30,906 --> 01:43:34,443
+Have you seen
+  what it's like
+out there, Murray?
+
+1524
+01:43:34,576 --> 01:43:37,613
+Do you ever actually
+ leave the studio?
+
+1525
+01:43:37,746 --> 01:43:41,816
+Everybody just yells
+    and screams
+   at each other.
+
+1526
+01:43:41,950 --> 01:43:43,886
+Nobody's civil anymore.
+
+1527
+01:43:44,019 --> 01:43:48,190
+Nobody thinks
+   what it's like
+to be the other guy.
+
+1528
+01:43:48,323 --> 01:43:51,293
+You think men
+like Thomas Wayne
+   ever think
+
+1529
+01:43:51,426 --> 01:43:53,395
+what it's like to be
+  someone like me?
+
+1530
+01:43:53,529 --> 01:43:56,331
+To be somebody
+but themselves?
+  They don't.
+
+1531
+01:43:56,465 --> 01:43:58,500
+They think that
+we'll just sit there
+
+1532
+01:43:58,633 --> 01:44:01,236
+and take it,
+like good little boys!
+
+1533
+01:44:01,370 --> 01:44:03,438
+That we won't werewolf
+     and go wild!
+
+1534
+01:44:03,571 --> 01:44:05,073
+You finished?
+
+1535
+01:44:05,207 --> 01:44:07,676
+I mean,
+   it's so much
+self-pity, Arthur.
+
+1536
+01:44:07,809 --> 01:44:09,377
+You sound like
+you're making excuses
+
+1537
+01:44:09,511 --> 01:44:10,845
+for killing
+those young men.
+
+1538
+01:44:10,979 --> 01:44:12,981
+Not everybody,
+and I'll tell you this,
+
+1539
+01:44:13,114 --> 01:44:14,648
+not everyone is awful.
+
+1540
+01:44:16,685 --> 01:44:18,052
+You're awful, Murray.
+
+1541
+01:44:18,186 --> 01:44:20,088
+Me? I'm awful?
+
+1542
+01:44:20,222 --> 01:44:22,022
+Oh, yeah,
+how am I awful?
+
+1543
+01:44:24,159 --> 01:44:25,726
+Playing my video.
+
+1544
+01:44:26,862 --> 01:44:29,698
+Inviting me
+on this show.
+
+1545
+01:44:29,831 --> 01:44:33,168
+You just wanted to
+ make fun of me.
+
+1546
+01:44:33,301 --> 01:44:35,070
+You're just like
+the rest of them.
+
+1547
+01:44:35,204 --> 01:44:37,139
+You don't know
+the first thing
+ about me, pal.
+
+1548
+01:44:37,273 --> 01:44:40,141
+Look what happened,
+because of what you did.
+    What it led to.
+
+1549
+01:44:40,275 --> 01:44:41,843
+There are riots
+  out there.
+
+1550
+01:44:41,977 --> 01:44:43,478
+Two policemen are
+in critical condition,
+
+1551
+01:44:43,612 --> 01:44:44,912
+-and you're laughing.
+      -[laughs]
+
+1552
+01:44:45,046 --> 01:44:46,615
+You're laughing.
+
+1553
+01:44:46,749 --> 01:44:49,050
+Someone was killed today,
+       because of
+      what you did.
+
+1554
+01:44:49,183 --> 01:44:50,751
+I know.
+
+1555
+01:44:53,021 --> 01:44:54,556
+How about
+another joke,
+   Murray?
+
+1556
+01:44:54,690 --> 01:44:56,024
+No, I think we've had
+enough of your jokes.
+
+1557
+01:44:56,158 --> 01:44:57,592
+-What do you get...
+ -I don't think so.
+
+1558
+01:44:57,726 --> 01:45:00,295
+...when you cross
+a mentally-ill loner
+
+1559
+01:45:00,428 --> 01:45:02,697
+with a society
+that abandons him
+
+1560
+01:45:02,831 --> 01:45:04,065
+and treats him
+ like trash?
+
+1561
+01:45:04,199 --> 01:45:05,634
+Call the police, Gene!
+
+1562
+01:45:05,767 --> 01:45:06,835
+-I'll tell you
+  what you get!
+-Call the police.
+
+1563
+01:45:06,968 --> 01:45:08,636
+You get
+    what you
+fucking deserve!
+
+1564
+01:45:09,370 --> 01:45:11,539
+[audience screaming]
+
+1565
+01:45:27,088 --> 01:45:28,789
+[laughing]
+
+1566
+01:45:35,530 --> 01:45:37,398
+-[screaming continues]
+   -[gun clatters]
+
+1567
+01:45:44,873 --> 01:45:48,409
+<i><font color="white"> Good night.
+</font></i><i><font color="white"> And always
+ remember, that's...</font></i>
+
+1568
+01:45:48,543 --> 01:45:50,778
+[upbeat music playing]
+
+1569
+01:45:53,415 --> 01:45:54,850
+[news anchor 1]
+<i><font color="white"> Breaking news.</font></i>
+
+1570
+01:45:54,983 --> 01:45:57,186
+<i><font color="white"> Popular TV talk show host,
+</font></i><i><font color="white"> Murray Franklin</font></i>
+
+1571
+01:45:57,319 --> 01:45:59,621
+<i><font color="white"> was shot dead tonight
+ on the live telecast
+</font></i><i><font color="white"> of his program.</font></i>
+
+1572
+01:45:59,755 --> 01:46:01,923
+<i><font color="white"> The man who was
+ introduced by Franklin</font></i>
+
+1573
+01:46:02,057 --> 01:46:04,960
+<i><font color="white"> as "Joker" is
+ currently under arrest.</font></i>
+
+1574
+01:46:05,094 --> 01:46:07,762
+<i><font color="white"> Police led
+ the suspect handcuffed
+</font></i><i><font color="white"> out of the studio.</font></i>
+
+1575
+01:46:07,896 --> 01:46:09,398
+-[Arthur shouting]
+-[overlapping chatter]
+
+1576
+01:46:09,531 --> 01:46:12,000
+<i><font color="white"> ...merely just
+</font></i><i><font color="white"> a punch line
+</font></i><i><font color="white"> to a joke...</font></i>
+
+1577
+01:46:12,134 --> 01:46:13,802
+[Arthur]<i><font color="white"> You get
+</font></i><i><font color="white"> what you
+</font></i>[bleep]<i><font color="white"> deserve!</font></i>
+
+1578
+01:46:13,935 --> 01:46:15,103
+[reporter 1]
+<i><font color="white"> Looting and rioting</font></i>
+
+1579
+01:46:15,236 --> 01:46:16,638
+<i><font color="white"> have intensified here...</font></i>
+
+1580
+01:46:16,772 --> 01:46:18,240
+[reporter 2]<i><font color="white"> ...rioting
+</font></i><i><font color="white"> throughout the city.</font></i>
+
+1581
+01:46:18,373 --> 01:46:19,674
+[Arthur]<i><font color="white"> ...with a society
+</font></i><i><font color="white"> that abandons him</font></i>
+
+1582
+01:46:19,808 --> 01:46:21,042
+<i><font color="white"> and treats him
+</font></i><i><font color="white"> like trash?</font></i>
+
+1583
+01:46:21,176 --> 01:46:22,844
+[news anchor 2]
+<i><font color="white"> This mob of clowns...</font></i>
+
+1584
+01:46:22,978 --> 01:46:24,279
+[reporter 1]
+<i><font color="white"> ...many wearing
+</font></i><i><font color="white"> clown masks.</font></i>
+
+1585
+01:46:24,412 --> 01:46:26,048
+[overlapping chatter
+     continues]
+
+1586
+01:46:26,181 --> 01:46:28,117
+[Arthur]<i><font color="white"> If it was
+</font></i><i><font color="white"> me dying
+ on the sidewalk,</font></i>
+
+1587
+01:46:28,250 --> 01:46:29,818
+<i><font color="white"> -you'd walk
+</font></i><i><font color="white"> right over me.
+</font></i>-[news anchor 2]<i><font color="white"> To all of</font></i>
+
+1588
+01:46:29,952 --> 01:46:31,553
+<i><font color="white"> those who have been
+ ignored by the system.</font></i>
+
+1589
+01:46:31,687 --> 01:46:33,188
+[Arthur]<i><font color="white"> And always remember,
+</font></i><i><font color="white"> that's life!</font></i>
+
+1590
+01:46:33,322 --> 01:46:34,288
+[reporter 3]<i><font color="white"> And as you see,
+</font></i><i><font color="white"> Gotham is burning.</font></i>
+
+1591
+01:46:34,422 --> 01:46:36,457
+[music playing]
+
+1592
+01:46:39,460 --> 01:46:41,829
+[sirens wailing]
+
+1593
+01:46:47,835 --> 01:46:49,970
+[looters shouting]
+
+1594
+01:46:54,609 --> 01:46:56,777
+[dispatcher chattering
+      on radio]
+
+1595
+01:47:08,723 --> 01:47:10,491
+[shouting continues]
+
+1596
+01:47:10,625 --> 01:47:12,126
+[store alarms ringing]
+
+1597
+01:47:16,264 --> 01:47:17,865
+[laughing]
+
+1598
+01:47:28,677 --> 01:47:31,246
+[officer 1] Stop laughing,
+        you freak!
+    This isn't funny.
+
+1599
+01:47:31,380 --> 01:47:32,714
+[officer 2] Yeah,
+      the whole
+fucking city's on fire
+
+1600
+01:47:32,847 --> 01:47:34,883
+'cause of
+what you did.
+
+1601
+01:47:35,017 --> 01:47:37,385
+[dispatcher]<i><font color="white"> All units,
+</font></i><i><font color="white"> fire reported,
+</font></i><i><font color="white"> north of alley.</font></i>
+
+1602
+01:47:37,519 --> 01:47:39,153
+<i><font color="white"> Code Four
+ for medical.</font></i>
+
+1603
+01:47:39,654 --> 01:47:41,221
+I know.
+
+1604
+01:47:42,624 --> 01:47:44,625
+Isn't it beautiful?
+
+1605
+01:47:44,759 --> 01:47:45,960
+[chuckles]
+
+1606
+01:47:55,136 --> 01:47:56,804
+[looters shouting]
+
+1607
+01:48:44,752 --> 01:48:46,987
+[shouting continues]
+
+1608
+01:49:04,405 --> 01:49:06,040
+[sirens wailing]
+
+1609
+01:49:27,228 --> 01:49:28,696
+Go over there.
+
+1610
+01:49:46,414 --> 01:49:48,149
+Hey, Wayne.
+
+1611
+01:49:48,283 --> 01:49:50,284
+You get
+    what you
+fucking deserve.
+
+1612
+01:49:50,418 --> 01:49:51,719
+No! Pal!
+
+1613
+01:49:51,853 --> 01:49:53,220
+[Mrs. Wayne screaming]
+
+1614
+01:49:56,390 --> 01:49:57,391
+[gunshot]
+
+1615
+01:49:59,694 --> 01:50:00,728
+[body thuds]
+
+1616
+01:50:00,862 --> 01:50:02,730
+[looters shouting]
+
+1617
+01:50:05,499 --> 01:50:07,401
+[coughing]
+
+1618
+01:50:32,160 --> 01:50:34,362
+[man] Come on,
+   get up!
+
+1619
+01:50:34,495 --> 01:50:36,431
+Come on,
+man, get up.
+
+1620
+01:50:36,564 --> 01:50:38,232
+[crowd shouting and cheering]
+
+1621
+01:52:01,182 --> 01:52:03,217
+[crowd continues
+shouting and cheering]
+
+1622
+01:52:32,613 --> 01:52:34,248
+[Arthur laughing]
+
+1623
+01:53:01,809 --> 01:53:03,343
+[continues laughing]
+
+1624
+01:53:15,656 --> 01:53:17,925
+What's so funny?
+
+1625
+01:53:21,729 --> 01:53:23,397
+Just thinking
+ of a joke.
+
+1626
+01:53:24,966 --> 01:53:27,000
+[Arthur continues laughing]
+
+1627
+01:53:42,350 --> 01:53:44,551
+Do you want
+to tell it to me?
+
+1628
+01:53:50,691 --> 01:53:52,426
+You wouldn't get it.
+
+1629
+01:53:52,560 --> 01:53:54,895
+["That's Life" playing]
+
+1630
+01:54:04,238 --> 01:54:06,173
+[Arthur]<i><font color="white"> ♪ That's life ♪</font></i>
+
+1631
+01:54:07,475 --> 01:54:11,646
+<i><font color="white"> ♪ And as funny
+ as it may seem ♪</font></i>
+
+1632
+01:54:11,780 --> 01:54:14,749
+<i><font color="white"> ♪ Some people
+ get their kicks ♪</font></i>
+
+1633
+01:54:14,882 --> 01:54:17,685
+<i><font color="white"> ♪ Stompin' on a dream ♪</font></i>
+
+1634
+01:54:17,819 --> 01:54:21,955
+<i><font color="white"> ♪ But I don't let it,
+</font></i><i><font color="white"> let it get me down ♪</font></i>
+
+1635
+01:54:23,691 --> 01:54:26,226
+<i><font color="white"> ♪ 'Cause this
+ fine old world ♪</font></i>
+
+1636
+01:54:30,932 --> 01:54:33,033
+["That's Life"
+continues playing]
+

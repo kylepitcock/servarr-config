@@ -1,0 +1,348 @@
+1
+00:00:08,208 --> 00:00:10,458
+[musique du générique]
+
+2
+00:00:27,125 --> 00:00:29,833
+MODULE DE SECOURS
+
+3
+00:00:33,875 --> 00:00:35,875
+[homme qui halète]
+
+4
+00:00:39,833 --> 00:00:41,833
+[musique inquiétante]
+
+5
+00:00:58,291 --> 00:00:59,791
+Je vais crever ici.
+
+6
+00:01:24,500 --> 00:01:25,666
+[petit cri étouffé]
+
+7
+00:01:31,583 --> 00:01:33,583
+[musique dramatique]
+
+8
+00:01:37,000 --> 00:01:39,000
+[explosions au loin]
+
+9
+00:01:43,166 --> 00:01:45,125
+[bips]
+
+10
+00:01:47,833 --> 00:01:49,750
+ALERTE RÉSERVE D'OXYGÈNE
+LOCALISER ABRI
+
+11
+00:01:51,666 --> 00:01:53,250
+STATUT : HORS LIGNE
+
+12
+00:01:58,416 --> 00:02:00,416
+[musique inquiétante]
+
+13
+00:02:14,125 --> 00:02:14,958
+NIVEAU CRITIQUE
+
+14
+00:02:15,041 --> 00:02:16,166
+ACTIVER
+
+15
+00:02:28,333 --> 00:02:29,291
+La vache.
+
+16
+00:02:29,791 --> 00:02:32,041
+Toi aussi, t'as atterri en catastrophe.
+
+17
+00:02:59,791 --> 00:03:01,333
+[bips]
+
+18
+00:03:02,291 --> 00:03:04,416
+BIENVENUE DANS LA CAPSULE DE SURVIE
+
+19
+00:03:08,750 --> 00:03:11,000
+[ordinateur] <i>Module de secours activé.</i>
+
+20
+00:03:11,083 --> 00:03:13,333
+<i>Alerte. Dégâts repérés.</i>
+
+21
+00:03:23,125 --> 00:03:26,041
+<i>Réseau de communication en état de marche.</i>
+
+22
+00:03:29,625 --> 00:03:31,291
+<i>Assistance robotique...</i>
+
+23
+00:03:35,583 --> 00:03:36,541
+<i>erreur.</i>
+
+24
+00:03:36,625 --> 00:03:37,666
+Saloperie.
+
+25
+00:03:38,166 --> 00:03:40,000
+<i>Assistance robotique :</i>
+
+26
+00:03:41,000 --> 00:03:41,833
+<i>erreur.</i>
+
+27
+00:03:45,666 --> 00:03:47,375
+<i>Assistance robotique :</i>
+
+28
+00:03:47,958 --> 00:03:49,000
+<i>défaillance.</i>
+
+29
+00:03:49,500 --> 00:03:50,458
+Attends !
+
+30
+00:03:50,541 --> 00:03:51,458
+[il pousse un cri]
+
+31
+00:03:53,208 --> 00:03:54,333
+[grognements]
+
+32
+00:03:54,416 --> 00:03:55,500
+Attends ! Arrête !
+
+33
+00:03:56,250 --> 00:03:57,750
+Coupure système !
+
+34
+00:03:57,833 --> 00:03:59,333
+Coupure du système !
+
+35
+00:03:59,416 --> 00:04:00,291
+[petit cri]
+
+36
+00:04:00,375 --> 00:04:02,000
+<i>Impossible d'obtempérer.</i>
+
+37
+00:04:02,083 --> 00:04:04,291
+[musique inquiétante]
+
+38
+00:04:35,333 --> 00:04:37,041
+[il gémit]
+
+39
+00:04:46,791 --> 00:04:48,500
+[bips]
+
+40
+00:04:50,875 --> 00:04:52,583
+À PORTÉE D'ARMES ENNEMIES
+
+41
+00:04:54,833 --> 00:04:56,291
+[à la radio] <i>Prometheus CBW2.</i>
+
+42
+00:04:56,375 --> 00:04:59,458
+<i>Les brouilleurs électromagnétiques
+sont activés, vous pouvez attaquer.</i>
+
+43
+00:04:59,541 --> 00:05:00,875
+[homme] <i>Nova 6, en chemin.</i>
+
+44
+00:05:00,958 --> 00:05:02,291
+[femme] <i>Nova 9, en chemin.</i>
+
+45
+00:05:02,375 --> 00:05:03,458
+Nova 4, en chemin.
+
+46
+00:05:03,541 --> 00:05:06,000
+[à la radio] <i>Entendu.
+Vous êtes prêts à faire feu.</i>
+
+47
+00:05:06,083 --> 00:05:08,041
+Bien reçu. Je me tiens prêt.
+
+48
+00:05:08,125 --> 00:05:11,166
+Charge explosive du Jugement Dernier,
+Éclair Divin 12.
+
+49
+00:05:12,750 --> 00:05:14,000
+La chasse est ouverte.
+
+50
+00:05:14,083 --> 00:05:16,916
+[à la radio] <i>Escadron Nova,
+en rang, formation échelon.</i>
+
+51
+00:05:17,000 --> 00:05:18,333
+<i>Frappez vite et fort.</i>
+
+52
+00:05:21,375 --> 00:05:23,541
+[musique intrigante]
+
+53
+00:05:26,750 --> 00:05:28,083
+[il halète]
+
+54
+00:05:31,375 --> 00:05:33,791
+[ronronnement du robot]
+
+55
+00:05:41,916 --> 00:05:43,916
+[pas métalliques]
+
+56
+00:05:47,125 --> 00:05:48,958
+[musique inquiétante]
+
+57
+00:05:52,750 --> 00:05:54,750
+[il halète]
+
+58
+00:06:00,791 --> 00:06:02,000
+[il gémit]
+
+59
+00:06:04,166 --> 00:06:05,541
+[bruit sourd]
+
+60
+00:06:41,291 --> 00:06:43,166
+[il gémit]
+
+61
+00:06:51,333 --> 00:06:52,708
+[craquement]
+
+62
+00:07:01,625 --> 00:07:04,333
+[à la radio] <i>731, 731 !
+Tir ennemi imminent !</i>
+
+63
+00:07:08,750 --> 00:07:10,375
+[homme] On a perdu Rocket 1 !
+
+64
+00:07:15,416 --> 00:07:16,291
+[Terence] Feu !
+
+65
+00:07:17,166 --> 00:07:19,291
+Allez, allez, allez !
+
+66
+00:07:23,583 --> 00:07:24,750
+[il gémit]
+
+67
+00:07:25,250 --> 00:07:27,250
+- [bips de l'alarme]
+- [il gémit]
+
+68
+00:07:27,333 --> 00:07:29,500
+ARRÊT D'URGENCE
+
+69
+00:07:31,416 --> 00:07:34,375
+[musique dramatique]
+
+70
+00:08:16,750 --> 00:08:19,000
+- [musique dramatique]
+- [pas métalliques]
+
+71
+00:08:28,416 --> 00:08:29,458
+[petit gémissement]
+
+72
+00:08:37,875 --> 00:08:39,875
+[musique inquiétante]
+
+73
+00:09:56,041 --> 00:09:57,458
+[le robot s'éteint]
+
+74
+00:09:59,875 --> 00:10:02,500
+SIGNAL DE DÉTRESSE
+EN ATTENTE DE TRANSMISSION
+
+75
+00:10:14,500 --> 00:10:16,416
+[ordinateur] <i>Message de détresse reçu.</i>
+
+76
+00:10:16,500 --> 00:10:19,500
+<i>Module 817-RT9G.</i>
+
+77
+00:10:20,166 --> 00:10:21,750
+<i>Sauvetage en approche.</i>
+
+78
+00:10:21,833 --> 00:10:23,208
+[musique dramatique]
+
+79
+00:10:26,875 --> 00:10:30,291
+<i>Alerte.
+Défaillance de l'assistance robotique.</i>
+
+80
+00:10:32,333 --> 00:10:33,458
+<i>- Alerte.
+-</i> [il tousse]
+
+81
+00:10:33,541 --> 00:10:35,625
+<i>Défaillance de l'assistance robotique.</i>
+
+82
+00:10:35,708 --> 00:10:37,666
+Ouais, sans blague. [tousse]
+
+83
+00:10:38,166 --> 00:10:41,375
+<i>Alerte.
+Défaillance de l'assistance robotique.</i>
+
+84
+00:10:58,375 --> 00:11:01,000
+[musique du générique de fin]
+

@@ -8,39 +8,40 @@ language: ru-RU
 type: semi-private
 encoding: windows-1251
 followredirect: true
+# alternate TLDs are: buzz, homes, mom, online, shop, top and xyz
 links:
-  - https://nov06.rudub.homes/
+  - https://dec22.rudub.bet/
 legacylinks:
-  - https://oct22.rudub.homes/
-  - http://oct23.rudub.homes/
-  - https://oct23.rudub.homes/
-  - http://oct24.rudub.homes/
-  - https://oct24.rudub.homes/
-  - http://oct25.rudub.homes/
-  - https://oct25.rudub.homes/
-  - http://oct26.rudub.homes/
-  - https://oct26.rudub.homes/
-  - http://oct27.rudub.homes/
-  - https://oct27.rudub.homes/
-  - http://oct28.rudub.homes/
-  - https://oct28.rudub.homes/
-  - http://oct29.rudub.homes/
-  - https://oct29.rudub.homes/
-  - http://oct30.rudub.homes/
-  - https://oct30.rudub.homes/
-  - http://oct31.rudub.homes/
-  - https://oct31.rudub.homes/
-  - http://nov01.rudub.homes/
-  - https://nov01.rudub.homes/
-  - http://nov02.rudub.homes/
-  - https://nov02.rudub.homes/
-  - http://nov03.rudub.homes/
-  - https://nov03.rudub.homes/
-  - http://nov04.rudub.homes/
-  - https://nov04.rudub.homes/
-  - http://nov05.rudub.homes/
-  - https://nov05.rudub.homes/
-  - http://nov06.rudub.homes/
+  - http://dec08.rudub.world/
+  - https://dec08.rudub.world/
+  - https://dec08.rudub.bet/
+  - http://dec09.rudub.bet/
+  - https://dec09.rudub.bet/
+  - http://dec10.rudub.bet/
+  - https://dec10.rudub.bet/
+  - http://dec11.rudub.bet/
+  - https://dec11.rudub.bet/
+  - http://dec12.rudub.bet/
+  - https://dec12.rudub.bet/
+  - http://dec13.rudub.bet/
+  - https://dec13.rudub.bet/
+  - http://dec14.rudub.bet/
+  - https://dec14.rudub.bet/
+  - http://dec15.rudub.bet/
+  - https://dec15.rudub.bet/
+  - http://dec16.rudub.bet/
+  - https://dec16.rudub.bet/
+  - http://dec17.rudub.bet/
+  - https://dec17.rudub.bet/
+  - http://dec18.rudub.bet/
+  - https://dec18.rudub.bet/
+  - http://dec19.rudub.bet/
+  - https://dec19.rudub.bet/
+  - http://dec20.rudub.bet/
+  - https://dec20.rudub.bet/
+  - http://dec21.rudub.bet/
+  - https://dec21.rudub.bet/
+  - http://dec22.rudub.bet/
 caps:
   categorymappings:
     - {id: 1, cat: TV, desc: "TV"}

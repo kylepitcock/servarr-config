@@ -1,0 +1,1925 @@
+1
+00:00:01,000 --> 00:00:01,958
+Pysähdy siihen!
+
+2
+00:00:02,041 --> 00:00:04,791
+Olet Pre-Morin yhtiövyöhykkeellä.
+Tiedät kai sen?
+
+3
+00:00:06,041 --> 00:00:07,833
+Hän ei hengitä. Tapoit hänet.
+
+4
+00:00:09,041 --> 00:00:11,083
+"Pre-Morin viranomainen etsii
+miespuolista kenarilaista -
+
+5
+00:00:11,166 --> 00:00:13,208
+Ferrixin asukasta kuultavaksi.
+
+6
+00:00:13,291 --> 00:00:15,875
+Asiasta tietäviä pyydetään
+ottamaan yhteyttä -
+
+7
+00:00:15,958 --> 00:00:19,166
+Preox-Morlanan turvallisuusosastoon heti."
+
+8
+00:00:19,250 --> 00:00:20,125
+Onko meillä epäilty?
+
+9
+00:00:20,208 --> 00:00:21,666
+<i>Cassian Andor.</i>
+
+10
+00:00:21,750 --> 00:00:24,250
+<i>"Kapinoi, tuhosi Imperiumin omaisuutta, -</i>
+
+11
+00:00:24,333 --> 00:00:25,625
+<i>kävi sotilaan kimppuun."</i>
+
+12
+00:00:25,708 --> 00:00:27,625
+Kuka muu tietää, että synnyit Kenarissa?
+
+13
+00:00:27,708 --> 00:00:31,291
+Bix etsii sinua.
+-Bix ei liity tähän mitenkään.
+
+14
+00:00:31,375 --> 00:00:34,416
+Kuka sitten kertoi niille
+Pre-Morin paskiaisille Kenarista?
+
+15
+00:00:34,500 --> 00:00:35,625
+<i>"Kenari."</i>
+
+16
+00:00:37,208 --> 00:00:39,875
+<i>"Hylätty Imperiumin </i>
+<i>kaivoskatastrofin jälkeen."</i>
+
+17
+00:00:39,958 --> 00:00:41,166
+<i>Kaikki kuolivat.</i>
+
+18
+00:00:42,041 --> 00:00:44,458
+<i>Andoria tulee pitää</i>
+<i>aseistettuna ja vaarallisena.</i>
+
+19
+00:00:44,541 --> 00:00:46,875
+<i>Hän ei ehkä näytä</i>
+<i>pelottavalta vastustajalta, -</i>
+
+20
+00:00:46,958 --> 00:00:49,791
+mutta kaksi miestämme kuoli
+erehdyttyään siinä.
+
+21
+00:00:49,875 --> 00:00:52,666
+Minulla on jotain myytävää.
+-Mitä?
+
+22
+00:00:52,750 --> 00:00:54,625
+<i>Jäljittämätön NS-9-tähtipolkuyksikkö.</i>
+
+23
+00:00:54,708 --> 00:00:56,666
+<i>Tiedätkö, minkä arvoinen se on?</i>
+<i>-Joo.</i>
+
+24
+00:00:56,750 --> 00:00:59,625
+<i>Sen arvoinen, että pääsen täältä</i>
+<i>kunnes tilanne rauhoittuu.</i>
+
+25
+00:01:00,166 --> 00:01:01,875
+<i>Ystäväsi haluaa tämän jutun.</i>
+
+26
+00:01:01,958 --> 00:01:02,958
+<i>Hän tulee tämän takia.</i>
+
+27
+00:04:38,541 --> 00:04:40,958
+No niin, alus on valmis.
+
+28
+00:04:43,375 --> 00:04:44,958
+Valmiina irrottamaan.
+
+29
+00:04:45,041 --> 00:04:46,375
+Onko hyvä?
+-On.
+
+30
+00:04:47,416 --> 00:04:48,416
+Hitaammin.
+
+31
+00:04:50,666 --> 00:04:52,000
+Tyhjennä se.
+
+32
+00:04:52,083 --> 00:04:53,666
+Aloita irrotus.
+
+33
+00:05:02,333 --> 00:05:03,500
+Hoitakaa tämä.
+
+34
+00:05:12,958 --> 00:05:13,916
+Hei.
+
+35
+00:05:14,000 --> 00:05:16,000
+Olen saamassa rahaa.
+
+36
+00:05:16,083 --> 00:05:17,666
+Jos saan rahat, häivyn täältä.
+
+37
+00:05:17,750 --> 00:05:18,750
+Milloin?
+
+38
+00:05:19,791 --> 00:05:20,708
+Tänään.
+
+39
+00:05:21,833 --> 00:05:24,625
+Ei kuulosta hyvältä.
+-Jätän rahat Maarvalle.
+
+40
+00:05:24,708 --> 00:05:26,166
+Sen, mitä olen velkaa sinulle.
+
+41
+00:05:27,125 --> 00:05:28,458
+Pidä häntä silmällä, jos voit.
+
+42
+00:05:29,083 --> 00:05:30,125
+Minne menet?
+
+43
+00:05:30,208 --> 00:05:31,583
+Parempi, ettet tiedä.
+
+44
+00:05:32,291 --> 00:05:33,500
+Minä palaan.
+
+45
+00:05:33,583 --> 00:05:35,000
+Keksin keinon.
+
+46
+00:05:55,500 --> 00:05:57,000
+<i>Tervetuloa Ferrixin terminaaliin.</i>
+
+47
+00:05:57,541 --> 00:06:00,000
+<i>Tarkistakaa tavaranne ennen poistumista.</i>
+
+48
+00:06:07,333 --> 00:06:09,041
+Etkö yövy hotellissa?
+
+49
+00:06:10,208 --> 00:06:11,250
+En tänä iltana.
+
+50
+00:06:11,333 --> 00:06:12,500
+Fiksu valinta.
+
+51
+00:06:12,583 --> 00:06:14,250
+Kiskurihinnat jopa Ferrixille.
+
+52
+00:06:16,750 --> 00:06:17,833
+Huolehdi lompakostasi!
+
+53
+00:06:37,208 --> 00:06:38,125
+Kiitos.
+
+54
+00:06:41,166 --> 00:06:43,916
+Tuli mutkia matkaan.
+En voinut soittaa takaisin.
+
+55
+00:06:44,000 --> 00:06:45,208
+Rauhallisesti.
+
+56
+00:06:45,291 --> 00:06:47,666
+Pre-Mor julkaisi illalla tiedotteen -
+
+57
+00:06:47,750 --> 00:06:49,583
+Cassianin tuntomerkeillä.
+
+58
+00:06:49,666 --> 00:06:50,916
+Olen nähnyt sen.
+
+59
+00:06:51,000 --> 00:06:52,875
+Tiedotteessa ei kerrota nimeä.
+
+60
+00:06:52,958 --> 00:06:55,416
+Vain se, että etsitään jotakuta Kenarista.
+
+61
+00:06:55,500 --> 00:06:57,833
+Rikosrekisterin mukaan hän on Festistä.
+
+62
+00:06:57,916 --> 00:06:59,583
+Niin hän on aina kertonut.
+
+63
+00:07:00,916 --> 00:07:02,541
+Onko hänet tunnistettu?
+
+64
+00:07:02,625 --> 00:07:04,375
+En usko monien tuntevan häntä.
+
+65
+00:07:05,916 --> 00:07:07,583
+Tappoiko hän ne miehet Morlanassa?
+
+66
+00:07:09,750 --> 00:07:11,625
+Sitten on paras toimia nopeasti.
+
+67
+00:07:13,208 --> 00:07:14,375
+Missä hän on?
+
+68
+00:07:14,458 --> 00:07:16,291
+Itäpuolella. Rakennus yhdeksän.
+
+69
+00:07:18,625 --> 00:07:19,583
+Luotatko häneen?
+
+70
+00:07:20,458 --> 00:07:21,375
+Hän tulee sinne.
+
+71
+00:08:14,375 --> 00:08:16,166
+Höyryntiheys hyväksyttävä.
+
+72
+00:08:16,250 --> 00:08:18,000
+Pitoisuus ilmassa minimaalinen.
+
+73
+00:08:18,083 --> 00:08:20,250
+Ei havaittavaa kaasun myrkyllisyyttä.
+
+74
+00:08:20,333 --> 00:08:22,208
+No niin. Olemmeko tyytyväisiä?
+
+75
+00:08:23,250 --> 00:08:24,666
+Haetaan se ohjausyksikkö.
+
+76
+00:08:24,750 --> 00:08:26,416
+Ehkä pitäisi lopettaa ajoissa.
+
+77
+00:08:26,500 --> 00:08:27,791
+Kuulitko? On turvallista.
+
+78
+00:08:27,875 --> 00:08:29,416
+Mitä se olikin, se on haihtunut.
+
+79
+00:08:29,500 --> 00:08:30,791
+Riisu maskisi.
+
+80
+00:08:32,541 --> 00:08:33,791
+Aika on kortilla.
+
+81
+00:08:33,875 --> 00:08:35,375
+Sanoit enintään 20 minuuttia.
+
+82
+00:08:38,000 --> 00:08:39,583
+En halua tietää, mitä tuo on.
+
+83
+00:08:39,666 --> 00:08:43,625
+Tuolla on varmaan vähintään
+kuusi uutta polttokennoa.
+
+84
+00:08:43,708 --> 00:08:45,333
+Meillä on jo nyt liikaa kannettavaa.
+
+85
+00:08:45,416 --> 00:08:48,625
+Mitä noista pyydetään nykyään?
+-Myynnissä vai vaihdossa?
+
+86
+00:08:48,708 --> 00:08:49,875
+Oletko tosissasi?
+
+87
+00:08:51,500 --> 00:08:53,416
+Meidän pitää lähteä heti!
+
+88
+00:08:54,000 --> 00:08:55,000
+Voi olla mitä vain.
+
+89
+00:08:56,375 --> 00:08:59,125
+Siinä tapauksessa painetaan vain menemään.
+
+90
+00:09:18,375 --> 00:09:20,041
+Pidän innostasi, poika.
+
+91
+00:09:21,000 --> 00:09:23,708
+Et ehkä halua olla täällä,
+kun tulevat siivoamaan.
+
+92
+00:09:30,208 --> 00:09:31,541
+Hän ei ymmärrä sinua.
+
+93
+00:09:33,375 --> 00:09:34,791
+Tasavallan fregatti lähestyy.
+
+94
+00:10:16,666 --> 00:10:17,708
+Länsitiimi paikalla.
+
+95
+00:10:20,916 --> 00:10:22,333
+Itätiimi, tilanneraportti.
+
+96
+00:10:23,458 --> 00:10:24,708
+<i>Itätiimi lähestymässä.</i>
+
+97
+00:10:24,791 --> 00:10:26,208
+<i>Kolme minuuttia laskuun.</i>
+
+98
+00:10:27,041 --> 00:10:28,166
+Pohjoistiimi, raportti?
+
+99
+00:10:29,208 --> 00:10:30,958
+<i>Pohjoistiimi paikalla.</i>
+
+100
+00:10:31,833 --> 00:10:33,750
+Kuitti. Olkaa valmiudessa.
+
+101
+00:10:45,083 --> 00:10:46,875
+En ole nähnyt sotilaita aikoihin.
+
+102
+00:10:48,125 --> 00:10:49,458
+Mitä hittoa ne tekevät?
+
+103
+00:10:50,333 --> 00:10:51,541
+Jahtaavat jotakuta.
+
+104
+00:11:12,250 --> 00:11:14,666
+Vie yhdeksän minuuttia palata alukselle.
+
+105
+00:11:14,750 --> 00:11:16,041
+Jättäisimmekö hänet?
+
+106
+00:11:16,125 --> 00:11:18,416
+Sitäkö ehdotat?
+-Juoskoon pois.
+
+107
+00:11:19,875 --> 00:11:21,750
+Tulimme auttamaan.
+-Menkää.
+
+108
+00:11:21,833 --> 00:11:24,333
+Missä Tasavallan alus on?
+-Kiertoradalla.
+
+109
+00:11:24,416 --> 00:11:26,166
+He tappavat pojan.
+-Tappavat meidät.
+
+110
+00:11:26,250 --> 00:11:27,916
+Bee, anna nukutusaine.
+
+111
+00:11:28,625 --> 00:11:30,000
+Ei. Maarva, ei.
+
+112
+00:11:30,083 --> 00:11:32,333
+Ole hiljaa, Clem.
+-Täällä on hänen väkeään.
+
+113
+00:11:32,416 --> 00:11:34,625
+Jotka tappoivat juuri Tasavallan upseerin.
+
+114
+00:11:34,708 --> 00:11:37,291
+Jahti alkaa heti, kun fregatti laskeutuu.
+
+115
+00:11:43,875 --> 00:11:45,625
+Sinun on paras miettiä tätä.
+
+116
+00:11:45,708 --> 00:11:47,416
+Mietin myöhemmin.
+
+117
+00:11:47,500 --> 00:11:49,666
+En jätä häntä tänne kuolemaan.
+
+118
+00:11:50,375 --> 00:11:52,875
+Oletteko etsineet jo?
+-Ei vielä.
+
+119
+00:11:52,958 --> 00:11:54,166
+Itätiimi paikalla.
+
+120
+00:11:54,833 --> 00:11:56,791
+Itätiimi, varmistakaa asema.
+
+121
+00:11:56,875 --> 00:11:57,833
+<i>Kuitti.</i>
+
+122
+00:12:11,041 --> 00:12:12,708
+Etsimme Cassian Andoria.
+
+123
+00:12:24,541 --> 00:12:27,041
+Miksi kaikki ne kamat on pinottu kujalle?
+
+124
+00:12:27,125 --> 00:12:29,416
+Luulin, että halusit lähettää ne aamulla.
+
+125
+00:12:29,500 --> 00:12:31,166
+Haluankin, mutta unohdin.
+
+126
+00:12:42,625 --> 00:12:43,916
+Tutkikaa hyllyt!
+
+127
+00:12:44,000 --> 00:12:45,250
+Vedä se alas.
+
+128
+00:12:47,166 --> 00:12:49,416
+Saisitte hävetä.
+
+129
+00:12:50,750 --> 00:12:53,625
+Voitte lopettaa tämän kertomalla,
+mistä hänet löytää.
+
+130
+00:12:55,041 --> 00:12:55,916
+Sir.
+
+131
+00:12:58,291 --> 00:12:59,250
+Pidä hänet siinä.
+
+132
+00:12:59,333 --> 00:13:01,375
+Täällä on toinenkin asukas.
+
+133
+00:13:05,500 --> 00:13:06,958
+Missä Cassian on, droidi?
+
+134
+00:13:07,041 --> 00:13:08,166
+Maarva!
+
+135
+00:13:08,250 --> 00:13:10,041
+Katkaise virtalähde.
+-Ei!
+
+136
+00:13:10,125 --> 00:13:11,750
+Älä anna heidän pelotella, Bee.
+
+137
+00:13:11,833 --> 00:13:13,208
+He eivät voi tehdä sitä.
+
+138
+00:13:13,291 --> 00:13:14,791
+He ovat kodissamme.
+-Tukkikaa suu!
+
+139
+00:13:21,625 --> 00:13:23,000
+Bee, palasitko jo?
+
+140
+00:13:23,791 --> 00:13:25,875
+<i>Sano, että nämä toimivat.</i>
+
+141
+00:13:27,083 --> 00:13:28,333
+Bee, vastaa.
+
+142
+00:13:29,500 --> 00:13:30,708
+<i>Lataatko sinä?</i>
+
+143
+00:13:34,791 --> 00:13:36,958
+Kerro Maarvalle, että olen pahoillani.
+
+144
+00:13:37,875 --> 00:13:39,375
+<i>Unohdin kertoa sen.</i>
+
+145
+00:13:40,500 --> 00:13:43,250
+<i>Ja katso, että hän pitää</i>
+<i>lämmityksen päällä.</i>
+
+146
+00:13:43,333 --> 00:13:45,458
+Idässä.
+<i>-Tiedät, miten hän palelee.</i>
+
+147
+00:13:45,541 --> 00:13:48,041
+Idässä. Itäkoillisessa. Löytyi.
+
+148
+00:13:48,125 --> 00:13:50,208
+Jätetäänkö yksi mies tänne?
+<i>-Bee, kuuletko?</i>
+
+149
+00:13:50,291 --> 00:13:51,291
+<i>Vastaa nyt.</i>
+
+150
+00:13:51,375 --> 00:13:52,458
+Väkeä kokoontuu.
+
+151
+00:13:53,500 --> 00:13:54,833
+Sanoisin kaksi, sir.
+
+152
+00:13:55,458 --> 00:13:57,541
+Ilmoittakaa itätiimille,
+että olemme tulossa.
+
+153
+00:13:57,625 --> 00:13:59,708
+Te kaksi, mukaani. Jäätte tänne.
+
+154
+00:13:59,791 --> 00:14:01,833
+<i>Kuuletko minua?</i>
+-Pitäkää heitä silmällä.
+
+155
+00:14:02,791 --> 00:14:04,416
+Bee, kuuletko tämän?
+
+156
+00:14:06,125 --> 00:14:07,416
+Vast...
+
+157
+00:14:11,208 --> 00:14:12,166
+Andor?
+
+158
+00:14:18,000 --> 00:14:19,000
+Pääsit tulemaan.
+
+159
+00:14:23,291 --> 00:14:24,583
+Olemmeko kahden?
+
+160
+00:14:25,250 --> 00:14:26,166
+Olen yksin.
+
+161
+00:14:27,708 --> 00:14:29,750
+Mitä teitte Maarvalle?
+-Hän on vanha!
+
+162
+00:14:29,833 --> 00:14:32,625
+Perääntykää. Loitommalle.
+
+163
+00:14:32,708 --> 00:14:34,125
+Ei mitään nähtävää.
+
+164
+00:14:34,208 --> 00:14:35,541
+Normaalitoimintaa.
+
+165
+00:14:35,625 --> 00:14:36,833
+Pidätysmääräys.
+
+166
+00:14:36,916 --> 00:14:38,708
+Yhtiön viranomaisia. Perääntykää.
+
+167
+00:14:41,000 --> 00:14:42,125
+Miten kaukana?
+
+168
+00:14:42,208 --> 00:14:43,625
+Kymmenen minuutin kävely.
+
+169
+00:14:43,708 --> 00:14:45,458
+Itätiimi varmistaa alueen.
+
+170
+00:14:46,875 --> 00:14:48,833
+Paljonko?
+-40 000.
+
+171
+00:14:51,250 --> 00:14:52,458
+40 000?
+
+172
+00:14:52,541 --> 00:14:54,791
+40 000 krediittiä on halpa hinta.
+
+173
+00:14:55,458 --> 00:14:56,291
+Onko?
+
+174
+00:14:57,625 --> 00:14:59,416
+Jäljittämätön tähtipolkuyksikkö.
+
+175
+00:14:59,500 --> 00:15:01,916
+Vektorikristallit
+ja sinetit koskemattomia.
+
+176
+00:15:02,000 --> 00:15:05,333
+Sillä löytyy Imperiumin jokainen
+koordinaatti 9 parsekin alueella.
+
+177
+00:15:05,416 --> 00:15:06,625
+Onko se täällä?
+
+178
+00:15:06,708 --> 00:15:07,958
+Ovatko rahat täällä?
+
+179
+00:15:08,708 --> 00:15:10,583
+Mistä tiedän, että se toimii?
+
+180
+00:15:11,250 --> 00:15:12,166
+Se on sinetöity.
+
+181
+00:15:12,250 --> 00:15:14,416
+Kun kytken sen, arvo laskee.
+
+182
+00:15:14,500 --> 00:15:16,041
+Joten voisit huijata minua.
+
+183
+00:15:18,833 --> 00:15:20,083
+Annan sanani.
+
+184
+00:15:20,791 --> 00:15:22,208
+Entä jos se ei riitä?
+
+185
+00:15:24,916 --> 00:15:26,166
+Tiedät, missä asun.
+
+186
+00:15:27,000 --> 00:15:29,791
+Joten voisin palata,
+ellen olisi tyytyväinen.
+
+187
+00:15:32,583 --> 00:15:34,541
+Onko Bix koskaan huijannut sinua?
+
+188
+00:15:35,291 --> 00:15:37,458
+Aiot pysytellä täällä, vai kuinka?
+
+189
+00:15:44,291 --> 00:15:46,416
+Ryhmä yhtiön miehiä etsii Cassiania.
+
+190
+00:15:46,500 --> 00:15:47,666
+Wilmon näki ne.
+-Täälläkö?
+
+191
+00:15:47,750 --> 00:15:49,375
+Ovat Maarvan luona.
+-Ei.
+
+192
+00:15:49,458 --> 00:15:51,833
+Mitä Chobbin nimeen hän on nyt tehnyt?
+
+193
+00:15:51,916 --> 00:15:52,791
+Voi taivas.
+
+194
+00:15:52,875 --> 00:15:54,958
+Näitkö eilisiltaisen tiedotteen?
+
+195
+00:15:55,041 --> 00:15:56,375
+"Kenarilainen mies".
+
+196
+00:15:57,333 --> 00:15:59,166
+Täytyy miettiä. Anna kun mietin.
+
+197
+00:15:59,250 --> 00:16:00,625
+Siitäkö tässä on kyse?
+
+198
+00:16:03,250 --> 00:16:04,541
+Joku vasikoi hänet.
+
+199
+00:16:04,625 --> 00:16:06,125
+Mitä? Mitä tarkoitat?
+
+200
+00:16:06,208 --> 00:16:08,083
+Minun pitää etsiä hänet.
+-Bix, ei.
+
+201
+00:16:08,166 --> 00:16:10,250
+Jonkun täytyy.
+-Hän voi olla missä vain.
+
+202
+00:16:10,333 --> 00:16:11,625
+Älä.
+
+203
+00:16:11,708 --> 00:16:13,291
+Älä mitä?
+
+204
+00:16:14,208 --> 00:16:15,708
+Hän osaa huolehtia itsestään.
+
+205
+00:16:16,958 --> 00:16:17,833
+Kuka?
+
+206
+00:16:18,791 --> 00:16:20,833
+Miten tiedät, kenestä puhumme?
+
+207
+00:16:25,583 --> 00:16:28,250
+Olenko kertonut,
+että Cassian syntyi Kenarissa?
+
+208
+00:16:29,541 --> 00:16:31,500
+Minä en... minä en muista.
+
+209
+00:16:32,666 --> 00:16:33,541
+Minä muistan.
+
+210
+00:16:34,958 --> 00:16:36,125
+Minä muistan.
+
+211
+00:16:38,000 --> 00:16:39,375
+Miten saatoit?
+
+212
+00:16:39,458 --> 00:16:41,958
+Hetkinen. Mitä täällä tapahtuu?
+
+213
+00:16:42,041 --> 00:16:43,708
+En voi uskoa, että tekisit niin.
+
+214
+00:16:46,541 --> 00:16:48,083
+Mitä sinä teit?
+
+215
+00:16:49,000 --> 00:16:50,125
+Timm!
+
+216
+00:16:53,500 --> 00:16:54,708
+Mistä sait sen?
+
+217
+00:16:54,791 --> 00:16:56,625
+Mitä väliä sillä on?
+
+218
+00:16:56,708 --> 00:16:58,458
+Näen kolme vaihtoehtoa.
+
+219
+00:16:58,541 --> 00:17:00,291
+Joko olet Imperiumin vakooja, -
+
+220
+00:17:00,375 --> 00:17:02,958
+edustat ihmistä,
+jonka kanssa haluan puhua, -
+
+221
+00:17:03,041 --> 00:17:04,416
+tai olet se itse.
+
+222
+00:17:04,500 --> 00:17:05,791
+Näen yhden vaihtoehdon.
+
+223
+00:17:05,875 --> 00:17:07,791
+Joko sinulla on rahani tai ei.
+
+224
+00:17:12,791 --> 00:17:13,916
+Joten miten on?
+
+225
+00:17:15,791 --> 00:17:17,083
+Tiedän Bixin pelin.
+
+226
+00:17:17,166 --> 00:17:20,291
+Lahjotte majoitusmestareita
+jättämään arvoesineitä aluksiin -
+
+227
+00:17:20,375 --> 00:17:21,625
+ennen purkamista.
+
+228
+00:17:21,708 --> 00:17:23,208
+Mutta tämä ei ole sitä.
+
+229
+00:17:23,291 --> 00:17:25,375
+Tähän he eivät suostuisi.
+
+230
+00:17:26,291 --> 00:17:27,208
+Ei.
+
+231
+00:17:27,916 --> 00:17:29,750
+Kävin itse hakemassa tämän.
+
+232
+00:17:29,833 --> 00:17:31,375
+Miten se on mahdollista?
+
+233
+00:17:31,458 --> 00:17:34,833
+Se oli sinetöitynä Imperiumin
+laivastotukikohdassa Steergardissa.
+
+234
+00:17:34,916 --> 00:17:36,833
+Sinulla on rahat, minulla laatikko.
+
+235
+00:17:36,916 --> 00:17:38,375
+Mitä muuta puhuttavaa on?
+
+236
+00:17:38,458 --> 00:17:41,333
+Saat tuhat krediittiä lisää,
+jos kerrot miten sait sen.
+
+237
+00:17:41,416 --> 00:17:43,375
+Vielä tuhat?
+
+238
+00:17:43,458 --> 00:17:44,291
+Niin.
+
+239
+00:17:45,541 --> 00:17:46,625
+Miten?
+
+240
+00:17:52,250 --> 00:17:54,333
+Pitää mennä sisään kuin kuuluisi sinne.
+
+241
+00:17:55,083 --> 00:17:58,500
+Kai se vaatii enemmän?
+-Imperiumilta varastaminenko?
+
+242
+00:17:59,083 --> 00:18:00,208
+Mitä tarvitaan?
+
+243
+00:18:00,291 --> 00:18:03,208
+Univormu, likaiset kädet
+ja Imperiumin työkalusetti.
+
+244
+00:18:04,125 --> 00:18:06,791
+He ovat niin ylpeitä itsestään,
+etteivät edes välitä.
+
+245
+00:18:08,041 --> 00:18:12,041
+Niin lihavia ja tyytyväisiä,
+etteivät osaa kuvitella sitä.
+
+246
+00:18:12,125 --> 00:18:13,375
+Osaa kuvitella mitä?
+
+247
+00:18:14,166 --> 00:18:16,916
+Että minunlaiseni
+voisi päästä heidän taloonsa, -
+
+248
+00:18:17,000 --> 00:18:18,458
+kävellä lattioillaan, -
+
+249
+00:18:18,541 --> 00:18:20,541
+sylkeä heidän ruokaansa,
+viedä heidän kamojaan.
+
+250
+00:18:21,958 --> 00:18:24,083
+Se ylimielisyys on hämmästyttävää.
+
+251
+00:18:24,791 --> 00:18:26,541
+He eivät edes ajattele meitä.
+
+252
+00:18:27,291 --> 00:18:29,666
+Meitä? En tunne sinua.
+
+253
+00:18:29,750 --> 00:18:31,541
+Selvä, mutta minä tunnen sinut.
+
+254
+00:18:33,083 --> 00:18:35,458
+Nämä ajat päättyvät, Cassian Andor.
+
+255
+00:18:36,458 --> 00:18:39,333
+Heidän naurunsa,
+se miten he työntyvät väkijoukon läpi.
+
+256
+00:18:41,083 --> 00:18:44,875
+Ääni, millä he käskevät
+pysähtyä, häipyä, liikkua.
+
+257
+00:18:46,000 --> 00:18:47,500
+Kuolla.
+
+258
+00:18:48,166 --> 00:18:49,750
+Se soi korvissa, vai mitä?
+
+259
+00:18:49,833 --> 00:18:51,833
+Saanko laskea ne rahat?
+
+260
+00:18:52,416 --> 00:18:54,500
+Mutta he ajattelevat meitä pian.
+
+261
+00:18:54,583 --> 00:18:55,791
+Meidän pitäisi lähteä.
+
+262
+00:18:56,375 --> 00:18:59,541
+Pian heillä on jotain muuta kuunneltavaa.
+
+263
+00:18:59,625 --> 00:19:01,458
+Ei kannata jäädä kiinni tuon kanssa.
+
+264
+00:19:03,625 --> 00:19:05,750
+He hirttäisivät minut, vai mitä?
+
+265
+00:19:05,833 --> 00:19:08,375
+Veisivät Rix Roadille
+ja hirttäisivät aukiolla.
+
+266
+00:19:09,125 --> 00:19:10,750
+Ei olisi ensimmäinen kerta.
+
+267
+00:19:12,083 --> 00:19:13,875
+Sielläkö he hirttivät isäsi?
+
+268
+00:19:15,083 --> 00:19:16,250
+Kuka sinä olet?
+
+269
+00:19:17,666 --> 00:19:18,833
+Mitä tämä on?
+
+270
+00:19:21,000 --> 00:19:22,750
+Sanoin tuntevani sinut.
+
+271
+00:19:23,333 --> 00:19:24,916
+Tiedän kaiken sinusta.
+
+272
+00:19:25,000 --> 00:19:26,250
+Kyllä, haluan laatikon -
+
+273
+00:19:26,333 --> 00:19:28,666
+ja tyydyn siihen, ellen saa muuta.
+
+274
+00:19:28,750 --> 00:19:31,625
+Tulin etsimään jotain muutakin
+ja uskon löytäneeni sen.
+
+275
+00:19:34,416 --> 00:19:36,125
+Haluaisin, että tulet mukaani.
+
+276
+00:19:36,208 --> 00:19:37,791
+Miten tiedät minusta?
+
+277
+00:19:38,708 --> 00:19:40,916
+Toivoin rennompaa keskustelua, -
+
+278
+00:19:41,000 --> 00:19:43,166
+mutta meillä ei tosiaan ole aikaa.
+
+279
+00:19:43,250 --> 00:19:46,750
+Toisin kuin sanoit,
+epäilen että jäisit maisemiin.
+
+280
+00:19:46,833 --> 00:19:49,000
+Tiedän sinun tappaneen
+kaksi Morlanan miestä.
+
+281
+00:19:49,083 --> 00:19:50,875
+Yhtiön miehet etsivät sinua.
+
+282
+00:19:50,958 --> 00:19:53,166
+Olisi haaskausta antaa sinut heille.
+
+283
+00:19:53,958 --> 00:19:55,291
+Lahjakkuuden haaskausta.
+
+284
+00:19:56,000 --> 00:19:57,541
+Kuka sinä olet?
+
+285
+00:19:57,625 --> 00:19:59,250
+Se on väärä kysymys.
+
+286
+00:20:00,333 --> 00:20:03,291
+Oikea kysymys on, miten paljon aikaa
+meillä on poistua täältä.
+
+287
+00:20:03,375 --> 00:20:05,875
+Miksi lähtisin minnekään kanssasi?
+
+288
+00:20:06,625 --> 00:20:09,250
+Etkö halua taistella
+niitä paskiaisia vastaan oikeasti?
+
+289
+00:20:16,916 --> 00:20:18,666
+Mene. Mene jo!
+
+290
+00:20:32,708 --> 00:20:34,125
+Vauhtia.
+
+291
+00:20:43,958 --> 00:20:45,416
+Mitä tuo tarkoittaa?
+
+292
+00:20:45,500 --> 00:20:49,250
+Merkki. Häivytään! Vauhtia!
+
+293
+00:20:52,708 --> 00:20:53,875
+Mitä tämä kaikki on?
+
+294
+00:20:53,958 --> 00:20:55,166
+Pelottelua.
+
+295
+00:20:55,958 --> 00:20:57,250
+Bluffia ja uhoamista.
+
+296
+00:21:06,708 --> 00:21:08,041
+Miten tulit tänne?
+
+297
+00:21:08,125 --> 00:21:10,000
+Minulla on alus lähellä lautta-aluetta.
+
+298
+00:21:10,083 --> 00:21:12,333
+Ehkä sinä olet Imperiumin vakooja.
+
+299
+00:21:12,416 --> 00:21:13,500
+Millä asialla?
+
+300
+00:21:14,083 --> 00:21:17,958
+Jos tiesit heidän etsivän minua,
+miksi tulit tänne?
+
+301
+00:21:18,041 --> 00:21:22,041
+Lahjakasta väkeä on vaikea löytää.
+En halunnut nähdä sinua roviolla.
+
+302
+00:21:22,125 --> 00:21:24,916
+Luulin, että ehtisin selvittää asian,
+mutta erehdyin.
+
+303
+00:21:28,500 --> 00:21:29,625
+Saanko?
+
+304
+00:21:30,166 --> 00:21:32,541
+Olen ainoa toivosi nyt.
+
+305
+00:21:32,625 --> 00:21:34,333
+Haluatko kuolla varovaisuuden takia?
+
+306
+00:21:38,916 --> 00:21:40,875
+Onko sinulla viestintälinkkiä?
+-Miten niin?
+
+307
+00:21:40,958 --> 00:21:42,333
+Anna se minulle heti.
+
+308
+00:21:43,083 --> 00:21:44,083
+Anna se!
+
+309
+00:21:49,000 --> 00:21:53,083
+Ensimmäinen sääntö:
+älä pidä mukana mitään, mitä et hallitse.
+
+310
+00:21:58,500 --> 00:21:59,666
+Tuolla!
+
+311
+00:22:00,833 --> 00:22:01,916
+He murtavat ovet.
+
+312
+00:22:03,750 --> 00:22:05,041
+Olemme saarroksissa.
+
+313
+00:22:07,375 --> 00:22:09,708
+Tulkaa tänne.
+
+314
+00:22:09,791 --> 00:22:11,500
+Kiirehtikää.
+-Sulje se.
+
+315
+00:22:13,458 --> 00:22:14,791
+Sinä, pysähdy!
+
+316
+00:22:14,875 --> 00:22:16,041
+Käskin pysähtyä!
+
+317
+00:22:17,125 --> 00:22:18,916
+Näytät pelokkaalta, tyttö.
+
+318
+00:22:19,000 --> 00:22:21,000
+Et kai ole menossa kotiin?
+
+319
+00:22:21,083 --> 00:22:22,708
+<i>Länsitiimi, tässä itätiimi.</i>
+
+320
+00:22:22,791 --> 00:22:25,083
+<i>Olemme asemissa tehtaalla. Hyökkäämmekö?</i>
+
+321
+00:22:25,166 --> 00:22:26,416
+Ei. Ei.
+
+322
+00:22:26,500 --> 00:22:29,541
+Odottakaa meitä, tulemme kohta.
+Turvatkaa asemat.
+
+323
+00:22:29,625 --> 00:22:31,666
+He saartoivat hänet.
+
+324
+00:22:31,750 --> 00:22:33,333
+On aika napata saalis.
+
+325
+00:22:33,416 --> 00:22:35,333
+Mitä he odottavat?
+
+326
+00:22:35,416 --> 00:22:36,791
+Vahvistuksia.
+
+327
+00:22:38,666 --> 00:22:40,375
+Miten aioit poistua täältä?
+
+328
+00:22:40,458 --> 00:22:41,833
+Suunnitelmani petti.
+
+329
+00:22:41,916 --> 00:22:44,083
+Ja aluksellesi on 40 km halki joutomaan.
+
+330
+00:22:44,166 --> 00:22:46,375
+Tarvitsemme kiiturin.
+Mikä on paras vaihtoehto?
+
+331
+00:22:46,458 --> 00:22:48,000
+Länteen, kaupunkiin.
+
+332
+00:22:48,083 --> 00:22:49,500
+Mihin tuo johtaa?
+
+333
+00:22:49,583 --> 00:22:51,750
+Vanhan masuunin alle.
+-Pääseekö sieltä pois?
+
+334
+00:22:51,833 --> 00:22:53,708
+Juu, pitkä kiertotie.
+
+335
+00:22:57,750 --> 00:23:00,291
+Mikä tuo on?
+-Laitoin räjähteet oviin.
+
+336
+00:23:00,375 --> 00:23:01,875
+Mitä? Milloin?
+
+337
+00:23:01,958 --> 00:23:04,291
+Sääntö kaksi: hoida poistumistie tullessa.
+
+338
+00:23:04,375 --> 00:23:05,250
+Pidä varasi.
+
+339
+00:23:25,583 --> 00:23:27,041
+Mennään!
+
+340
+00:23:27,125 --> 00:23:29,416
+Jätimme laatikon!
+-Ei!
+
+341
+00:23:31,166 --> 00:23:32,250
+Tuolla hän on!
+
+342
+00:23:45,250 --> 00:23:46,666
+Maahan!
+
+343
+00:23:49,875 --> 00:23:52,333
+Minä menen. Suojaa!
+-Unohda se laatikko!
+
+344
+00:24:04,083 --> 00:24:05,333
+<i>Meitä tulitetaan raskaasti.</i>
+
+345
+00:24:05,416 --> 00:24:06,875
+Käskin odottaa!
+
+346
+00:24:06,958 --> 00:24:08,291
+<i>Kaksi miestä poissa pelistä.</i>
+
+347
+00:24:09,000 --> 00:24:10,416
+Itätiimi, toista äskeinen.
+
+348
+00:24:11,291 --> 00:24:12,541
+Itätiimi, toista.
+
+349
+00:24:29,375 --> 00:24:30,750
+Tule!
+
+350
+00:24:48,583 --> 00:24:49,625
+Varo!
+
+351
+00:25:07,791 --> 00:25:08,750
+Nyt! Tule!
+
+352
+00:25:15,958 --> 00:25:16,875
+Itätiimi!
+
+353
+00:25:17,583 --> 00:25:19,000
+Mitä siellä tapahtuu?
+
+354
+00:25:20,458 --> 00:25:21,791
+Pohjoistiimi, missä olette?
+
+355
+00:25:22,708 --> 00:25:24,000
+Ei nimikylttejä.
+
+356
+00:25:24,083 --> 00:25:25,541
+En tiedä, mikä katu.
+
+357
+00:25:25,625 --> 00:25:27,291
+<i>Olemme tulitaistelussa.</i>
+
+358
+00:25:27,375 --> 00:25:29,208
+<i>Tarvitsen tarkan sijaintinne.</i>
+
+359
+00:25:30,666 --> 00:25:32,375
+Käskin odottaa siinä!
+
+360
+00:25:39,833 --> 00:25:41,375
+Odota! Se laatikko!
+
+361
+00:25:41,458 --> 00:25:42,916
+Laatikko on tuolla.
+
+362
+00:25:43,000 --> 00:25:44,083
+Luulin sinua fiksuksi.
+
+363
+00:25:44,166 --> 00:25:45,666
+Jospa vain yksi on jäljellä?
+
+364
+00:25:45,750 --> 00:25:47,708
+Eivät tulisi vain neljän miehen kanssa.
+
+365
+00:25:51,333 --> 00:25:54,083
+Olemme North Stairs Lanella.
+
+366
+00:25:54,166 --> 00:25:55,041
+Jätä hänet!
+
+367
+00:25:55,125 --> 00:25:58,000
+<i>Vie miehet Rix Roadille </i>
+<i>ja laita taktinen alus ilmaan heti.</i>
+
+368
+00:25:58,083 --> 00:26:00,333
+Bix! Bix!
+
+369
+00:26:00,416 --> 00:26:02,916
+Mitä olette tehneet hänelle?
+-Pysähdy siihen.
+
+370
+00:26:03,000 --> 00:26:05,166
+Hän vuotaa verta!
+-Käskin pysähtyä.
+
+371
+00:26:05,250 --> 00:26:06,833
+<i>Pohjoistiimi, tilanneraportti.</i>
+
+372
+00:26:06,916 --> 00:26:08,375
+Kuka teki tämän?
+
+373
+00:26:11,625 --> 00:26:12,958
+Timm!
+
+374
+00:26:14,291 --> 00:26:16,166
+<i>Pohjoistiimi, raportti.</i>
+
+375
+00:26:16,250 --> 00:26:17,875
+<i>Mitä siellä tapahtuu?</i>
+
+376
+00:26:17,958 --> 00:26:19,791
+<i>Tarvitsen ilmakuvaa heti!</i>
+
+377
+00:26:20,291 --> 00:26:22,041
+Vahvistan. Valmiina.
+
+378
+00:26:23,000 --> 00:26:24,458
+Anna kivääri minulle!
+
+379
+00:26:24,541 --> 00:26:25,458
+Miksi?
+
+380
+00:26:25,541 --> 00:26:27,500
+Palaat alukselle!
+
+381
+00:26:27,583 --> 00:26:29,041
+Yksinkö?
+
+382
+00:26:29,125 --> 00:26:31,500
+Alus ilmaan, pidä radio päällä.
+
+383
+00:26:31,583 --> 00:26:32,583
+Liikettä!
+
+384
+00:26:34,583 --> 00:26:35,666
+Häivytään täältä.
+
+385
+00:26:36,416 --> 00:26:37,958
+Pohjoistiimi tulossa Rix Roadille.
+
+386
+00:26:38,041 --> 00:26:39,958
+Ilmatukea tulossa.
+
+387
+00:26:41,625 --> 00:26:42,583
+Timm.
+
+388
+00:26:44,666 --> 00:26:45,833
+Nytkö kolme miestä?
+
+389
+00:26:45,916 --> 00:26:47,166
+Miten se on mahdollista?
+
+390
+00:26:47,250 --> 00:26:48,791
+He tuhosivat rakennuksen.
+
+391
+00:26:48,875 --> 00:26:50,416
+Heillä on räjähteitä.
+
+392
+00:26:50,500 --> 00:26:52,625
+Odotas, hetkinen. Miten niin "heillä"?
+
+393
+00:26:52,708 --> 00:26:54,125
+<i>Heitä on kaksi.</i>
+
+394
+00:26:54,208 --> 00:26:56,333
+<i>Kaksi ihmistä. Raskaasti aseistettuja.</i>
+
+395
+00:26:56,416 --> 00:26:58,958
+<i>Tulossa suuntaanne.</i>
+-Pysykää sivustalla.
+
+396
+00:26:59,041 --> 00:27:01,291
+Jatkakaa. Pidä kanava auki.
+
+397
+00:27:01,375 --> 00:27:03,125
+Onko heitä kaksi?
+-Ilmeisesti.
+
+398
+00:27:03,208 --> 00:27:04,958
+Aiommeko vain seistä tässä?
+
+399
+00:27:06,583 --> 00:27:07,666
+Asia selvä.
+
+400
+00:27:09,000 --> 00:27:13,708
+Hajaannumme, menemme asemiin.
+Tapamme heidät, kun tulevat esiin.
+
+401
+00:27:13,791 --> 00:27:15,875
+Kivääri! Vauhtia!
+
+402
+00:27:15,958 --> 00:27:17,500
+Vasen sivusta! Oikea sivusta!
+
+403
+00:27:36,791 --> 00:27:37,791
+Huhuu?
+
+404
+00:27:39,000 --> 00:27:40,000
+Huhuu!
+
+405
+00:28:00,000 --> 00:28:01,375
+Käy hermoon, eikö vain?
+
+406
+00:28:02,291 --> 00:28:03,375
+Iho umpeen.
+
+407
+00:28:05,708 --> 00:28:07,875
+Tuolta kuulostaa tilinteon hetki.
+
+408
+00:28:19,000 --> 00:28:21,875
+Haluat sen loppuvan, mutta se vain jatkuu.
+
+409
+00:28:21,958 --> 00:28:23,416
+Käskin tukkia suun!
+
+410
+00:28:32,958 --> 00:28:34,291
+<i>Kun se loppuu, -</i>
+
+411
+00:28:36,541 --> 00:28:38,833
+silloin kannattaa todella olla huolissaan.
+
+412
+00:28:40,333 --> 00:28:41,500
+Miten niin?
+
+413
+00:28:41,583 --> 00:28:42,708
+Mitä silloin tapahtuu?
+
+414
+00:28:51,750 --> 00:28:53,208
+Tyhjä!
+
+415
+00:28:54,541 --> 00:28:55,541
+Liikkuu!
+
+416
+00:28:57,375 --> 00:28:59,041
+<i>Pohjoistiimi, tilanne?</i>
+
+417
+00:28:59,125 --> 00:29:00,458
+Asemissa.
+
+418
+00:29:01,083 --> 00:29:02,666
+<i>Silmät auki, pojat.</i>
+
+419
+00:29:02,750 --> 00:29:03,916
+<i>Aseet valmiina.</i>
+
+420
+00:29:39,583 --> 00:29:40,708
+Pudota ase.
+
+421
+00:29:46,916 --> 00:29:48,166
+Riisu yhteyslaite.
+
+422
+00:29:51,833 --> 00:29:52,833
+Laita se maahan.
+
+423
+00:29:57,833 --> 00:29:58,708
+Montako teitä on?
+
+424
+00:30:00,708 --> 00:30:01,625
+En tiedä.
+
+425
+00:30:02,583 --> 00:30:03,458
+Tapa hänet.
+
+426
+00:30:04,583 --> 00:30:05,666
+Kuinka monta?
+
+427
+00:30:07,916 --> 00:30:08,750
+Minä tapan hänet.
+
+428
+00:30:08,833 --> 00:30:10,750
+Kaksitoista. Neljätoista.
+
+429
+00:30:11,666 --> 00:30:13,166
+12 miestä. Kaksi upseeria.
+
+430
+00:30:13,833 --> 00:30:14,916
+Vannon sen.
+
+431
+00:31:12,208 --> 00:31:13,458
+Hekö?
+
+432
+00:31:13,541 --> 00:31:15,625
+<i>En tiedä. En osaa sanoa täältä.</i>
+
+433
+00:31:15,708 --> 00:31:17,458
+Kuka muu se voisi olla?
+
+434
+00:31:17,541 --> 00:31:19,291
+<i>Silloin he olisivat takanamme.</i>
+
+435
+00:31:20,583 --> 00:31:21,750
+Hitto!
+
+436
+00:31:21,833 --> 00:31:23,208
+Meidät on piiritetty.
+
+437
+00:31:23,291 --> 00:31:24,541
+Niitä on kaikkialla.
+
+438
+00:31:28,791 --> 00:31:30,000
+Minkä haluat?
+
+439
+00:31:33,583 --> 00:31:36,000
+Montako räjähdettä sinulla on jäljellä?
+
+440
+00:31:52,916 --> 00:31:54,208
+Hetkinen, sir.
+
+441
+00:31:58,708 --> 00:32:00,291
+He pääsevät karkuun!
+
+442
+00:32:06,333 --> 00:32:08,416
+Tuhotkaa se!
+
+443
+00:32:09,500 --> 00:32:11,083
+Varokaa!
+-Pysykää perässä!
+
+444
+00:32:13,750 --> 00:32:14,916
+Ampukaa!
+
+445
+00:32:17,375 --> 00:32:18,375
+Tulta!
+
+446
+00:32:41,416 --> 00:32:42,416
+Tuolla!
+
+447
+00:32:50,666 --> 00:32:51,708
+Ei, ei!
+
+448
+00:32:51,791 --> 00:32:52,958
+Pohjoistiimi, vastatkaa!
+
+449
+00:32:53,958 --> 00:32:55,333
+Pohjoistiimi, vastatkaa!
+
+450
+00:33:09,541 --> 00:33:10,541
+Baktaa!
+
+451
+00:33:22,000 --> 00:33:25,208
+Tässä Delta-1.
+Tarvitaan välitöntä uhrien evakuointia.
+
+452
+00:33:26,833 --> 00:33:29,083
+Nova, Nova, tässä Delta-1.
+
+453
+00:34:23,291 --> 00:34:26,125
+Bix, meidän täytyy lähteä täältä.
+
+454
+00:34:26,208 --> 00:34:27,208
+Tule.
+
+455
+00:34:52,041 --> 00:34:55,125
+Ryhdistäydy! Takaisin asemiin, miehet!
+
+456
+00:34:57,000 --> 00:34:59,916
+Nova, Nova, tässä Delta-1.
+Kuulitteko viestini?
+
+457
+00:35:01,166 --> 00:35:02,333
+On päästävä täältä.
+
+458
+00:35:03,750 --> 00:35:04,583
+Sir.
+
+459
+00:35:05,500 --> 00:35:06,833
+Meidän täytyy poistua.
+
+460
+00:35:09,083 --> 00:35:10,833
+Meidän täytyy poistua täältä!
+
+461
+00:40:06,541 --> 00:40:08,541
+Tekstitys: Timo Porri
+

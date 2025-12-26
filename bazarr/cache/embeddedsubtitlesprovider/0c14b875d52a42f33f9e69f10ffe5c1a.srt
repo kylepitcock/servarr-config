@@ -1,0 +1,1688 @@
+1
+00:00:07,007 --> 00:00:10,385
+<font face="Serif" size="18">- [narrator] <i>Previously on</i></font><font face="Serif" size="18"> Rick and Morty:
+- Jerry, I had sex with your wife.</font>
+
+2
+00:00:11,136 --> 00:00:13,222
+<font face="Serif" size="18">I did it! I fixed portal travel!</font>
+
+3
+00:00:13,305 --> 00:00:15,974
+<font face="Serif" size="18">- Jack the Ripper, at your service.
+- Cool!</font>
+
+4
+00:00:16,058 --> 00:00:17,142
+<font face="Serif" size="18">This happened too?</font>
+
+5
+00:00:17,226 --> 00:00:19,520
+<font face="Serif" size="18">- I'm pregnant.
+- Honey, she's just like you!</font>
+
+6
+00:00:19,603 --> 00:00:21,939
+<font face="Serif" size="18">- It's raining meatballs!
+- Okay, something is...</font>
+
+7
+00:00:22,022 --> 00:00:25,526
+<font face="Serif" size="18">Jerry Smith died doing what he loved.
+Getting stung by bees.</font>
+
+8
+00:00:25,609 --> 00:00:29,321
+<font face="Serif" size="18">- Off.
+- Off what? Have some respect. It's Dad's funeral.</font>
+
+9
+00:00:29,404 --> 00:00:31,281
+<font face="Serif" size="18">I'm going to name you Jerry Jr.</font>
+
+10
+00:00:31,365 --> 00:00:33,784
+<font face="Serif" size="18">Thanks for solving that murder, guys.
+Here's a skateboard.</font>
+
+11
+00:00:33,867 --> 00:00:36,119
+<font face="Serif" size="18">- Thanks, Tony Hawk! What?
+- Morty, say you'll marry me!</font>
+
+12
+00:00:36,203 --> 00:00:37,496
+<font face="Serif" size="18">- Just say yes!
+- Yes?</font>
+
+13
+00:00:37,579 --> 00:00:38,580
+<font face="Serif" size="18">Okay.</font>
+
+14
+00:00:38,664 --> 00:00:41,333
+<font face="Serif" size="18">- Rick, do you promise to--
+- I do, and for our honeymoon let's go</font>
+
+15
+00:00:41,416 --> 00:00:43,835
+<font face="Serif" size="18">- to a sealed chamber lined with ionized deuterium.
+- Why?</font>
+
+16
+00:00:43,919 --> 00:00:47,214
+<font face="Serif" size="18">Because the charge acts as a narrative decelerant.
+Morty, none of this is real.</font>
+
+17
+00:00:47,297 --> 00:00:49,466
+<font face="Serif" size="18">We're in a "previously on" spiral.
+Clear your head.</font>
+
+18
+00:00:49,550 --> 00:00:51,218
+<font face="Serif" size="18">- After all that's happened?
+- No.</font>
+
+19
+00:00:51,301 --> 00:00:54,721
+<font face="Serif" size="18">I'm innocent! I didn't release those bees!
+I love Jerry!</font>
+
+20
+00:00:54,805 --> 00:00:56,348
+<font face="Serif" size="18">- What'd I just say?
+- When?</font>
+
+21
+00:00:56,431 --> 00:00:59,101
+<font face="Serif" size="18">Okay, great execution.
+Let's go back to the chamber.</font>
+
+22
+00:00:59,184 --> 00:01:01,937
+<font face="Serif" size="18">Now repeat after me, Morty:
+"Next time on <i>Rick and Morty."</i></font>
+
+23
+00:01:02,020 --> 00:01:04,022
+<font face="Serif" size="18">- Next time on <i>Rick and Morty?
+</i></font><font face="Serif" size="18">- [narrator] <i>No.</i></font>
+
+24
+00:01:04,106 --> 00:01:05,649
+<font face="Serif" size="18"><i>Previously on</i></font><font face="Serif" size="18"> Rick and Morty:</font>
+
+25
+00:01:05,732 --> 00:01:09,111
+<font face="Serif" size="18">ignore it, Morty. "Next time on <i>Rick and Morty."
+</i></font><font face="Serif" size="18">It counteracts his toxins.</font>
+
+26
+00:01:09,194 --> 00:01:11,530
+<font face="Serif" size="18">Next time on <i>Rick and Morty.</i></font><font face="Serif" size="18"> Whose toxins?</font>
+
+27
+00:01:11,613 --> 00:01:14,324
+<font face="Serif" size="18">- [Previous Leon] Hey, stop it!
+- Previous Leon! Grab him!</font>
+
+28
+00:01:14,408 --> 00:01:15,409
+<font face="Serif" size="18">Oh no!</font>
+
+29
+00:01:15,492 --> 00:01:18,078
+<font face="Serif" size="18">Hold on tight, Morty!
+We gotta get through the opening titles!</font>
+
+30
+00:01:18,161 --> 00:01:19,496
+<font face="Serif" size="18">[Morty] Opening titles of what?</font>
+
+31
+00:01:19,580 --> 00:01:21,790
+<font face="Serif" size="18">- We're in space!
+- [Previous Leon] Let go of me! Ow!</font>
+
+32
+00:01:22,499 --> 00:01:25,961
+<font face="Serif" size="18">Oh, my God! Oh, my God!</font>
+
+33
+00:01:26,044 --> 00:01:27,337
+<font face="Serif" size="18">[theme music playing]</font>
+
+34
+00:01:28,755 --> 00:01:31,550
+<font face="Serif" size="18">- [Morty] What planet is this?
+- [Rick] Cover your eyes on this part.</font>
+
+35
+00:01:31,633 --> 00:01:33,677
+<font face="Serif" size="18">[Morty] Oh, my God, it's a giant squirrel!</font>
+
+36
+00:01:34,511 --> 00:01:38,515
+<font face="Serif" size="18">Why are we dressed like old-timey people?
+What the hell's going on?</font>
+
+37
+00:01:39,266 --> 00:01:41,184
+<font face="Serif" size="18">- [Rick] Oh!
+- [Morty] Why is my dad in a suit?</font>
+
+38
+00:01:41,268 --> 00:01:43,604
+<font face="Serif" size="18">- [Rick] Best episode!
+- [Morty] Why am I butter?</font>
+
+39
+00:01:43,687 --> 00:01:45,397
+<font face="Serif" size="18">[Rick] Okay, we're almost through.</font>
+
+40
+00:01:45,480 --> 00:01:46,523
+<font face="Serif" size="18">[all shouting]</font>
+
+41
+00:01:47,941 --> 00:01:48,817
+<font face="Serif" size="18">Ow!</font>
+
+42
+00:01:52,362 --> 00:01:54,364
+<font face="Serif" size="18">- And we're back!
+- [Previous Leon] Stop!</font>
+
+43
+00:01:54,448 --> 00:01:56,908
+<font face="Serif" size="18">- What just happened? Why was there music?
+- Let go of me!</font>
+
+44
+00:01:58,035 --> 00:02:01,121
+<font face="Serif" size="18">Because of this conceptual little piece of shit!
+Grab his feet!</font>
+
+45
+00:02:01,204 --> 00:02:04,374
+<font face="Serif" size="18">If we have opening titles,
+does that mean that we're a...</font>
+
+46
+00:02:04,458 --> 00:02:08,128
+<font face="Serif" size="18">Let your body purge the meta-venom.
+Don't succumb to his pointless self-aware bullshit.</font>
+
+47
+00:02:08,211 --> 00:02:09,921
+<font face="Serif" size="18">It's not pointless, it's cool.</font>
+
+48
+00:02:10,464 --> 00:02:12,174
+<font face="Serif" size="18">- He's got a gun!
+- Eat lead, pussy!</font>
+
+49
+00:02:14,259 --> 00:02:16,470
+<font face="Serif" size="18">No, no, no! Fuck!</font>
+
+50
+00:02:19,097 --> 00:02:20,682
+<font face="Serif" size="18">- Son of a...
+- Did he use a portal?</font>
+
+51
+00:02:20,766 --> 00:02:24,102
+<font face="Serif" size="18">He wishes. He wriggled back to the meta layer
+through a hole in the fourth wall.</font>
+
+52
+00:02:24,186 --> 00:02:25,854
+<font face="Serif" size="18">Put these on and help me find it.</font>
+
+53
+00:02:27,981 --> 00:02:31,109
+<font face="Serif" size="18">- I don't like this, Rick.
+- You shouldn't. It's not a likable premise.</font>
+
+54
+00:02:31,193 --> 00:02:33,236
+<font face="Serif" size="18">It's funny when I do a nod to the viewers, but--</font>
+
+55
+00:02:33,320 --> 00:02:35,739
+<font face="Serif" size="18">- What viewers?
+- That's the right attitude, Morty.</font>
+
+56
+00:02:35,822 --> 00:02:40,243
+<font face="Serif" size="18">A few carefree verbal asides, always by me.
+None of this Season 3 <i>Moonlighting</i></font><font face="Serif" size="18"> shit.</font>
+
+57
+00:02:40,327 --> 00:02:42,245
+<font face="Serif" size="18">- Okay, here it is.
+- You're going to patch it?</font>
+
+58
+00:02:42,329 --> 00:02:47,167
+<font face="Serif" size="18">No, he subverted actual reality, Morty.
+He needs to be put down like a rabid dog.</font>
+
+59
+00:02:55,342 --> 00:02:58,595
+<font face="Serif" size="18">- Ow! Fuck!
+- No, you don't wanna wear those over here.</font>
+
+60
+00:03:00,263 --> 00:03:03,600
+<font face="Serif" size="18">- Maybe he went down that road?
+- No, no. if he took that, he'd end up a hero.</font>
+
+61
+00:03:03,684 --> 00:03:05,227
+<font face="Serif" size="18">Damn it, Rick. I don't like this.</font>
+
+62
+00:03:05,310 --> 00:03:08,063
+<font face="Serif" size="18">- Is this whole place just--
+- A bunch of groan-inducing wordplay</font>
+
+63
+00:03:08,146 --> 00:03:10,107
+<font face="Serif" size="18">for seven TV critics that won't even enjoy it?</font>
+
+64
+00:03:10,190 --> 00:03:13,276
+<font face="Serif" size="18">It's worse than you think.
+We're basting in meta radiation right now.</font>
+
+65
+00:03:13,360 --> 00:03:15,237
+<font face="Serif" size="18">Our credibility is being permanently eroded.</font>
+
+66
+00:03:15,320 --> 00:03:18,490
+<font face="Serif" size="18">Every second we spend here is the equivalent
+to 10 <i>Space Jam</i></font><font face="Serif" size="18"> cameos.</font>
+
+67
+00:03:18,573 --> 00:03:21,702
+<font face="Serif" size="18">- You should have thought of that previously.
+- Get him!</font>
+
+68
+00:03:27,541 --> 00:03:30,252
+<font face="Serif" size="18">Oh, no! Bless me, Heavenly Father,
+for you will save me.</font>
+
+69
+00:03:30,335 --> 00:03:33,380
+<font face="Serif" size="18">- Now I feel bad. Let's just get out of here.
+- Because he prays?</font>
+
+70
+00:03:33,463 --> 00:03:35,298
+<font face="Serif" size="18">You know Hitler was Catholic, right?</font>
+
+71
+00:03:35,924 --> 00:03:36,967
+<font face="Serif" size="18">I'm here, Leon.</font>
+
+72
+00:03:37,551 --> 00:03:40,303
+<font face="Serif" size="18">Okay. He apparently prays very well.</font>
+
+73
+00:03:40,387 --> 00:03:43,140
+<font face="Serif" size="18">- Time for you two to meet the Lord.
+- That's okay, we're good.</font>
+
+74
+00:03:43,223 --> 00:03:46,727
+<font face="Serif" size="18">Treat it like a bear attack.
+Just walk backwards and make yourself look big.</font>
+
+75
+00:03:46,810 --> 00:03:51,398
+<font face="Serif" size="18">I love a good refusal of the call. Hello, Rick.</font>
+
+76
+00:03:51,481 --> 00:03:55,444
+<font face="Serif" size="18">- Hello. Amish Juggler?
+- His name is Story Lord.</font>
+
+77
+00:03:55,527 --> 00:03:59,406
+<font face="Serif" size="18">Story Lord? Listen, trust me,
+take Amish Juggler. You can have it.</font>
+
+78
+00:03:59,489 --> 00:04:02,868
+<font face="Serif" size="18">Story Lord. Rick, he's the villain
+from that toy train I bought you.</font>
+
+79
+00:04:02,951 --> 00:04:06,830
+<font face="Serif" size="18">Very good, Morty. The fictional versions
+of you trapped me in a Bible show for children,</font>
+
+80
+00:04:06,913 --> 00:04:11,293
+<font face="Serif" size="18">but I used make-believe Christ
+to transcend fiction and enter meta-reality.</font>
+
+81
+00:04:11,376 --> 00:04:13,712
+<font face="Serif" size="18">Now I'm the one doing the trapping.</font>
+
+82
+00:04:13,795 --> 00:04:15,964
+<font face="Serif" size="18">- Leon was the bait.
+- Bait?</font>
+
+83
+00:04:16,047 --> 00:04:17,299
+<font face="Serif" size="18">Jesus?</font>
+
+84
+00:04:17,382 --> 00:04:18,550
+<font face="Serif" size="18">[screaming]</font>
+
+85
+00:04:20,010 --> 00:04:22,804
+<font face="Serif" size="18">Don't ever! Dumb mother--!</font>
+
+86
+00:04:25,640 --> 00:04:29,227
+<font face="Serif" size="18">You're using Jesus to beat us up?
+Have you seen <i>South Park?</i></font>
+
+87
+00:04:29,311 --> 00:04:33,815
+<font face="Serif" size="18">Good call-out, Morty. That's the kind of meta I like,
+the kind that keeps us creatively accountable.</font>
+
+88
+00:04:33,899 --> 00:04:35,776
+<font face="Serif" size="18">Oh, God. Not the Bane. Not the Bane!</font>
+
+89
+00:04:35,859 --> 00:04:36,735
+<font face="Serif" size="18">[shouts]</font>
+
+90
+00:04:37,444 --> 00:04:40,363
+<font face="Serif" size="18">He Baned me, Morty. Oh, Jesus Baned me.</font>
+
+91
+00:04:41,364 --> 00:04:44,826
+<font face="Serif" size="18">You can't beat me up.
+I'm technically a Christian child!</font>
+
+92
+00:04:44,910 --> 00:04:49,122
+<font face="Serif" size="18">And I'm your worst nightmare.
+I'm the Jesus from every Jesus joke.</font>
+
+93
+00:04:49,206 --> 00:04:50,540
+<font face="Serif" size="18">The one without a God.</font>
+
+94
+00:04:50,624 --> 00:04:52,209
+<font face="Serif" size="18">Morty! Take this and get out!</font>
+
+95
+00:04:53,668 --> 00:04:58,590
+<font face="Serif" size="18">Thank you. Looks like Story Lord's story
+is about to become based on real events.</font>
+
+96
+00:04:58,673 --> 00:05:01,510
+<font face="Serif" size="18">- What do you want with that?
+- I want what any character wants.</font>
+
+97
+00:05:01,593 --> 00:05:02,886
+<font face="Serif" size="18">Motivation.</font>
+
+98
+00:05:02,969 --> 00:05:05,388
+<font face="Serif" size="18">- What? [burps] That's dumb.
+- So lazy.</font>
+
+99
+00:05:05,472 --> 00:05:07,224
+<font face="Serif" size="18">Forward your notes to my ass.</font>
+
+100
+00:05:09,518 --> 00:05:10,977
+<font face="Serif" size="18">Wait, what? He just left.</font>
+
+101
+00:05:11,061 --> 00:05:14,564
+<font face="Serif" size="18">Kind of makes you want to be
+our unlikely ally, huh? Oh, I guess not.</font>
+
+102
+00:05:14,648 --> 00:05:16,149
+<font face="Serif" size="18">[gasping]</font>
+
+103
+00:05:16,775 --> 00:05:19,236
+<font face="Serif" size="18">[narrator] <i>Previously on</i></font><font face="Serif" size="18"> Jesus Christ:</font>
+
+104
+00:05:19,903 --> 00:05:21,404
+<font face="Serif" size="18">- Hey, I'm Jesus.
+- I'm Mary.</font>
+
+105
+00:05:21,488 --> 00:05:22,864
+<font face="Serif" size="18">- That's my mom's name.
+- Stop.</font>
+
+106
+00:05:22,948 --> 00:05:26,159
+<font face="Serif" size="18">- Dude, she's a hooker.
+- She's a better disciple than you.</font>
+
+107
+00:05:26,701 --> 00:05:29,496
+<font face="Serif" size="18">Ow! Oh! Ow!</font>
+
+108
+00:05:30,580 --> 00:05:34,084
+<font face="Serif" size="18">Oh, no. I can't die.</font>
+
+109
+00:05:34,167 --> 00:05:38,004
+<font face="Serif" size="18">- I have a proposition for you.
+- I work alone.</font>
+
+110
+00:05:38,088 --> 00:05:39,256
+<font face="Serif" size="18">[roaring]</font>
+
+111
+00:05:40,757 --> 00:05:44,344
+<font face="Serif" size="18">If I suck-a your blood,
+I'll be invincible! I think.</font>
+
+112
+00:05:44,427 --> 00:05:46,137
+<font face="Serif" size="18">- You'll never know.
+- [screams]</font>
+
+113
+00:05:46,221 --> 00:05:50,308
+<font face="Serif" size="18">Billionaire immortal entrepreneur Jesus Christ
+has placed all his money</font>
+
+114
+00:05:50,392 --> 00:05:53,228
+<font face="Serif" size="18">into what he's calling
+a "second chance at love."</font>
+
+115
+00:05:53,311 --> 00:05:57,774
+<font face="Serif" size="18">- Hang on, Mary!
+- The data! So beautiful!</font>
+
+116
+00:05:57,858 --> 00:06:00,485
+<font face="Serif" size="18">Make me normal, witch.</font>
+
+117
+00:06:01,111 --> 00:06:03,905
+<font face="Serif" size="18">Take it all!</font>
+
+118
+00:06:03,989 --> 00:06:07,200
+<font face="Serif" size="18">Eat your pudding, Mr. Christ.
+What are you smiling at?</font>
+
+119
+00:06:07,284 --> 00:06:09,411
+<font face="Serif" size="18">[chuckles] Your name.</font>
+
+120
+00:06:12,163 --> 00:06:13,290
+<font face="Serif" size="18">What's happening, Rick?</font>
+
+121
+00:06:13,373 --> 00:06:15,667
+<font face="Serif" size="18">Leon's venom makes
+you think more and more of your life</font>
+
+122
+00:06:15,750 --> 00:06:17,961
+<font face="Serif" size="18">is behind you as he feeds
+on your released potential.</font>
+
+123
+00:06:19,462 --> 00:06:22,090
+<font face="Serif" size="18">- Leon, you saved our lives.
+- Oh, not yet he hasn't.</font>
+
+124
+00:06:22,173 --> 00:06:25,552
+<font face="Serif" size="18">- Jeez, Rick. So mean.
+- He's meta, Morty. His life doesn't matter.</font>
+
+125
+00:06:25,635 --> 00:06:27,929
+<font face="Serif" size="18">Yours does. That's why we need to get back.</font>
+
+126
+00:06:28,680 --> 00:06:30,807
+<font face="Serif" size="18">Well, this doesn't feel like a citadel.</font>
+
+127
+00:06:32,934 --> 00:06:34,978
+<font face="Serif" size="18">Maybe it's cooler on the inside.</font>
+
+128
+00:06:36,897 --> 00:06:38,231
+<font face="Serif" size="18">This isn't what it looks like.</font>
+
+129
+00:06:38,315 --> 00:06:41,109
+<font face="Serif" size="18">This is a very special diet
+for successful writers.</font>
+
+130
+00:06:41,192 --> 00:06:43,904
+<font face="Serif" size="18">- Why do you look like my character?
+- I am your character.</font>
+
+131
+00:06:43,987 --> 00:06:46,281
+<font face="Serif" size="18">And you are going to improve me.</font>
+
+132
+00:06:46,364 --> 00:06:49,868
+<font face="Serif" size="18">- But you're Story Lord. You're great.
+- Great isn't good enough!</font>
+
+133
+00:06:49,951 --> 00:06:55,123
+<font face="Serif" size="18">I've killed Rick and made myself real!
+I'm better than some shitty toy train.</font>
+
+134
+00:06:55,206 --> 00:06:59,002
+<font face="Serif" size="18">Is this your office or your apartment?
+Why does it smell like you sleep here?</font>
+
+135
+00:06:59,085 --> 00:07:02,130
+<font face="Serif" size="18">- You're my creator. Why are you pathetic?
+- Because you failed!</font>
+
+136
+00:07:02,213 --> 00:07:04,674
+<font face="Serif" size="18">And whose fault is that?
+What the hell happened?</font>
+
+137
+00:07:04,758 --> 00:07:06,843
+<font face="Serif" size="18">You want to know what happened?
+Specifically?</font>
+
+138
+00:07:06,927 --> 00:07:09,554
+<font face="Serif" size="18">Well, the Ricks wanted
+to do a <i>Canterbury Tales</i></font><font face="Serif" size="18">-type thing,</font>
+
+139
+00:07:09,638 --> 00:07:11,806
+<font face="Serif" size="18">but none of them have read fucking
+<i>Canterbury Tales.</i></font>
+
+140
+00:07:11,890 --> 00:07:14,935
+<font face="Serif" size="18">They told me to make it like
+the poker-game episode of the <i>Batman</i></font><font face="Serif" size="18"> cartoon</font>
+
+141
+00:07:15,018 --> 00:07:16,978
+<font face="Serif" size="18">where the bad guys tell stories
+about Batman.</font>
+
+142
+00:07:17,062 --> 00:07:20,899
+<font face="Serif" size="18">Then they kept telling me it "needed something."
+Yeah, no shit it needed something.</font>
+
+143
+00:07:20,982 --> 00:07:24,110
+<font face="Serif" size="18">It needed to never be pitched! I did my job!</font>
+
+144
+00:07:24,194 --> 00:07:27,822
+<font face="Serif" size="18">Goomby, the Ice Queen, the Tickets Please guy.
+They just bailed on it!</font>
+
+145
+00:07:27,906 --> 00:07:29,491
+<font face="Serif" size="18">The website didn't even fucking work!</font>
+
+146
+00:07:29,574 --> 00:07:33,161
+<font face="Serif" size="18">And it was a shitty URL to begin with,
+"Story-dash-train"?</font>
+
+147
+00:07:33,244 --> 00:07:36,706
+<font face="Serif" size="18">Who uses a dash? They set me up to fail.
+They fucked me!</font>
+
+148
+00:07:36,790 --> 00:07:39,584
+<font face="Serif" size="18">They fucked me and you're lucky
+I haven't blown my brains out!</font>
+
+149
+00:07:39,668 --> 00:07:42,253
+<font face="Serif" size="18">Right. Just give me a motivation, you hacky fart.</font>
+
+150
+00:07:42,337 --> 00:07:45,590
+<font face="Serif" size="18">Okay, here's your motivation.
+You're looking for motivation.</font>
+
+151
+00:07:45,674 --> 00:07:48,802
+<font face="Serif" size="18">- You want all the motivation.
+- That's lazy.</font>
+
+152
+00:07:48,885 --> 00:07:51,221
+<font face="Serif" size="18">It got you this far. Must be nice, by the way.</font>
+
+153
+00:07:51,304 --> 00:07:54,933
+<font face="Serif" size="18">Wish I could afford to dress
+like a bisexual acting coach from the '70s.</font>
+
+154
+00:07:55,016 --> 00:07:59,479
+<font face="Serif" size="18">- My motivation is motivation.
+- Okay. Bye.</font>
+
+155
+00:07:59,562 --> 00:08:03,024
+<font face="Serif" size="18">Oh, no, my bitter friend. You're coming with me.</font>
+
+156
+00:08:05,110 --> 00:08:08,029
+<font face="Serif" size="18">Yo! if you don't see me coming,
+it's a bad fortress!</font>
+
+157
+00:08:09,739 --> 00:08:12,659
+<font face="Serif" size="18">- Where are we?
+- Headquarters of the Self-Referential Six.</font>
+
+158
+00:08:12,742 --> 00:08:15,745
+<font face="Serif" size="18">They're meta nerds that found out
+they could be less bearable as a team.</font>
+
+159
+00:08:15,829 --> 00:08:18,415
+<font face="Serif" size="18">- They can help us?
+- No, but there's a prisoner here that can.</font>
+
+160
+00:08:18,498 --> 00:08:20,917
+<font face="Serif" size="18">- Shh. Don't tell them that.
+- Rick Sanchez.</font>
+
+161
+00:08:21,001 --> 00:08:26,381
+<font face="Serif" size="18">- I've been waiting for this moment for years.
+- Oh, good. Morty, this is Ms. Lead.</font>
+
+162
+00:08:26,464 --> 00:08:28,591
+<font face="Serif" size="18">I should kill you where you stand.</font>
+
+163
+00:08:29,801 --> 00:08:33,179
+<font face="Serif" size="18">I brought you Previous Leon. You'll want
+to lock him up in your detention center.</font>
+
+164
+00:08:33,263 --> 00:08:35,682
+<font face="Serif" size="18">- It's a trick. He wants your prisoner.
+- You dick.</font>
+
+165
+00:08:35,765 --> 00:08:38,768
+<font face="Serif" size="18">- Liar!
+- Talk about a mislead. Anti-meta field.</font>
+
+166
+00:08:38,852 --> 00:08:42,355
+<font face="Serif" size="18">Fancy device.
+I think I can recall the time you built it.</font>
+
+167
+00:08:42,439 --> 00:08:43,940
+<font face="Serif" size="18">Don't try it, Flash Back!</font>
+
+168
+00:08:46,192 --> 00:08:48,403
+<font face="Serif" size="18">You know, I'm excited about the upcoming election.</font>
+
+169
+00:08:48,486 --> 00:08:51,114
+<font face="Serif" size="18">This force field will be impenetrable
+by meta-energy.</font>
+
+170
+00:08:51,197 --> 00:08:52,824
+<font face="Serif" size="18">It runs on hydrogen isotopes.</font>
+
+171
+00:08:52,907 --> 00:08:53,908
+<font face="Serif" size="18">Hmm...</font>
+
+172
+00:08:54,492 --> 00:08:56,828
+<font face="Serif" size="18">It runs on hydrogen isotopes.</font>
+
+173
+00:08:56,911 --> 00:08:59,497
+<font face="Serif" size="18">A few barrels of petroleum
+should dampen it.</font>
+
+174
+00:09:00,331 --> 00:09:01,875
+<font face="Serif" size="18">Run, Morty!</font>
+
+175
+00:09:01,958 --> 00:09:06,254
+<font face="Serif" size="18">Were those not there before?
+Guess there's been a Connie TinuityError.</font>
+
+176
+00:09:07,756 --> 00:09:10,633
+<font face="Serif" size="18">- These people are the worst.
+- I told you! Way overpowered.</font>
+
+177
+00:09:11,551 --> 00:09:12,552
+<font face="Serif" size="18">[alarm blaring]</font>
+
+178
+00:09:12,635 --> 00:09:14,929
+<font face="Serif" size="18">- Look out, Rick!
+- Forget him. He's a nameless guard.</font>
+
+179
+00:09:16,139 --> 00:09:20,310
+<font face="Serif" size="18">That's Protago Nick. His beam has the power
+to make any character the protagonist.</font>
+
+180
+00:09:21,352 --> 00:09:22,604
+<font face="Serif" size="18">Duck!</font>
+
+181
+00:09:24,022 --> 00:09:26,983
+<font face="Serif" size="18">Oh, man, oh, man, oh, man, oh, man.</font>
+
+182
+00:09:27,567 --> 00:09:31,654
+<font face="Serif" size="18">What are you doing, Marvin?
+Not dying, that's what I'm doing.</font>
+
+183
+00:09:32,197 --> 00:09:37,035
+<font face="Serif" size="18">- Oh, what's going on? What happened?
+- I did it again, Katie. I ran out on another job.</font>
+
+184
+00:09:37,118 --> 00:09:40,038
+<font face="Serif" size="18">Well, if you didn't do that,
+you wouldn't be my man.</font>
+
+185
+00:09:40,622 --> 00:09:41,915
+<font face="Serif" size="18">[rock music playing]</font>
+
+186
+00:09:56,221 --> 00:09:59,224
+<font face="Serif" size="18">I was almost tempted to just let it go.
+That's how much I hate it here.</font>
+
+187
+00:09:59,307 --> 00:10:00,683
+<font face="Serif" size="18">Smash cut!</font>
+
+188
+00:10:00,767 --> 00:10:03,144
+<font face="Serif" size="18">- Remember me, Rick?
+- Who's this guy, now?</font>
+
+189
+00:10:03,228 --> 00:10:04,646
+<font face="Serif" size="18">I am Mr. Twist.</font>
+
+190
+00:10:05,814 --> 00:10:08,983
+<font face="Serif" size="18">- The fifth member of the Self-Referential Six.
+- Who's the sixth?</font>
+
+191
+00:10:09,067 --> 00:10:11,694
+<font face="Serif" size="18">That's the twist, Morty. It's you.</font>
+
+192
+00:10:11,778 --> 00:10:12,862
+<font face="Serif" size="18">- What?
+- ignore him, Morty.</font>
+
+193
+00:10:12,946 --> 00:10:15,657
+<font face="Serif" size="18">There's no sixth member
+and he tells that to everybody.</font>
+
+194
+00:10:15,740 --> 00:10:20,912
+<font face="Serif" size="18">In any case, you're ours now. You can't free
+yourself without a twist, and I control them.</font>
+
+195
+00:10:20,995 --> 00:10:23,873
+<font face="Serif" size="18">You don't control every twist, Mr. Twist.
+I've got a twist for you.</font>
+
+196
+00:10:23,957 --> 00:10:25,208
+<font face="Serif" size="18">Impossible! What is it?</font>
+
+197
+00:10:25,917 --> 00:10:29,587
+<font face="Serif" size="18">Aha! Nice try! Like I didn't see that coming.</font>
+
+198
+00:10:30,505 --> 00:10:32,298
+<font face="Serif" size="18">Fuck me.</font>
+
+199
+00:10:33,675 --> 00:10:35,552
+<font face="Serif" size="18">- Great work, Morty!
+- I'm adapting!</font>
+
+200
+00:10:35,635 --> 00:10:36,928
+<font face="Serif" size="18">Here's our ticket out of here.</font>
+
+201
+00:10:37,011 --> 00:10:40,223
+<font face="Serif" size="18">They got him in a cell made out of sports
+because it's the opposite of story.</font>
+
+202
+00:10:40,306 --> 00:10:42,809
+<font face="Serif" size="18">- Do I want to ask who he is?
+- His name is Brett Caan.</font>
+
+203
+00:10:42,892 --> 00:10:45,478
+<font face="Serif" size="18">He has the power to make things
+always have been other things.</font>
+
+204
+00:10:45,562 --> 00:10:48,314
+<font face="Serif" size="18">I think that's called retconning.
+But his name's Brett Caan?</font>
+
+205
+00:10:48,398 --> 00:10:51,234
+<font face="Serif" size="18">I mean, Rhett's a name too.
+His name could be Rhett Caan.</font>
+
+206
+00:10:51,317 --> 00:10:54,696
+<font face="Serif" size="18">- It is. And always has been now.
+- Whoa.</font>
+
+207
+00:10:54,779 --> 00:10:58,324
+<font face="Serif" size="18">Careful, Morty. Stay clear of his retcon range.
+Until he agrees to help us.</font>
+
+208
+00:10:58,408 --> 00:11:02,620
+<font face="Serif" size="18">- Rick, you've always trusted me.
+- Nice try. Here's how it's gonna work.</font>
+
+209
+00:11:02,704 --> 00:11:05,081
+<font face="Serif" size="18">You're going to make it so Morty
+and I never came here.</font>
+
+210
+00:11:05,165 --> 00:11:08,001
+<font face="Serif" size="18">Once that's always been the case,
+I'll free you remotely with this.</font>
+
+211
+00:11:08,543 --> 00:11:11,546
+<font face="Serif" size="18">- [robot] What is my purpose?
+- To wait till I tell you to pull the lever.</font>
+
+212
+00:11:11,629 --> 00:11:13,006
+<font face="Serif" size="18">You are fucking kidding me.</font>
+
+213
+00:11:13,089 --> 00:11:16,676
+<font face="Serif" size="18">If you don't free me right now, Rick,
+I can make very, very bad things</font>
+
+214
+00:11:16,759 --> 00:11:18,469
+<font face="Serif" size="18">always have been the case for you.</font>
+
+215
+00:11:18,553 --> 00:11:21,556
+<font face="Serif" size="18">- Is that a threat, you fuck? You can rot in there.
+- Rick.</font>
+
+216
+00:11:22,599 --> 00:11:25,476
+<font face="Serif" size="18">You know what, Rhett? Forget what I said.
+We've always been friends.</font>
+
+217
+00:11:25,560 --> 00:11:26,853
+<font face="Serif" size="18">[Rhett] Good one.</font>
+
+218
+00:11:26,936 --> 00:11:30,231
+<font face="Serif" size="18">Whoa, easy, Rhett.
+Don't forget that coffee mug I gave you.</font>
+
+219
+00:11:30,732 --> 00:11:33,610
+<font face="Serif" size="18">You always were able to be killed with coffee.</font>
+
+220
+00:11:33,693 --> 00:11:35,486
+<font face="Serif" size="18">[screaming]</font>
+
+221
+00:11:36,321 --> 00:11:37,906
+<font face="Serif" size="18">New plan. Run. Again.</font>
+
+222
+00:11:37,989 --> 00:11:42,160
+<font face="Serif" size="18">- The twist being...
+- You were born without bones.</font>
+
+223
+00:11:43,620 --> 00:11:44,913
+<font face="Serif" size="18">See you never!</font>
+
+224
+00:11:45,788 --> 00:11:48,750
+<font face="Serif" size="18">There's never been anything
+outside this fortress.</font>
+
+225
+00:11:48,833 --> 00:11:54,380
+<font face="Serif" size="18">- Goddamn it!
+- And this fortress has always been an orange!</font>
+
+226
+00:11:57,342 --> 00:11:58,259
+<font face="Serif" size="18">Great plan, Rick!</font>
+
+227
+00:11:58,343 --> 00:12:01,638
+<font face="Serif" size="18">Yeah, I'm not pushing back on that,
+I have royally fucked us.</font>
+
+228
+00:12:05,391 --> 00:12:08,019
+<font face="Serif" size="18">- It hurts.
+- We've been past the fourth wall too long.</font>
+
+229
+00:12:08,102 --> 00:12:11,147
+<font face="Serif" size="18">- We won't be real much longer.
+- You killed us, Rick.</font>
+
+230
+00:12:11,231 --> 00:12:13,691
+<font face="Serif" size="18">You just had to hate meta-storytelling.</font>
+
+231
+00:12:14,609 --> 00:12:18,112
+<font face="Serif" size="18">In my defense, Morty,
+I think you can agree my hate was justified.</font>
+
+232
+00:12:18,863 --> 00:12:23,576
+<font face="Serif" size="18">Least earned death ever.</font>
+
+233
+00:12:27,830 --> 00:12:30,083
+<font face="Serif" size="18">[man] Death is a threshold.</font>
+
+234
+00:12:35,838 --> 00:12:38,299
+<font face="Serif" size="18">- [Morty] What happened?
+- You atoned.</font>
+
+235
+00:12:38,383 --> 00:12:42,303
+<font face="Serif" size="18">- Who, who are you?
+- I'm Joseph Campbell. Soup?</font>
+
+236
+00:12:42,387 --> 00:12:45,556
+<font face="Serif" size="18">I almost considered not making it
+because my name is Campbell,</font>
+
+237
+00:12:45,640 --> 00:12:48,476
+<font face="Serif" size="18">but then I thought, "Stay in the moment, Joe.
+Follow your bliss."</font>
+
+238
+00:12:48,559 --> 00:12:51,646
+<font face="Serif" size="18">How are you here?
+Rhett Caan said there was nothing.</font>
+
+239
+00:12:51,729 --> 00:12:56,067
+<font face="Serif" size="18">Some things never change about mythology.
+There's always an old man with soup.</font>
+
+240
+00:12:56,150 --> 00:12:58,486
+<font face="Serif" size="18">Name one story that doesn't have one.</font>
+
+241
+00:12:59,028 --> 00:13:02,240
+<font face="Serif" size="18">- <i>Jack and the Beanstalk.</i></font><font face="Serif" size="18"> Every <i>Matrix.
+- Basketball Diaries.</i></font><font face="Serif" size="18"> Every movie ever.</font>
+
+242
+00:13:02,323 --> 00:13:04,200
+<font face="Serif" size="18">I don't have to defend myself to you people.</font>
+
+243
+00:13:04,284 --> 00:13:05,660
+<font face="Serif" size="18">[Previous Leon] Where's my soup?</font>
+
+244
+00:13:06,244 --> 00:13:11,582
+<font face="Serif" size="18">- Previous fucking Leon. Why is that prick here?
+- No more a prick than you, friend.</font>
+
+245
+00:13:11,666 --> 00:13:16,045
+<font face="Serif" size="18">- Meta characters erode reality.
+- But all characters are meta, Rick.</font>
+
+246
+00:13:16,129 --> 00:13:21,509
+<font face="Serif" size="18">All of us are nourished and consumed by chaos,
+like newborns at the breast of a meth addict</font>
+
+247
+00:13:21,592 --> 00:13:23,052
+<font face="Serif" size="18">in a lifeboat filled with forks.</font>
+
+248
+00:13:23,136 --> 00:13:26,597
+<font face="Serif" size="18">- I know what you have to do, Rick.
+- Scrub Campbell's browser history?</font>
+
+249
+00:13:26,681 --> 00:13:30,727
+<font face="Serif" size="18">Just trust Previous Leon.
+Could you previously us a way home?</font>
+
+250
+00:13:30,810 --> 00:13:35,106
+<font face="Serif" size="18">- [groans] Well, I'll sure enjoy trying.
+- Yeah, I bet you would.</font>
+
+251
+00:13:35,189 --> 00:13:39,569
+<font face="Serif" size="18">Rick can't change, Morty.
+Change is what you might call his kryptonite.</font>
+
+252
+00:13:39,652 --> 00:13:43,990
+<font face="Serif" size="18">Except instead of being super,
+he's, you know, kind of a pussy.</font>
+
+253
+00:13:44,073 --> 00:13:45,199
+<font face="Serif" size="18">Let's do it.</font>
+
+254
+00:13:46,826 --> 00:13:48,619
+<font face="Serif" size="18">[narrator] <i>Previously on</i></font><font face="Serif" size="18"> Rick:</font>
+
+255
+00:13:48,703 --> 00:13:51,456
+<font face="Serif" size="18">- [Morty] Get him off! Get him off!
+- [Campbell] Oh, boy.</font>
+
+256
+00:13:51,539 --> 00:13:54,417
+<font face="Serif" size="18">- He almost killed you.
+- Okay, well, I feel bad,</font>
+
+257
+00:13:54,500 --> 00:13:56,461
+<font face="Serif" size="18">I kind of pressured you into trying that.</font>
+
+258
+00:13:56,544 --> 00:13:58,796
+<font face="Serif" size="18">- You called me a pussy.
+- I said I feel bad.</font>
+
+259
+00:13:58,880 --> 00:14:04,886
+<font face="Serif" size="18">This is a map to a region rich in narrative ore.
+I wish you the best of luck.</font>
+
+260
+00:14:04,969 --> 00:14:08,014
+<font face="Serif" size="18">Faster, Morty.
+I'd help, but I can't blister my inventing hands.</font>
+
+261
+00:14:08,097 --> 00:14:09,432
+<font face="Serif" size="18">- How long will it take?
+- Years.</font>
+
+262
+00:14:09,515 --> 00:14:10,933
+<font face="Serif" size="18">You can live in my wood shed.</font>
+
+263
+00:14:11,017 --> 00:14:13,478
+<font face="Serif" size="18">- Just don't open the door after dark.
+- Why not?</font>
+
+264
+00:14:13,561 --> 00:14:15,730
+<font face="Serif" size="18">[man] Get out here, you Communist Jews!</font>
+
+265
+00:14:15,813 --> 00:14:18,066
+<font face="Serif" size="18">- Dude. Maybe I'm not an alcoholic.
+- I know, right?</font>
+
+266
+00:14:18,149 --> 00:14:20,610
+<font face="Serif" size="18">You fucking <i>Back to the Future</i></font><font face="Serif" size="18"> rip-offs!</font>
+
+267
+00:14:21,319 --> 00:14:23,196
+<font face="Serif" size="18">- It's ready.
+- Rick, I should stay.</font>
+
+268
+00:14:23,279 --> 00:14:24,697
+<font face="Serif" size="18">- Why?
+- I'm pregnant.</font>
+
+269
+00:14:24,781 --> 00:14:26,783
+<font face="Serif" size="18">- What are you doing? It wasn't him!
+- Then who?</font>
+
+270
+00:14:26,866 --> 00:14:31,120
+<font face="Serif" size="18">Me! I never left. But you had to think
+all this happened to make that.</font>
+
+271
+00:14:31,204 --> 00:14:34,207
+<font face="Serif" size="18">- And I can get this through the titles?
+- If you hang on tight.</font>
+
+272
+00:14:34,290 --> 00:14:37,335
+<font face="Serif" size="18">- What about my beard and unborn child?
+- Let them go.</font>
+
+273
+00:14:37,418 --> 00:14:38,252
+<font face="Serif" size="18">Thank you, Leon.</font>
+
+274
+00:14:38,336 --> 00:14:41,214
+<font face="Serif" size="18">When you get home, Rick,
+do some classic adventures.</font>
+
+275
+00:14:41,297 --> 00:14:42,215
+<font face="Serif" size="18">Like Season 1...</font>
+
+276
+00:14:42,298 --> 00:14:45,593
+<font face="Serif" size="18">I'm so sick of that fucking note.
+What the fuck does it even mean?</font>
+
+277
+00:14:49,430 --> 00:14:50,556
+<font face="Serif" size="18">[shouts]</font>
+
+278
+00:14:53,226 --> 00:14:55,937
+<font face="Serif" size="18">Now, one last time. What's my motivation?</font>
+
+279
+00:14:56,020 --> 00:14:59,941
+<font face="Serif" size="18">Motivation. This machine will siphon it
+from everyone in the universe.</font>
+
+280
+00:15:00,024 --> 00:15:01,818
+<font face="Serif" size="18">Perfect. Greenlit. Launch it.</font>
+
+281
+00:15:02,652 --> 00:15:03,778
+<font face="Serif" size="18">[grunting]</font>
+
+282
+00:15:05,655 --> 00:15:11,202
+<font face="Serif" size="18">- Oh, I think it's working. Yes, I can feel it.
+- Something I did is actually affecting someone!</font>
+
+283
+00:15:15,164 --> 00:15:17,375
+<font face="Serif" size="18">- I don't want to work anymore.
+- I do,</font>
+
+284
+00:15:17,458 --> 00:15:20,211
+<font face="Serif" size="18">but only as an excuse to not practice guitar.</font>
+
+285
+00:15:24,090 --> 00:15:27,510
+<font face="Serif" size="18">[yawns] Why don't we just write any number down
+on the score sheet?</font>
+
+286
+00:15:27,593 --> 00:15:28,886
+<font face="Serif" size="18">Oh, why even do that?</font>
+
+287
+00:15:32,723 --> 00:15:34,725
+<font face="Serif" size="18">Wait, you have to register?</font>
+
+288
+00:15:34,809 --> 00:15:41,691
+<font face="Serif" size="18">Yes! I can feel it! I'm so motivated!
+I want a lot!</font>
+
+289
+00:15:44,110 --> 00:15:45,695
+<font face="Serif" size="18">Story time's over.</font>
+
+290
+00:15:45,778 --> 00:15:47,071
+<font face="Serif" size="18">Hardly your decision.</font>
+
+291
+00:15:47,155 --> 00:15:50,450
+<font face="Serif" size="18">Did you seriously double down
+on motivation as your motivation?</font>
+
+292
+00:15:50,533 --> 00:15:52,660
+<font face="Serif" size="18">- It's a good idea!
+- There's no such thing!</font>
+
+293
+00:15:52,743 --> 00:15:55,204
+<font face="Serif" size="18">There's joyful and joyless,
+and we've had our fill of one.</font>
+
+294
+00:15:55,288 --> 00:15:58,499
+<font face="Serif" size="18">Morty, make that sweaty writer stop working
+while I kill off his character.</font>
+
+295
+00:15:59,584 --> 00:16:02,962
+<font face="Serif" size="18">I have never been more driven
+to destroy someone.</font>
+
+296
+00:16:03,045 --> 00:16:07,550
+<font face="Serif" size="18">I'm driven to lower my blood sugar but guess
+who's getting tacos after he kicks your ass?</font>
+
+297
+00:16:08,342 --> 00:16:10,344
+<font face="Serif" size="18">So, you're jacked. Who cares?</font>
+
+298
+00:16:11,471 --> 00:16:13,514
+<font face="Serif" size="18">- Cum gutters.
+- [Rick] I don't like that phrase.</font>
+
+299
+00:16:13,598 --> 00:16:14,807
+<font face="Serif" size="18">I don't take notes.</font>
+
+300
+00:16:14,891 --> 00:16:16,017
+<font face="Serif" size="18">[both shouting]</font>
+
+301
+00:16:20,062 --> 00:16:24,066
+<font face="Serif" size="18">You can't beat me, Rick.
+I have one million times your motivation.</font>
+
+302
+00:16:24,150 --> 00:16:26,652
+<font face="Serif" size="18">So do those guys with the cell phone kiosks
+at the mall.</font>
+
+303
+00:16:52,762 --> 00:16:55,723
+<font face="Serif" size="18">- The hair is wrong.
+- Like you'd be picky about licensing.</font>
+
+304
+00:16:55,806 --> 00:16:58,059
+<font face="Serif" size="18">Actually, I would. I happen to believe that--</font>
+
+305
+00:17:02,104 --> 00:17:03,064
+<font face="Serif" size="18">[dying grunts]</font>
+
+306
+00:17:03,147 --> 00:17:04,357
+<font face="Serif" size="18">[laughing]</font>
+
+307
+00:17:04,941 --> 00:17:06,817
+<font face="Serif" size="18">- You can do that?
+- You got to want it.</font>
+
+308
+00:17:07,401 --> 00:17:12,698
+<font face="Serif" size="18">- Come on, just stop. I don't want to fight you.
+- I'm a writer that wrote something successful.</font>
+
+309
+00:17:12,782 --> 00:17:16,118
+<font face="Serif" size="18">If you want me to give it up,
+you'll need a black belt or a big pair of tits.</font>
+
+310
+00:17:16,202 --> 00:17:17,119
+<font face="Serif" size="18">I don't have those.</font>
+
+311
+00:17:17,203 --> 00:17:20,540
+<font face="Serif" size="18">- [Campbell] In the mythical sense, I have both.
+- Joseph Campbell?</font>
+
+312
+00:17:20,623 --> 00:17:22,458
+<font face="Serif" size="18">Yeah, nice try. He died in the '80s.</font>
+
+313
+00:17:22,542 --> 00:17:24,585
+<font face="Serif" size="18">Only you can see and hear me, Morty.</font>
+
+314
+00:17:24,669 --> 00:17:27,088
+<font face="Serif" size="18">- Just repeat what I tell you.
+- Okay.</font>
+
+315
+00:17:27,171 --> 00:17:30,841
+<font face="Serif" size="18">[clears throat] Sir, you're only proud
+of your creation's success</font>
+
+316
+00:17:30,925 --> 00:17:32,677
+<font face="Serif" size="18">because you want to be creative,</font>
+
+317
+00:17:32,760 --> 00:17:36,305
+<font face="Serif" size="18">but creation doesn't happen through gimmicks,
+technology, and distribution.</font>
+
+318
+00:17:36,389 --> 00:17:38,099
+<font face="Serif" size="18">It doesn't even happen through work.</font>
+
+319
+00:17:38,182 --> 00:17:42,395
+<font face="Serif" size="18">Creativity is frankly adjacent to mental illness
+and overlaps with it substantially.</font>
+
+320
+00:17:42,478 --> 00:17:45,690
+<font face="Serif" size="18">A lot of talented people kill themselves
+and all of them are miserable.</font>
+
+321
+00:17:45,773 --> 00:17:48,276
+<font face="Serif" size="18">The real gift is to be ungifted,</font>
+
+322
+00:17:48,359 --> 00:17:50,695
+<font face="Serif" size="18">and from what I saw
+in your <i>Green Arrow</i></font><font face="Serif" size="18"> spec script,</font>
+
+323
+00:17:50,778 --> 00:17:52,363
+<font face="Serif" size="18">that's the gift you were given.</font>
+
+324
+00:17:52,446 --> 00:17:55,825
+<font face="Serif" size="18">- You couldn't have seen that.
+- I'm Joseph Campbell. I saw it.</font>
+
+325
+00:17:55,908 --> 00:17:58,536
+<font face="Serif" size="18">- The villain was a placeholder.
+- I said I saw it, Jan.</font>
+
+326
+00:17:58,619 --> 00:18:02,081
+<font face="Serif" size="18">I didn't say I could get past page five.
+Your villains aren't the problem.</font>
+
+327
+00:18:02,164 --> 00:18:07,378
+<font face="Serif" size="18">The problem is, when you write, you're a villain.
+If you want to be a hero, just stop.</font>
+
+328
+00:18:07,461 --> 00:18:08,421
+<font face="Serif" size="18">[sobbing]</font>
+
+329
+00:18:13,551 --> 00:18:16,387
+<font face="Serif" size="18">You know what? Maybe I will register.</font>
+
+330
+00:18:17,305 --> 00:18:20,141
+<font face="Serif" size="18">Say it. Tell me I'm the new Mr. Nimbus.</font>
+
+331
+00:18:23,060 --> 00:18:26,063
+<font face="Serif" size="18">- Oh, looks like your writer took a hiatus.
+- Oh, fuck.</font>
+
+332
+00:18:26,147 --> 00:18:28,774
+<font face="Serif" size="18">You're less motivated to fight now,
+so this is punching down,</font>
+
+333
+00:18:28,858 --> 00:18:30,276
+<font face="Serif" size="18">but you've got it coming.</font>
+
+334
+00:18:32,820 --> 00:18:38,159
+<font face="Serif" size="18">Please, let me live. I promise to be cooler.
+I'll be less inside baseball.</font>
+
+335
+00:18:38,242 --> 00:18:39,535
+<font face="Serif" size="18">Maybe I change my name?</font>
+
+336
+00:18:42,163 --> 00:18:46,626
+<font face="Serif" size="18">- You failed me.
+- No, I failed you.</font>
+
+337
+00:18:46,709 --> 00:18:47,918
+<font face="Serif" size="18">[coughing]</font>
+
+338
+00:18:48,002 --> 00:18:51,714
+<font face="Serif" size="18">All good things must come to an end.</font>
+
+339
+00:18:51,797 --> 00:18:54,592
+<font face="Serif" size="18">All bad things too, though,
+so don't flatter yourself.</font>
+
+340
+00:18:54,675 --> 00:18:57,595
+<font face="Serif" size="18">Jan, Joseph Campbell says you have
+to be the one to put him down.</font>
+
+341
+00:18:57,678 --> 00:18:59,847
+<font face="Serif" size="18">Wait, wait, Joseph Campbell also says,</font>
+
+342
+00:18:59,930 --> 00:19:02,767
+<font face="Serif" size="18">you have to use
+this brand-new limited edition Rick plush,</font>
+
+343
+00:19:02,850 --> 00:19:07,146
+<font face="Serif" size="18">available only on rick-plush.biz.
+Supplies are limited. Act now.</font>
+
+344
+00:19:07,229 --> 00:19:08,105
+<font face="Serif" size="18">He did?</font>
+
+345
+00:19:08,856 --> 00:19:10,650
+<font face="Serif" size="18">- [grunting]
+- [doll squeaking]</font>
+
+346
+00:19:13,486 --> 00:19:14,987
+<font face="Serif" size="18">Shh...</font>
+
+347
+00:19:20,284 --> 00:19:24,914
+<font face="Serif" size="18">- That's the last time I buy a toy from a Rick.
+- The plushies are obviously well-made.</font>
+
+348
+00:19:30,753 --> 00:19:34,757
+<font face="Serif" size="18">- Thanks for getting us back alive, Rick.
+- Well, I am a master of both worlds, Morty.</font>
+
+349
+00:19:37,218 --> 00:19:41,138
+<font face="Serif" size="18">Joseph Campbell told me to stop writing.
+Because it should be effortless.</font>
+
+350
+00:19:41,222 --> 00:19:43,808
+<font face="Serif" size="18">And when it happens organically,
+that's when it's meant to be.</font>
+
+351
+00:19:43,891 --> 00:19:47,978
+<font face="Serif" size="18">You know, like me. I'm a writer, here's a pencil.
+Writers use pencils.</font>
+
+352
+00:19:48,062 --> 00:19:51,565
+<font face="Serif" size="18">Okay, so, like, what if, like, a pencil used me?
+Like, okay. Yeah!</font>
+
+353
+00:19:51,649 --> 00:19:55,236
+<font face="Serif" size="18">Okay, so it's like a magic pencil
+that writes the writer's life.</font>
+
+354
+00:19:55,319 --> 00:19:59,907
+<font face="Serif" size="18">Holy shit, it's a movie about a writer!
+I am back!</font>
+
+355
+00:20:01,283 --> 00:20:02,493
+<font face="Serif" size="18">[theme music playing]</font>
+
+356
+00:20:32,898 --> 00:20:36,861
+<font face="Serif" size="18">Yeah, I'm Tag-Man! I live in the tag!</font>
+
+357
+00:20:37,611 --> 00:20:42,324
+<font face="Serif" size="18">I am the tag! I'm Tag-Man!
+Tag, tag of the episode man!</font>
+
+358
+00:20:42,408 --> 00:20:45,619
+<font face="Serif" size="18">"Did you get any of that?" When the, yeah,
+when an episode's over, look out,</font>
+
+359
+00:20:45,703 --> 00:20:47,663
+<font face="Serif" size="18">because, yeah, here comes Tag-Man!</font>
+
+360
+00:20:47,747 --> 00:20:52,960
+<font face="Serif" size="18">And I'm crazy! Tag-Man! Yeah!
+I'ma tag your ass!</font>
+
+361
+00:20:53,043 --> 00:20:59,175
+<font face="Serif" size="18">Tag that ass. Tag-Ass-Man! I'm an Ass-Man now!
+I'm a Tag-Man!</font>
+
+362
+00:20:59,258 --> 00:21:02,261
+<font face="Serif" size="18">Here's what you get. Here's your tag!
+Yeah, you want some more?</font>
+
+363
+00:21:02,344 --> 00:21:06,557
+<font face="Serif" size="18">You want-- You want some more tag,
+you sick piece of shit? Because I'm Tag-Man!</font>
+
+364
+00:21:07,641 --> 00:21:12,980
+<font face="Serif" size="18">I miss my wife. Too bad. This is it.
+Tag-Man, yeah!</font>
+

@@ -1,0 +1,3190 @@
+1
+00:00:02,083 --> 00:00:03,416
+Sei anni.
+
+2
+00:00:03,500 --> 00:00:04,541
+-Aspetti!
+-Prendetelo.
+
+3
+00:00:04,625 --> 00:00:05,708
+Cambio di linee guida.
+
+4
+00:00:06,291 --> 00:00:08,958
+-Non ho fatto niente! Ehi!
+-Se la prenda con l'Imperatore.
+
+5
+00:00:09,041 --> 00:00:10,333
+Sono solo un turista!
+
+6
+00:00:10,416 --> 00:00:12,000
+NEGLI EPISODI PRECEDENTI...
+
+7
+00:00:12,666 --> 00:00:14,583
+<i>Benvenuti su Narkina Cinque.</i>
+
+8
+00:00:14,666 --> 00:00:17,125
+<i>Questa è una fabbrica imperiale.</i>
+
+9
+00:00:17,208 --> 00:00:19,625
+<i>Siete stati tutti valutati</i>
+<i>validi come manodopera.</i>
+
+10
+00:00:23,083 --> 00:00:25,000
+<i>È la negoziante di Ferrix.</i>
+
+11
+00:00:25,083 --> 00:00:27,250
+Sta cercando Cassian Andor.
+Sua madre è malata.
+
+12
+00:00:27,333 --> 00:00:28,166
+<i>Forse ha una pista.</i>
+
+13
+00:00:28,250 --> 00:00:30,041
+Probabilmente,
+è l'ISB a usare la sua radio.
+
+14
+00:00:30,125 --> 00:00:31,958
+-Tiri a indovinare.
+-E tu perdi colpi.
+
+15
+00:00:32,041 --> 00:00:34,083
+<i>Mi chiamo Kino Loy.</i>
+
+16
+00:00:34,166 --> 00:00:36,000
+Responsabile dell'unità Cinque-Due-D.
+
+17
+00:00:36,083 --> 00:00:38,708
+<i>I quarantanove uomini in questa sala</i>
+<i>rispondono a me.</i>
+
+18
+00:00:38,791 --> 00:00:40,875
+Vedi le luci bianche? È il pavimento.
+
+19
+00:00:40,958 --> 00:00:42,500
+<i>Il bianco è freddo,</i>
+<i>il rosso è caldo.</i>
+
+20
+00:00:43,916 --> 00:00:46,291
+<i>Hanno raddoppiato la pena a tutti</i>
+<i>il mese scorso.</i>
+
+21
+00:00:46,375 --> 00:00:47,333
+<i>D-E-N-S-O-P.</i>
+
+22
+00:00:47,416 --> 00:00:48,458
+<i>Non ne sa niente.</i>
+
+23
+00:00:48,541 --> 00:00:50,916
+<i>-L'aumento delle pene.</i>
+-Non ne so niente.
+
+24
+00:00:51,000 --> 00:00:52,250
+Non guardare mai il numero.
+
+25
+00:00:52,333 --> 00:00:53,500
+-Sei qui finché non ti vogliono più.
+-Melshi!
+
+26
+00:00:53,583 --> 00:00:55,416
+Capisci? Preoccuparsi...
+
+27
+00:00:55,500 --> 00:00:56,583
+Ho detto basta.
+
+28
+00:00:57,375 --> 00:01:00,583
+Ha suscitato la curiosità dell'ISB.
+
+29
+00:01:00,666 --> 00:01:02,166
+Cerco di riabilitare il mio nome.
+
+30
+00:01:02,250 --> 00:01:04,958
+Verrebbe da pensare che voglia lasciarsi
+Ferrix alle spalle.
+
+31
+00:01:05,041 --> 00:01:07,291
+Sarebbe sbagliato.
+
+32
+00:01:07,375 --> 00:01:08,333
+Caleen!
+
+33
+00:01:08,916 --> 00:01:10,083
+Bix Caleen!
+
+34
+00:01:10,166 --> 00:01:11,625
+-Scappa!
+-Prendetela!
+
+35
+00:01:14,166 --> 00:01:16,125
+-No, no, no, no!
+-Si è ammazzato!
+
+36
+00:01:16,208 --> 00:01:17,125
+-Chi?
+-Veemoss!
+
+37
+00:01:17,208 --> 00:01:19,333
+Domani sarai a corto di braccia.
+
+38
+00:01:19,416 --> 00:01:21,333
+Pensaci quando verrai arrostito.
+
+39
+00:01:21,416 --> 00:01:22,541
+Salve, Bix.
+
+40
+00:02:36,708 --> 00:02:38,875
+Non mi piace perdere tempo.
+
+41
+00:02:41,208 --> 00:02:43,333
+Ma bisogna fare attenzione.
+
+42
+00:02:45,250 --> 00:02:48,541
+Tiri la rete e la cosa più semplice,
+
+43
+00:02:49,625 --> 00:02:51,125
+la cosa più rapida,
+
+44
+00:02:51,208 --> 00:02:56,166
+è pensare che tutto ciò
+che hai tirato su siano dei pesci.
+
+45
+00:02:56,958 --> 00:02:59,416
+Ho dei colleghi convinti
+che sia una mentalità prudente
+
+46
+00:02:59,500 --> 00:03:00,916
+in difesa dell'Impero.
+
+47
+00:03:02,166 --> 00:03:04,666
+Ma io ho un'opinione più sfaccettata.
+
+48
+00:03:07,458 --> 00:03:08,458
+Almeno ci provo.
+
+49
+00:03:12,625 --> 00:03:13,833
+Quindi ecco cosa faremo, Bix.
+
+50
+00:03:13,916 --> 00:03:15,333
+Ti dirò tutto quello che so,
+
+51
+00:03:15,416 --> 00:03:19,583
+così, magari, ti convincerò
+a collaborare senza intervenire.
+
+52
+00:03:19,666 --> 00:03:21,000
+In caso contrario,
+
+53
+00:03:22,416 --> 00:03:23,666
+abbiamo il dottor Gorst.
+
+54
+00:03:25,083 --> 00:03:28,791
+La sua tecnica di interrogatorio
+entusiasma alcuni di noi.
+
+55
+00:03:28,875 --> 00:03:31,916
+Come già sai,
+ieri sera abbiamo portato qui Salman Paak.
+
+56
+00:03:32,000 --> 00:03:34,041
+Lo abbiamo scovato
+da una radio che nascondeva
+
+57
+00:03:34,125 --> 00:03:36,583
+e pensavamo
+che avrebbe collaborato spontaneamente.
+
+58
+00:03:36,666 --> 00:03:40,458
+Per un uomo con poca attività ribelle
+alle spalle,
+
+59
+00:03:40,541 --> 00:03:42,041
+ha opposto molta resistenza,
+
+60
+00:03:43,000 --> 00:03:45,833
+il che, ovvio, ci fa capire
+che ci sia tanto che non sappiamo.
+
+61
+00:03:45,916 --> 00:03:48,458
+Perciò è stata necessaria
+una sessione più lunga.
+
+62
+00:03:48,541 --> 00:03:50,208
+E, all'improvviso, si è fatta mattina.
+
+63
+00:03:50,291 --> 00:03:54,375
+Ed eccoci qua, a perdere tempo.
+
+64
+00:03:56,541 --> 00:03:59,875
+Alla fine, è stata una pessima decisione
+da parte sua.
+
+65
+00:03:59,958 --> 00:04:01,708
+Abbiamo appreso
+quello che volevamo sapere,
+
+66
+00:04:01,791 --> 00:04:05,791
+e, francamente,
+non valeva il prezzo che ha pagato.
+
+67
+00:04:07,125 --> 00:04:09,958
+Due anni fa, Paak è stato
+a una riunione separatista su Jondora
+
+68
+00:04:10,041 --> 00:04:13,125
+dove una donna gli ha detto
+che se gli interessava la politica
+
+69
+00:04:13,208 --> 00:04:16,583
+avrebbe potuto fare da collegamento
+per Ferrix una volta tornato a casa.
+
+70
+00:04:16,666 --> 00:04:21,291
+Gli hanno mandato l'unità radio frattale
+che tu hai usato ieri pomeriggio.
+
+71
+00:04:22,666 --> 00:04:26,041
+Questa donna sconosciuta
+che lo ha reclutato per la causa
+
+72
+00:04:26,125 --> 00:04:29,250
+sembrava poco interessata
+a generare attività politica su Ferrix
+
+73
+00:04:29,333 --> 00:04:33,000
+e molto interessata a sfruttare
+la posizione commerciale del tuo pianeta
+
+74
+00:04:33,083 --> 00:04:35,250
+per acquisire
+attrezzature imperiali rubate.
+
+75
+00:04:37,541 --> 00:04:40,750
+Sapevi che Salman Paak
+era pagato per tenere attiva quella radio?
+
+76
+00:04:41,875 --> 00:04:44,125
+Sapevi di essere l'unica a usarla?
+
+77
+00:04:45,375 --> 00:04:49,166
+Eri al corrente che il compratore,
+il tuo contatto,
+
+78
+00:04:49,250 --> 00:04:52,125
+ha incontrato Paak solo una volta
+prima di venire da te?
+
+79
+00:05:00,375 --> 00:05:02,166
+Sei nella mia rete, Bix.
+
+80
+00:05:03,958 --> 00:05:06,750
+Sei un pesce o sei un ladra, eh?
+
+81
+00:05:07,750 --> 00:05:09,250
+È un peccato finire sulla graticola
+
+82
+00:05:09,750 --> 00:05:11,541
+se sei motivata solo dal denaro.
+
+83
+00:05:12,791 --> 00:05:16,291
+Non hai precedenti
+di atti politici sovversivi.
+
+84
+00:05:17,250 --> 00:05:18,833
+Sei una commerciante.
+
+85
+00:05:19,916 --> 00:05:25,833
+Preferirei conversare
+piuttosto che richiamare il dottor Gorst.
+
+86
+00:05:25,916 --> 00:05:30,916
+Ma questo, per ora,
+dipende soltanto da te.
+
+87
+00:05:32,875 --> 00:05:34,458
+Tu sei dell'ISB, vero?
+
+88
+00:05:35,708 --> 00:05:36,958
+Il peggio del peggio.
+
+89
+00:05:40,000 --> 00:05:43,875
+Mi dirai
+tutto quello che sai sul compratore.
+
+90
+00:05:43,958 --> 00:05:45,416
+Sembra che ti diverta.
+
+91
+00:05:46,541 --> 00:05:50,291
+Mi dirai tutto su Cassian Andor
+e sul loro rapporto.
+
+92
+00:05:50,375 --> 00:05:51,958
+Non hanno alcun rapporto.
+
+93
+00:05:53,083 --> 00:05:59,083
+Mi darai un completo,
+
+94
+00:05:59,166 --> 00:06:03,333
+dettagliato resoconto di ogni
+
+95
+00:06:03,416 --> 00:06:06,000
+attrezzatura imperiale rubata
+che hai passato in giro,
+
+96
+00:06:06,916 --> 00:06:10,125
+da dove proveniva,
+chi è stato corrotto per farlo,
+
+97
+00:06:11,000 --> 00:06:12,166
+e dove è finita.
+
+98
+00:06:13,291 --> 00:06:14,750
+Non conosco il compratore.
+
+99
+00:06:15,708 --> 00:06:17,458
+-Davvero?
+-Davvero.
+
+100
+00:06:18,333 --> 00:06:23,166
+Be', Salman Paak dice che vi siete visti
+almeno sei volte, da quel che sa.
+
+101
+00:06:24,500 --> 00:06:29,750
+Dice che stavi a quella radio per ore.
+
+102
+00:06:31,625 --> 00:06:32,791
+Mando il segnale.
+
+103
+00:06:34,458 --> 00:06:38,791
+A volte risponde,
+si presenta, compra e se ne va.
+
+104
+00:06:41,333 --> 00:06:44,500
+Sei incontri faccia a faccia.
+
+105
+00:06:47,000 --> 00:06:52,333
+Lui e Andor hanno distrutto edifici
+e ucciso guardie di sicurezza.
+
+106
+00:06:52,416 --> 00:06:54,333
+Sei rimasta ferita cercando di avvertirli.
+
+107
+00:06:55,791 --> 00:06:59,750
+Il tuo collega è stato ucciso
+nel tentativo di liberarti.
+
+108
+00:07:01,125 --> 00:07:05,166
+Andor e il compratore
+sono fuggiti insieme.
+
+109
+00:07:06,666 --> 00:07:10,875
+Mi sembra
+che di rapporti ne abbiate eccome.
+
+110
+00:07:13,291 --> 00:07:15,916
+Quando hai parlato
+con Cassian Andor l'ultima volta?
+
+111
+00:07:29,958 --> 00:07:35,500
+La cosa peggiore
+che tu possa fare ora è annoiarmi.
+
+112
+00:07:39,375 --> 00:07:41,750
+Non mi crederesti comunque, no?
+
+113
+00:07:46,291 --> 00:07:47,166
+No.
+
+114
+00:07:48,416 --> 00:07:49,750
+Credo proprio di no.
+
+115
+00:07:54,125 --> 00:07:56,750
+-È tutta sua, dottor Gorst.
+-Grazie.
+
+116
+00:08:05,250 --> 00:08:06,166
+Girate.
+
+117
+00:08:11,000 --> 00:08:12,125
+Pronti?
+
+118
+00:08:14,916 --> 00:08:16,416
+Eccolo. Finito.
+
+119
+00:08:17,333 --> 00:08:18,333
+Il tavolo tre.
+
+120
+00:08:19,250 --> 00:08:20,916
+Non saranno a corto tutto il giorno.
+
+121
+00:08:21,000 --> 00:08:22,541
+Sta arrivando un novellino.
+
+122
+00:08:22,625 --> 00:08:24,500
+Ma possiamo vincere il turno
+se ci impegniamo.
+
+123
+00:08:24,583 --> 00:08:26,916
+-Siamo già sopra il Quattro.
+-Mi ci vuole un pasto vero.
+
+124
+00:08:27,000 --> 00:08:28,333
+Ce la giochiamo con il Due.
+
+125
+00:08:28,416 --> 00:08:29,541
+Ulaf?
+
+126
+00:08:29,625 --> 00:08:30,833
+Che ne dici, veterano?
+
+127
+00:08:30,916 --> 00:08:32,166
+A lui manca poco, ormai.
+
+128
+00:08:32,250 --> 00:08:33,500
+Proviamo a vincere?
+
+129
+00:08:33,583 --> 00:08:36,500
+La mano. Potrebbe servirmi aiuto.
+
+130
+00:08:37,250 --> 00:08:38,666
+-Scambiamoci.
+-Cosa?
+
+131
+00:08:38,750 --> 00:08:40,125
+-Avanti.
+-Ha ragione. Scambiamoci.
+
+132
+00:08:40,208 --> 00:08:41,416
+-Perché?
+-Keef è più veloce.
+
+133
+00:08:41,500 --> 00:08:43,791
+-Ci sono altri modi di dirlo.
+-La mano.
+
+134
+00:08:44,375 --> 00:08:46,500
+-Che succede?
+-Ci stiamo solo ribilanciando un po'.
+
+135
+00:08:47,375 --> 00:08:50,333
+-E...
+-Ulaf, quanto ti manca?
+
+136
+00:08:51,291 --> 00:08:53,333
+41 turni domani.
+
+137
+00:08:53,416 --> 00:08:55,458
+Sei il prossimo a uscire.
+
+138
+00:08:55,541 --> 00:08:57,250
+Sei quello a cui manca meno.
+
+139
+00:08:58,500 --> 00:08:59,541
+Lo scambio, un'idea tua?
+
+140
+00:08:59,625 --> 00:09:01,500
+Mia? No, no. È di Taga.
+
+141
+00:09:01,583 --> 00:09:02,916
+Stai scherzando?
+
+142
+00:09:03,000 --> 00:09:04,750
+-Girate.
+-Ottima idea.
+
+143
+00:09:05,750 --> 00:09:07,541
+Ulaf torna a casa.
+
+144
+00:09:08,666 --> 00:09:09,833
+Hanno un novellino oggi?
+
+145
+00:09:09,916 --> 00:09:11,625
+Sempre il giorno dopo, giusto?
+
+146
+00:09:14,000 --> 00:09:15,250
+Conosci la procedura.
+
+147
+00:09:28,875 --> 00:09:31,458
+Le... Le cinghie non sono niente
+di cui avere paura.
+
+148
+00:09:31,541 --> 00:09:34,166
+È molto più sicuro per te essere legata
+mentre procediamo.
+
+149
+00:09:35,083 --> 00:09:38,291
+Non c'è nulla di intrinsecamente fisico
+in questa procedura,
+
+150
+00:09:38,375 --> 00:09:41,291
+ma le prove iniziali
+sono state un po' caotiche.
+
+151
+00:09:49,333 --> 00:09:51,541
+C'è una luna dell'Orlo Esterno
+chiamata Dizon Fray.
+
+152
+00:09:52,583 --> 00:09:54,666
+Ci viveva una specie senziente,
+un po' insolita.
+
+153
+00:09:54,750 --> 00:09:56,125
+Estremamente ostile al progetto
+
+154
+00:09:56,208 --> 00:09:58,750
+di un centro di rifornimento imperiale.
+
+155
+00:09:58,833 --> 00:10:01,291
+Ho detto "viveva"
+perché crearono una tale tensione
+
+156
+00:10:01,375 --> 00:10:05,041
+che ai comandanti locali fu permesso
+di utilizzare ogni mezzo necessario.
+
+157
+00:10:07,000 --> 00:10:10,041
+E, be', ciò che conta
+per il nostro scopo di oggi
+
+158
+00:10:10,125 --> 00:10:11,750
+è che il massacro dei Dizoniti
+
+159
+00:10:11,833 --> 00:10:14,500
+fu trasmesso e registrato
+come prova della missione.
+
+160
+00:10:15,291 --> 00:10:17,250
+Emettono un suono mentre muoiono.
+
+161
+00:10:17,333 --> 00:10:22,041
+Una specie di corale agonizzante supplica.
+
+162
+00:10:23,083 --> 00:10:25,708
+Niente che si fosse mai udito prima.
+
+163
+00:10:25,791 --> 00:10:28,958
+Tre responsabili delle comunicazioni
+che monitoravano la registrazione
+
+164
+00:10:29,041 --> 00:10:31,583
+furono trovati rannicchiati ore dopo
+
+165
+00:10:31,666 --> 00:10:33,625
+in vari stati di stress emotivo,
+
+166
+00:10:33,708 --> 00:10:36,958
+in un'intercapedine
+sotto la plancia della nave.
+
+167
+00:10:37,041 --> 00:10:38,458
+Abbiamo preso le registrazioni
+
+168
+00:10:38,541 --> 00:10:44,208
+e le abbiamo modificate leggermente,
+sovrapponendole, sistemandole.
+
+169
+00:10:44,291 --> 00:10:48,375
+E abbiamo trovato una sezione
+con quelli che crediamo fossero bambini
+
+170
+00:10:49,333 --> 00:10:52,000
+che produce un effetto particolare.
+
+171
+00:11:05,583 --> 00:11:06,750
+Non ci vorrà molto.
+
+172
+00:11:08,625 --> 00:11:11,750
+Non ti sembrerà che sia così.
+Ma...
+
+173
+00:11:14,708 --> 00:11:17,250
+Fammi sapere
+quando sei disposta a collaborare.
+
+174
+00:11:19,416 --> 00:11:23,583
+E se hai difficoltà a parlare,
+muovi la testa da un lato all'altro.
+
+175
+00:11:24,708 --> 00:11:29,291
+Dovrai esserne sicura, Bix,
+di voler collaborare pienamente.
+
+176
+00:11:30,125 --> 00:11:32,875
+È l'ascolto ripetuto
+a causare i danni maggiori.
+
+177
+00:11:33,541 --> 00:11:34,541
+Siamo pronti?
+
+178
+00:11:36,583 --> 00:11:37,666
+Procediamo.
+
+179
+00:12:05,500 --> 00:12:06,708
+Trapano via.
+
+180
+00:12:11,041 --> 00:12:12,291
+Faccio una pausa.
+
+181
+00:12:52,250 --> 00:12:53,500
+<i>In posizione.</i>
+
+182
+00:12:53,583 --> 00:12:55,041
+<i>Novellino sul piano.</i>
+
+183
+00:12:55,125 --> 00:12:56,958
+<i>Restate tutti ai vostri posti.</i>
+
+184
+00:13:07,000 --> 00:13:08,708
+Novellino sul piano.
+
+185
+00:13:08,791 --> 00:13:10,416
+Restate ai vostri posti!
+
+186
+00:13:14,458 --> 00:13:16,083
+Sali sull'elevatore e fermati.
+
+187
+00:13:16,166 --> 00:13:18,333
+Due uomini dietro. Due armi.
+
+188
+00:13:18,416 --> 00:13:20,291
+-Avanti.
+-Niente stivali.
+
+189
+00:13:20,375 --> 00:13:21,500
+...sull'elevatore.
+
+190
+00:13:27,166 --> 00:13:28,291
+Silenzio!
+
+191
+00:13:29,458 --> 00:13:30,625
+Sta toccando la ringhiera.
+
+192
+00:13:30,708 --> 00:13:31,708
+Ora mi credi?
+
+193
+00:13:31,791 --> 00:13:33,875
+-L'elevatore non è collegato.
+-In piedi!
+
+194
+00:13:33,958 --> 00:13:35,416
+Nulla che si muove può arrostirti.
+
+195
+00:13:40,041 --> 00:13:41,416
+Ho un'altra idea.
+
+196
+00:13:42,833 --> 00:13:43,791
+Non aspettiamo.
+
+197
+00:13:44,666 --> 00:13:46,541
+Attacchiamo mentre scendono.
+
+198
+00:13:46,625 --> 00:13:47,500
+Ora.
+
+199
+00:13:47,583 --> 00:13:49,458
+-Torneranno su.
+-No.
+
+200
+00:13:50,125 --> 00:13:51,375
+Lo fermiamo.
+
+201
+00:13:52,250 --> 00:13:53,958
+Lo blocchiamo a metà strada.
+
+202
+00:13:54,041 --> 00:13:56,458
+Prendi una guardia, un'arma.
+
+203
+00:14:02,208 --> 00:14:05,750
+Questa è l'Unità Cinque-Due-D.
+
+204
+00:14:05,833 --> 00:14:08,458
+Livello cinque, stanza due.
+
+205
+00:14:08,541 --> 00:14:11,125
+La "D" sta per turno Diurno.
+
+206
+00:14:11,208 --> 00:14:14,291
+Comando i 49 uomini in questa stanza.
+
+207
+00:14:20,583 --> 00:14:21,750
+Non le metta via.
+
+208
+00:14:32,791 --> 00:14:33,958
+Iniziamo?
+
+209
+00:14:37,625 --> 00:14:41,291
+Quando hai parlato
+con Cassian Andor l'ultima volta?
+
+210
+00:14:49,291 --> 00:14:51,166
+-Faccio io. Faccio io, faccio io.
+-Ce riesco.
+
+211
+00:14:51,250 --> 00:14:53,375
+-Lo so.
+-Pronti.
+
+212
+00:14:53,458 --> 00:14:54,875
+Sono pronto.
+
+213
+00:14:54,958 --> 00:14:56,000
+Pronto.
+
+214
+00:14:57,458 --> 00:14:58,375
+A che punto siamo?
+
+215
+00:14:59,416 --> 00:15:00,750
+Siamo in gioco?
+
+216
+00:15:00,833 --> 00:15:02,916
+Ci manca una rastrelliera
+e ci resta un'ora.
+
+217
+00:15:03,000 --> 00:15:05,000
+Cosa? Che c'è adesso?
+
+218
+00:15:05,083 --> 00:15:07,333
+Ne abbiamo appena parlato.
+
+219
+00:15:07,958 --> 00:15:09,375
+Te l'abbiamo detto due minuti fa.
+
+220
+00:15:10,666 --> 00:15:12,291
+Pensi che non voglia vincere?
+
+221
+00:15:12,958 --> 00:15:14,416
+Sto lavorando o no?
+
+222
+00:15:14,500 --> 00:15:16,208
+Ancora una rastrelliera.
+Vinciamo o no?
+
+223
+00:15:16,291 --> 00:15:17,916
+-Girate.
+-Che cosa aspettate?
+
+224
+00:15:29,833 --> 00:15:31,291
+La tenga qui.
+
+225
+00:15:31,375 --> 00:15:32,375
+La tenga viva.
+
+226
+00:15:32,458 --> 00:15:33,333
+Come ostaggio?
+
+227
+00:15:34,208 --> 00:15:35,333
+Come testimone.
+
+228
+00:15:35,416 --> 00:15:37,958
+È l'unica in grado di identificare Axis.
+
+229
+00:15:38,041 --> 00:15:40,041
+-E Salman Paak?
+-Non mi interessa.
+
+230
+00:15:40,125 --> 00:15:41,708
+Vorrei impiccarlo.
+
+231
+00:15:41,791 --> 00:15:43,666
+Quello che resta di lui, almeno.
+
+232
+00:15:44,250 --> 00:15:46,166
+Si assicuri che sappiano chi comanda.
+
+233
+00:15:46,250 --> 00:15:47,291
+Come desidera.
+
+234
+00:15:58,791 --> 00:16:01,708
+La senatrice di Chandrila
+sostiene chi si oppone
+
+235
+00:16:01,791 --> 00:16:04,000
+alla legge dell'Imperatore
+sulla sicurezza pubblica.
+
+236
+00:16:04,083 --> 00:16:05,333
+Lunga vita all'Impero!
+
+237
+00:16:05,416 --> 00:16:07,333
+C'è un problema più importante
+che questa aula
+
+238
+00:16:07,416 --> 00:16:10,625
+debba affrontare ora
+della supremazia imperiale?
+
+239
+00:16:10,708 --> 00:16:15,000
+La Direttiva emanatrice di Nuove Sentenze
+per l'Ordine Pubblico è il prossimo passo
+
+240
+00:16:15,083 --> 00:16:19,750
+in un prevedibile percorso
+verso l'autorità incontrastata.
+
+241
+00:16:19,833 --> 00:16:21,083
+Dice la verità!
+
+242
+00:16:22,958 --> 00:16:27,708
+La nostra prima responsabilità
+è verso i cittadini che ci hanno eletti.
+
+243
+00:16:28,833 --> 00:16:31,666
+Il nostro secondo impegno
+è proteggere il potere
+
+244
+00:16:31,750 --> 00:16:34,541
+e l'indipendenza
+di questa rispettabile camera.
+
+245
+00:16:34,625 --> 00:16:35,750
+Ascoltatela!
+
+246
+00:16:36,375 --> 00:16:41,083
+Sono qui oggi per rivolgermi
+a quei senatori con una mente aperta,
+
+247
+00:16:41,750 --> 00:16:43,083
+con quelli che credono ancora
+
+248
+00:16:43,166 --> 00:16:46,166
+che, entrando in questo palazzo,
+siamo in un tempio.
+
+249
+00:16:53,083 --> 00:16:54,000
+<i>Parti.</i>
+
+250
+00:16:54,083 --> 00:16:55,875
+Hanno chiamato dalla residenza.
+
+251
+00:16:55,958 --> 00:16:57,750
+Sua cugina è arrivata.
+
+252
+00:16:59,541 --> 00:17:00,458
+<i>Cosa?</i>
+
+253
+00:17:01,416 --> 00:17:02,375
+Sua cugina.
+
+254
+00:17:04,083 --> 00:17:05,166
+<i>All'ambasciata?</i>
+
+255
+00:17:05,250 --> 00:17:06,541
+<i>È lì adesso?</i>
+
+256
+00:17:06,625 --> 00:17:08,375
+Mi hanno detto di informarla.
+
+257
+00:17:18,083 --> 00:17:20,000
+-Da dove vengono?
+-Non lo so.
+
+258
+00:17:20,083 --> 00:17:21,666
+Silenzio!
+
+259
+00:17:24,125 --> 00:17:25,958
+Possono tenerci qui per sempre,
+se vogliono.
+
+260
+00:17:26,041 --> 00:17:27,375
+Basta così, Melshi.
+
+261
+00:17:27,458 --> 00:17:30,083
+Tutti quanti, fate silenzio ora.
+
+262
+00:17:30,166 --> 00:17:31,916
+C'è qualcosa che non va.
+
+263
+00:17:32,000 --> 00:17:34,750
+Qualunque cosa sia,
+ci stanno mettendo troppo tempo.
+
+264
+00:17:34,833 --> 00:17:35,833
+Cosa succede?
+
+265
+00:17:36,500 --> 00:17:37,750
+Che cosa dicono?
+
+266
+00:17:37,833 --> 00:17:38,833
+Il livello due, penso.
+
+267
+00:17:47,625 --> 00:17:49,708
+-D'accordo.
+-Inizia a mancare l'aria qui.
+
+268
+00:17:49,791 --> 00:17:50,833
+Non ci vorrà molto.
+
+269
+00:17:50,916 --> 00:17:52,000
+Tutto bene, Ulaf?
+
+270
+00:17:52,083 --> 00:17:52,916
+Sto bene.
+
+271
+00:17:53,000 --> 00:17:54,291
+Livello due, lato opposto.
+
+272
+00:17:55,041 --> 00:17:56,875
+Taga, qualche problema?
+
+273
+00:17:56,958 --> 00:17:57,791
+Cosa dice?
+
+274
+00:17:57,875 --> 00:17:58,791
+Livello due.
+
+275
+00:17:58,875 --> 00:18:00,458
+Sta venendo da questa parte ora.
+
+276
+00:18:00,541 --> 00:18:02,250
+-Cosa dice?
+-Silenzio!
+
+277
+00:18:03,125 --> 00:18:04,333
+Che succede?
+
+278
+00:18:09,583 --> 00:18:11,458
+Cos'è stato?
+
+279
+00:18:11,541 --> 00:18:12,708
+Che succede?
+
+280
+00:18:12,791 --> 00:18:14,500
+Non è niente. Manca qualcuno.
+
+281
+00:18:14,583 --> 00:18:15,625
+Stanno contando.
+
+282
+00:18:15,708 --> 00:18:16,916
+E staccano l'energia?
+
+283
+00:18:18,041 --> 00:18:19,375
+Secondo te, che sta succedendo?
+
+284
+00:18:23,583 --> 00:18:24,916
+Qualcosa non va al due.
+
+285
+00:18:25,000 --> 00:18:28,291
+-Vanno troppo veloci. Non riesco a capire.
+-Tutti quanti, calmatevi!
+
+286
+00:18:28,375 --> 00:18:29,750
+Qualcosa non va al due.
+
+287
+00:18:30,666 --> 00:18:31,625
+Guardami.
+
+288
+00:18:31,708 --> 00:18:34,125
+Non hai la minima idea
+di cosa stiano dicendo.
+
+289
+00:18:34,208 --> 00:18:36,666
+"Livello due, lato opposto. Livello due."
+
+290
+00:18:36,750 --> 00:18:38,541
+Sei fuori di testa o cosa?
+
+291
+00:18:38,625 --> 00:18:41,291
+Ci vuole una settimana
+perché una voce arrivi fin quassù.
+
+292
+00:18:41,375 --> 00:18:43,083
+E andate nel panico per qualcosa
+
+293
+00:18:43,166 --> 00:18:45,416
+che sta succedendo
+dall'altra parte dell'edificio!
+
+294
+00:18:46,458 --> 00:18:51,041
+Quante mani ci vogliono
+per far arrivare una voce quassù?
+
+295
+00:18:51,125 --> 00:18:52,875
+La strada è lunga, sì.
+Ma devi...
+
+296
+00:18:52,958 --> 00:18:53,916
+<i>State fermi.</i>
+
+297
+00:18:54,000 --> 00:18:56,916
+<i>In posizione. Piedi a terra.</i>
+<i>Guardate avanti. Mani sulla testa.</i>
+
+298
+00:18:57,000 --> 00:18:59,125
+<i>Se non farete quanto richiesto,</i>
+
+299
+00:18:59,208 --> 00:19:01,458
+<i>inizieremo ad attivare</i>
+<i>i pavimenti senza preavviso.</i>
+
+300
+00:19:02,416 --> 00:19:05,166
+<i>Le porte dei ponti programmati</i>
+<i>saranno aperte.</i>
+
+301
+00:19:05,250 --> 00:19:07,958
+<i>Tutti gli uomini di turno</i>
+<i>si dirigano alle loro postazioni.</i>
+
+302
+00:19:19,333 --> 00:19:20,875
+Stupendo.
+
+303
+00:19:22,416 --> 00:19:25,166
+Zia Vel è stata sulla Luna di Tassio.
+Guarda cosa mi ha portato.
+
+304
+00:19:25,250 --> 00:19:26,791
+Sarà tuo padre a decidere.
+
+305
+00:19:26,875 --> 00:19:28,416
+Vediamo se te lo lascerà indossare.
+
+306
+00:19:28,500 --> 00:19:30,000
+Mi fa fare tutto quello che voglio.
+
+307
+00:19:31,916 --> 00:19:33,791
+Be', perché non vai a provarlo?
+
+308
+00:19:39,791 --> 00:19:40,833
+Dove sei stata?
+
+309
+00:19:41,750 --> 00:19:43,458
+-In viaggio.
+-Sei mesi?
+
+310
+00:19:43,541 --> 00:19:44,666
+C'è tanto da vedere.
+
+311
+00:19:45,833 --> 00:19:47,958
+Ho già abbastanza preoccupazioni.
+
+312
+00:19:48,041 --> 00:19:49,458
+Guardati.
+
+313
+00:19:49,541 --> 00:19:51,083
+L'Impero non si riposa, Mon.
+
+314
+00:19:52,083 --> 00:19:53,708
+La Ribellione viene prima di tutto.
+
+315
+00:19:54,708 --> 00:19:55,750
+Prendiamo ciò che resta.
+
+316
+00:19:57,000 --> 00:19:58,666
+Dimmi che vai a casa a trovarli.
+
+317
+00:19:58,750 --> 00:20:00,375
+Mi hanno assillata per cercarti.
+
+318
+00:20:00,458 --> 00:20:01,541
+Certo.
+
+319
+00:20:01,625 --> 00:20:04,250
+Sono passata per vederti
+e darmi una sistemata.
+
+320
+00:20:05,375 --> 00:20:07,958
+Seriamente, Vel,
+cosa ti fa fare?
+
+321
+00:20:09,291 --> 00:20:10,291
+Chi?
+
+322
+00:20:13,291 --> 00:20:14,625
+Sei tu che mi preoccupi.
+
+323
+00:20:15,708 --> 00:20:17,291
+Intrappolata qui, rinchiusa.
+
+324
+00:20:17,375 --> 00:20:20,458
+-Per favore, dimmi che sarai prudente.
+-Stanno accadendo cose.
+
+325
+00:20:20,541 --> 00:20:21,583
+È rischioso.
+
+326
+00:20:23,166 --> 00:20:24,333
+Non c'è altro modo.
+
+327
+00:20:25,583 --> 00:20:27,666
+Ormai credo
+che ci siamo dentro fino al collo.
+
+328
+00:20:27,750 --> 00:20:29,166
+-Siamo in un vortice...
+-Basta.
+
+329
+00:20:30,333 --> 00:20:31,333
+Hai fatto una promessa.
+
+330
+00:20:32,625 --> 00:20:33,583
+Mi sta bene.
+
+331
+00:20:42,291 --> 00:20:44,000
+Non pensi mai di scappare?
+
+332
+00:20:46,125 --> 00:20:47,625
+Sai che non risponderò.
+
+333
+00:20:49,000 --> 00:20:50,708
+Lo prendo come un no.
+
+334
+00:20:52,708 --> 00:20:53,708
+Prendilo come vuoi.
+
+335
+00:20:54,958 --> 00:20:57,833
+Se continui ad aprire la bocca,
+te ne pentirai.
+
+336
+00:20:58,583 --> 00:21:00,125
+Sono sicuro che ci hai pensato.
+
+337
+00:21:01,083 --> 00:21:02,750
+Quante guardie ci sono su ogni livello?
+
+338
+00:21:02,833 --> 00:21:06,541
+Se vuoi uscire vivo di qui,
+spegni quella parte del cervello.
+
+339
+00:21:07,791 --> 00:21:08,958
+D'accordo.
+
+340
+00:21:12,791 --> 00:21:14,541
+Quanti turni ti restano?
+
+341
+00:21:16,791 --> 00:21:17,875
+217.
+
+342
+00:21:19,083 --> 00:21:22,500
+Allora dimmi quello che sai,
+prima di andartene.
+
+343
+00:21:23,541 --> 00:21:24,791
+Io ti ho avvertito.
+
+344
+00:21:24,875 --> 00:21:26,708
+Pensi che a loro importi ciò che diciamo?
+
+345
+00:21:27,625 --> 00:21:29,000
+Sei da solo in questa cosa.
+
+346
+00:21:29,083 --> 00:21:30,041
+Perché?
+
+347
+00:21:30,958 --> 00:21:32,541
+Pensi che stiano ascoltando?
+
+348
+00:21:33,208 --> 00:21:35,375
+Pensi che si diano la pena di farlo?
+
+349
+00:21:35,458 --> 00:21:36,791
+Tu che ne sai?
+
+350
+00:21:37,708 --> 00:21:38,708
+Lo so.
+
+351
+00:21:38,791 --> 00:21:40,083
+Non serve che si preoccupino.
+
+352
+00:21:40,166 --> 00:21:43,125
+Devono solo attivare questo pavimento
+due volte al giorno
+
+353
+00:21:43,208 --> 00:21:44,875
+e tenere alti i numeri.
+
+354
+00:21:44,958 --> 00:21:46,541
+Perché scomodarsi ad ascoltarci?
+
+355
+00:21:47,541 --> 00:21:49,125
+Non siamo niente per loro.
+
+356
+00:21:50,291 --> 00:21:51,416
+Melshi ha ragione.
+
+357
+00:21:51,500 --> 00:21:54,166
+Siamo più economici dei droidi
+e più facili da sostituire.
+
+358
+00:21:56,833 --> 00:21:57,791
+Buona fortuna.
+
+359
+00:21:57,875 --> 00:21:59,791
+Pensi che gli importi quello che diciamo?
+
+360
+00:21:59,875 --> 00:22:01,041
+Non ci ascolta nessuno.
+
+361
+00:22:01,125 --> 00:22:02,291
+Nessuno.
+
+362
+00:22:02,375 --> 00:22:04,583
+Quante guardie ci sono su ogni livello?
+
+363
+00:22:17,458 --> 00:22:18,541
+Non siamo niente per loro.
+
+364
+00:22:19,916 --> 00:22:21,416
+Non ci ascolta nessuno.
+
+365
+00:22:23,958 --> 00:22:25,541
+Ha usato Gorst.
+
+366
+00:22:25,625 --> 00:22:27,375
+Mi fa piacere vedere
+che funziona.
+
+367
+00:22:27,458 --> 00:22:29,250
+Sì, signore.
+Un interrogatorio scrupoloso.
+
+368
+00:22:29,333 --> 00:22:31,625
+Non c'è motivo di credere
+che abbia omesso qualcosa.
+
+369
+00:22:31,708 --> 00:22:33,125
+Ma Axis non è stato identificato.
+
+370
+00:22:33,208 --> 00:22:34,708
+È ancora solo "il compratore"?
+
+371
+00:22:34,791 --> 00:22:36,000
+È deludente, lo so.
+
+372
+00:22:36,083 --> 00:22:38,958
+Ma dà un'idea dell'entità
+di ciò che sta facendo.
+
+373
+00:22:39,041 --> 00:22:41,583
+È ovvio che Axis conduce
+un'operazione molto organizzata.
+
+374
+00:22:41,666 --> 00:22:46,166
+E tanto vasta da non dipendere
+da un'unica rete o da un unico fornitore.
+
+375
+00:22:46,250 --> 00:22:49,583
+Caleen ci ha fornito un elenco
+di tutto ciò che è arrivato da Ferrix.
+
+376
+00:22:49,666 --> 00:22:51,708
+E pensiamo di avere già un riscontro
+
+377
+00:22:51,791 --> 00:22:54,166
+con un'unità di puntamento rinvenuta
+in un rifugio
+
+378
+00:22:54,250 --> 00:22:57,333
+gestito da una cellula ribelle
+associata a Maya Pei.
+
+379
+00:22:57,416 --> 00:22:59,625
+Andor è dietro tutto questo.
+
+380
+00:22:59,708 --> 00:23:01,541
+Sì, ed è quello che vorrei sottolineare.
+
+381
+00:23:01,625 --> 00:23:03,875
+È il ladro locale, giusto?
+L'assassino in fuga?
+
+382
+00:23:03,958 --> 00:23:07,916
+Andor è tornato su Ferrix tre notti
+dopo Aldhani con i soldi in tasca.
+
+383
+00:23:08,000 --> 00:23:10,041
+Non saranno quelli
+della vendita della Starpath?
+
+384
+00:23:10,125 --> 00:23:12,000
+Impossibile. L'avevano abbandonata, no?
+
+385
+00:23:12,083 --> 00:23:13,791
+Sta cercando un collegamento con Aldhani?
+
+386
+00:23:13,875 --> 00:23:15,250
+È un po' una forzatura.
+
+387
+00:23:15,833 --> 00:23:17,000
+Si era appena rasato.
+
+388
+00:23:18,875 --> 00:23:20,083
+Andor non aveva la barba.
+
+389
+00:23:23,333 --> 00:23:25,791
+Domanda: "Descrivi il suo aspetto."
+
+390
+00:23:25,875 --> 00:23:28,166
+Risposta: "Si era rasato la barba."
+
+391
+00:23:29,250 --> 00:23:31,000
+I ribelli su Aldhani erano sbarbati.
+
+392
+00:23:31,625 --> 00:23:33,916
+Due soldati della guarnigione
+che lo hanno visto
+
+393
+00:23:34,000 --> 00:23:35,916
+dicono
+che somigliava alla nostra immagine.
+
+394
+00:23:36,000 --> 00:23:38,041
+Be', vale la pena indagare.
+
+395
+00:23:38,708 --> 00:23:41,625
+Un collegamento con Aldhani
+aumenterebbe certamente l'interesse.
+
+396
+00:23:42,500 --> 00:23:43,375
+Seguiamo la pista.
+
+397
+00:23:44,041 --> 00:23:45,416
+Non avete interrogato la madre?
+
+398
+00:23:46,125 --> 00:23:47,125
+Ho deciso di aspettare.
+
+399
+00:23:47,208 --> 00:23:49,333
+Meglio lasciarla in pace
+e tenersi in disparte.
+
+400
+00:23:49,416 --> 00:23:51,416
+È troppo vecchia e fragile
+per darci delle grane,
+
+401
+00:23:51,500 --> 00:23:53,625
+e, comunque, è la nostra esca.
+
+402
+00:23:53,708 --> 00:23:55,666
+È il motivo per cui Andor è tornato.
+
+403
+00:23:55,750 --> 00:23:57,000
+Forse comunicano.
+
+404
+00:23:57,083 --> 00:23:58,791
+Se così fosse, lo sapremo.
+
+405
+00:23:58,875 --> 00:24:00,416
+La sorveglieremo notte e giorno.
+
+406
+00:24:13,708 --> 00:24:14,791
+Hai sentito?
+
+407
+00:24:14,875 --> 00:24:16,208
+-Avete sentito?
+-Cosa?
+
+408
+00:24:16,291 --> 00:24:17,708
+L'unità due-cinque.
+
+409
+00:24:17,791 --> 00:24:19,750
+-Non ci hanno detto nulla.
+-Stai scherzando.
+
+410
+00:24:19,833 --> 00:24:21,083
+Non sanno niente.
+
+411
+00:24:21,166 --> 00:24:22,208
+Sono stati arrostiti.
+
+412
+00:24:22,291 --> 00:24:24,750
+-Li hanno ammazzati. Sono tutti morti.
+-Chi l'ha detto?
+
+413
+00:24:24,833 --> 00:24:26,666
+-Entrambi i turni.
+-Un centinaio di uomini.
+
+414
+00:24:26,750 --> 00:24:27,625
+Non può essere vero.
+
+415
+00:24:27,708 --> 00:24:29,041
+Non avete sentito niente.
+
+416
+00:24:29,125 --> 00:24:30,125
+Cos'ha detto?
+
+417
+00:24:30,208 --> 00:24:31,875
+-Non lo so.
+-Sono tutti morti.
+
+418
+00:24:31,958 --> 00:24:33,083
+Chi è stato a dirlo?
+
+419
+00:24:33,166 --> 00:24:35,083
+-Un manutentore.
+-Abbiamo mandato una squadra.
+
+420
+00:24:35,166 --> 00:24:37,458
+-Hanno arrostito tutto il ponte.
+-Più forte.
+
+421
+00:24:37,541 --> 00:24:38,833
+L'ha detto a Zinska.
+
+422
+00:24:38,916 --> 00:24:39,791
+Perché?
+
+423
+00:24:41,208 --> 00:24:42,083
+Chiedilo a lui.
+
+424
+00:24:43,583 --> 00:24:44,666
+È incredibile.
+
+425
+00:24:48,458 --> 00:24:49,666
+Zinska?
+
+426
+00:24:52,041 --> 00:24:53,541
+Ha sentito che creavano problemi.
+
+427
+00:24:54,375 --> 00:24:56,458
+<i>In posizione. Piedi a terra.</i>
+
+428
+00:24:56,541 --> 00:24:59,291
+<i>Se non farete quanto richiesto,</i>
+<i>inizieremo ad attivare i ponti...</i>
+
+429
+00:24:59,375 --> 00:25:00,750
+Cos'ha detto?
+
+430
+00:25:00,833 --> 00:25:02,041
+Cos'è successo al due?
+
+431
+00:25:02,125 --> 00:25:03,833
+Non... non lo sappiamo.
+
+432
+00:25:03,916 --> 00:25:05,208
+Li hanno liberati tutti.
+
+433
+00:25:07,125 --> 00:25:08,875
+-In posizione!
+-Kino! Kino!
+
+434
+00:25:09,625 --> 00:25:10,833
+Dobbiamo stare attenti.
+
+435
+00:25:11,666 --> 00:25:14,166
+Meno sanno che sappiamo, meglio è.
+
+436
+00:25:20,083 --> 00:25:21,375
+Rimanete in posizione!
+
+437
+00:25:22,875 --> 00:25:24,416
+Statemi bene a sentire!
+
+438
+00:25:26,708 --> 00:25:27,833
+È solo una voce.
+
+439
+00:25:29,375 --> 00:25:30,583
+Forse è vero.
+
+440
+00:25:31,541 --> 00:25:33,333
+Forse no.
+
+441
+00:25:33,416 --> 00:25:36,166
+Non abbiamo sentito nulla.
+
+442
+00:25:39,166 --> 00:25:43,375
+È solo un altro giorno, un altro turno.
+
+443
+00:25:43,458 --> 00:25:45,833
+Quindi teniamo la bocca chiusa,
+
+444
+00:25:45,916 --> 00:25:50,916
+teniamo la testa bassa
+finché non sappiamo che succede.
+
+445
+00:26:05,541 --> 00:26:07,041
+Ti sei alzato presto.
+
+446
+00:26:07,125 --> 00:26:08,916
+A casa tardi, in piedi presto.
+
+447
+00:26:09,000 --> 00:26:10,750
+Vestito e pettinato.
+
+448
+00:26:10,833 --> 00:26:12,416
+Hai tagliato i capelli.
+
+449
+00:26:13,291 --> 00:26:14,375
+Devi dirmi qualcosa?
+
+450
+00:26:14,458 --> 00:26:17,000
+Ti avevo detto
+di non lasciarmi la cena, ieri sera.
+
+451
+00:26:17,083 --> 00:26:19,125
+Il tuo messaggio era così breve.
+
+452
+00:26:19,208 --> 00:26:20,541
+Uno si preoccupa.
+
+453
+00:26:20,625 --> 00:26:23,541
+Sei così impegnato in questi giorni,
+forse dimentichi di mangiare.
+
+454
+00:26:23,625 --> 00:26:25,500
+Hai di nuovo frugato nella mia stanza.
+
+455
+00:26:26,166 --> 00:26:27,500
+Si chiama "pulire".
+
+456
+00:26:27,583 --> 00:26:28,833
+Mi piace la casa in ordine.
+
+457
+00:26:28,916 --> 00:26:30,416
+Sei entrata nel mio box privato.
+
+458
+00:26:32,166 --> 00:26:33,333
+Ho modo di scoprirlo.
+
+459
+00:26:37,875 --> 00:26:43,916
+Ti trovo un lavoro, ti stiro l'uniforme,
+ti preparo due pasti al giorno,
+
+460
+00:26:44,000 --> 00:26:46,125
+smuovo le montagne
+per rialzarti da terra
+
+461
+00:26:46,208 --> 00:26:49,166
+e rimetterti in piedi,
+e cosa ci guadagno?
+
+462
+00:26:49,250 --> 00:26:51,250
+Qual è il ritorno del mio investimento?
+
+463
+00:26:51,333 --> 00:26:54,208
+Stavamo parlando del fatto
+che metti il naso nelle mie cose.
+
+464
+00:26:54,291 --> 00:26:57,875
+L'ombra di un figlio, un inquilino,
+un estraneo.
+
+465
+00:26:57,958 --> 00:26:59,625
+Questa è nuova. Scrivitela.
+
+466
+00:26:59,708 --> 00:27:01,833
+Tutto quel tempo lontano su Morlana.
+
+467
+00:27:01,916 --> 00:27:04,250
+E se per come mi hai trascurata
+fossi impazzita?
+
+468
+00:27:04,333 --> 00:27:05,708
+Prova a immaginare.
+
+469
+00:27:06,375 --> 00:27:09,750
+Ripensa a pochi mesi fa,
+quando mi ignoravi del tutto.
+
+470
+00:27:10,666 --> 00:27:11,875
+Prova a immaginare.
+
+471
+00:27:11,958 --> 00:27:15,125
+Immagina se fossi crollata
+per il modo in cui mi trascuravi.
+
+472
+00:27:15,208 --> 00:27:19,000
+Immagina se fossi crollata
+e non fossi qui ora a raccogliere i pezzi.
+
+473
+00:27:20,750 --> 00:27:21,875
+Sono stato promosso.
+
+474
+00:27:31,000 --> 00:27:33,250
+Sapevo
+che avrebbero riconosciuto le tue abilità.
+
+475
+00:27:34,875 --> 00:27:36,833
+Mi porterà via ancora più tempo.
+
+476
+00:27:36,916 --> 00:27:39,083
+Lo zio Harlo ne sarà molto contento.
+
+477
+00:27:50,583 --> 00:27:51,958
+-Trapano.
+-Bene.
+
+478
+00:27:53,875 --> 00:27:55,375
+Ulaf, forza, amico.
+
+479
+00:28:01,250 --> 00:28:02,583
+Sollevate.
+
+480
+00:28:03,375 --> 00:28:05,166
+-Dai, ragazzi. Andiamo.
+-Uno, due.
+
+481
+00:28:07,000 --> 00:28:08,583
+-Andiamo.
+-Eccomi. Ci sono.
+
+482
+00:28:10,458 --> 00:28:12,125
+Così. Così.
+
+483
+00:28:14,041 --> 00:28:15,833
+-Bene.
+-Dai, andiamo.
+
+484
+00:28:18,166 --> 00:28:19,375
+Forza, Ulaf.
+
+485
+00:28:20,333 --> 00:28:21,291
+Via le mani.
+
+486
+00:28:21,375 --> 00:28:23,458
+-Fatto.
+-Ulaf, le mani.
+
+487
+00:28:23,541 --> 00:28:24,750
+Girate.
+
+488
+00:28:28,333 --> 00:28:29,833
+Forza, ragazzi. Possiamo farcela.
+
+489
+00:28:32,208 --> 00:28:33,625
+Ci penso io. Tu inseriscilo.
+
+490
+00:28:36,541 --> 00:28:37,583
+Forza, ragazzi.
+
+491
+00:28:39,708 --> 00:28:41,000
+Solo una notte, Vel?
+
+492
+00:28:41,083 --> 00:28:41,958
+Temo di si.
+
+493
+00:28:42,041 --> 00:28:43,708
+Torni su Chandrila oggi?
+
+494
+00:28:43,791 --> 00:28:45,625
+Sì. Il Pellegrinaggio.
+
+495
+00:28:46,333 --> 00:28:47,750
+TI sei trovata un marito?
+
+496
+00:28:48,708 --> 00:28:50,333
+Non era nella mia lista
+di cose da fare.
+
+497
+00:28:51,083 --> 00:28:53,208
+Be', a questo punto ti serve un vedovo.
+
+498
+00:28:53,291 --> 00:28:55,375
+Chi è rimasto di valido alla tua età?
+
+499
+00:28:55,458 --> 00:28:56,375
+Sì.
+
+500
+00:28:56,458 --> 00:28:57,875
+I migliori sono stati già presi.
+
+501
+00:28:59,166 --> 00:29:01,666
+Abbiamo avuto un afflusso
+di Chandrilani, di recente.
+
+502
+00:29:02,541 --> 00:29:04,916
+-Ti ricordi Tay Kolma?
+-Sì.
+
+503
+00:29:05,000 --> 00:29:06,291
+L'ex fidanzato della mamma.
+
+504
+00:29:06,375 --> 00:29:07,250
+Cosa?
+
+505
+00:29:07,333 --> 00:29:09,250
+Gliel'hai detto tu?
+
+506
+00:29:09,333 --> 00:29:11,000
+La parola chiave è "ex", tesoro.
+
+507
+00:29:11,083 --> 00:29:12,750
+Abbiamo fatto le scuole insieme.
+
+508
+00:29:12,833 --> 00:29:15,166
+Almeno non ti sei data alla politica, Vel.
+
+509
+00:29:15,250 --> 00:29:18,125
+Tutte le persone interessanti
+stanno diventando noiose, ormai.
+
+510
+00:29:18,208 --> 00:29:19,875
+Nessuno mi definisce noiosa.
+
+511
+00:29:21,541 --> 00:29:22,458
+<i>Tay Kolma?</i>
+
+512
+00:29:23,291 --> 00:29:24,458
+Soldi.
+
+513
+00:29:24,541 --> 00:29:25,541
+È tutto qui?
+
+514
+00:29:26,250 --> 00:29:27,833
+Non ho già abbastanza preoccupazioni?
+
+515
+00:29:28,708 --> 00:29:30,083
+Posso fare qualcosa?
+
+516
+00:29:30,166 --> 00:29:31,208
+Sì.
+
+517
+00:29:32,916 --> 00:29:34,791
+Fa' la ragazza ricca e viziata per un po'.
+
+518
+00:29:35,500 --> 00:29:37,583
+Ricorda a tutti che è questo che sei.
+
+519
+00:29:37,666 --> 00:29:38,583
+Ci proverò.
+
+520
+00:29:39,750 --> 00:29:40,958
+Che abbiamo fatto, Vel?
+
+521
+00:29:42,583 --> 00:29:43,916
+Abbiamo scelto di schierarci.
+
+522
+00:29:44,916 --> 00:29:46,833
+Stiamo combattendo contro l'oscurità.
+
+523
+00:29:48,375 --> 00:29:50,208
+Stiamo dando uno scopo alle nostre vite.
+
+524
+00:31:09,583 --> 00:31:11,083
+-Syril Karn.
+-So chi è.
+
+525
+00:31:13,083 --> 00:31:14,333
+Cosa ci fa qui?
+
+526
+00:31:16,250 --> 00:31:18,000
+Volevo ringraziarla per la promozione.
+
+527
+00:31:18,875 --> 00:31:20,333
+Io non c'entro nulla.
+
+528
+00:31:20,416 --> 00:31:22,541
+Be', secondo il mio capo, è stata lei.
+
+529
+00:31:22,625 --> 00:31:24,958
+Le abbiamo semplicemente dato
+un'altra occasione.
+
+530
+00:31:26,333 --> 00:31:27,958
+È stato qui ad aspettare?
+
+531
+00:31:28,041 --> 00:31:28,916
+Sì.
+
+532
+00:31:30,000 --> 00:31:31,583
+Non le mentirei mai.
+
+533
+00:31:34,708 --> 00:31:36,541
+Volevo trovarla
+
+534
+00:31:36,625 --> 00:31:39,083
+e ringraziarla per ciò che ha fatto
+e che sta facendo.
+
+535
+00:31:40,083 --> 00:31:41,208
+E continuare la...
+
+536
+00:31:42,333 --> 00:31:44,583
+Cercare di continuare
+la conversazione del mese scorso.
+
+537
+00:31:44,666 --> 00:31:47,625
+Non era una conversazione.
+Era lì per essere interrogato.
+
+538
+00:31:47,708 --> 00:31:49,416
+Mi sta perseguitando?
+
+539
+00:31:50,041 --> 00:31:53,500
+So che lavora qui
+e a volte vengo sperando di incontrarla.
+
+540
+00:31:54,208 --> 00:31:56,291
+Sono un supervisore dell'ISB.
+
+541
+00:31:56,916 --> 00:31:59,500
+Ha idea del guaio in cui si è cacciato?
+
+542
+00:31:59,583 --> 00:32:01,333
+Pensavo di essermi rovinato la vita.
+
+543
+00:32:03,083 --> 00:32:04,208
+Pensavo di essere finito.
+
+544
+00:32:05,708 --> 00:32:07,333
+Dopo averla conosciuta
+e avere scoperto
+
+545
+00:32:07,416 --> 00:32:10,041
+che lei capiva quanto fosse pericoloso
+Cassian Andor.
+
+546
+00:32:11,333 --> 00:32:15,916
+Anche solo trovarmi in sua presenza,
+ho capito che vale la pena vivere.
+
+547
+00:32:16,000 --> 00:32:18,291
+Ho capito che, se non altro,
+c'era giustizia
+
+548
+00:32:18,375 --> 00:32:20,875
+e bellezza nella galassia
+e se fossi andato avanti...
+
+549
+00:32:21,958 --> 00:32:25,541
+Forse la mia folle convinzione
+che ci fosse qualcosa di meglio per me
+
+550
+00:32:25,625 --> 00:32:28,625
+nel futuro era un sogno
+a cui valeva la pena aggrapparsi.
+
+551
+00:32:30,375 --> 00:32:32,708
+Potrei farla arrestare,
+se ne rende conto?
+
+552
+00:32:32,791 --> 00:32:34,000
+Voglio quello che vuole lei.
+
+553
+00:32:35,666 --> 00:32:37,208
+Lo avverto. Lo sento.
+
+554
+00:32:37,291 --> 00:32:39,041
+Lei è pazzo.
+
+555
+00:32:39,125 --> 00:32:41,041
+Le ho già dato una seconda occasione.
+
+556
+00:32:41,125 --> 00:32:43,916
+Se si avvicina di nuovo a me,
+e persevererà in tutto questo,
+
+557
+00:32:44,000 --> 00:32:47,166
+giuro che la farò chiudere in una gabbia
+nell'Orlo Esterno.
+
+558
+00:33:01,583 --> 00:33:04,791
+Eccola qua. Appena arrivato.
+Hanno fermato un pilota ribelle un'ora fa.
+
+559
+00:33:04,875 --> 00:33:06,541
+-Dalla lista obiettivi?
+-No, un caso.
+
+560
+00:33:06,625 --> 00:33:08,958
+Ma sta usando
+un'unità di occultamento imperiale rubata.
+
+561
+00:33:09,041 --> 00:33:11,125
+-Una delle nostre?
+-Corv sta controllando, ma...
+
+562
+00:33:11,208 --> 00:33:14,041
+-Dove lo tengono?
+-Su un incrociatore vicino a Steergaard.
+
+563
+00:33:14,125 --> 00:33:16,125
+Chiama il dottor Gorst,
+mandalo subito là.
+
+564
+00:33:16,208 --> 00:33:17,250
+L'ho già fatto.
+
+565
+00:33:17,333 --> 00:33:18,791
+Sta andando là.
+
+566
+00:33:18,875 --> 00:33:21,125
+-Vuole andarci?
+-Sì. No. Non c'è tempo.
+
+567
+00:33:21,208 --> 00:33:23,208
+Lo interrogherò da remoto.
+
+568
+00:33:23,291 --> 00:33:24,458
+Ottimo lavoro.
+
+569
+00:33:24,541 --> 00:33:25,583
+Vai.
+
+570
+00:33:33,666 --> 00:33:35,500
+Ho esaminato i conti.
+
+571
+00:33:37,375 --> 00:33:38,916
+Potevi chiamarmi prima.
+
+572
+00:33:39,833 --> 00:33:41,541
+C'erano modi migliori per farlo.
+
+573
+00:33:42,541 --> 00:33:44,250
+All'inizio era così facile.
+
+574
+00:33:44,333 --> 00:33:47,166
+Se intendiamo fare altre donazioni,
+
+575
+00:33:47,250 --> 00:33:49,416
+dobbiamo assicurarci
+che il lavoro svolto finora
+
+576
+00:33:49,500 --> 00:33:52,500
+-non ti crei dei problemi.
+-Non possiamo nasconderle?
+
+577
+00:33:52,583 --> 00:33:55,875
+C'è un prelievo di 400.000 crediti
+che si sta rivelando un problema.
+
+578
+00:33:55,958 --> 00:33:57,708
+Risulta sul registro, poi scompare.
+
+579
+00:33:57,791 --> 00:33:59,916
+-Bisogna sistemarlo.
+-Come?
+
+580
+00:34:00,000 --> 00:34:01,750
+La cosa più facile sarebbe un versamento.
+
+581
+00:34:02,916 --> 00:34:05,958
+Se avessi avuto così tanto denaro,
+non ti avrei disturbato.
+
+582
+00:34:07,458 --> 00:34:09,125
+In che guai mi trovo?
+
+583
+00:34:09,208 --> 00:34:11,958
+Nessun guaio,
+a meno che non verifichino i conti.
+
+584
+00:34:12,041 --> 00:34:13,333
+Ma succederà.
+
+585
+00:34:16,250 --> 00:34:17,791
+Il tempo non è illimitato.
+
+586
+00:34:19,958 --> 00:34:21,291
+Mi serve un prestito.
+
+587
+00:34:22,541 --> 00:34:23,666
+Un certo tipo di prestito.
+
+588
+00:34:23,750 --> 00:34:25,500
+Sembra che tu ci abbia già riflettuto.
+
+589
+00:34:26,666 --> 00:34:32,541
+Ci serve un banchiere di Chandrila
+che abbia rapporti con la Tesoreria
+
+590
+00:34:33,875 --> 00:34:36,500
+e una lista di clienti
+tanto immensa quanto incomprensibile.
+
+591
+00:34:37,958 --> 00:34:39,416
+Hai qualcuno in mente.
+
+592
+00:34:39,500 --> 00:34:40,458
+La lista non è lunga.
+
+593
+00:34:40,541 --> 00:34:43,541
+-Eppure hai paura di dire chi è.
+-Davo Sculdun.
+
+594
+00:34:46,625 --> 00:34:47,958
+Non è un banchiere.
+
+595
+00:34:48,708 --> 00:34:50,958
+-È un delinquente.
+-Il più ricco di tutti.
+
+596
+00:34:51,041 --> 00:34:52,458
+Hai parlato con lui?
+
+597
+00:34:52,541 --> 00:34:54,458
+-Volevo darti una soluzione.
+-Gliel'hai detto?
+
+598
+00:34:54,541 --> 00:34:56,500
+Ti senti limitata
+dalle nuove leggi fiscali.
+
+599
+00:34:56,583 --> 00:34:59,083
+-È abbastanza comune.
+-Una senatrice, un ammanco di 400.000.
+
+600
+00:34:59,166 --> 00:35:00,000
+Cosa penserà?
+
+601
+00:35:00,083 --> 00:35:02,166
+Penserà che sei come
+tutti quelli con cui lavora.
+
+602
+00:35:02,250 --> 00:35:03,750
+Che vuoi ciò che è tuo.
+
+603
+00:35:03,833 --> 00:35:04,958
+A che costo?
+
+604
+00:35:05,041 --> 00:35:06,208
+Non saprei.
+
+605
+00:35:06,958 --> 00:35:08,250
+Vuole incontrarti.
+
+606
+00:35:09,000 --> 00:35:09,958
+Vuole incontrarti qui.
+
+607
+00:35:14,041 --> 00:35:16,708
+Davo Sculdun, qui.
+Starai scherzando.
+
+608
+00:35:16,791 --> 00:35:18,125
+Ho detto di no, però...
+
+609
+00:35:27,291 --> 00:35:28,583
+Posso continuare la ricerca.
+
+610
+00:35:34,791 --> 00:35:36,625
+Era un controllo doganale di routine.
+
+611
+00:35:36,708 --> 00:35:38,250
+-Del tutto casuale.
+-Solo il pilota?
+
+612
+00:35:38,333 --> 00:35:40,625
+-Era l'unico a bordo.
+-E nessun testimone.
+
+613
+00:35:40,708 --> 00:35:41,708
+È questo il bello.
+
+614
+00:35:41,791 --> 00:35:44,416
+Ha mostrato un profilo imperiale
+per un attimo, poi è svanito.
+
+615
+00:35:44,500 --> 00:35:46,041
+È parso strano
+e l'hanno inseguito.
+
+616
+00:35:46,125 --> 00:35:47,875
+Ha contattato casa
+prima di essere preso?
+
+617
+00:35:47,958 --> 00:35:49,875
+Giura di no.
+Pensava di farla franca.
+
+618
+00:35:49,958 --> 00:35:51,833
+L'ha interrogato il dottor Gorst?
+
+619
+00:35:51,916 --> 00:35:53,333
+Sì, signore.
+Siamo fiduciosi.
+
+620
+00:35:53,416 --> 00:35:55,291
+Ha fatto parlare il pilota quasi subito.
+
+621
+00:35:55,375 --> 00:35:58,083
+L'unità di occultamento
+che ha usato era stato rubata
+
+622
+00:35:58,166 --> 00:36:00,583
+-dal cantiere di Lozash l'anno scorso.
+-Incredibile.
+
+623
+00:36:00,666 --> 00:36:02,125
+Scusate. Eravamo fuori sede.
+
+624
+00:36:02,208 --> 00:36:03,750
+Abbiamo arrestato un pilota ribelle.
+
+625
+00:36:03,833 --> 00:36:05,208
+Uno del gruppo di Anto Kreegyr.
+
+626
+00:36:05,291 --> 00:36:07,000
+È stato fermato a un controllo doganale.
+
+627
+00:36:07,083 --> 00:36:09,291
+Non crediamo che Kreegyr sappia
+che è scomparso.
+
+628
+00:36:09,375 --> 00:36:12,833
+Ci ha detto che è in programma un assalto
+alla centrale di Spellhaus.
+
+629
+00:36:12,916 --> 00:36:13,958
+Dove era diretto?
+
+630
+00:36:14,041 --> 00:36:16,416
+-A Kafrene.
+-Capiranno presto che è scomparso.
+
+631
+00:36:16,500 --> 00:36:18,583
+Appunto. Non vogliamo
+che Kreegyr si spaventi.
+
+632
+00:36:18,666 --> 00:36:20,625
+Non possiamo trattenerlo.
+Né lasciarlo andare.
+
+633
+00:36:20,708 --> 00:36:22,833
+Distruggete la nave.
+Sembrerà un incidente.
+
+634
+00:36:22,916 --> 00:36:24,750
+Se fossi Kreegyr, mi insospettirei.
+
+635
+00:36:24,833 --> 00:36:26,250
+Vogliamo che Kreegyr vada avanti.
+
+636
+00:36:26,333 --> 00:36:27,666
+E se manomettessimo la nave?
+
+637
+00:36:27,750 --> 00:36:29,416
+Un incidente. Un guasto meccanico.
+
+638
+00:36:29,500 --> 00:36:32,083
+Se trovassero il pilota morto in cabina,
+che accadrebbe?
+
+639
+00:36:32,166 --> 00:36:35,041
+Dovrebbero trovarla.
+Ma dovrebbero rimorchiarla dentro Kafrene.
+
+640
+00:36:35,125 --> 00:36:38,583
+Se facciamo in fretta, la insceniamo bene,
+l'abbandoniamo nel traffico.
+
+641
+00:36:38,666 --> 00:36:41,791
+Fate così. Massima priorità.
+Rapidi e cauti.
+
+642
+00:36:41,875 --> 00:36:43,250
+Non lasciamo tracce.
+
+643
+00:36:43,333 --> 00:36:44,500
+Lavoro eccellente.
+
+644
+00:36:44,583 --> 00:36:48,583
+Riunione immediata con l'intelligence
+per parlare di Spellhaus.
+
+645
+00:36:51,333 --> 00:36:52,541
+Andate.
+
+646
+00:37:30,666 --> 00:37:32,166
+<i>Detenuti, in posizione.</i>
+
+647
+00:37:32,250 --> 00:37:33,541
+<i>Programma in atto.</i>
+
+648
+00:37:33,625 --> 00:37:35,666
+<i>Tavoli a basso rendimento in posizione.</i>
+
+649
+00:37:35,750 --> 00:37:39,958
+Il tavolo due vince il turno
+con sei rastrelliere piene e tre.
+
+650
+00:37:41,333 --> 00:37:43,041
+Tavolo uno nel quadrato.
+
+651
+00:37:46,000 --> 00:37:47,791
+-Ulaf.
+-Coraggio. Datevi da fare.
+
+652
+00:37:50,708 --> 00:37:52,458
+-Ce la fa?
+-Sì.
+
+653
+00:37:54,125 --> 00:37:55,250
+<i>In posizione.</i>
+
+654
+00:37:56,583 --> 00:37:58,291
+Copritelo. Copritelo.
+
+655
+00:37:58,375 --> 00:38:00,625
+-Aspetta.
+<i>-Detenuti, in posizione.</i>
+
+656
+00:38:00,708 --> 00:38:01,916
+<i>Programma in atto.</i>
+
+657
+00:38:02,000 --> 00:38:04,083
+<i>Tavoli a basso rendimento in posizione.</i>
+
+658
+00:38:09,625 --> 00:38:11,416
+Ulaf. Ehi, guardami.
+
+659
+00:38:14,041 --> 00:38:15,041
+D'accordo.
+
+660
+00:38:15,125 --> 00:38:16,500
+Ci siamo quasi. Ci siamo quasi.
+
+661
+00:38:40,125 --> 00:38:42,625
+Kino, ha bisogno di un medico.
+
+662
+00:38:42,708 --> 00:38:43,833
+Portatelo in cella.
+
+663
+00:38:48,166 --> 00:38:50,208
+Siamo in ritardo. Avanti. Muovetevi.
+
+664
+00:38:50,291 --> 00:38:51,708
+Muovetevi. Muovetevi.
+
+665
+00:38:51,791 --> 00:38:54,041
+Uno, due, tre.
+
+666
+00:38:54,125 --> 00:38:56,166
+Tranquillo. Tranquillo.
+
+667
+00:38:56,250 --> 00:38:58,208
+-Tienigli la testa.
+-Ti tengo.
+
+668
+00:38:58,291 --> 00:39:00,666
+Zinska, digli che ci serve un medico qui.
+
+669
+00:39:02,416 --> 00:39:05,000
+Tu, avanti, vai. Subito.
+
+670
+00:39:09,833 --> 00:39:11,000
+Tieni duro, Ulaf.
+
+671
+00:39:11,791 --> 00:39:13,500
+Ti restano solo pochi turni.
+
+672
+00:39:13,583 --> 00:39:14,916
+E poi andrai a casa.
+
+673
+00:39:19,333 --> 00:39:20,708
+<i>In posizione.</i>
+
+674
+00:39:29,875 --> 00:39:31,166
+Scendi. Vieni.
+
+675
+00:39:42,875 --> 00:39:44,250
+Ecco che arriva, Uli.
+
+676
+00:39:45,583 --> 00:39:47,541
+Ti riporterà in cella tra poco.
+
+677
+00:39:50,250 --> 00:39:51,500
+È da un po' che non ti vedo.
+
+678
+00:39:51,583 --> 00:39:52,916
+Sono sempre qui.
+
+679
+00:39:56,666 --> 00:39:58,041
+Si chiama Ulaf.
+
+680
+00:39:58,125 --> 00:39:59,416
+L'ho già visto prima.
+
+681
+00:39:59,500 --> 00:40:00,458
+Tieni qui.
+
+682
+00:40:06,750 --> 00:40:08,333
+Gli restano solo 40 turni.
+
+683
+00:40:09,541 --> 00:40:11,500
+Devi solo rimetterlo in piedi.
+
+684
+00:40:12,250 --> 00:40:13,416
+È forte come una roccia.
+
+685
+00:40:18,750 --> 00:40:19,875
+Guardami, fratello.
+
+686
+00:40:19,958 --> 00:40:20,875
+Si chiama Ulaf.
+
+687
+00:40:20,958 --> 00:40:22,541
+Non voglio sapere come si chiama.
+
+688
+00:40:24,416 --> 00:40:26,083
+Gli restano 40 turni.
+
+689
+00:40:26,708 --> 00:40:29,583
+Vogliamo solo qualcosa
+che lo tenga su per i prossimi giorni.
+
+690
+00:40:29,666 --> 00:40:31,041
+Rimettilo in piedi.
+
+691
+00:40:31,125 --> 00:40:32,458
+Non è un'opzione.
+
+692
+00:40:33,041 --> 00:40:33,916
+Cosa?
+
+693
+00:40:35,416 --> 00:40:36,833
+Cosa, non puoi salvarlo?
+
+694
+00:40:36,916 --> 00:40:38,541
+Non c'è niente da salvare.
+
+695
+00:40:39,458 --> 00:40:41,125
+Ha avuto un grave infarto.
+
+696
+00:40:48,250 --> 00:40:49,083
+Cosa fai?
+
+697
+00:40:50,416 --> 00:40:51,625
+Non posso fare niente.
+
+698
+00:40:52,541 --> 00:40:53,791
+Non posso per nessuno.
+
+699
+00:40:55,208 --> 00:40:56,791
+Mi servono una sacca e una barella.
+
+700
+00:40:56,875 --> 00:40:57,875
+Arrivano.
+
+701
+00:41:00,041 --> 00:41:00,875
+È fortunato.
+
+702
+00:41:01,750 --> 00:41:04,958
+Morirà serenamente, non posso dire
+lo stesso per il resto di noi.
+
+703
+00:41:07,458 --> 00:41:11,166
+Un'altra settimana come questa
+e supplicherete di fare la sua fine.
+
+704
+00:41:12,041 --> 00:41:12,916
+Che vuoi dire?
+
+705
+00:41:13,833 --> 00:41:14,958
+Hai capito.
+
+706
+00:41:15,041 --> 00:41:17,750
+Tienigli le spalle.
+Tu, le gambe.
+
+707
+00:41:19,791 --> 00:41:21,791
+Cos'è successo al livello due?
+
+708
+00:41:23,541 --> 00:41:26,208
+Ti conviene tenere in riga i tuoi uomini.
+
+709
+00:41:27,125 --> 00:41:28,333
+Tenetelo fermo.
+
+710
+00:41:31,875 --> 00:41:33,000
+Non sentirà niente.
+
+711
+00:41:46,916 --> 00:41:48,291
+È morto.
+
+712
+00:41:52,166 --> 00:41:56,000
+Che intendi
+con tenere in riga i miei uomini?
+
+713
+00:41:56,083 --> 00:41:58,041
+Cos'è successo al due?
+
+714
+00:42:00,625 --> 00:42:02,291
+Ci servono una sacca e una barella.
+
+715
+00:42:02,375 --> 00:42:03,541
+Ho detto che arrivano.
+
+716
+00:42:10,125 --> 00:42:11,541
+Hanno commesso un errore.
+
+717
+00:42:12,208 --> 00:42:16,375
+Un uomo appena rilasciato al quattro
+è rientrato al due il giorno dopo.
+
+718
+00:42:16,458 --> 00:42:19,250
+La voce si è sparsa al piano,
+e li hanno uccisi tutti.
+
+719
+00:42:19,333 --> 00:42:20,708
+Ti servono quegli uomini?
+
+720
+00:42:21,458 --> 00:42:22,583
+Stanno andando via.
+
+721
+00:42:22,666 --> 00:42:23,666
+Subito.
+
+722
+00:42:23,750 --> 00:42:25,375
+Se era stato rilasciato...
+
+723
+00:42:27,000 --> 00:42:28,000
+Hai capito.
+
+724
+00:42:29,625 --> 00:42:31,750
+Nessuno uscirà mai, vero?
+
+725
+00:42:32,875 --> 00:42:34,208
+Non ora.
+
+726
+00:42:34,291 --> 00:42:35,458
+Non dopo questo.
+
+727
+00:42:37,291 --> 00:42:38,541
+Almeno il tuo amico è libero.
+
+728
+00:42:38,625 --> 00:42:40,666
+Voi due, in posizione, ora.
+
+729
+00:42:41,375 --> 00:42:42,666
+In piedi. Mani sulla testa.
+
+730
+00:42:42,750 --> 00:42:43,750
+Muovetevi.
+
+731
+00:42:45,125 --> 00:42:47,000
+Andiamo. Forza, andiamo.
+
+732
+00:42:48,333 --> 00:42:50,125
+Subito. Andiamo.
+
+733
+00:42:52,750 --> 00:42:54,583
+Quante guardie ci sono su ogni livello?
+
+734
+00:42:56,000 --> 00:42:57,416
+Mai più di 12.
+
+735
+00:46:41,916 --> 00:46:43,916
+Sottotitoli: Gian Paolo Gasperi
+

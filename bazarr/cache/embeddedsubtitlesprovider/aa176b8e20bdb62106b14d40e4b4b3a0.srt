@@ -1,0 +1,3684 @@
+1
+00:00:10,719 --> 00:00:13,888
+Jonathan! Nancy! Jonathan!
+
+2
+00:00:14,764 --> 00:00:16,349
+Jonathan! Nancy!
+
+3
+00:00:18,601 --> 00:00:19,436
+Hvad laver I?
+
+4
+00:00:19,519 --> 00:00:22,689
+Hør på mig! Rør ikke ved noget!
+
+5
+00:00:36,536 --> 00:00:37,787
+Ramte du ikke?
+
+6
+00:00:54,763 --> 00:00:56,723
+-Vi bør måske…
+-Ja.
+
+7
+00:01:40,725 --> 00:01:45,396
+Jeg ved godt, at klokken er 5:00,
+men du skal bygge en signalmodtager.
+
+8
+00:01:45,480 --> 00:01:49,359
+-Hvad? Erica, klokken er…
+-Klokken er 5:00. Det har hun sagt.
+
+9
+00:01:49,442 --> 00:01:51,611
+Undskyld. Hvem er du?
+
+10
+00:01:51,694 --> 00:01:53,738
+-Min onkel.
+-Babysitteren.
+
+11
+00:01:53,822 --> 00:01:55,115
+Hvem er det, basse?
+
+12
+00:01:55,198 --> 00:01:59,035
+Det er okay, sveske. Gå i seng igen.
+Jeg kommer om et øjeblik.
+
+13
+00:01:59,119 --> 00:02:00,328
+Okay.
+
+14
+00:02:00,411 --> 00:02:03,832
+-Bibliotekaren?
+-Tysser hun på dig i sengen?
+
+15
+00:02:03,915 --> 00:02:10,171
+Okay, hør her. Jeg kender dig ikke,
+og det her er meget upassende.
+
+16
+00:02:10,255 --> 00:02:12,340
+Og vi ses i skolen, Erica.
+
+17
+00:02:13,466 --> 00:02:15,343
+Dustin er i fare.
+
+18
+00:02:16,010 --> 00:02:19,848
+-Fare? Hvilken slags fare?
+-Liv eller død-slagsen.
+
+19
+00:02:19,931 --> 00:02:21,808
+Hvad vælger du, basse?
+
+20
+00:02:21,891 --> 00:02:26,062
+Bogormen eller at bygge en signalmodtager
+og redde din bedste elev?
+
+21
+00:02:29,232 --> 00:02:30,066
+Henderson!
+
+22
+00:02:30,942 --> 00:02:31,776
+Dustin!
+
+23
+00:02:32,360 --> 00:02:33,528
+Dustin. Hey.
+
+24
+00:02:33,611 --> 00:02:36,990
+Hvad var det?
+Var det skjoldgeneratoren? Fandt de den?
+
+25
+00:02:37,073 --> 00:02:38,116
+Jeg tog fejl.
+
+26
+00:02:38,825 --> 00:02:40,076
+Jeg tog fuldkommen…
+
+27
+00:02:41,619 --> 00:02:43,037
+…og aldeles fejl.
+
+28
+00:02:43,121 --> 00:02:44,205
+Hvad?
+
+29
+00:02:44,289 --> 00:02:46,332
+Da du gik, fandt jeg en notesbog.
+
+30
+00:02:47,041 --> 00:02:48,626
+Brenners notesbog.
+
+31
+00:02:50,170 --> 00:02:53,381
+Nøglen til at ødelægge muren
+er i laboratoriet,
+
+32
+00:02:53,464 --> 00:02:56,050
+men det er ikke en skjoldgenerator.
+
+33
+00:02:56,134 --> 00:02:58,636
+Den er ikke skabt med sort magi af Vecna.
+
+34
+00:03:02,056 --> 00:03:03,391
+Videnskab skabte den.
+
+35
+00:03:04,809 --> 00:03:07,979
+Teoretiske fysikere
+kalder det eksotisk stof.
+
+36
+00:03:08,479 --> 00:03:12,066
+En enkelt energikilde,
+som holder den gigantiske mur sammen,
+
+37
+00:03:12,150 --> 00:03:14,569
+og jeg tror, at Nancy lige har skudt den.
+
+38
+00:03:25,747 --> 00:03:28,541
+Hvorfor er det skidt?
+Vi vil jo over muren.
+
+39
+00:03:28,625 --> 00:03:30,627
+-Du hører ikke efter!
+-Jo, jeg gør!
+
+40
+00:03:30,710 --> 00:03:36,299
+Vecna lavede ikke muren, så hverken ham,
+Holly eller børnene er på den anden side.
+
+41
+00:03:37,675 --> 00:03:39,636
+Hvad er der så på den anden side?
+
+42
+00:03:49,812 --> 00:03:51,105
+Hvorfor stoppede det?
+
+43
+00:03:57,695 --> 00:04:00,031
+Hvad er der på den anden side af muren?
+
+44
+00:04:00,823 --> 00:04:01,658
+Døden.
+
+45
+00:04:11,834 --> 00:04:14,087
+Kom nu! Lad os skynde os!
+
+46
+00:04:15,421 --> 00:04:16,798
+Skynd jer!
+
+47
+00:04:17,507 --> 00:04:18,633
+Kom så!
+
+48
+00:04:19,342 --> 00:04:20,468
+Smid jer ned!
+
+49
+00:04:30,687 --> 00:04:35,650
+Alt, hvad vi nogensinde har antaget
+om Vrangsiden, har været…
+
+50
+00:04:36,484 --> 00:04:37,944
+…helt forkert.
+
+51
+00:04:42,991 --> 00:04:44,033
+Porten.
+
+52
+00:04:44,617 --> 00:04:45,743
+Porten!
+
+53
+00:04:46,869 --> 00:04:48,663
+Jeg kan rydde en sti!
+
+54
+00:04:48,746 --> 00:04:52,834
+Nej, nej! Bliv her! Bliv bag mig!
+
+55
+00:04:52,917 --> 00:04:54,919
+Nej! For fanden da!
+
+56
+00:05:04,345 --> 00:05:05,346
+Stop!
+
+57
+00:05:06,014 --> 00:05:07,056
+Nej!
+
+58
+00:05:19,777 --> 00:05:22,405
+Dette sted, Vrangsiden…
+
+59
+00:05:22,488 --> 00:05:25,992
+Det er ikke en anden dimension.
+Det er ikke en anden verden.
+
+60
+00:05:26,075 --> 00:05:27,702
+Vrangsiden er et ormehul.
+
+61
+00:05:27,785 --> 00:05:28,786
+En bro
+
+62
+00:05:29,662 --> 00:05:33,791
+mellem to punkter i tid og rum,
+mellem vores verden og en anden.
+
+63
+00:05:33,875 --> 00:05:36,961
+-Og hvis broen kollapser?
+-Så tager den os med.
+
+64
+00:05:39,922 --> 00:05:41,049
+Os alle sammen.
+
+65
+00:07:03,464 --> 00:07:10,471
+KAP. 6: FLUGTEN FRA CAMAZOTZ
+
+66
+00:07:41,043 --> 00:07:42,503
+Skynd dig!
+
+67
+00:07:47,467 --> 00:07:50,386
+Er du okay? Bare rolig.
+
+68
+00:07:51,179 --> 00:07:54,265
+-Vi er i sikkerhed. Her kommer han ikke.
+-Max…
+
+69
+00:08:03,858 --> 00:08:05,109
+Holly!
+
+70
+00:08:05,860 --> 00:08:06,861
+Kom.
+
+71
+00:08:10,823 --> 00:08:11,866
+Holly, min skat.
+
+72
+00:08:11,949 --> 00:08:14,076
+Stop, eller jeg gør hende fortræd.
+
+73
+00:08:16,204 --> 00:08:20,416
+Jeg ved, at du tror, at Max er din ven.
+
+74
+00:08:21,042 --> 00:08:25,254
+Men hun har narret dig, Holly.
+Hun har hjernevasket dig.
+
+75
+00:08:25,338 --> 00:08:27,215
+Hun lyver.
+
+76
+00:08:27,298 --> 00:08:32,011
+Nej, du lyver!
+Jeg så dig! Jeg så, hvad du virkelig er!
+
+77
+00:08:32,094 --> 00:08:35,306
+Du er et monster! Et ulækkert monster!
+
+78
+00:08:35,389 --> 00:08:36,849
+Holly!
+
+79
+00:08:36,933 --> 00:08:40,520
+Hvis du ikke tager med mig nu
+hen til de andre børn,
+
+80
+00:08:40,603 --> 00:08:43,272
+bliver jeg nødt til at gøre Max fortræd.
+
+81
+00:08:47,026 --> 00:08:51,405
+-Jeg bliver nok nødt til at dræbe hende.
+-Hvorfor gør du det så ikke?
+
+82
+00:08:52,156 --> 00:08:54,909
+Jeg er lige her! Nå ja, det er rigtigt.
+
+83
+00:08:54,992 --> 00:08:59,288
+Du er for bange for en dum hule.
+din forbandede kujon!
+
+84
+00:08:59,956 --> 00:09:02,792
+Meget har ændret sig, Max.
+
+85
+00:09:03,834 --> 00:09:07,255
+Der er nu andre måder at nå dig på.
+
+86
+00:09:07,838 --> 00:09:08,839
+Og Holly?
+
+87
+00:09:09,966 --> 00:09:13,177
+Når din nye ven begynder at lide,
+
+88
+00:09:14,595 --> 00:09:16,180
+og hun kommer til at lide,
+
+89
+00:09:16,973 --> 00:09:20,184
+kan du enten vende tilbage til mig
+og stoppe lidelsen,
+
+90
+00:09:21,018 --> 00:09:23,396
+eller du kan se din nye ven dø.
+
+91
+00:09:24,230 --> 00:09:25,982
+Hendes liv er i dine hænder.
+
+92
+00:09:38,828 --> 00:09:43,499
+6. NOVEMBER
+
+93
+00:10:10,401 --> 00:10:14,947
+Kan nogen forklare mig,
+hvad fanden der skete derude?
+
+94
+00:10:15,031 --> 00:10:18,743
+Vi svedte partiklerne ud.
+Jeg så dem flyve op langs med tårnet.
+
+95
+00:10:18,826 --> 00:10:21,245
+-Så I det også?
+-Det er svært at overse.
+
+96
+00:10:21,329 --> 00:10:23,623
+Will er adskilt fra den fælles bevidsthed.
+
+97
+00:10:23,706 --> 00:10:25,791
+-Teoretisk.
+-Hvorfor vågnede han ikke?
+
+98
+00:10:25,875 --> 00:10:30,630
+Hvordan så han Max, hvis hun er hos Holly?
+Er det ægte? Narrer Vecna os igen?
+
+99
+00:10:30,713 --> 00:10:32,506
+Det giver sgu ingen mening!
+
+100
+00:10:32,590 --> 00:10:37,094
+Lægerne forstod aldrig,
+hvorfor Max var i koma, vel?
+
+101
+00:10:37,178 --> 00:10:38,721
+Hvad? Nej. Hvorfor?
+
+102
+00:10:40,848 --> 00:10:43,934
+Okay.
+
+103
+00:10:44,018 --> 00:10:47,730
+Lad os antage,
+at alt, hvad Will så, var ægte.
+
+104
+00:10:47,813 --> 00:10:50,066
+-Han så Max og Holly.
+-Ja, men hvordan?
+
+105
+00:10:50,149 --> 00:10:53,194
+Det kommer jeg til. Lad os sige, at…
+
+106
+00:10:54,070 --> 00:10:55,321
+Det er Will.
+
+107
+00:10:55,404 --> 00:10:58,824
+Det er Holly.
+
+108
+00:10:58,908 --> 00:10:59,784
+Og…
+
+109
+00:11:00,910 --> 00:11:03,621
+Det er selvfølgelig Max.
+
+110
+00:11:04,580 --> 00:11:09,752
+De er tre forskellige steder. Squawk,
+hospitalet og et ukendt sted i Vrangsiden.
+
+111
+00:11:09,835 --> 00:11:11,045
+-Ja.
+-Ja.
+
+112
+00:11:11,128 --> 00:11:14,799
+Men de har
+en meget vigtig ting til fælles.
+
+113
+00:11:14,882 --> 00:11:16,217
+De er bevidstløse.
+
+114
+00:11:18,678 --> 00:11:22,056
+-Hvad sker der, når Vecna fanger en?
+-Man falder i trance.
+
+115
+00:11:22,139 --> 00:11:24,225
+Det ligner på alle måder koma.
+
+116
+00:11:24,308 --> 00:11:27,478
+Derfor kunne lægerne intet gøre.
+Max lå ikke i koma.
+
+117
+00:11:27,561 --> 00:11:29,188
+Max var i trance.
+
+118
+00:11:29,772 --> 00:11:32,692
+Ligesom Will. Ligesom Holly.
+
+119
+00:11:33,275 --> 00:11:36,487
+Det slog mig
+som en af Whitney Houstons høje toner.
+
+120
+00:11:36,570 --> 00:11:38,155
+Deres bevidsthed…
+
+121
+00:11:39,281 --> 00:11:40,700
+…er på samme sted.
+
+122
+00:11:41,784 --> 00:11:43,077
+I Vecnas hoved.
+
+123
+00:11:44,453 --> 00:11:45,538
+Fængslet.
+
+124
+00:11:46,580 --> 00:11:48,290
+Det var de i hvert fald.
+
+125
+00:11:48,374 --> 00:11:53,754
+Hvis Will har ret, så er Max og Holly
+ved at bryde ud af fængslet.
+
+126
+00:11:53,838 --> 00:11:58,759
+Og hvis det lykkes, vender de tilbage
+til deres fysiske kroppe,
+
+127
+00:11:59,552 --> 00:12:02,388
+og Max vågner op igen.
+
+128
+00:12:02,471 --> 00:12:05,266
+Og de har bogstavelig talt været
+i Vecnas hoved.
+
+129
+00:12:05,349 --> 00:12:08,436
+-De ved alt. De ved, hvor Will er.
+-Hvor børnene er.
+
+130
+00:12:08,519 --> 00:12:10,438
+-Hans planer.
+-Slutspillet.
+
+131
+00:12:10,521 --> 00:12:16,402
+Jordens skæbne er sandsynligvis i hænderne
+på din kæreste og din lillesøster.
+
+132
+00:12:16,485 --> 00:12:18,904
+-Det er et forsøg værd.
+-Kan du køre?
+
+133
+00:12:18,988 --> 00:12:22,116
+-Ikke lovligt.
+-Fint. Tag Joyces bil. Hold lav profil.
+
+134
+00:12:22,199 --> 00:12:24,827
+-Tag hen til Max. Jeg bliver hos Will.
+-Okay.
+
+135
+00:13:04,116 --> 00:13:06,160
+Kan du huske dette sted?
+
+136
+00:13:07,787 --> 00:13:08,662
+William?
+
+137
+00:13:13,209 --> 00:13:16,837
+Får det dig til at…
+
+138
+00:13:21,383 --> 00:13:22,593
+…mindes?
+
+139
+00:13:23,719 --> 00:13:25,638
+Max. Holly.
+
+140
+00:13:27,139 --> 00:13:28,808
+De slap væk, ikke?
+
+141
+00:13:30,226 --> 00:13:32,228
+Sænkede benet dig?
+
+142
+00:13:32,311 --> 00:13:35,397
+Du tror, at du er så klog, ikke?
+
+143
+00:13:35,981 --> 00:13:41,320
+Men husk, at jeg er ham.
+
+144
+00:13:41,904 --> 00:13:44,365
+Ham, der inviterede dig herind.
+
+145
+00:13:45,491 --> 00:13:48,285
+Du var mit redskab.
+
+146
+00:13:49,245 --> 00:13:50,746
+Min spion.
+
+147
+00:13:52,331 --> 00:13:54,083
+Min bygmester.
+
+148
+00:13:55,376 --> 00:13:56,377
+Bygmester?
+
+149
+00:13:59,755 --> 00:14:03,217
+Hvordan tror du,
+tunnelerne blev skabt, William?
+
+150
+00:14:05,886 --> 00:14:08,889
+Du byggede dem
+
+151
+00:14:08,973 --> 00:14:13,561
+hver eneste nat, når du sov.
+
+152
+00:14:19,984 --> 00:14:22,820
+Du har stærke evner.
+
+153
+00:14:23,654 --> 00:14:26,365
+Men tag ikke fejl, knægt.
+
+154
+00:14:27,449 --> 00:14:30,327
+Det er mine evner,
+
+155
+00:14:30,411 --> 00:14:34,623
+og de er stærkere end nogensinde.
+
+156
+00:14:38,961 --> 00:14:41,547
+Meget stærkere.
+
+157
+00:14:51,974 --> 00:14:54,268
+Nu er det endelig tid.
+
+158
+00:14:55,394 --> 00:15:01,066
+Tid til, at mine redskaber
+fører os til en ny verden.
+
+159
+00:15:02,860 --> 00:15:04,403
+En bedre verden.
+
+160
+00:15:05,321 --> 00:15:09,992
+Ærgerligt,
+at din verden aldrig vil eksistere,
+
+161
+00:15:10,075 --> 00:15:13,078
+nu hvor Max har et af dine redskaber.
+
+162
+00:15:13,662 --> 00:15:17,791
+Der er måder,
+man kan ryge en ræv ud af dens hule.
+
+163
+00:15:17,875 --> 00:15:20,294
+Og du skal hjælpe mig.
+
+164
+00:15:20,377 --> 00:15:25,049
+Du skal være min spion
+
+165
+00:15:25,132 --> 00:15:29,094
+en sidste gang.
+
+166
+00:15:29,178 --> 00:15:30,095
+Nej.
+
+167
+00:15:30,638 --> 00:15:31,555
+Aldrig i livet.
+
+168
+00:15:42,274 --> 00:15:44,777
+Jo mere du gør modstand…
+
+169
+00:15:46,195 --> 00:15:48,739
+…desto mere vil det her gøre ondt.
+
+170
+00:16:15,766 --> 00:16:16,767
+Fjols.
+
+171
+00:16:21,772 --> 00:16:23,107
+-Hey!
+-Hvad laver du?
+
+172
+00:16:23,190 --> 00:16:25,401
+-Ser, om han er der.
+-Det er han ikke.
+
+173
+00:16:25,484 --> 00:16:28,696
+-Hvorfor ikke?
+-Fordi han ved, han ikke kan nå os. Kom.
+
+174
+00:16:28,779 --> 00:16:32,032
+Han sagde, at det var anderledes.
+Der var andre måder.
+
+175
+00:16:32,116 --> 00:16:35,160
+Ja, og han er fuld af løgn.
+Det burde du vide nu.
+
+176
+00:16:35,244 --> 00:16:39,915
+Hvad skal vi så gøre? Ingenting?
+Acceptere vores skæbne?
+
+177
+00:16:39,999 --> 00:16:43,711
+Nej, men vi skal bare holde os i live,
+indtil vi bliver reddet.
+
+178
+00:16:43,794 --> 00:16:47,256
+Reddet af Elleve?
+Hvordan ved du, det var hende?
+
+179
+00:16:47,339 --> 00:16:52,177
+Kender du andre med psykiske evner,
+der kan infiltrere Vecnas bevidsthed,
+
+180
+00:16:52,261 --> 00:16:56,306
+bekæmpe ham og råbe "løb" via ham?
+For ellers må det være El.
+
+181
+00:16:56,390 --> 00:16:59,476
+Hun ved, at vi er her,
+og hun kommer og redder os.
+
+182
+00:16:59,560 --> 00:17:01,645
+Hold op med at gå rundt.
+
+183
+00:17:01,729 --> 00:17:04,273
+Du minder mig om din bror.
+
+184
+00:17:08,235 --> 00:17:09,278
+Tak.
+
+185
+00:17:15,659 --> 00:17:17,953
+Hvorfor kan Henry ikke komme herind?
+
+186
+00:17:18,037 --> 00:17:19,246
+Det ved jeg ikke.
+
+187
+00:17:20,414 --> 00:17:22,750
+Du har haft to år uden noget at lave.
+
+188
+00:17:24,001 --> 00:17:25,461
+Du må have en teori.
+
+189
+00:17:28,797 --> 00:17:31,967
+Hvis vi bare venter,
+kan vi lige så godt tale sammen.
+
+190
+00:17:38,724 --> 00:17:40,142
+-Fængslet her…
+-Camazotz.
+
+191
+00:17:40,225 --> 00:17:42,269
+Camazotz. Okay.
+
+192
+00:17:44,521 --> 00:17:46,940
+Det består af Henrys minder, ikke?
+
+193
+00:17:47,816 --> 00:17:50,444
+Inklusive denne hule.
+
+194
+00:17:50,527 --> 00:17:54,031
+Så jeg tror, at det hænger sådan sammen,
+
+195
+00:17:54,698 --> 00:17:59,119
+at det her er et minde,
+som Henry ikke vil genopleve.
+
+196
+00:18:00,370 --> 00:18:01,622
+Noget traumatisk.
+
+197
+00:18:03,415 --> 00:18:07,711
+Der er intet herinde,
+der på nogen måde er skræmmende, så…
+
+198
+00:18:08,420 --> 00:18:09,421
+…måske ikke.
+
+199
+00:18:11,924 --> 00:18:13,509
+Det er min teori.
+
+200
+00:18:15,010 --> 00:18:16,011
+Den kan jeg lide.
+
+201
+00:18:18,555 --> 00:18:19,389
+Tak.
+
+202
+00:18:19,973 --> 00:18:22,851
+Og hvis du har ret,
+
+203
+00:18:24,436 --> 00:18:27,439
+kan vi måske flygte gennem dette minde.
+
+204
+00:18:28,023 --> 00:18:29,358
+-Hvad?
+-Okay, så…
+
+205
+00:18:30,234 --> 00:18:31,568
+Mit hus og dit loft.
+
+206
+00:18:31,652 --> 00:18:35,447
+Det var også traumatiske minder,
+og de førte os ud af Camazotz.
+
+207
+00:18:35,531 --> 00:18:38,075
+Det kan Henrys minde måske også gøre.
+
+208
+00:18:38,158 --> 00:18:41,036
+For det første
+er der som sagt intet herinde.
+
+209
+00:18:41,120 --> 00:18:43,956
+Og vores minder var ikke bare traumatiske,
+
+210
+00:18:44,039 --> 00:18:47,543
+men minder om det øjeblik,
+da Henry stjal vores bevidsthed.
+
+211
+00:18:47,626 --> 00:18:51,505
+-Han kan ikke stjæle sin egen bevidsthed.
+-Hvorfor ikke?
+
+212
+00:18:51,588 --> 00:18:53,215
+Det giver ingen mening.
+
+213
+00:18:53,298 --> 00:18:55,551
+Og giver alt andet her da mening?
+
+214
+00:18:57,719 --> 00:18:58,720
+Altså…
+
+215
+00:18:59,721 --> 00:19:01,348
+…der er måske en…
+
+216
+00:19:02,182 --> 00:19:04,977
+…en hemmelig korridor eller noget.
+
+217
+00:19:05,060 --> 00:19:08,355
+Nå ja, jeg havde helt glemt
+den hemmelige korridor.
+
+218
+00:19:12,234 --> 00:19:13,235
+Hvad med derude?
+
+219
+00:19:13,318 --> 00:19:17,156
+-Sand. Masser af sand.
+-Har du gennemsøgt det?
+
+220
+00:19:17,239 --> 00:19:18,115
+-Ja.
+-Det hele?
+
+221
+00:19:18,198 --> 00:19:20,868
+-Det fortsætter mange kilometer.
+-Altså "nej".
+
+222
+00:19:23,871 --> 00:19:25,455
+Du skal ikke derud.
+
+223
+00:19:25,539 --> 00:19:29,334
+Vi bliver her,
+og vi venter på Eleven, og dermed basta.
+
+224
+00:19:29,418 --> 00:19:32,921
+Jeg tror ikke, Henry bluffede om
+at nå dig på en anden måde.
+
+225
+00:19:33,005 --> 00:19:36,133
+Vi må finde en vej ud herfra,
+før det sker.
+
+226
+00:19:36,925 --> 00:19:41,180
+Kommer du? Eller vil du lade
+et barn gå ud i ørkenen uden opsyn?
+
+227
+00:19:42,806 --> 00:19:45,809
+Jeg tager det i mig.
+Du minder mig ikke om din bror.
+
+228
+00:19:45,893 --> 00:19:47,311
+Du er din bror!
+
+229
+00:20:01,241 --> 00:20:02,242
+Joyce?
+
+230
+00:20:03,660 --> 00:20:05,621
+Har nogen ringet til bedemanden?
+
+231
+00:20:16,465 --> 00:20:17,716
+Mike.
+
+232
+00:20:21,220 --> 00:20:22,262
+El!
+
+233
+00:20:22,346 --> 00:20:23,555
+Mike…
+
+234
+00:20:30,854 --> 00:20:31,855
+Jeg er her nu.
+
+235
+00:20:32,981 --> 00:20:33,899
+Du er okay.
+
+236
+00:20:34,399 --> 00:20:35,567
+Jeg er okay.
+
+237
+00:20:36,652 --> 00:20:37,778
+Det her er Kali.
+
+238
+00:20:38,654 --> 00:20:41,615
+-Min søster.
+-Og det må være den berømte Mike.
+
+239
+00:20:42,741 --> 00:20:44,660
+Jeg… Jeg forstår det ikke.
+
+240
+00:20:44,743 --> 00:20:48,163
+Det er en lang historie.
+Lad os bare fortælle den én gang.
+
+241
+00:20:49,164 --> 00:20:51,250
+Hvor er resten af velkomstkomitéen?
+
+242
+00:20:55,671 --> 00:20:56,880
+Han er her.
+
+243
+00:21:04,471 --> 00:21:05,639
+Du godeste.
+
+244
+00:21:06,682 --> 00:21:09,268
+-Hvor længe har han været sådan?
+-Nogle timer.
+
+245
+00:21:10,560 --> 00:21:13,021
+Tror du, at du kan finde ham?
+
+246
+00:21:19,027 --> 00:21:21,613
+Hvor længe er et ormehul om at kollapse?
+
+247
+00:21:21,697 --> 00:21:24,950
+-10-20 minutter?
+-Det sker åbenbart ikke med det samme.
+
+248
+00:21:25,033 --> 00:21:28,912
+-Hvorfor lyder du skuffet?
+-Jeg er ikke skuffet, men forvirret.
+
+249
+00:21:28,996 --> 00:21:31,290
+Der er to muligheder.
+
+250
+00:21:31,373 --> 00:21:35,127
+Det her er livet efter døden.
+Vi er ånder. Det er usandsynligt.
+
+251
+00:21:35,210 --> 00:21:39,423
+Eller Nancy ødelagde ikke
+det eksotiske stof fuldkomment.
+
+252
+00:21:39,506 --> 00:21:42,801
+For så ville ormehullets vægge
+være kollapset.
+
+253
+00:21:42,884 --> 00:21:47,055
+-Vi ville være blevet suget ud i glemslen.
+-Okay, hvad venter vi på?
+
+254
+00:21:47,139 --> 00:21:48,181
+Hvor skal du hen?
+
+255
+00:21:48,265 --> 00:21:50,934
+Jeg vil finde et signal og kontakte Nancy.
+
+256
+00:21:51,018 --> 00:21:52,769
+-Vent.
+-Kom så, Henderson.
+
+257
+00:21:52,853 --> 00:21:54,146
+-Vent!
+-Kom så.
+
+258
+00:21:54,980 --> 00:21:57,482
+Vi ved ikke, om det er sikkert heroppe.
+
+259
+00:21:57,566 --> 00:22:01,403
+-Det eksotiske stof blev ikke ødelagt.
+-Jeg sagde: "ikke fuldkommen".
+
+260
+00:22:01,486 --> 00:22:03,655
+Men det blev tydeligvis påvirket.
+
+261
+00:22:03,739 --> 00:22:07,909
+Vi ved ikke, hvordan det vil påvirke stof,
+rum-tid og tyngdekraften.
+
+262
+00:22:07,993 --> 00:22:12,456
+Bygningen er måske en ustabil dødsfælde,
+der trodser fysikkens love.
+
+263
+00:22:12,539 --> 00:22:14,166
+Den virker ret stabil.
+
+264
+00:22:14,249 --> 00:22:16,960
+Hører du mig, Nancy? Er du der, Jonathan?
+
+265
+00:22:17,961 --> 00:22:18,837
+Hallo?
+
+266
+00:22:22,549 --> 00:22:23,967
+Du gode gud.
+
+267
+00:22:32,559 --> 00:22:34,770
+Jeg håber, at de ikke er deroppe.
+
+268
+00:22:59,044 --> 00:23:01,880
+Nej! Nancy!
+
+269
+00:23:05,175 --> 00:23:07,594
+Nancy! Nej, nej.
+
+270
+00:23:07,677 --> 00:23:08,637
+Nancy!
+
+271
+00:23:08,720 --> 00:23:10,806
+Kom nu. Nancy.
+
+272
+00:23:10,889 --> 00:23:12,808
+Kom nu.
+
+273
+00:23:12,891 --> 00:23:15,602
+-Er du okay? Okay.
+-Ja. Det tror jeg.
+
+274
+00:23:16,520 --> 00:23:17,479
+Hvad skete der?
+
+275
+00:23:18,355 --> 00:23:19,356
+Jeg ved det ikke.
+
+276
+00:23:21,691 --> 00:23:23,068
+Vi faldt vel.
+
+277
+00:23:23,151 --> 00:23:25,195
+Og vi ødelagde den ikke.
+
+278
+00:23:25,278 --> 00:23:26,655
+Men vi gjorde den vred.
+
+279
+00:23:29,032 --> 00:23:30,450
+Kom. Lad os gå.
+
+280
+00:23:33,078 --> 00:23:34,871
+Lad os skynde os væk.
+
+281
+00:23:37,499 --> 00:23:39,584
+-Hvor er døren?
+-Fandens.
+
+282
+00:23:40,252 --> 00:23:42,337
+Der er den. Kom nu.
+
+283
+00:23:46,341 --> 00:23:47,300
+Fandens!
+
+284
+00:23:50,178 --> 00:23:53,723
+Nej, nej, nej! Fandens også! Nej!
+
+285
+00:23:56,643 --> 00:23:58,145
+For fanden da.
+
+286
+00:23:59,563 --> 00:24:00,856
+Kom nu!
+
+287
+00:24:22,002 --> 00:24:25,505
+Lagde Nancy ikke en seddel
+eller noget andet i kirken?
+
+288
+00:24:25,589 --> 00:24:27,966
+Nej, intet.
+
+289
+00:24:28,675 --> 00:24:31,636
+Hvilket betyder,
+at de enten er nogle egotrippere
+
+290
+00:24:32,220 --> 00:24:34,097
+eller blev taget af militæret.
+
+291
+00:24:34,181 --> 00:24:37,809
+For at berolige dig
+hælder jeg til egotripper-teorien.
+
+292
+00:24:37,893 --> 00:24:41,480
+Vent, og den kødmur,
+som I fandt. Tror du, at…
+
+293
+00:24:41,563 --> 00:24:44,274
+At de blev suget ind
+i kæmpestøvsugeren? Nej.
+
+294
+00:24:45,358 --> 00:24:48,612
+Men jeg ved det ikke.
+Jeg er lige så forvirret som dig.
+
+295
+00:24:49,237 --> 00:24:54,451
+Max, Holly og muren og det hele
+hænger sammen på en eller anden måde.
+
+296
+00:24:54,534 --> 00:24:58,163
+Men jeg ved ikke hvordan.
+Der mangler en brik i puslespillet.
+
+297
+00:24:58,872 --> 00:24:59,748
+En stor brik.
+
+298
+00:24:59,831 --> 00:25:03,460
+Brikkerne er i Vecnas bevidsthed,
+og vi kan endelig nå derind.
+
+299
+00:25:03,543 --> 00:25:05,629
+Men Jane har ikke fundet noget.
+
+300
+00:25:06,463 --> 00:25:09,508
+Juhu! Her kommer humørbomben
+og muntrer os op.
+
+301
+00:25:09,591 --> 00:25:11,092
+Hun kæmper deroppe.
+
+302
+00:25:11,176 --> 00:25:13,303
+Jaså? Giv hende lidt tid.
+
+303
+00:25:13,386 --> 00:25:15,472
+Hun bliver svagere, ikke stærkere.
+
+304
+00:25:15,555 --> 00:25:20,977
+Er du ekspert i El?
+Du har kendt hende i hvad… halvanden dag?
+
+305
+00:25:21,061 --> 00:25:23,188
+Længere end dig.
+
+306
+00:25:23,271 --> 00:25:26,983
+Vi voksede op sammen, og hun hedder Jane.
+
+307
+00:25:27,067 --> 00:25:29,027
+-Jane Hopper.
+-Jeg vil hjælpe jer.
+
+308
+00:25:29,110 --> 00:25:34,115
+"Hjælpe." Jeg er ikke taknemmelig.
+Du sagde, at kampen her er meningsløst.
+
+309
+00:25:34,199 --> 00:25:37,327
+-Sagde du, at alt det her er meningsløst?
+-Nej.
+
+310
+00:25:37,410 --> 00:25:40,372
+Jaså? Jeg hørte dig sige det.
+
+311
+00:25:40,455 --> 00:25:43,250
+Du var alene med El et øjeblik
+og forvirrede hende.
+
+312
+00:25:43,333 --> 00:25:46,503
+Hun kan ikke finde Will,
+fordi du ledte hende på vildspor.
+
+313
+00:25:46,586 --> 00:25:50,882
+Du har ledt hende på vildspor
+med alle dine løgne.
+
+314
+00:25:50,966 --> 00:25:55,512
+-Alt, hvad jeg har gjort…
+-Er at beskytte hende. Tro du bare det.
+
+315
+00:25:55,595 --> 00:25:58,807
+Hvis du vil beskytte hende,
+skal hun vide sandheden,
+
+316
+00:25:58,890 --> 00:26:03,645
+så hun er klar til at håndtere det,
+der venter på hende på den anden side.
+
+317
+00:26:04,145 --> 00:26:08,400
+-At dræbe Henry vil ikke afslutte det her.
+-Hvad betyder det?
+
+318
+00:26:08,483 --> 00:26:13,238
+Det betyder ikke noget. Hun er et barn.
+Hun aner ikke, hvad hun taler om.
+
+319
+00:26:13,321 --> 00:26:15,115
+Hun vrøvler.
+
+320
+00:26:15,198 --> 00:26:17,158
+Det ved du godt, at jeg ikke gør.
+
+321
+00:26:18,368 --> 00:26:22,706
+Men ligesom du lyver over for Jane,
+lyver du også over for dig selv.
+
+322
+00:26:25,125 --> 00:26:27,752
+Du spørger, hvorfor jeg stadig er her?
+
+323
+00:26:29,504 --> 00:26:34,467
+Jeg er her for at sikre mig,
+at det aldrig sker igen.
+
+324
+00:26:41,057 --> 00:26:41,891
+El.
+
+325
+00:26:46,313 --> 00:26:47,314
+El!
+
+326
+00:26:48,023 --> 00:26:49,691
+Hey, er alt i orden?
+
+327
+00:26:50,984 --> 00:26:53,695
+Jeg kan ikke nå ham. Han slipper fra mig.
+
+328
+00:26:53,778 --> 00:26:55,780
+Vi har masser af mad derinde.
+
+329
+00:26:55,864 --> 00:26:58,950
+Spis, hvil dig,
+genoplad dit batteri og prøv igen.
+
+330
+00:26:59,034 --> 00:27:00,035
+Eller…
+
+331
+00:27:00,952 --> 00:27:02,412
+…vi forbedrer signalet.
+
+332
+00:27:02,996 --> 00:27:04,039
+Tanken.
+
+333
+00:27:04,122 --> 00:27:06,750
+Du kan genoplade, mens jeg gør den klar.
+
+334
+00:27:06,833 --> 00:27:10,545
+Den var et helvede at bygge,
+så det er godt, den bliver brugt.
+
+335
+00:27:13,048 --> 00:27:17,469
+HAWKINS MINDEHOSPITAL
+
+336
+00:27:18,386 --> 00:27:21,181
+-Jeg indskriver mig senere.
+-Jeg støtter ham.
+
+337
+00:27:21,264 --> 00:27:23,266
+Frk. Buckley!
+
+338
+00:27:24,309 --> 00:27:25,560
+Hør engang.
+
+339
+00:27:28,104 --> 00:27:29,230
+Hey.
+
+340
+00:27:29,314 --> 00:27:30,940
+-Vi må tale sammen.
+-Ja.
+
+341
+00:27:31,024 --> 00:27:33,068
+-Robin!
+-Jeg har intet valg. Gå!
+
+342
+00:27:33,151 --> 00:27:34,152
+Hvad med planen?
+
+343
+00:27:34,235 --> 00:27:35,403
+Vickie.
+
+344
+00:27:37,030 --> 00:27:39,783
+Jeg ved, at du er vred,
+og det har du ret til.
+
+345
+00:27:39,866 --> 00:27:41,660
+-De leder efter dig.
+-Hvem?
+
+346
+00:27:41,743 --> 00:27:43,662
+-Vagterne. Militæret.
+-Hvorfor?
+
+347
+00:27:43,745 --> 00:27:46,122
+-Vil du spille dum?
+-Hvad taler du om?
+
+348
+00:27:46,206 --> 00:27:47,832
+Her er et hint.
+
+349
+00:27:47,916 --> 00:27:50,377
+Du, hr. Baileys stue, nervepiller.
+
+350
+00:27:51,086 --> 00:27:52,504
+Siger det dig noget?
+
+351
+00:27:52,587 --> 00:27:57,467
+Du bliver nødt til at fortælle mig,
+hvad fanden der foregår. Lige nu.
+
+352
+00:28:03,014 --> 00:28:05,975
+Okay, Max, det er tid til at komme hjem.
+
+353
+00:28:21,324 --> 00:28:25,412
+Vi har været her længe nok.
+Vi har gennemsøgt hver eneste centimeter.
+
+354
+00:28:25,495 --> 00:28:30,542
+Endelig forstår du det. Jeg ved ikke,
+hvor lang tid jeg har brugt herude.
+
+355
+00:28:30,625 --> 00:28:33,628
+Du finder ikke noget,
+som jeg ikke har fundet, okay?
+
+356
+00:28:33,712 --> 00:28:36,548
+Har min bror fortalt dig om onkel Eric?
+
+357
+00:28:36,631 --> 00:28:39,092
+-Onkel Eric?
+-Han er metaldetektorist.
+
+358
+00:28:39,175 --> 00:28:41,803
+-Ved du, hvad det er?
+-Han søger efter metal.
+
+359
+00:28:41,886 --> 00:28:43,555
+Med sin metaldetektor.
+
+360
+00:28:43,638 --> 00:28:47,267
+Han leder efter gamle skatte,
+som døde har efterladt i jorden.
+
+361
+00:28:47,350 --> 00:28:50,478
+Hans yndlingssted er
+Indiana Strand Forlystelsespark.
+
+362
+00:28:50,562 --> 00:28:55,066
+Han ledte der i årevis,
+men fandt kun billige nipsgenstande.
+
+363
+00:28:55,150 --> 00:28:58,653
+En dag åbner han avisen,
+og på forsiden står der,
+
+364
+00:28:58,737 --> 00:29:04,033
+at en turist fandt guld- og sølvmønter,
+som var millioner af dollars værd.
+
+365
+00:29:04,117 --> 00:29:07,328
+Jeg gætter på,
+at i det her scenarie er jeg onkel Eric.
+
+366
+00:29:07,412 --> 00:29:08,705
+Og jeg er turisten.
+
+367
+00:29:19,090 --> 00:29:20,300
+Hvor er jeg dum.
+
+368
+00:29:37,525 --> 00:29:38,943
+"M" markerer stedet.
+
+369
+00:29:43,698 --> 00:29:45,283
+-Hvad nu?
+-Jeg har en idé.
+
+370
+00:29:45,366 --> 00:29:47,285
+-En idé?
+-Vi skal tættere på.
+
+371
+00:29:47,368 --> 00:29:49,871
+-Holly!
+-Du sagde, at du ville tilbage.
+
+372
+00:29:49,954 --> 00:29:51,581
+Vi er på vej tilbage.
+
+373
+00:29:54,000 --> 00:29:57,295
+Hvis I kan høre os, kommer vi.
+Jeg gentager: Vi kommer.
+
+374
+00:29:57,378 --> 00:30:00,298
+Sæt farten ned!
+Jo højere op, desto farligere.
+
+375
+00:30:00,381 --> 00:30:04,260
+-Derfor må vi skynde os.
+-Vi kan ikke hjælpe dem, hvis vi er døde.
+
+376
+00:30:13,436 --> 00:30:14,729
+Som jeg sagde…
+
+377
+00:30:20,318 --> 00:30:21,319
+Kom nu!
+
+378
+00:30:30,245 --> 00:30:31,663
+Hvad laver du?
+
+379
+00:30:31,746 --> 00:30:34,999
+Et par etager nede
+havde en soldat skåret døren op.
+
+380
+00:30:41,965 --> 00:30:43,258
+Pas på.
+
+381
+00:30:47,846 --> 00:30:49,055
+Fandens! Gå væk!
+
+382
+00:30:52,308 --> 00:30:53,977
+Fandens også!
+
+383
+00:30:54,060 --> 00:30:55,228
+Åh gud.
+
+384
+00:31:01,943 --> 00:31:02,944
+For fanden da!
+
+385
+00:31:05,572 --> 00:31:08,074
+Bordet! Gå op på bordet!
+
+386
+00:31:18,459 --> 00:31:19,544
+Hvad nu?
+
+387
+00:31:26,009 --> 00:31:28,052
+Hjælp!
+
+388
+00:31:28,136 --> 00:31:30,430
+-Hjælp!
+-Steve!
+
+389
+00:31:30,513 --> 00:31:33,641
+-Hjælp!
+-Hey! Hjælp!
+
+390
+00:31:33,725 --> 00:31:36,853
+-Hjælp!
+-Hjælp!
+
+391
+00:32:12,013 --> 00:32:13,056
+Vi er snart klar.
+
+392
+00:32:17,143 --> 00:32:18,478
+El skal nok redde ham.
+
+393
+00:32:19,604 --> 00:32:20,813
+Hun redder ham.
+
+394
+00:32:25,151 --> 00:32:27,236
+Det var min idé, Hop.
+
+395
+00:32:28,571 --> 00:32:29,447
+Det var…
+
+396
+00:32:30,031 --> 00:32:32,575
+…min idé, at han skulle gå derind.
+
+397
+00:32:33,159 --> 00:32:35,620
+Jeg ved det ikke. Jeg tænkte bare,
+
+398
+00:32:35,703 --> 00:32:40,124
+efter alt det, der var sket,
+og efter alt det, jeg så ham gøre, at…
+
+399
+00:32:40,917 --> 00:32:46,673
+Jeg tænkte, at jeg altid har gjort alt
+for at beskytte ham,
+
+400
+00:32:46,756 --> 00:32:49,258
+men jeg har bare holdt ham tilbage…
+
+401
+00:32:51,010 --> 00:32:52,720
+…ved ikke at lytte til ham
+
+402
+00:32:53,471 --> 00:32:55,181
+og ikke at stole på ham.
+
+403
+00:32:55,264 --> 00:32:56,683
+Og hvis jeg bare…
+
+404
+00:32:57,809 --> 00:33:01,437
+Jeg ved det ikke,
+men hvis jeg roede på ham og gav slip,
+
+405
+00:33:01,521 --> 00:33:04,899
+så skulle det hele nok ende godt, og…
+
+406
+00:33:06,234 --> 00:33:11,364
+Det føles, som om ethvert valg,
+jeg træffer, er forkert.
+
+407
+00:33:11,447 --> 00:33:12,657
+Det kender jeg godt.
+
+408
+00:33:13,992 --> 00:33:18,162
+Man kan skubbe dem ud i situationer,
+de måske ikke er klar til.
+
+409
+00:33:18,246 --> 00:33:23,251
+Eller man kan være overbeskyttende
+som mig, og det hader de også en for.
+
+410
+00:33:23,334 --> 00:33:25,837
+Joyce, en af glæderne
+ved at være forælder…
+
+411
+00:33:28,339 --> 00:33:30,842
+…er, at man vil have
+en evig påmindelse om,
+
+412
+00:33:30,925 --> 00:33:32,719
+at alle valg, du har truffet,
+
+413
+00:33:33,511 --> 00:33:34,971
+har været det forkerte.
+
+414
+00:33:38,516 --> 00:33:40,059
+Det er ikke dig, Joyce.
+
+415
+00:33:42,979 --> 00:33:44,313
+Det er ikke din skyld.
+
+416
+00:33:59,871 --> 00:34:02,165
+Den klæder dig. Fandt Murray den?
+
+417
+00:34:02,874 --> 00:34:03,875
+Ja.
+
+418
+00:34:05,752 --> 00:34:07,462
+Julemanden har god smag.
+
+419
+00:34:11,966 --> 00:34:14,385
+Hej. Tidligere i Squawk
+
+420
+00:34:15,136 --> 00:34:17,597
+sagde Kali noget underligt noget om,
+
+421
+00:34:17,680 --> 00:34:20,850
+at det ikke er forbi,
+selvom vi dræber Henry.
+
+422
+00:34:20,933 --> 00:34:22,685
+Ved du, hvad hun mener?
+
+423
+00:34:23,728 --> 00:34:25,146
+Det er lige meget.
+
+424
+00:34:25,855 --> 00:34:27,190
+Det skal være varmere.
+
+425
+00:34:27,815 --> 00:34:31,027
+Hvis det er lige meget,
+hvorfor var Hop vred på hende?
+
+426
+00:34:31,110 --> 00:34:33,279
+-Glem det.
+-Venner lyver ikke.
+
+427
+00:34:33,362 --> 00:34:34,238
+Jeg lyver ikke.
+
+428
+00:34:34,322 --> 00:34:37,658
+Du undgår det. Det er at snyde.
+Jeg vil bare hjælpe.
+
+429
+00:34:37,742 --> 00:34:40,203
+Du kan ikke hjælpe. Ikke med det her.
+
+430
+00:34:40,286 --> 00:34:42,080
+Det kan jeg selv vurdere.
+
+431
+00:34:44,248 --> 00:34:45,208
+Kom nu.
+
+432
+00:34:50,379 --> 00:34:52,924
+Der er et laboratorium i Vrangsiden.
+
+433
+00:34:53,007 --> 00:34:55,551
+De genstarter Fars program.
+
+434
+00:34:56,469 --> 00:34:58,262
+De forsøger at lave nye numre.
+
+435
+00:35:01,974 --> 00:35:03,059
+Militæret?
+
+436
+00:35:06,437 --> 00:35:07,396
+Okay.
+
+437
+00:35:07,897 --> 00:35:11,943
+Efter vi dræber Vecna,
+ødelægger vi det nye laboratorium.
+
+438
+00:35:12,026 --> 00:35:16,239
+-Afslutter programmet. Som en sidemission.
+-Nej, du forstår det ikke.
+
+439
+00:35:16,322 --> 00:35:19,450
+Man kan lave nye numre
+uden et laboratorium.
+
+440
+00:35:19,534 --> 00:35:20,827
+Henrys blod.
+
+441
+00:35:22,495 --> 00:35:23,704
+Det er inde i mig.
+
+442
+00:35:23,788 --> 00:35:25,498
+Jeg er ikke et monster.
+
+443
+00:35:26,749 --> 00:35:28,209
+Det ved jeg nu.
+
+444
+00:35:28,793 --> 00:35:30,837
+Men med mit blod
+
+445
+00:35:32,004 --> 00:35:34,382
+kan de lave flere monstre.
+
+446
+00:35:35,508 --> 00:35:37,718
+De kan lave flere Henry'er.
+
+447
+00:35:38,302 --> 00:35:40,263
+Militæret vil altid lede for dig.
+
+448
+00:35:40,346 --> 00:35:43,391
+Det ved vi.
+Derfor bliver vi ikke i Hawkins.
+
+449
+00:35:43,474 --> 00:35:46,352
+Når det her er slut, rejser vi.
+
+450
+00:35:46,435 --> 00:35:49,313
+Vi flygter til et land langt væk, ikke?
+
+451
+00:35:49,397 --> 00:35:51,566
+Et sted, hvor de ikke kan finde os.
+
+452
+00:35:52,316 --> 00:35:55,444
+Et sted, hvor der er mindst ét vandfald.
+
+453
+00:35:56,445 --> 00:35:57,363
+Mike.
+
+454
+00:35:59,240 --> 00:36:02,493
+Det her er ikke en af dine kampagner.
+
+455
+00:36:03,619 --> 00:36:05,371
+Du bestemmer ikke slutningen.
+
+456
+00:36:06,164 --> 00:36:07,331
+Ikke denne gang.
+
+457
+00:36:09,125 --> 00:36:10,501
+Det gør jeg måske ikke.
+
+458
+00:36:11,419 --> 00:36:12,670
+Men vi gør.
+
+459
+00:36:12,753 --> 00:36:16,215
+Dig, mig, Lucas, Will og Dustin.
+
+460
+00:36:16,799 --> 00:36:18,342
+For det er vores historie.
+
+461
+00:36:19,468 --> 00:36:21,804
+Og den begynder med at få Will tilbage.
+
+462
+00:36:38,154 --> 00:36:38,988
+Max.
+
+463
+00:36:49,165 --> 00:36:52,418
+Du har ikke brug for kikkerten.
+Det her er min hule.
+
+464
+00:36:52,501 --> 00:36:53,336
+Ja.
+
+465
+00:36:53,419 --> 00:36:54,962
+Og dækslet er stadig på.
+
+466
+00:36:55,463 --> 00:36:56,297
+Ja.
+
+467
+00:36:57,381 --> 00:36:58,299
+Se.
+
+468
+00:36:59,717 --> 00:37:00,801
+Dæksel på.
+
+469
+00:37:06,098 --> 00:37:08,059
+Det er meget mørkt.
+
+470
+00:37:08,142 --> 00:37:09,060
+Men ikke helt.
+
+471
+00:37:09,143 --> 00:37:12,897
+Kan du se silhuetten?
+Den har samme form som hulens indgang.
+
+472
+00:37:12,980 --> 00:37:17,318
+Det er ikke tilfældigt, at formen er
+den samme som hulen, Henry besøgte.
+
+473
+00:37:17,401 --> 00:37:20,696
+Jeg tror, dækslet er et kort,
+som Henry lavede som barn,
+
+474
+00:37:20,780 --> 00:37:23,199
+og som vil føre os til et hemmeligt sted.
+
+475
+00:37:24,033 --> 00:37:26,285
+De to omrids skal bare flugte.
+
+476
+00:37:27,536 --> 00:37:30,039
+Hvad finder vi det hemmelige sted?
+
+477
+00:37:30,122 --> 00:37:34,168
+-Henrys traumatiske minde?
+-Ja, og en vej ud af Camazotz.
+
+478
+00:37:35,044 --> 00:37:37,296
+Det er min teori.
+
+479
+00:37:38,256 --> 00:37:39,715
+-Den kan jeg lide.
+-Tak.
+
+480
+00:37:39,799 --> 00:37:42,009
+Der er et lille hul i din teori.
+
+481
+00:37:42,093 --> 00:37:48,140
+Vi er tæt på det hemmelige sted,
+og jeg ser stadig kun mere sand…
+
+482
+00:37:50,977 --> 00:37:51,852
+Hold fast!
+
+483
+00:37:52,645 --> 00:37:53,896
+Hold fast!
+
+484
+00:38:12,748 --> 00:38:14,083
+"M" markerer stedet.
+
+485
+00:38:22,717 --> 00:38:25,803
+Vil du måske forsøge at formulere dig?
+
+486
+00:38:25,886 --> 00:38:28,889
+Jeg kan ikke aflæse dit ansigt.
+
+487
+00:38:28,973 --> 00:38:35,479
+Det er meget at fordøje. Især på én gang.
+Monstre og alternative dimensioner.
+
+488
+00:38:35,563 --> 00:38:39,150
+Og det var uetisk
+at give familien Turnbow nervepiller…
+
+489
+00:38:39,233 --> 00:38:44,113
+-Stop, Robin.
+-Jeg prøvede at sige det en million gange.
+
+490
+00:38:44,196 --> 00:38:47,992
+Nej, du løj. Og så blev du ved med
+at lyve igen og igen og igen.
+
+491
+00:38:48,075 --> 00:38:50,369
+-Jeg vidste, noget var galt.
+-Undskyld!
+
+492
+00:38:50,453 --> 00:38:54,040
+"Skør dag på arbejdet."
+"Endnu en krise på Squawk."
+
+493
+00:38:54,123 --> 00:38:59,378
+Hvem arbejder over på en radiostation?
+Og hvem er dum nok til at tro det?
+
+494
+00:38:59,462 --> 00:39:03,549
+Det er jeg. Jeg sidder derhjemme
+og venter på, at telefonen ringer,
+
+495
+00:39:03,632 --> 00:39:05,509
+mens du er høj med dine venner.
+
+496
+00:39:05,593 --> 00:39:06,719
+Høj?
+
+497
+00:39:06,802 --> 00:39:10,348
+Helt ærligt, Robin. Du har abstinenser.
+
+498
+00:39:10,431 --> 00:39:12,266
+Nej, jeg er ikke på stoffer.
+
+499
+00:39:12,350 --> 00:39:14,060
+-Okay, beklager.
+-Se på mig!
+
+500
+00:39:14,143 --> 00:39:17,730
+Du har haft travlt
+med at jage monstre med dine venner.
+
+501
+00:39:17,813 --> 00:39:20,191
+Åh gud! Det tror du endda måske selv på.
+
+502
+00:39:20,274 --> 00:39:26,072
+Med dit misbrug kan en kold tyrker skabe
+forvirring, paranoia, hallucinationer…
+
+503
+00:39:26,155 --> 00:39:28,991
+Det er ikke hallucinationer!
+
+504
+00:39:29,075 --> 00:39:30,785
+Okay, lad os opsummere.
+
+505
+00:39:30,868 --> 00:39:32,995
+-Der er en mørk troldmand…
+-Ja.
+
+506
+00:39:33,079 --> 00:39:34,455
+-…som stjæler børn…
+-Ja.
+
+507
+00:39:34,538 --> 00:39:36,999
+-…og fanger dem i en drømmeverden.
+-Ja.
+
+508
+00:39:38,459 --> 00:39:42,129
+Jorden er delt i fire.
+
+509
+00:39:42,213 --> 00:39:47,301
+Militæret har overtaget vores by.
+Er det, jeg siger, så tosset?
+
+510
+00:39:48,511 --> 00:39:49,804
+Det er vanvittigt!
+
+511
+00:39:49,887 --> 00:39:52,515
+Vil du vide, hvad mit ansigt viser nu?
+
+512
+00:39:52,598 --> 00:39:54,100
+-Ja.
+-Vrede.
+
+513
+00:39:54,183 --> 00:40:00,314
+Men med en snert,
+en meget modvillig snert, af bekymring.
+
+514
+00:40:01,190 --> 00:40:03,442
+Selvom jeg er rasende på dig lige nu,
+
+515
+00:40:03,526 --> 00:40:06,779
+så har det du ikke godt
+og har brug for hjælp.
+
+516
+00:40:06,862 --> 00:40:08,739
+Du har virkelig brug for hjælp.
+
+517
+00:40:09,740 --> 00:40:12,076
+-Jeg fik besked om stjålne stoffer…
+-Vent.
+
+518
+00:40:12,159 --> 00:40:13,202
+Har du set hende?
+
+519
+00:40:13,285 --> 00:40:14,286
+Robin Buckley?
+
+520
+00:40:14,370 --> 00:40:17,248
+Ja, hun er her. Jeg så hende gå derind.
+
+521
+00:40:19,417 --> 00:40:20,626
+Undskyld.
+
+522
+00:40:20,709 --> 00:40:21,544
+Gør ikke det.
+
+523
+00:40:21,627 --> 00:40:23,129
+-Men jeg må gå.
+-Robin!
+
+524
+00:40:23,838 --> 00:40:24,755
+Hey!
+
+525
+00:40:25,923 --> 00:40:27,133
+Jeg snakker til dig!
+
+526
+00:40:27,800 --> 00:40:28,717
+Stop, Buckley!
+
+527
+00:40:32,638 --> 00:40:34,265
+Hvor er du på vej hen?
+
+528
+00:40:36,684 --> 00:40:39,019
+-Hjælp!
+-Hjælp!
+
+529
+00:40:39,103 --> 00:40:40,938
+-Hjælp!
+-Dustin!
+
+530
+00:40:41,021 --> 00:40:42,690
+-Hjælp! Steve!
+-Hey!
+
+531
+00:40:46,193 --> 00:40:47,278
+Tak.
+
+532
+00:40:49,780 --> 00:40:53,826
+Hvad fanden laver du?
+Det her går aldrig. Stop!
+
+533
+00:40:53,909 --> 00:40:57,121
+Steve, stop. Jeg mener det.
+Den er ikke stabil.
+
+534
+00:40:57,204 --> 00:40:59,665
+-Du falder.
+-Den er ustabil. Okay.
+
+535
+00:40:59,748 --> 00:41:02,334
+Nej! Og vær ikke en nar!
+
+536
+00:41:02,418 --> 00:41:04,128
+Jeg vil bare op til dem!
+
+537
+00:41:04,211 --> 00:41:07,173
+Du risikerer at dø.
+Det kan jeg ikke lade ske.
+
+538
+00:41:07,256 --> 00:41:08,841
+Vær ikke så egoistisk.
+
+539
+00:41:08,924 --> 00:41:11,802
+Du risikerer at dø.
+Det kan jeg ikke klare igen.
+
+540
+00:41:11,886 --> 00:41:14,221
+Dø ikke. Det kan jeg ikke klare igen.
+
+541
+00:41:14,305 --> 00:41:18,267
+Lad det ikke ske igen.
+Lov mig, at du ikke lader det ske igen.
+
+542
+00:41:19,393 --> 00:41:20,394
+Ikke dig.
+
+543
+00:41:21,520 --> 00:41:22,605
+Undskyld.
+
+544
+00:41:22,688 --> 00:41:23,898
+Nej, nej.
+
+545
+00:41:35,743 --> 00:41:37,369
+-Hjælp!
+-Hjælp!
+
+546
+00:41:37,870 --> 00:41:39,997
+-Kom nu! Hjælp! Hey!
+-Hjælp!
+
+547
+00:41:40,831 --> 00:41:42,041
+Hov!
+
+548
+00:41:42,124 --> 00:41:43,626
+Smid dig ned.
+
+549
+00:41:45,252 --> 00:41:47,963
+-Hvad laver vi?
+-At sidde ned fordeler vægten.
+
+550
+00:41:48,047 --> 00:41:49,924
+Hr. Goldstein, fysik.
+
+551
+00:41:50,007 --> 00:41:52,343
+Vi kan købe lidt tid.
+
+552
+00:41:53,511 --> 00:41:55,471
+De må have hørt os nu.
+
+553
+00:41:55,554 --> 00:41:59,433
+Hvorfor har vi så ikke hørt fra dem?
+Og hvad kunne de gøre?
+
+554
+00:41:59,517 --> 00:42:01,393
+Et eller andet. Hvad som helst.
+
+555
+00:42:06,857 --> 00:42:08,025
+De kommer ikke.
+
+556
+00:42:08,108 --> 00:42:10,903
+-Sig ikke det.
+-Du ønskede, at vi var ærlige.
+
+557
+00:42:31,298 --> 00:42:32,758
+Jeg hader The Clash.
+
+558
+00:42:35,052 --> 00:42:35,928
+Hvad?
+
+559
+00:42:38,389 --> 00:42:40,516
+Jeg hader The Clash.
+
+560
+00:42:40,599 --> 00:42:44,311
+Hver gang du sætter dem på,
+lukker jeg ørerne.
+
+561
+00:42:46,355 --> 00:42:48,983
+Ja. Jeg hader at læse dine artikler.
+
+562
+00:42:49,066 --> 00:42:52,570
+Du vil ikke høre min mening.
+Jeg skal bare sige, de er gode.
+
+563
+00:42:52,653 --> 00:42:54,029
+Det er de.
+
+564
+00:42:54,113 --> 00:42:55,155
+Som regel.
+
+565
+00:42:55,239 --> 00:42:56,532
+Som regel…
+
+566
+00:42:56,615 --> 00:42:58,117
+Wow. Okay.
+
+567
+00:42:59,243 --> 00:43:01,662
+Jeg har aldrig læst Slagtehus Fem.
+
+568
+00:43:01,745 --> 00:43:04,290
+Jeg læste læseguiden og sagde, den er god.
+
+569
+00:43:04,373 --> 00:43:08,294
+Jeg har aldrig læst Anna Karenina.
+Jeg læste læseguiden og sagde, den er god.
+
+570
+00:43:08,377 --> 00:43:10,879
+Du kommer altid seks minutter for sent.
+
+571
+00:43:10,963 --> 00:43:15,009
+Og jeg siger aldrig noget,
+men jeg får lyst til at slå hul i væggen.
+
+572
+00:43:15,092 --> 00:43:18,762
+-Jeg gav din pink sweater til genbrug.
+-Den ledte jeg efter!
+
+573
+00:43:18,846 --> 00:43:22,474
+Jeg hader pink. Hvis det hjælper,
+fik jeg dårlig samvittighed.
+
+574
+00:43:22,558 --> 00:43:27,896
+Jeg skyllede den sidste pose tjald ud
+i toilettet uden dårlig samvittighed.
+
+575
+00:43:27,980 --> 00:43:30,149
+-Nej!
+-Jeg hader, når du er skæv.
+
+576
+00:43:30,232 --> 00:43:31,358
+Jeg hader dig fuld.
+
+577
+00:43:31,442 --> 00:43:34,403
+Det værste er,
+når du er skæv, og jeg er fuld.
+
+578
+00:43:34,486 --> 00:43:35,738
+Det synes jeg også.
+
+579
+00:43:36,572 --> 00:43:38,032
+Hvorfor gør vi det?
+
+580
+00:43:41,410 --> 00:43:42,494
+Aner det ikke.
+
+581
+00:43:51,211 --> 00:43:53,047
+Jeg søgte ikke ind på Emerson.
+
+582
+00:43:55,090 --> 00:43:56,008
+Det ved jeg.
+
+583
+00:43:57,885 --> 00:43:59,595
+Hvorfor sagde du ikke noget?
+
+584
+00:44:00,846 --> 00:44:02,264
+Hvorfor gjorde du ikke?
+
+585
+00:44:06,060 --> 00:44:07,144
+Det ved jeg ikke.
+
+586
+00:44:12,983 --> 00:44:14,693
+Jeg følte bare, at jeg…
+
+587
+00:44:16,570 --> 00:44:17,988
+…gjorde noget forkert.
+
+588
+00:44:21,617 --> 00:44:24,787
+Som om jeg trodsede naturens orden.
+
+589
+00:44:26,455 --> 00:44:27,665
+Du ved…
+
+590
+00:44:29,124 --> 00:44:31,585
+…med alt det, vi har været igennem,
+
+591
+00:44:31,669 --> 00:44:33,629
+Mener du vores fælles traume?
+
+592
+00:44:35,422 --> 00:44:36,298
+Ja.
+
+593
+00:44:38,342 --> 00:44:42,429
+Hvordan kan andre nogensinde forstå det?
+
+594
+00:44:42,513 --> 00:44:43,806
+Det er noget…
+
+595
+00:44:44,890 --> 00:44:46,558
+Det er noget, der…
+
+596
+00:44:47,976 --> 00:44:50,145
+…binder os sammen for evigt.
+
+597
+00:44:51,021 --> 00:44:52,022
+Ikke sandt?
+
+598
+00:44:54,149 --> 00:44:56,151
+Det fik mig til at føle mig tryg.
+
+599
+00:44:57,277 --> 00:44:58,487
+Men også…
+
+600
+00:45:00,864 --> 00:45:01,782
+Tja…
+
+601
+00:45:02,783 --> 00:45:04,159
+Det kan føles kvælende.
+
+602
+00:45:05,911 --> 00:45:06,787
+Ja.
+
+603
+00:45:10,916 --> 00:45:12,126
+Den påskeferie,
+
+604
+00:45:13,293 --> 00:45:15,087
+da du var i Lenora…
+
+605
+00:45:16,672 --> 00:45:21,969
+Det var ikke nødvendigt, at jeg arbejdede.
+Fred kunne have været vikar for mig.
+
+606
+00:45:24,430 --> 00:45:26,682
+Men jeg tror, det er derfor, jeg blev.
+
+607
+00:45:28,183 --> 00:45:29,893
+Den følelse af, at jeg bare…
+
+608
+00:45:30,728 --> 00:45:32,354
+Jeg havde brug for plads.
+
+609
+00:45:34,565 --> 00:45:36,442
+Plads til at se en anden?
+
+610
+00:45:41,989 --> 00:45:43,532
+Steve er sød.
+
+611
+00:45:45,451 --> 00:45:46,952
+Han får mig til at grine.
+
+612
+00:45:47,870 --> 00:45:52,458
+Og han har flottere hår end dig.
+Meget flottere.
+
+613
+00:45:53,333 --> 00:45:54,251
+Men nej.
+
+614
+00:45:56,879 --> 00:45:59,173
+Sådan har det aldrig været med ham.
+
+615
+00:45:59,757 --> 00:46:01,633
+Vi er meget forskellige.
+
+616
+00:46:01,717 --> 00:46:05,429
+Ved du, hvad han sagde?
+Han vil have seks børn.
+
+617
+00:46:05,512 --> 00:46:06,638
+Seks børn?
+
+618
+00:46:06,722 --> 00:46:08,891
+Seks små guldklumper.
+
+619
+00:46:09,767 --> 00:46:11,101
+Det er et Happy Meal.
+
+620
+00:46:12,686 --> 00:46:13,854
+Men min pointe er,
+
+621
+00:46:15,481 --> 00:46:18,942
+at han ved, hvad han vil, og det er skønt.
+
+622
+00:46:19,026 --> 00:46:20,110
+Men jeg…
+
+623
+00:46:21,195 --> 00:46:22,070
+…ved det ikke.
+
+624
+00:46:23,989 --> 00:46:28,911
+Og jeg havde håbet på
+at have tid til at finde ud af det.
+
+625
+00:46:30,162 --> 00:46:32,706
+-Men så…
+-…delte verden sig i fire.
+
+626
+00:46:32,790 --> 00:46:33,957
+Og nu…
+
+627
+00:46:36,835 --> 00:46:37,836
+Og nu…
+
+628
+00:46:42,549 --> 00:46:43,383
+Hør…
+
+629
+00:46:48,764 --> 00:46:50,682
+En sidste tilståelse.
+
+630
+00:46:51,767 --> 00:46:53,101
+Der er en stor en.
+
+631
+00:46:59,691 --> 00:47:01,235
+John Coltrane.
+
+632
+00:47:01,860 --> 00:47:03,362
+Jeg tror, at…
+
+633
+00:47:04,488 --> 00:47:06,156
+Jeg har dummet mig tit nok.
+
+634
+00:47:08,450 --> 00:47:11,328
+Jeg vil gerne gøre noget rigtigt
+her til sidst.
+
+635
+00:47:12,371 --> 00:47:13,205
+Værsgo.
+
+636
+00:47:31,348 --> 00:47:32,766
+Nancy Wheeler.
+
+637
+00:47:35,310 --> 00:47:36,395
+Vil du…
+
+638
+00:47:38,272 --> 00:47:39,231
+…ikke…
+
+639
+00:47:40,107 --> 00:47:41,108
+…giftes med mig?
+
+640
+00:47:48,115 --> 00:47:50,367
+Jeg prøvede at overbevise mig selv om,
+
+641
+00:47:51,451 --> 00:47:53,287
+at det her ville…
+
+642
+00:47:54,079 --> 00:47:55,622
+…gøre alt godt igen.
+
+643
+00:47:55,706 --> 00:47:58,333
+Men det ville have gjort det hele værre.
+
+644
+00:47:59,459 --> 00:48:04,506
+Og derfor har den føltes som bly
+i min lomme de sidste to dage.
+
+645
+00:48:07,301 --> 00:48:08,552
+Hvad siger du?
+
+646
+00:48:12,723 --> 00:48:14,766
+Siger du ja til mit ikke-frieri?
+
+647
+00:48:15,976 --> 00:48:17,936
+Jeg siger ja til dit ikke-frieri.
+
+648
+00:48:20,397 --> 00:48:21,523
+Jeg elskede dig.
+
+649
+00:48:22,816 --> 00:48:23,984
+Jeg elsker dig,
+
+650
+00:48:24,818 --> 00:48:25,944
+Nancy Wheeler.
+
+651
+00:48:27,446 --> 00:48:29,823
+Jeg elsker dig, Jonathan Byers.
+
+652
+00:49:05,609 --> 00:49:06,610
+Du gode gud!
+
+653
+00:49:15,911 --> 00:49:16,954
+Jonathan!
+
+654
+00:49:17,663 --> 00:49:18,538
+Du gode gud!
+
+655
+00:49:21,625 --> 00:49:22,626
+Du gode gud.
+
+656
+00:49:49,653 --> 00:49:50,904
+Tak.
+
+657
+00:49:50,988 --> 00:49:52,572
+Jeg finder ham.
+
+658
+00:49:54,074 --> 00:49:55,701
+Jeg får ham sikkert hjem.
+
+659
+00:50:03,375 --> 00:50:06,211
+Okay. Husk nu, at hvis du vil ud derfra…
+
+660
+00:50:35,574 --> 00:50:37,409
+Jeg er her, Will.
+
+661
+00:50:39,327 --> 00:50:41,747
+Du skal vise mig, hvor du er.
+
+662
+00:50:43,373 --> 00:50:45,208
+Vis mig, hvor du er.
+
+663
+00:51:06,313 --> 00:51:07,189
+Will.
+
+664
+00:51:10,609 --> 00:51:11,526
+Will.
+
+665
+00:51:12,194 --> 00:51:13,403
+Kan du høre mig?
+
+666
+00:51:13,487 --> 00:51:14,738
+Vågn op!
+
+667
+00:51:42,974 --> 00:51:44,059
+Må jeg holde den?
+
+668
+00:51:51,983 --> 00:51:53,568
+Tror du, at nogen faldt?
+
+669
+00:51:58,031 --> 00:52:00,700
+Det er bare et minde, ikke?
+
+670
+00:52:00,784 --> 00:52:02,661
+Intet her kan gøre os fortræd.
+
+671
+00:52:02,744 --> 00:52:04,079
+Nemlig.
+
+672
+00:52:18,009 --> 00:52:19,302
+Bliv bag mig, okay?
+
+673
+00:52:19,386 --> 00:52:21,304
+-Men du sagde…
+-Det ved jeg godt.
+
+674
+00:52:33,400 --> 00:52:34,776
+Hvordan fandt du mig?
+
+675
+00:52:37,112 --> 00:52:39,114
+Hvordan fandt du mig?
+
+676
+00:52:39,197 --> 00:52:42,117
+Han ser os. Hvordan ser han os?
+
+677
+00:52:42,200 --> 00:52:43,535
+Jeg gør ikke noget.
+
+678
+00:52:44,035 --> 00:52:46,830
+Du må ikke skyde mig.
+
+679
+00:52:46,913 --> 00:52:48,165
+Hvem er du?
+
+680
+00:52:48,248 --> 00:52:50,834
+Henry. Henry Creel. Jeg bor i nærheden.
+
+681
+00:52:50,917 --> 00:52:52,961
+-Hvem har sendt dig?
+-Ingen.
+
+682
+00:52:53,044 --> 00:52:55,213
+-De har sendt dig.
+-Jeg hørte skrig.
+
+683
+00:52:56,590 --> 00:52:59,217
+Du er bare forvirret
+og har brug for en læge.
+
+684
+00:53:13,773 --> 00:53:15,650
+Kom nu!
+
+685
+00:53:24,159 --> 00:53:25,076
+Holly!
+
+686
+00:53:26,077 --> 00:53:26,995
+Holly!
+
+687
+00:53:31,416 --> 00:53:32,292
+Fandens!
+
+688
+00:53:34,336 --> 00:53:36,880
+Det er okay.
+
+689
+00:53:36,963 --> 00:53:39,341
+Hvorfor gjorde han Henry fortræd?
+
+690
+00:53:39,424 --> 00:53:42,093
+-Han ville jo bare hjælpe ham.
+-Aner det ikke.
+
+691
+00:53:42,177 --> 00:53:45,805
+-Blev Henry ond af det?
+-Det ved jeg ikke. Men det er slut nu.
+
+692
+00:53:45,889 --> 00:53:47,140
+Vi må fortsætte.
+
+693
+00:54:37,482 --> 00:54:38,692
+Du havde ret.
+
+694
+00:54:38,775 --> 00:54:41,528
+Vejen ud af Camazotz er her.
+
+695
+00:54:50,453 --> 00:54:51,288
+Max?
+
+696
+00:55:01,840 --> 00:55:08,555
+Du skal være min spion en sidste gang.
+
+697
+00:55:20,066 --> 00:55:21,067
+Jeg fandt dig.
+
+698
+00:55:22,861 --> 00:55:26,489
+Will. Det er okay. Jeg er her.
+
+699
+00:55:26,573 --> 00:55:27,574
+-El…
+-Jeg er her.
+
+700
+00:55:27,657 --> 00:55:28,825
+El…
+
+701
+00:55:28,908 --> 00:55:32,412
+Det er mig.
+Jeg kom for at få dig hjem. Det er okay.
+
+702
+00:55:32,495 --> 00:55:35,623
+Jeg prøvede at stoppe ham,
+men jeg kunne ikke.
+
+703
+00:55:35,707 --> 00:55:36,708
+Han så det.
+
+704
+00:55:37,292 --> 00:55:39,002
+Hvad så han?
+
+705
+00:55:39,711 --> 00:55:40,628
+Max.
+
+706
+00:55:41,838 --> 00:55:43,381
+Han ved, hvor hun er nu.
+
+707
+00:55:44,090 --> 00:55:45,884
+Og han sendte dem efter hende.
+
+708
+00:55:46,718 --> 00:55:49,387
+De er på vej efter hende. I Hawkins.
+
+709
+00:55:53,350 --> 00:55:54,476
+-El!
+-Hvad er der?
+
+710
+00:55:54,559 --> 00:55:55,477
+Er du okay?
+
+711
+00:55:56,227 --> 00:55:57,228
+Hvad er der galt?
+
+712
+00:55:57,312 --> 00:55:58,355
+Er han okay?
+
+713
+00:55:59,397 --> 00:56:01,900
+Vecna vil slå Max ihjel.
+
+714
+00:56:02,484 --> 00:56:04,569
+Vi skal hen på hospitalet lige nu.
+
+715
+00:56:04,652 --> 00:56:07,364
+Hej! Er I døve eller hvad?
+Hun har abstinenser.
+
+716
+00:56:07,447 --> 00:56:08,865
+-Nej.
+-Forstår I det?
+
+717
+00:56:08,948 --> 00:56:13,161
+Hun skal på hospitalet, ikke i fængsel.
+Og se! Hun er på et hospital.
+
+718
+00:56:13,244 --> 00:56:16,164
+Det er Hawkins.
+Det er Ikke vores første narkoman.
+
+719
+00:56:21,419 --> 00:56:23,338
+Strømafbrydelse på hospitalet.
+
+720
+00:56:23,922 --> 00:56:27,884
+-Stakkels bedstemor. Ikke vores problem.
+-Vi må evakuere stedet.
+
+721
+00:56:27,967 --> 00:56:30,678
+Ikke vores problem. Gå videre, narkoman.
+
+722
+00:56:30,762 --> 00:56:32,138
+Jeg er ikke narkoman.
+
+723
+00:56:32,222 --> 00:56:36,476
+Hvis vi ikke får alle ud herfra lige nu,
+dør vi alle sammen.
+
+724
+00:56:36,559 --> 00:56:42,982
+Ingen undskyldninger holder dig ude
+af fængslet, så bare ti stille.
+
+725
+00:56:43,066 --> 00:56:45,860
+-Hospitalet skal evakueres.
+-Jeg er ligeglad.
+
+726
+00:56:48,446 --> 00:56:49,322
+For fanden da!
+
+727
+00:56:49,406 --> 00:56:50,407
+Løb!
+
+728
+00:57:13,513 --> 00:57:15,056
+De er ikke efter os.
+
+729
+00:57:15,140 --> 00:57:16,099
+Hvad?
+
+730
+00:57:16,182 --> 00:57:19,185
+De er ikke efter os.
+Kender du en anden vej ud?
+
+731
+00:57:19,269 --> 00:57:21,563
+Kælderen fører til personaleparkering.
+
+732
+00:57:23,690 --> 00:57:24,691
+Okay.
+
+733
+00:57:25,233 --> 00:57:27,277
+Kom nu, Lucas. Svar.
+
+734
+00:57:30,280 --> 00:57:33,324
+-Svar! Hvad laver du?
+-Kan de forstå engelsk?
+
+735
+00:57:33,408 --> 00:57:34,993
+Det skal ikke være privat.
+
+736
+00:57:36,411 --> 00:57:38,621
+Lucas, Robin her. En demo er på vej.
+
+737
+00:57:38,705 --> 00:57:41,833
+Hører du? En demogorgon er på vej.
+Få Max ud derfra.
+
+738
+00:57:41,916 --> 00:57:43,835
+Tag elevatoren. De er på trappen.
+
+739
+00:57:43,918 --> 00:57:45,253
+Vi mødes i kælderen.
+
+740
+00:58:12,113 --> 00:58:13,156
+Kom nu.
+
+741
+00:58:23,208 --> 00:58:24,292
+Fandens også.
+
+742
+00:58:25,543 --> 00:58:26,503
+Fandens! Kom nu!
+
+743
+00:58:44,521 --> 00:58:46,022
+For helvede da!
+
+744
+00:58:47,732 --> 00:58:48,942
+Den rykker sig ikke.
+
+745
+00:58:49,025 --> 00:58:51,277
+Vi må bare prøve, okay?
+
+746
+00:58:51,361 --> 00:58:52,362
+Kom så.
+
+747
+00:58:58,076 --> 00:58:59,077
+Er du okay?
+
+748
+00:58:59,160 --> 00:59:00,537
+-Ja.
+-Okay.
+
+749
+00:59:04,249 --> 00:59:06,668
+-Tag min hånd, okay?
+-Okay.
+
+750
+00:59:30,400 --> 00:59:31,276
+Du godeste!
+
+751
+00:59:31,359 --> 00:59:32,819
+Okay. De er bag mig.
+
+752
+00:59:32,902 --> 00:59:34,279
+-Kom så.
+-Hvilken vej?
+
+753
+00:59:35,738 --> 00:59:38,116
+Kom! Hvad fanden foregår der?
+
+754
+00:59:39,409 --> 00:59:41,035
+-Kom!
+-Hvordan finder de os?
+
+755
+00:59:41,119 --> 00:59:43,788
+-Det ved jeg ikke, men vi må væk.
+-Okay. Kom.
+
+756
+00:59:43,871 --> 00:59:45,707
+-Kom nu. Afsted.
+-Skynd jer.
+
+757
+00:59:45,790 --> 00:59:48,209
+Kom nu. Luk døren!
+
+758
+00:59:50,670 --> 00:59:52,714
+-Fandens.
+-Skynd jer! Fortsæt!
+
+759
+00:59:53,673 --> 00:59:54,966
+-Kom så.
+-Fandens!
+
+760
+00:59:55,049 --> 00:59:56,634
+Skynd jer!
+
+761
+00:59:57,719 --> 01:00:00,221
+-Døren! Åbn døren!
+-Kom så!
+
+762
+01:00:05,393 --> 01:00:07,729
+Fandens. Denne vej, folkens! Kom så!
+
+763
+01:00:07,812 --> 01:00:08,771
+Smid jer ned.
+
+764
+01:00:18,072 --> 01:00:20,783
+Undskyld, at jeg troede,
+at du var narkoman.
+
+765
+01:00:22,035 --> 01:00:26,623
+Undskyld, at jeg løj for dig
+i så latterligt lang tid.
+
+766
+01:00:27,123 --> 01:00:30,710
+Og bare så du ved det,
+så løj jeg ikke om Enzo's.
+
+767
+01:00:30,793 --> 01:00:35,548
+Hvis vi ved et mirakel overlever dette,
+inviterer jeg dig derhen.
+
+768
+01:00:35,632 --> 01:00:39,552
+Og vi skal have dessert. Aftale?
+
+769
+01:01:05,286 --> 01:01:06,704
+Sluk den.
+
+770
+01:01:06,788 --> 01:01:10,291
+Det kan vi ikke.
+Nej. Max er på vej tilbage.
+
+771
+01:01:10,875 --> 01:01:12,043
+Vi er nødt til det.
+
+772
+01:01:13,044 --> 01:01:14,337
+Hun er på vej.
+
+773
+01:01:21,344 --> 01:01:22,470
+Er du okay?
+
+774
+01:01:24,013 --> 01:01:24,972
+-Gå!
+-Okay.
+
+775
+01:01:35,692 --> 01:01:36,734
+Okay.
+
+776
+01:01:40,530 --> 01:01:42,407
+Er du klar til at tage hjem?
+
+777
+01:01:45,076 --> 01:01:46,035
+Ja.
+
+778
+01:03:14,540 --> 01:03:17,376
+OXYGEN - BRANDFARLIG
+
+779
+01:03:17,460 --> 01:03:19,587
+TØRRETUMBLERTEMPERATUR
+VARM
+
+780
+01:04:25,695 --> 01:04:26,737
+Lucas.
+
+781
+01:04:33,452 --> 01:04:34,996
+Holly. Vent.
+
+782
+01:04:37,415 --> 01:04:41,252
+-Du kan ikke komme med mig.
+-Hvad? Hvad mener du?
+
+783
+01:04:41,335 --> 01:04:42,795
+Denne vej fører til mig.
+
+784
+01:04:43,588 --> 01:04:46,340
+Til min krop, ikke din.
+
+785
+01:04:46,424 --> 01:04:48,050
+Du må finde din egen vej.
+
+786
+01:04:48,134 --> 01:04:51,679
+Hvordan? Jeg har ikke Kate Bush.
+Jeg ved ikke, hvem hun er.
+
+787
+01:04:51,762 --> 01:04:55,766
+Du behøver ikke Kate Bush
+for at slippe ud. Det gør jeg heller ikke.
+
+788
+01:04:55,850 --> 01:04:58,060
+Musik er ikke den eneste vej tilbage.
+
+789
+01:04:58,686 --> 01:05:03,232
+Du har brug for noget, der forbinder dig
+til den virkelige verden og dit hjem.
+
+790
+01:05:03,816 --> 01:05:05,651
+Noget stærkt
+
+791
+01:05:06,235 --> 01:05:07,486
+og meningsfuldt.
+
+792
+01:05:07,570 --> 01:05:11,198
+Da Lucas tog min hånd på hospitalet,
+
+793
+01:05:12,158 --> 01:05:14,785
+kunne jeg mærke det lige her.
+
+794
+01:05:16,120 --> 01:05:18,581
+Men så kunne jeg også mærke det herinde.
+
+795
+01:05:19,290 --> 01:05:22,293
+-Men jeg har ingen kæreste.
+-Det er ikke nødvendigt.
+
+796
+01:05:22,376 --> 01:05:27,548
+Du skal have noget, der er særligt for dig
+og får dig til at føle dig tryg.
+
+797
+01:05:27,632 --> 01:05:30,134
+Noget, der giver dig styrke.
+
+798
+01:05:30,217 --> 01:05:31,677
+Og giver dig håb.
+
+799
+01:05:32,261 --> 01:05:33,471
+Helten Holly.
+
+800
+01:05:33,554 --> 01:05:35,097
+Hun er her hos dig nu.
+
+801
+01:05:36,515 --> 01:05:38,768
+Hun er hos dig i den virkelige verden.
+
+802
+01:05:38,851 --> 01:05:42,772
+Hvor end du er,
+skal du følge efter hende hjem.
+
+803
+01:05:42,855 --> 01:05:43,940
+Hvordan?
+
+804
+01:05:44,690 --> 01:05:49,612
+Prøv at huske, hvad hun betyder for dig.
+
+805
+01:05:50,655 --> 01:05:52,865
+Hun betyder ikke noget vigtigt.
+
+806
+01:05:55,076 --> 01:05:56,369
+Hun er bare legetøj.
+
+807
+01:05:57,453 --> 01:06:00,331
+Hvorfor har du hende så med dig?
+
+808
+01:06:00,414 --> 01:06:05,586
+Mike sagde, hun har guddommelige kræfter,
+og at hun aldrig bliver bange,
+
+809
+01:06:05,670 --> 01:06:09,632
+og hvis jeg blev bange,
+kunne jeg bare blive hende.
+
+810
+01:06:09,715 --> 01:06:13,219
+Men jeg prøver, og det virker aldrig.
+
+811
+01:06:15,346 --> 01:06:17,556
+Uanset hvad jeg gør, er jeg bare mig.
+
+812
+01:06:19,600 --> 01:06:22,186
+Pigen, der har brug for en dum natlampe.
+
+813
+01:06:22,269 --> 01:06:26,691
+Da min mor blev angrebet,
+kunne jeg ikke redde hende eller mig selv.
+
+814
+01:06:26,774 --> 01:06:28,359
+Væk, Holly!
+
+815
+01:06:29,610 --> 01:06:31,529
+Jeg stod der bare.
+
+816
+01:06:31,612 --> 01:06:33,531
+Og da Henry angreb dig…
+
+817
+01:06:34,198 --> 01:06:35,408
+Stop!
+
+818
+01:06:35,908 --> 01:06:40,746
+Jeg stod der bare igen.
+Sådan gør en helt ikke.
+
+819
+01:06:41,330 --> 01:06:44,208
+Du kunne ikke gøre noget i de øjeblikke.
+
+820
+01:06:44,291 --> 01:06:47,378
+Du er født ind i familien Wheeler.
+Du er klog.
+
+821
+01:06:48,129 --> 01:06:51,716
+Tror du seriøst,
+at monstrene kan stoppes med en ildrager?
+
+822
+01:06:52,299 --> 01:06:55,094
+Og jeg tror, at du har glemt nogle ting.
+
+823
+01:06:55,177 --> 01:07:00,558
+Den dag, vi mødtes, gik du ind i skoven,
+selvom Henry advarede dig imod monstrene.
+
+824
+01:07:00,641 --> 01:07:05,688
+Og så gik du med mig ind i hulen,
+selvom du ikke havde grund til at tro mig.
+
+825
+01:07:05,771 --> 01:07:08,941
+Og da jeg sagde,
+at du skulle gå tilbage til Henry,
+
+826
+01:07:09,025 --> 01:07:11,861
+hvor du var udsat for fare,
+tøvede du ikke.
+
+827
+01:07:11,944 --> 01:07:15,823
+Og i dag, da jeg gav op, gjorde du ikke.
+
+828
+01:07:17,408 --> 01:07:19,535
+Jeg har været her så længe.
+
+829
+01:07:20,911 --> 01:07:21,996
+Så længe.
+
+830
+01:07:24,040 --> 01:07:25,875
+Og jeg kunne ikke finde ud.
+
+831
+01:07:27,793 --> 01:07:28,711
+Men dig?
+
+832
+01:07:30,046 --> 01:07:32,381
+Du fandt en vej gennem Camazotz.
+
+833
+01:07:32,465 --> 01:07:33,716
+Takket være dig…
+
+834
+01:07:35,092 --> 01:07:36,635
+…skal jeg se mine venner.
+
+835
+01:07:37,887 --> 01:07:39,221
+Jeg skal se Lucas.
+
+836
+01:07:41,182 --> 01:07:43,476
+Du reddede mig, Holly Wheeler.
+
+837
+01:07:44,977 --> 01:07:46,062
+Du reddede mig.
+
+838
+01:07:48,314 --> 01:07:52,610
+Du kan derfor nok forstå,
+at Helten Holly ikke er legetøj.
+
+839
+01:07:54,528 --> 01:07:56,030
+Hun er dig, Holly.
+
+840
+01:07:57,698 --> 01:07:58,699
+Hun er dig.
+
+841
+01:08:18,761 --> 01:08:21,097
+Hvordan vidste du, det ville virke?
+
+842
+01:08:22,264 --> 01:08:23,724
+Det gjorde jeg ikke.
+
+843
+01:08:26,060 --> 01:08:28,437
+Du har stadig en lang rejse forude.
+
+844
+01:08:28,521 --> 01:08:32,691
+Jeg ved ikke, hvor du vil vågne,
+men Vecna har dig nok i Vrangsiden.
+
+845
+01:08:32,775 --> 01:08:36,946
+Men husk,
+at Vrangsiden er ligesom Hawkins.
+
+846
+01:08:37,029 --> 01:08:39,949
+Find tilbage til dit hus, og gem dig der.
+
+847
+01:08:40,032 --> 01:08:42,284
+Vi kommer og finder dig. Okay?
+
+848
+01:08:58,717 --> 01:09:00,219
+Vi ses på den anden side.
+
+849
+01:09:00,886 --> 01:09:02,012
+På den anden side.
+
+850
+01:12:26,383 --> 01:12:29,136
+Tekster af: Karen Marie Svold Coates
+

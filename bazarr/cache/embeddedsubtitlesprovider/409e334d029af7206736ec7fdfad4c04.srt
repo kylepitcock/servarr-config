@@ -1,0 +1,203 @@
+1
+00:00:26,875 --> 00:00:30,458
+GAIOLA DE SOBREVIVÊNCIA
+
+2
+00:00:58,083 --> 00:00:59,791
+Eu vou morrer aqui.
+
+3
+00:01:47,958 --> 00:01:49,708
+OXIGÊNIO RESTANTE
+LOCALIZAR ABRIGO
+
+4
+00:02:14,125 --> 00:02:15,000
+OXIGÊNIO CRÍTICO
+
+5
+00:02:15,083 --> 00:02:16,250
+ATIVAR - ATIVANDO...
+
+6
+00:02:27,833 --> 00:02:29,000
+Caralho.
+
+7
+00:02:29,083 --> 00:02:31,458
+Parece que a gente fez
+uma aterrissagem difícil.
+
+8
+00:03:02,291 --> 00:03:04,416
+BEM-VINDO À GAIOLA DE VIDA
+
+9
+00:03:08,375 --> 00:03:10,500
+<i>Gaiola de Vida ativada.</i>
+
+10
+00:03:10,583 --> 00:03:12,666
+<i>Alerta: dano detectado.</i>
+
+11
+00:03:12,750 --> 00:03:14,375
+<i>Rodando diagnósticos de sistema.</i>
+
+12
+00:03:17,916 --> 00:03:20,333
+<i>Núcleos de fusão operantes.</i>
+
+13
+00:03:23,125 --> 00:03:25,875
+<i>Rede de comunicação operante.</i>
+
+14
+00:03:25,958 --> 00:03:27,541
+SINAL DE RESGATE
+AGUARDANDO TRANSMISSÃO
+
+15
+00:03:29,500 --> 00:03:31,291
+<i>Robótica de manutenção...</i>
+
+16
+00:03:35,875 --> 00:03:38,083
+Ah, seu merda.
+
+17
+00:03:38,166 --> 00:03:40,000
+<i>Robótica de manutenção...</i>
+
+18
+00:03:40,500 --> 00:03:41,500
+<i>erro.</i>
+
+19
+00:03:45,083 --> 00:03:48,541
+<i>Robótica de manutenção: avariada.</i>
+
+20
+00:03:53,750 --> 00:03:55,166
+Para!
+
+21
+00:03:55,666 --> 00:03:56,916
+Interromper programa.
+
+22
+00:03:57,500 --> 00:03:58,666
+Interromper programa!
+
+23
+00:04:00,000 --> 00:04:02,000
+<i>Incapaz de executar.</i>
+
+24
+00:04:50,875 --> 00:04:52,583
+PERIGO
+ARMAS INIMIGAS NO PRÓXIMO VETOR
+
+25
+00:04:54,250 --> 00:04:56,458
+<i>Está encaminhando
+Prometheus CVW2.</i>
+
+26
+00:04:56,541 --> 00:04:59,000
+<i>CME operante. Autorizados a atacar.</i>
+
+27
+00:04:59,083 --> 00:05:01,791
+- <i>Nova 6 em rota.</i>
+- <i>Nova 9 em rota.</i>
+
+28
+00:05:01,875 --> 00:05:03,750
+- Nova 4 em rota.
+- <i>Entendido.</i>
+
+29
+00:05:03,833 --> 00:05:06,000
+<i>- O armamento pesado está liberado.</i>
+- Entendido.
+
+30
+00:05:06,708 --> 00:05:07,541
+Liberando.
+
+31
+00:05:07,625 --> 00:05:11,125
+Carga de Divine Flash 12 Judgement 2.
+
+32
+00:05:11,750 --> 00:05:13,666
+Armadas e prontas pra caça.
+
+33
+00:05:13,750 --> 00:05:16,250
+<i>Esquadrão Nova, alinhar.
+Formação escalonada.</i>
+
+34
+00:05:16,333 --> 00:05:17,458
+<i>Ataque rápido e forte.</i>
+
+35
+00:07:01,083 --> 00:07:04,333
+<i>731, 731!
+Ataque inimigo a caminho!</i>
+
+36
+00:07:08,250 --> 00:07:10,250
+Foguete 1 perdido!
+
+37
+00:07:15,416 --> 00:07:16,291
+Fogo!
+
+38
+00:07:17,166 --> 00:07:18,875
+Vamos lá. Vamos lá!
+
+39
+00:07:27,333 --> 00:07:29,500
+EJETAR
+
+40
+00:09:59,875 --> 00:10:02,500
+SINAL DE RESGATE
+AGUARDANDO TRANSMISSÃO
+
+41
+00:10:14,208 --> 00:10:19,583
+<i>Mensagem de socorro recebida.
+Gaiola de Vida 817-RD9G.</i>
+
+42
+00:10:19,666 --> 00:10:21,041
+<i>Resgate a caminho.</i>
+
+43
+00:10:26,750 --> 00:10:29,750
+<i>Alerta: robô de manutenção avariado.</i>
+
+44
+00:10:32,125 --> 00:10:35,333
+<i>Alerta: robô de manutenção avariado.</i>
+
+45
+00:10:35,416 --> 00:10:37,125
+Vai se foder.
+
+46
+00:10:37,666 --> 00:10:40,916
+<i>Alerta: robô de manutenção avariado.</i>
+
+00:10:41,291
+<i>Atenção, robô de manutenção defeituoso.</i>
+
+49
+00:12:03,083 --> 00:12:05,583
+Legendas: Alysson Navarro
+

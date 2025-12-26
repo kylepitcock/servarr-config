@@ -1,0 +1,2400 @@
+1
+00:00:16,891 --> 00:00:17,976
+<i>Chi sei?</i>
+
+2
+00:00:19,185 --> 00:00:20,437
+<i>Sono Daredevil.</i>
+
+3
+00:00:21,479 --> 00:00:23,106
+<i>Ehi, non può stare qui!</i>
+
+4
+00:00:27,027 --> 00:00:29,738
+<i>Ciao, Karen. È bello rivederti.</i>
+
+5
+00:00:35,118 --> 00:00:38,538
+<i>Sono Daredevil.</i>
+
+6
+00:00:48,048 --> 00:00:50,842
+<i>La tua bussola interna non è rotta, Dex.</i>
+
+7
+00:00:50,925 --> 00:00:53,636
+<i>Ma funziona meglio</i>
+<i>quando hai la stella polare a guidarti.</i>
+
+8
+00:00:54,179 --> 00:00:55,555
+<i>E se non la trovassi?</i>
+
+9
+00:00:55,638 --> 00:00:57,724
+<i>Allora ti affiderai al nostro schema.</i>
+
+10
+00:00:57,807 --> 00:01:00,602
+<i>Uno spazio fisico ordinato.</i>
+<i>Un lavoro che implichi disciplina.</i>
+
+11
+00:01:00,685 --> 00:01:03,146
+<i>Costruirai la tua vita</i>
+<i>su pilastri di ordine.</i>
+
+12
+00:01:22,791 --> 00:01:24,459
+UNA SERIE ORIGINALE NETFLIX
+
+13
+00:02:33,403 --> 00:02:37,115
+<i>Se solo vi deste una svegliata,</i>
+<i>invece di fare il gioco di Fisk.</i>
+
+14
+00:02:37,198 --> 00:02:38,533
+<i>Vi sta usando.</i>
+
+15
+00:02:38,616 --> 00:02:40,034
+- Buongiorno.
+- 'Giorno, capo.
+
+16
+00:02:40,118 --> 00:02:41,703
+<i>E credo che tu lo sappia.</i>
+
+17
+00:02:42,996 --> 00:02:45,456
+<i>Quindi rispondimi, agente Nadeem...</i> <i>...chi credi che sia più pericoloso?</i>
+
+18
+00:02:52,881 --> 00:02:56,134
+<i>L'uomo che ha attaccato il </i>Bulletin
+<i>vestito da Daredevil...</i>
+
+19
+00:02:56,217 --> 00:02:57,886
+<i>...è un agente dell'FBI.</i>
+
+20
+00:03:00,346 --> 00:03:03,266
+<i>Ciao, Karen. È bello rivederti.</i>
+
+21
+00:03:49,979 --> 00:03:50,813
+Julie!
+
+22
+00:03:51,731 --> 00:03:54,067
+- Dex, stammi lontano.
+- Ti prego, ascoltami.
+
+23
+00:03:54,150 --> 00:03:56,277
+Siamo in un luogo pubblico,
+puoi sentirti al sicuro.
+
+24
+00:03:56,361 --> 00:03:59,239
+Resto qui. Non mi avvicinerò oltre.
+
+25
+00:04:02,533 --> 00:04:06,746
+Mi dispiace tantissimo
+per com'è finita l'altra sera.
+
+26
+00:04:06,829 --> 00:04:10,083
+Mi dispiace di averti spaventata.
+Volevo solo spiegarti.
+
+27
+00:04:10,875 --> 00:04:13,670
+Quando abbiamo lavorato insieme
+alla Prevenzioni suicidi,
+
+28
+00:04:13,753 --> 00:04:15,630
+ho visto come trattavi la gente.
+
+29
+00:04:16,256 --> 00:04:19,509
+Eri paziente e compassionevole e io...
+
+30
+00:04:21,302 --> 00:04:22,887
+...ne avrei tanto bisogno.
+
+31
+00:04:23,721 --> 00:04:25,056
+La mia vita è nel caos.
+
+32
+00:04:25,139 --> 00:04:28,643
+Non ho una famiglia,
+sto per perdere il lavoro.
+
+33
+00:04:28,726 --> 00:04:29,769
+Per favore.
+
+34
+00:04:30,770 --> 00:04:33,189
+Voglio solo parlare. Ovunque tu voglia.
+
+35
+00:04:34,315 --> 00:04:37,235
+Ma se mi dirai di no, lo capirò...
+
+36
+00:04:38,111 --> 00:04:39,737
+...e non ti infastidirò più.
+
+37
+00:04:57,547 --> 00:04:58,589
+Agente Nadeem.
+
+38
+00:05:02,343 --> 00:05:03,344
+Sei in ritardo.
+
+39
+00:05:03,428 --> 00:05:05,388
+Ero in anticipo,
+ma non mi fidavo di te.
+
+40
+00:05:05,471 --> 00:05:06,472
+Come si chiama?
+
+41
+00:05:06,556 --> 00:05:09,183
+Sì, beh, neanch'io mi fido di te.
+
+42
+00:05:09,267 --> 00:05:10,893
+In passato hai ferito della gente.
+
+43
+00:05:10,977 --> 00:05:13,021
+Non ti dirò chi è l'agente,
+se vuoi ucciderlo.
+
+44
+00:05:13,104 --> 00:05:14,063
+Io non uccido.
+
+45
+00:05:15,106 --> 00:05:19,319
+Degli agenti che hai picchiato
+l'altro giorno, uno è ancora in ospedale.
+
+46
+00:05:19,402 --> 00:05:20,737
+Facevano solo il loro lavoro.
+
+47
+00:05:20,820 --> 00:05:23,114
+Se mi avessero arrestato,
+chi avrebbe combattuto Fisk?
+
+48
+00:05:23,197 --> 00:05:25,867
+Se hai ragione su di lui,
+è compito nostro.
+
+49
+00:05:25,950 --> 00:05:27,160
+Davvero?
+
+50
+00:05:27,243 --> 00:05:29,954
+Perché sappiamo tutti
+dove dorme, ultimamente.
+
+51
+00:05:30,580 --> 00:05:32,081
+Ma lo capisco.
+
+52
+00:05:32,165 --> 00:05:35,460
+Siamo d'accordo almeno su una cosa:
+il bene superiore.
+
+53
+00:05:35,543 --> 00:05:38,129
+Come i domiciliari
+in cambio di buone soffiate.
+
+54
+00:05:38,212 --> 00:05:41,382
+Dobbiamo ferire qualcuno
+per salvare qualcun altro.
+
+55
+00:05:42,008 --> 00:05:43,217
+Allora, chi è?
+
+56
+00:05:46,554 --> 00:05:48,264
+Prometti che non lo toccherai.
+
+57
+00:05:48,348 --> 00:05:50,516
+La mia parola non vale niente, per te.
+
+58
+00:05:50,600 --> 00:05:52,435
+Ma voglio sentirtelo dire.
+
+59
+00:05:53,770 --> 00:05:57,398
+Ho bisogno che testimoni contro Fisk,
+quindi te lo prometto.
+
+60
+00:06:01,944 --> 00:06:04,197
+Entreremo a casa sua.
+
+61
+00:06:04,280 --> 00:06:07,992
+Cercheremo delle prove che lo leghino
+all'attacco al <i>Bulletin</i> o a Fisk.
+
+62
+00:06:08,618 --> 00:06:11,204
+Se le troveremo, le lasceremo dove sono.
+
+63
+00:06:12,080 --> 00:06:14,248
+Uscendo, faremo scattare
+l'allarme antincendio.
+
+64
+00:06:14,332 --> 00:06:17,460
+All'arrivo dei pompieri,
+non ti servirà un mandato.
+
+65
+00:06:17,543 --> 00:06:19,128
+Ma se non troviamo niente,
+
+66
+00:06:19,212 --> 00:06:21,130
+- continuerà a fare la sua vita.
+- Dimmelo.
+
+67
+00:06:21,214 --> 00:06:22,507
+Chi è?
+
+68
+00:06:24,509 --> 00:06:27,136
+L'agente speciale Ben Poindexter.
+
+69
+00:06:31,182 --> 00:06:33,810
+Un decaffeinato piccolo
+e qualunque cosa prenda lei.
+
+70
+00:06:33,893 --> 00:06:36,187
+Pago io il mio. Grazie.
+
+71
+00:06:36,270 --> 00:06:38,272
+- Il solito, Richie.
+- Bene.
+
+72
+00:06:39,607 --> 00:06:44,779
+Allora, non so come dirtelo
+senza che suoni come un insulto.
+
+73
+00:06:44,862 --> 00:06:47,240
+Non mi sei mai piaciuta.
+
+74
+00:06:47,323 --> 00:06:50,201
+Non nel modo in cui credi, comunque.
+
+75
+00:06:50,284 --> 00:06:52,537
+Non sapevo come parlare con te.
+
+76
+00:06:54,705 --> 00:06:55,832
+Non ero...
+
+77
+00:06:57,166 --> 00:06:59,085
+...uno stalker.
+
+78
+00:06:59,168 --> 00:07:03,923
+Anche se capisco
+che tu possa averlo pensato.
+
+79
+00:07:04,006 --> 00:07:07,510
+Volevo solo somigliarti di più.
+
+80
+00:07:10,096 --> 00:07:12,265
+Lo capisci che è comunque
+una cosa inquietante?
+
+81
+00:07:19,897 --> 00:07:24,735
+Sei così buona.
+
+82
+00:07:25,403 --> 00:07:28,614
+E gentile. E...
+
+83
+00:07:28,698 --> 00:07:31,284
+Il tuo lavoro è salvare delle vite.
+
+84
+00:07:33,369 --> 00:07:36,539
+L'FBI e, prima ancora, l'esercito...
+
+85
+00:07:37,123 --> 00:07:39,709
+...mi hanno aiutato a mantenere la rotta.
+
+86
+00:07:40,293 --> 00:07:43,838
+Ma adesso, senza tutto questo...
+
+87
+00:07:44,380 --> 00:07:46,757
+...sto affondando in acque profonde
+
+88
+00:07:46,841 --> 00:07:50,470
+e non so se sto nuotando
+verso la superficie o verso il fondo.
+
+89
+00:07:51,512 --> 00:07:54,474
+Dex, hai bisogno di aria. Respira.
+
+90
+00:08:02,607 --> 00:08:05,151
+Lo vedi, è di questo che parlavo.
+
+91
+00:08:06,110 --> 00:08:08,321
+Aiuti gli altri a essere migliori. Te l'ho visto fare centinaia di volte.
+
+92
+00:08:10,698 --> 00:08:16,454
+Ti chiedo solo di trattarmi
+come uno di quelli che telefonano.
+
+93
+00:08:20,166 --> 00:08:22,001
+Cos'è successo all'FBI?
+
+94
+00:08:23,961 --> 00:08:26,047
+Volevano un capro espiatorio.
+
+95
+00:08:37,433 --> 00:08:39,936
+Sai, ti servirebbe un bravo terapeuta.
+
+96
+00:08:42,396 --> 00:08:44,982
+Ne avevo una. È morta.
+
+97
+00:08:48,528 --> 00:08:49,654
+Mi dispiace.
+
+98
+00:08:55,034 --> 00:08:57,578
+Ok. Ti aiuterò, Dex.
+
+99
+00:08:59,205 --> 00:09:01,916
+Per favore, non farmene pentire.
+
+100
+00:09:02,667 --> 00:09:06,712
+Te lo prometto. Non accadrà.
+
+101
+00:09:09,924 --> 00:09:11,342
+Scusami.
+
+102
+00:09:11,425 --> 00:09:13,386
+Devo vederti
+al QG dell'FBI, stasera.
+
+103
+00:09:30,820 --> 00:09:31,821
+Ciao.
+
+104
+00:09:32,697 --> 00:09:35,157
+- Sei riuscita a dormire un po'?
+- Sì.
+
+105
+00:09:39,370 --> 00:09:41,080
+- Ti serve un caffè.
+- Sì.
+
+106
+00:09:42,790 --> 00:09:45,626
+Hai presente
+quelle giornate in cui devi...
+
+107
+00:09:45,710 --> 00:09:48,629
+...fare una cosa per volta?
+Passo dopo passo.
+
+108
+00:09:50,172 --> 00:09:54,010
+"Metti i piedi a terra, Karen.
+Vai al lavandino."
+
+109
+00:09:55,761 --> 00:09:56,762
+Certo.
+
+110
+00:09:56,846 --> 00:09:59,682
+In genere non mi chiamo Karen.
+
+111
+00:09:59,765 --> 00:10:02,310
+Anzi, non faccio niente del genere.
+
+112
+00:10:05,104 --> 00:10:07,106
+Come fai a non essere sbronzo?
+
+113
+00:10:07,189 --> 00:10:08,566
+Ho una teoria.
+
+114
+00:10:09,233 --> 00:10:10,818
+Caspita. Dev'essere ottima.
+
+115
+00:10:11,569 --> 00:10:14,071
+Fisk sta facendo arrestare
+dei colpevoli di corruzione.
+
+116
+00:10:14,155 --> 00:10:15,448
+Vuole diventare
+
+117
+00:10:15,531 --> 00:10:17,617
+l'unica fonte
+di protezione governativa
+
+118
+00:10:17,700 --> 00:10:20,161
+per tutti i criminali di Hell's Kitchen,
+forse della città.
+
+119
+00:10:20,244 --> 00:10:22,872
+E questa teoria ti mantiene sobrio?
+
+120
+00:10:24,123 --> 00:10:26,917
+Sì, perché ho anche un piano.
+
+121
+00:10:27,001 --> 00:10:30,004
+No. Foggy, non hai un piano.
+
+122
+00:10:30,546 --> 00:10:32,256
+Sai cosa succede quando hai un piano?
+
+123
+00:10:32,340 --> 00:10:34,967
+Fisk ci ha già pensato
+e lo ha reso parte del suo.
+
+124
+00:10:35,051 --> 00:10:38,721
+Non sa che gli sto alle calcagna.
+È impossibile.
+
+125
+00:10:38,804 --> 00:10:41,515
+Ho scoperto questa cosa
+sbirciando tra le cose di Marci.
+
+126
+00:10:41,599 --> 00:10:42,600
+Sai cosa intendo...
+
+127
+00:10:43,184 --> 00:10:44,477
+- Foggy!
+- Scusa.
+
+128
+00:10:44,560 --> 00:10:48,314
+Stava preparando la deposizione
+di un agente del fisco corrotto,
+
+129
+00:10:48,397 --> 00:10:51,108
+colpevole di frode e riciclaggio
+per conto degli albanesi...
+
+130
+00:10:51,192 --> 00:10:52,318
+No, fermo.
+
+131
+00:10:53,611 --> 00:10:54,779
+Non posso.
+
+132
+00:10:59,325 --> 00:11:03,120
+Solo un altro articolo, Karen. Basterà.
+
+133
+00:11:07,375 --> 00:11:08,584
+Va bene. Che cos'è?
+
+134
+00:11:08,668 --> 00:11:10,836
+I termini della detenzione di Fisk.
+
+135
+00:11:10,920 --> 00:11:15,091
+Se viola uno di questi,
+se ne torna in carcere di volata, zap!
+
+136
+00:11:15,174 --> 00:11:17,093
+"Zap"? Si dice così?
+
+137
+00:11:17,927 --> 00:11:19,345
+Il punto numero tre.
+
+138
+00:11:20,012 --> 00:11:22,223
+"Commettere un reato
+o cospirare per commetterne uno."
+
+139
+00:11:22,306 --> 00:11:24,850
+No, aspetta. E il numero sei?
+
+140
+00:11:24,934 --> 00:11:27,770
+L'essere incriminato
+per un atto che preceda l'accordo?
+
+141
+00:11:27,853 --> 00:11:30,314
+- Non fa parte del piano.
+- Abbiamo un buon numero sei.
+
+142
+00:11:31,107 --> 00:11:33,943
+Fisk ha ucciso suo padre. È omicidio.
+
+143
+00:11:34,026 --> 00:11:36,987
+Non c'è termine di prescrizione.
+Sua madre lo disse a Ben Urich.
+
+144
+00:11:37,071 --> 00:11:38,906
+Una morta lo disse a un morto.
+
+145
+00:11:38,989 --> 00:11:42,451
+- Non prova niente. Non reggerà.
+- Già.
+
+146
+00:11:42,535 --> 00:11:45,621
+Sai cosa sarebbe utile, invece?
+Rendere pubblica la mia teoria.
+
+147
+00:11:45,705 --> 00:11:48,124
+L'FBI vedrà che Fisk ha violato l'accordo
+
+148
+00:11:48,207 --> 00:11:49,709
+e dovrà sbatterlo dentro?
+
+149
+00:11:49,792 --> 00:11:53,254
+Non potranno ignorarla,
+se la sbattiamo in prima pagina.
+
+150
+00:11:53,337 --> 00:11:54,588
+E sarai tu a farlo.
+
+151
+00:11:54,672 --> 00:11:57,425
+Il <i>Bulletin </i>non mi permetterà
+di fare accuse infondate.
+
+152
+00:11:57,508 --> 00:11:58,509
+Non è una notizia.
+
+153
+00:11:58,592 --> 00:12:00,928
+Lo è, se un candidato
+procuratore distrettuale
+
+154
+00:12:01,011 --> 00:12:02,555
+lancia accuse infondate.
+
+155
+00:12:02,638 --> 00:12:06,016
+Durante un dibattito pubblico
+con il procuratore distrettuale in carica.
+
+156
+00:12:06,684 --> 00:12:08,310
+Farai un dibattito con Blake Tower?
+
+157
+00:12:08,394 --> 00:12:09,729
+All'Hell's Kitchen Club.
+
+158
+00:12:09,812 --> 00:12:12,314
+Beh, dovrebbe essere
+un discorso preparato.
+
+159
+00:12:12,857 --> 00:12:14,191
+Loro lo sostengono.
+
+160
+00:12:14,275 --> 00:12:15,818
+Io non sono in programma,
+
+161
+00:12:15,901 --> 00:12:18,154
+ma la Macelleria Nelson è
+un membro del club...
+
+162
+00:12:18,237 --> 00:12:20,156
+Lo affronterai così, dal nulla?
+
+163
+00:12:20,239 --> 00:12:22,742
+Perché no?
+Lo colpirò quando meno se lo aspetta.
+
+164
+00:12:22,825 --> 00:12:24,118
+Tiro fuori questa storia...
+
+165
+00:12:24,201 --> 00:12:27,204
+Sì, lo fai innervosire, accaldare.
+Lo provochi.
+
+166
+00:12:28,831 --> 00:12:29,832
+Potrebbe funzionare.
+
+167
+00:12:33,836 --> 00:12:36,172
+Allora, ci scriverai un articolo?
+
+168
+00:12:37,465 --> 00:12:39,300
+Lo farei. È solo che...
+
+169
+00:12:41,260 --> 00:12:43,554
+...ho perso il lavoro.
+
+170
+00:12:44,638 --> 00:12:45,639
+Cosa?
+
+171
+00:12:46,891 --> 00:12:49,977
+Ellison ti considera una di famiglia.
+Cos'hai fatto?
+
+172
+00:12:51,771 --> 00:12:54,398
+Ho rifiutato di dirgli chi è Daredevil.
+
+173
+00:12:55,983 --> 00:12:56,817
+Cavolo.
+
+174
+00:12:56,901 --> 00:13:01,238
+Ellison ce l'ha con Fisk quanto noi.
+
+175
+00:13:01,322 --> 00:13:04,784
+Parlagli del nostro piano.
+Ti renderà subito il lavoro.
+
+176
+00:13:04,867 --> 00:13:08,037
+Ci vediamo più tardi, a cena.
+Mi accompagnerai.
+
+177
+00:13:09,288 --> 00:13:10,581
+Ti ho ordinato il salmone.
+
+178
+00:13:28,057 --> 00:13:30,309
+<i>Ehi. Vi ha fatto entrare</i>
+<i>il padrone di casa?</i>
+
+179
+00:13:44,907 --> 00:13:46,575
+SEZIONE PENALE DI NEW YORK
+
+180
+00:13:58,003 --> 00:13:59,004
+Dex.
+
+181
+00:14:00,589 --> 00:14:01,715
+Grazie di essere venuto.
+
+182
+00:14:02,383 --> 00:14:05,970
+Hai detto chiaramente che dovevo farlo.
+Di che si tratta?
+
+183
+00:14:07,012 --> 00:14:08,973
+Ho qui qualcuno che vuole parlare con te.
+
+184
+00:14:10,266 --> 00:14:11,433
+Seguimi.
+
+185
+00:14:29,660 --> 00:14:32,705
+Dex, questa è una mia vecchia amica,
+Andrea Morales.
+
+186
+00:14:34,331 --> 00:14:35,833
+È una rappresentante legale.
+
+187
+00:14:36,417 --> 00:14:39,336
+I ragazzi hanno fatto
+una colletta per pagarla.
+
+188
+00:14:39,420 --> 00:14:41,630
+Ora, se vuoi,
+
+189
+00:14:41,714 --> 00:14:44,967
+farà causa all'FBI
+per averti sospeso ingiustamente.
+
+190
+00:14:45,050 --> 00:14:47,303
+- Può farlo?
+- Posso.
+
+191
+00:14:47,386 --> 00:14:49,305
+E avendo studiato i dettagli del suo caso,
+
+192
+00:14:49,388 --> 00:14:51,181
+credo proprio di doverlo fare.
+
+193
+00:14:52,266 --> 00:14:54,643
+È al tuo servizio. A partire da ora.
+
+194
+00:14:54,727 --> 00:14:55,811
+E non costo poco.
+
+195
+00:14:55,895 --> 00:14:58,689
+Ai ragazzi deve piacere molto, agente.
+
+196
+00:15:01,317 --> 00:15:03,694
+Mi hai sempre coperto le spalle.
+
+197
+00:15:04,695 --> 00:15:06,071
+Non so come ringraziarti.
+
+198
+00:15:07,406 --> 00:15:11,410
+L'uomo che ci ha salvato la vita
+non deve ringraziarci.
+
+199
+00:15:14,747 --> 00:15:17,082
+Penseremo a come procedere e...
+
+200
+00:15:18,626 --> 00:15:20,544
+...non vedo l'ora di riaverti in squadra.
+
+201
+00:15:23,756 --> 00:15:25,215
+Ho preparato l'arringa.
+
+202
+00:16:33,534 --> 00:16:34,702
+Hai trovato niente?
+
+203
+00:16:35,577 --> 00:16:38,080
+È preciso. Ama l'ordine.
+
+204
+00:16:39,039 --> 00:16:41,667
+Anche mia moglie,
+ma la tua tuta non le starebbe.
+
+205
+00:16:45,254 --> 00:16:48,382
+Tutte le prove che ho trovato su Dex
+sono al massimo circostanziali.
+
+206
+00:16:49,299 --> 00:16:51,176
+Ero con lui adesso. Era tranquillo.
+
+207
+00:16:52,845 --> 00:16:56,265
+Non ce lo vedo, un agente decorato,
+a credere alle cazzate di Fisk.
+
+208
+00:16:56,348 --> 00:16:58,267
+È così che lavora Fisk.
+
+209
+00:16:58,809 --> 00:17:00,644
+Trova un punto debole. Colpisce duro.
+
+210
+00:17:01,520 --> 00:17:02,896
+Quando sei in ginocchio,
+
+211
+00:17:02,980 --> 00:17:05,357
+non hai altra scelta
+se non credere alle sue cazzate. Scommetto che gli pagate
+anche il servizio in camera.
+
+212
+00:17:20,497 --> 00:17:23,083
+La tuta è qui. Ne sento l'odore.
+
+213
+00:17:23,167 --> 00:17:24,960
+L'odore di cosa?
+
+214
+00:17:27,838 --> 00:17:29,590
+Residui di polvere da sparo e lattice.
+
+215
+00:17:33,135 --> 00:17:35,012
+Merda.
+Non posso chiamare una squadra.
+
+216
+00:17:40,768 --> 00:17:42,102
+Riesci ad aprirla?
+
+217
+00:17:42,186 --> 00:17:44,646
+No, se continui a parlare.
+
+218
+00:18:05,834 --> 00:18:08,545
+La tuta era qui. Deve averla spostata.
+
+219
+00:18:09,588 --> 00:18:11,090
+Beh, ora non c'è.
+
+220
+00:18:11,882 --> 00:18:14,802
+L'odore di<i> eau de </i>tuta
+non convincerà un giudice.
+
+221
+00:18:14,885 --> 00:18:18,097
+Credimi, il colpevole è Poindexter.
+È stato lui.
+
+222
+00:18:19,139 --> 00:18:22,017
+Non c'è niente che lo colleghi
+a Fisk o al <i>Bulletin.</i>
+
+223
+00:18:24,603 --> 00:18:25,938
+Non abbiamo un cazzo.
+
+224
+00:18:34,571 --> 00:18:38,367
+<i>Quando i corvi arrivano alla mangiatoia,</i>
+<i>li uccido a sassate.</i>
+
+225
+00:18:39,409 --> 00:18:41,620
+<i>Cosa senti nel vederli morire?</i>
+
+226
+00:18:42,287 --> 00:18:45,332
+È probabile che non arrivi
+neanche al lodo arbitrale.
+
+227
+00:18:45,415 --> 00:18:47,626
+Il governo esita,
+quando ci sono degli avvocati.
+
+228
+00:18:47,709 --> 00:18:51,255
+È incredibile. Quanto crede che ci vorrà?
+
+229
+00:18:51,338 --> 00:18:55,676
+Se facciamo tutto per bene,
+verrà reintegrato tra sei mesi.
+
+230
+00:18:55,759 --> 00:18:58,387
+- Sei mesi?
+- Otterrà gli arretrati.
+
+231
+00:18:59,138 --> 00:19:00,889
+Non mi interessano gli arretrati.
+
+232
+00:19:02,015 --> 00:19:03,892
+Cosa farò per sei mesi?
+
+233
+00:19:03,976 --> 00:19:06,228
+So che sembrano tanti,
+
+234
+00:19:06,311 --> 00:19:09,189
+ma la aspetta un futuro luminoso nell'FBI.
+
+235
+00:19:09,773 --> 00:19:11,191
+Pensi a lungo termine.
+
+236
+00:19:15,362 --> 00:19:16,363
+Torno subito.
+
+237
+00:19:36,049 --> 00:19:38,427
+Possiamo parlare?
+
+238
+00:19:42,389 --> 00:19:45,726
+Non ti voglio più vedere.
+Per favore, lasciami in pace.
+
+239
+00:19:45,809 --> 00:19:47,269
+Ti prego, Julie
+
+240
+00:19:47,352 --> 00:19:48,604
+BLOCCATO
+
+241
+00:19:56,445 --> 00:19:58,197
+<i>Il numero è stato bloccato.</i>
+
+242
+00:20:07,122 --> 00:20:08,999
+<i>Stai facendo i nostri esercizi?</i>
+
+243
+00:20:10,000 --> 00:20:15,464
+<i>Sì, ma poi il vicino ha portato a casa</i>
+<i>una scatola di gattini abbandonati.</i>
+
+244
+00:20:16,006 --> 00:20:17,132
+<i>Erano in cortile.</i>
+
+245
+00:20:19,927 --> 00:20:22,221
+<i>Li ho uccisi a sassate, dr.ssa Mercer.</i>
+<i>Uno per uno.</i>
+
+246
+00:20:23,889 --> 00:20:26,934
+<i>Ho cercato di fermarmi,</i>
+<i>ma la cosa mi divertiva.</i>
+
+247
+00:20:31,813 --> 00:20:35,150
+Ha dei problemi. Dei seri problemi.
+Ma non significa che...
+
+248
+00:20:44,159 --> 00:20:45,869
+È qui. Devi andare.
+
+249
+00:20:45,953 --> 00:20:48,705
+No, avevamo un accordo.
+Senza prove, non puoi toccarlo.
+
+250
+00:20:48,789 --> 00:20:51,208
+- Le ho trovate.
+- Prove che reggano in tribunale.
+
+251
+00:20:51,291 --> 00:20:52,668
+Userà di nuovo la tuta.
+
+252
+00:20:52,751 --> 00:20:55,545
+Ho un vantaggio su di lui.
+Posso farmi dire dove l'ha messa.
+
+253
+00:20:55,629 --> 00:20:59,007
+- Mi hai dato la tua parola.
+- Me la rimangio.
+
+254
+00:22:02,404 --> 00:22:04,072
+Un'occasione simile non si ripeterà.
+
+255
+00:22:04,156 --> 00:22:05,449
+- E se ti sbagli?
+- Non mi sbaglio.
+
+256
+00:22:20,255 --> 00:22:22,257
+Lo sparo veniva
+dall'altro lato della strada.
+
+257
+00:22:23,008 --> 00:22:24,926
+No, veniva da sotto.
+
+258
+00:22:32,351 --> 00:22:35,020
+Sta facendo rimbalzare le pallottole.
+
+259
+00:22:36,813 --> 00:22:37,814
+Va' alla porta.
+
+260
+00:22:37,898 --> 00:22:40,067
+È alla finestra.
+Aspetta una visuale migliore.
+
+261
+00:22:41,276 --> 00:22:42,277
+Come lo sai?
+
+262
+00:22:51,078 --> 00:22:53,038
+Gli restano solo altri tre colpi.
+
+263
+00:22:53,121 --> 00:22:54,915
+Ti dirò quando ricarica e potrai andare.
+
+264
+00:22:58,794 --> 00:23:02,089
+- Non sta chiamando i rinforzi.
+- No. E non li chiamerà.
+
+265
+00:23:02,172 --> 00:23:03,632
+Ma il vicino ha chiamato il 911.
+
+266
+00:23:08,220 --> 00:23:09,304
+Maledizione, Dex.
+
+267
+00:23:12,599 --> 00:23:13,850
+Ok, ora. Via!
+
+268
+00:23:47,676 --> 00:23:52,097
+<i>Terzo piano. 2312 di King Street.</i>
+<i>Due sospettati violenti.</i>
+
+269
+00:23:53,223 --> 00:23:55,976
+<i>Ricevuto. 2312 di King Street...</i>
+
+270
+00:24:04,693 --> 00:24:06,194
+Polizia! Mani in alto!
+
+271
+00:24:18,123 --> 00:24:19,958
+FBI. Ho il documento di riconoscimento.
+
+272
+00:24:20,959 --> 00:24:23,753
+Guardatemi in tasca,
+lo troverete nel portafogli.
+
+273
+00:24:25,922 --> 00:24:28,216
+Due soggetti armati
+si sono introdotti in casa mia.
+
+274
+00:24:33,847 --> 00:24:36,057
+<i>Ho cercato di fermarmi, ma la cosa...</i>
+
+275
+00:24:53,825 --> 00:24:58,455
+VERITÀ
+NESSUNA CONSEGUENZA
+
+276
+00:25:05,170 --> 00:25:07,881
+ALBANESI -&gt; RUSSI -&gt; MAGGIA
+
+277
+00:25:21,478 --> 00:25:24,814
+Bene, mettetevi tutti a sedere.
+
+278
+00:25:24,898 --> 00:25:27,192
+Arriva la parte piacevole della serata.
+
+279
+00:25:27,275 --> 00:25:28,527
+Intendi dire il dolce?
+
+280
+00:25:29,861 --> 00:25:32,781
+Come se avessi bisogno
+di un altro cannolo, Mikey!
+
+281
+00:25:34,324 --> 00:25:36,368
+Le nostre intenzioni, stasera,
+sono semplici.
+
+282
+00:25:36,451 --> 00:25:39,037
+Appoggiare il nostro candidato
+procuratore distrettuale...
+
+283
+00:25:39,120 --> 00:25:40,747
+<i>Sono Karen. Sapete cosa fare.</i>
+
+284
+00:25:40,830 --> 00:25:43,375
+Karen? Dove diavolo sei?
+
+285
+00:25:48,505 --> 00:25:51,466
+- Com'è arrivata qui?
+- Ho una camera.
+
+286
+00:25:51,550 --> 00:25:53,009
+Questo piano è riservato all'FBI.
+
+287
+00:25:53,093 --> 00:25:54,970
+Sono Karen Page.
+Lavoro per il<i> Bulletin.</i>
+
+288
+00:25:55,053 --> 00:25:55,971
+Lo sappiamo.
+
+289
+00:25:56,054 --> 00:25:57,597
+Beh, vorrei parlargli.
+
+290
+00:25:57,681 --> 00:25:59,099
+Non accadrà.
+
+291
+00:26:00,016 --> 00:26:02,852
+Secondo il suo accordo,
+può parlare con la stampa.
+
+292
+00:26:02,936 --> 00:26:05,438
+Oppure volete decidere di violarlo?
+
+293
+00:26:05,522 --> 00:26:08,358
+Fisk e i suoi avvocati devono
+prima accettare la sua richiesta.
+
+294
+00:26:08,441 --> 00:26:12,320
+Mandano a quel paese
+tutti voi giornalisti. Sta perdendo tempo.
+
+295
+00:26:12,404 --> 00:26:15,198
+Va bene.
+Perché non chiamate i suoi avvocati?
+
+296
+00:26:15,282 --> 00:26:17,701
+Dite che voglio dare a Fisk
+la possibilità di commentare
+
+297
+00:26:17,784 --> 00:26:20,412
+su un articolo che sto scrivendo
+su Marlene Vistain.
+
+298
+00:26:21,246 --> 00:26:22,581
+La madre di Fisk.
+
+299
+00:26:22,664 --> 00:26:23,665
+Merda.
+
+300
+00:26:24,457 --> 00:26:25,667
+Ne ha davvero avuta una?
+
+301
+00:26:27,627 --> 00:26:30,338
+Avanti. Chiamate i suoi avvocati. Aspetto.
+
+302
+00:26:35,468 --> 00:26:37,345
+Non si tratta
+solo di procedimenti penali.
+
+303
+00:26:37,429 --> 00:26:39,764
+La maggioranza dei casi
+non arriva al processo.
+
+304
+00:26:39,848 --> 00:26:44,811
+Lavoriamo così bene che gli accusati
+decidono di dichiararsi colpevoli.
+
+305
+00:26:44,894 --> 00:26:48,189
+Perciò mandiamo i cattivi in carcere
+spendendo meno.
+
+306
+00:26:48,273 --> 00:26:50,066
+Su questo siamo tutti d'accordo.
+
+307
+00:26:55,739 --> 00:26:59,367
+Ma poi li lasciate uscire.
+Non è vero, sig. Tower?
+
+308
+00:26:59,451 --> 00:27:03,705
+Firma sia accordi di incarcerazione
+che di scarcerazione, non è vero?
+
+309
+00:27:03,788 --> 00:27:05,415
+È Foggy Nelson, quello?
+
+310
+00:27:06,625 --> 00:27:07,959
+Sì, sig. Gerlach.
+
+311
+00:27:08,043 --> 00:27:09,878
+Cosa stai facendo, Foggy?
+
+312
+00:27:09,961 --> 00:27:13,340
+Ho detto alla tua ragazza
+che se non sei in lista non puoi parlare.
+
+313
+00:27:13,423 --> 00:27:17,552
+Ma i Nelson sono membri del club
+e volete il nostro appoggio.
+
+314
+00:27:17,636 --> 00:27:19,596
+I membri possono fare domande, giusto?
+
+315
+00:27:19,679 --> 00:27:21,890
+Non cambierai il voto, Foggy.
+
+316
+00:27:21,973 --> 00:27:24,684
+Fai solo tardare il dolce
+e incazzare la gente.
+
+317
+00:27:25,977 --> 00:27:29,022
+Mi scuso con tutti voi.
+Non ci vorrà molto.
+
+318
+00:27:29,105 --> 00:27:30,732
+Tipica frase da avvocato.
+
+319
+00:27:32,942 --> 00:27:35,904
+Sappiamo dilungarci, certo.
+Ma stavolta non mi farò pagare.
+
+320
+00:27:37,447 --> 00:27:40,492
+Sono un candidato
+procuratore distrettuale fuori lista.
+
+321
+00:27:40,575 --> 00:27:42,118
+Molti di voi ormai già lo sanno.
+
+322
+00:27:42,661 --> 00:27:44,621
+Non lo faccio
+perché mi aspetto di vincere.
+
+323
+00:27:45,246 --> 00:27:47,999
+Ma perché lui si assuma
+le sue responsabilità.
+
+324
+00:27:48,083 --> 00:27:50,210
+Il dibattito è l'anima della democrazia.
+
+325
+00:27:50,794 --> 00:27:53,505
+Allora perché non parla di Wilson Fisk?
+
+326
+00:27:53,588 --> 00:27:55,465
+Vuole diventare procuratore, sig. Tower,
+
+327
+00:27:55,548 --> 00:27:58,593
+oppure vuole fuggire
+dalle sue responsabilità?
+
+328
+00:27:59,719 --> 00:28:01,429
+Ne abbiamo già discusso, sig. Nelson.
+
+329
+00:28:01,513 --> 00:28:05,100
+Sostiene ancora di non avere
+niente a che fare col suo rilascio
+
+330
+00:28:05,183 --> 00:28:07,185
+e col fatto che viva
+nuovamente qui in città?
+
+331
+00:28:07,268 --> 00:28:10,355
+Il mio ufficio ha potere
+nei confini della legge statale.
+
+332
+00:28:10,438 --> 00:28:13,817
+La situazione di Wilson Fisk pertiene
+alla giurisdizione federale...
+
+333
+00:28:13,900 --> 00:28:15,944
+Per i crimini
+per cui è stato condannato.
+
+334
+00:28:16,027 --> 00:28:16,861
+Certamente.
+
+335
+00:28:16,945 --> 00:28:21,616
+Ma può perseguirlo per i crimini
+che sta commettendo adesso, no?
+
+336
+00:28:21,700 --> 00:28:22,742
+Quali crimini?
+
+337
+00:28:22,826 --> 00:28:25,829
+Quell'uomo è
+sotto la custodia costante dell'FBI.
+
+338
+00:28:26,913 --> 00:28:28,915
+In un hotel a cinque stelle.
+
+339
+00:28:28,998 --> 00:28:31,251
+Perché ha fatto un accordo con l'FBI.
+
+340
+00:28:31,334 --> 00:28:36,047
+Potrà vivere nel lusso fintantoché
+consegnerà loro prominenti criminali.
+
+341
+00:28:36,131 --> 00:28:39,843
+Cosa che Fisk ha fatto più volte,
+rendendo la città più sicura.
+
+342
+00:28:39,926 --> 00:28:42,679
+Oppure sta facendo fuori la concorrenza.
+
+343
+00:28:43,972 --> 00:28:45,014
+Esatto.
+
+344
+00:28:46,349 --> 00:28:50,687
+Wilson Fisk sta dando informazioni
+su bersagli attentamente selezionati.
+
+345
+00:28:50,770 --> 00:28:53,940
+Usa il governo come un esercito privato
+
+346
+00:28:54,023 --> 00:28:58,278
+per riprendersi la sua posizione
+al centro del mondo criminale cittadino.
+
+347
+00:28:58,361 --> 00:28:59,362
+Sono solo fantasie.
+
+348
+00:28:59,446 --> 00:29:02,741
+No, è la dura realtà.
+
+349
+00:29:04,576 --> 00:29:08,705
+Ci sono agenti governativi
+controllati da vari criminali.
+
+350
+00:29:08,788 --> 00:29:10,290
+Ciò che Wilson Fisk ha fatto
+
+351
+00:29:10,373 --> 00:29:13,209
+è prendere tutti quei criminali
+e consegnarli all'FBI.
+
+352
+00:29:13,293 --> 00:29:16,504
+Tenendo per sé gli agenti corrotti.
+
+353
+00:29:17,088 --> 00:29:23,595
+Vuole diventare l'unico a cui rivolgersi
+per corruzione e protezione.
+
+354
+00:29:23,678 --> 00:29:25,722
+È tutto qui.
+
+355
+00:29:25,805 --> 00:29:27,182
+Sig. Nelson.
+
+356
+00:29:27,265 --> 00:29:30,977
+Come procuratore distrettuale,
+non può solo arruffianarsi la folla.
+
+357
+00:29:31,060 --> 00:29:32,771
+Deve fornire delle prove.
+
+358
+00:29:32,854 --> 00:29:34,773
+- Posso farlo.
+- No, non può.
+
+359
+00:29:34,856 --> 00:29:35,857
+Ora tocca a me.
+
+360
+00:29:36,649 --> 00:29:40,320
+Nel suo studio legale di grido
+vi insegnano a romanzare.
+
+361
+00:29:40,904 --> 00:29:43,531
+Che storia vuole sentire la giuria?
+I fatti non contano.
+
+362
+00:29:44,073 --> 00:29:46,451
+Sono stato procuratore per 13 anni
+
+363
+00:29:46,534 --> 00:29:49,454
+e posso dirvi che non è così
+che funziona la legge.
+
+364
+00:29:49,537 --> 00:29:53,374
+I bei discorsi impressionano la folla,
+ma non reggono in tribunale.
+
+365
+00:29:54,459 --> 00:29:56,836
+Non ho la sua esperienza, sig. Tower.
+
+366
+00:29:57,754 --> 00:29:59,380
+È vero. Ma non ho neanche
+
+367
+00:30:00,173 --> 00:30:04,636
+il suo disincanto, dopo aver fatto
+la stessa cosa per tanti anni.
+
+368
+00:30:04,719 --> 00:30:07,555
+Provo ancora passione
+per ciò che la legge può fare.
+
+369
+00:30:08,348 --> 00:30:10,975
+Ed è uno strumento eccezionale
+col quale lavorare.
+
+370
+00:30:11,893 --> 00:30:14,604
+Perché quando superiamo i freddi fatti
+
+371
+00:30:14,687 --> 00:30:17,816
+e ci appassioniamo
+a ciò che facciamo, è possibile...
+
+372
+00:30:22,362 --> 00:30:23,363
+Oh, merda.
+
+373
+00:30:23,446 --> 00:30:25,156
+Non riesco a sentirla.
+
+374
+00:30:25,240 --> 00:30:28,660
+Cosa può fare, sig. Nelson?
+Bloccarsi davanti alla giuria?
+
+375
+00:30:43,508 --> 00:30:44,759
+Vi osserveremo.
+
+376
+00:30:52,016 --> 00:30:53,476
+Incredibile...
+
+377
+00:31:12,287 --> 00:31:13,496
+Sig.na Page.
+
+378
+00:31:22,213 --> 00:31:26,384
+Devo ammetterlo,
+mi sorprende che lei sia qui.
+
+379
+00:31:30,889 --> 00:31:33,516
+E questa sarebbe la vita da carcerato?
+
+380
+00:31:33,600 --> 00:31:39,314
+Sono certo che tutto questo la offenda,
+considerate le sue esperienze.
+
+381
+00:31:41,566 --> 00:31:43,651
+Cioè le volte
+che ha tentato di farmi uccidere?
+
+382
+00:31:45,278 --> 00:31:47,488
+Crimini per i quali sto ancora pagando.
+
+383
+00:31:48,948 --> 00:31:51,910
+Sì. Mi offende.
+
+384
+00:32:01,294 --> 00:32:02,295
+Vuole un tè?
+
+385
+00:32:04,631 --> 00:32:05,715
+No, grazie.
+
+386
+00:32:06,966 --> 00:32:08,468
+Non sono qui per il tè.
+
+387
+00:32:20,855 --> 00:32:21,856
+Si sieda.
+
+388
+00:32:23,816 --> 00:32:26,361
+È qui per parlarmi, quanto meno.
+
+389
+00:32:31,366 --> 00:32:33,117
+Parliamo un po'.
+
+390
+00:32:44,253 --> 00:32:46,798
+Non sta scrivendo un articolo
+su mia madre.
+
+391
+00:32:49,801 --> 00:32:50,802
+No?
+
+392
+00:32:55,348 --> 00:32:56,432
+Potrei farlo.
+
+393
+00:32:56,516 --> 00:32:58,184
+A che scopo, sig.na Page?
+
+394
+00:32:58,851 --> 00:33:00,436
+Per angosciarmi?
+
+395
+00:33:02,230 --> 00:33:04,774
+Non sarebbe una cattiva idea,
+ora che l'ha detto.
+
+396
+00:33:05,358 --> 00:33:09,195
+Non apprezzo
+le violazioni alla mia privacy.
+
+397
+00:33:09,779 --> 00:33:11,489
+Tuttavia mi ha fatta entrare.
+
+398
+00:33:12,907 --> 00:33:17,578
+Lavorava per Ben Urich, vero?
+
+399
+00:33:17,662 --> 00:33:19,288
+Credo sia stato il suo mentore.
+
+400
+00:33:19,372 --> 00:33:21,332
+Sì, prima di essere ucciso.
+
+401
+00:33:22,000 --> 00:33:26,504
+La sua ultima lezione.
+Che lei non sembra aver capito.
+
+402
+00:33:27,380 --> 00:33:28,464
+È una minaccia?
+
+403
+00:33:29,298 --> 00:33:31,009
+È un'osservazione.
+
+404
+00:33:33,845 --> 00:33:35,263
+Beh, ha ragione.
+
+405
+00:33:37,265 --> 00:33:39,600
+Non sono qui per parlare di sua madre.
+
+406
+00:33:41,602 --> 00:33:43,980
+Preferirei parlare
+di ciò che sua madre disse a Ben.
+
+407
+00:33:46,065 --> 00:33:49,610
+Anzi, di ciò che disse a noi.
+
+408
+00:33:52,655 --> 00:33:56,701
+Vede, non credo che lo sappia,
+ma io ero con lui.
+
+409
+00:33:57,618 --> 00:33:59,203
+Probabilmente non era etico.
+
+410
+00:33:59,287 --> 00:34:04,167
+Due esperti giornalisti
+che interrogano una debole anziana.
+
+411
+00:34:06,502 --> 00:34:07,837
+È facile spingerla...
+
+412
+00:34:09,255 --> 00:34:11,174
+...a dire cose
+che non avrebbe voluto dire.
+
+413
+00:34:11,799 --> 00:34:12,800
+Dove vuole arrivare?
+
+414
+00:34:14,093 --> 00:34:16,637
+Ricordava molti fatti della sua infanzia.
+
+415
+00:34:16,721 --> 00:34:21,267
+Dicono che i ricordi più vecchi
+sono quelli che restano più a lungo.
+
+416
+00:34:22,393 --> 00:34:26,981
+Ricordava un sacco di piccole cose.
+Molte cose imbarazzanti.
+
+417
+00:34:28,024 --> 00:34:32,403
+E ce n'erano molte, non è vero, Willie?
+
+418
+00:34:36,199 --> 00:34:40,411
+Sono certo che ai lettori del <i>Bulletin</i>
+interesserebbe molto conoscerle.
+
+419
+00:34:41,120 --> 00:34:43,873
+No, non le pubblicheremmo mai.
+
+420
+00:34:43,956 --> 00:34:46,125
+Le racconteremmo solo in ufficio.
+
+421
+00:34:47,376 --> 00:34:49,378
+Come vanno le cose in ufficio?
+
+422
+00:34:52,924 --> 00:34:54,717
+Ho saputo della vostra disgrazia.
+
+423
+00:34:54,801 --> 00:34:57,303
+Prima che accadesse, ne sono certa.
+
+424
+00:34:58,221 --> 00:35:00,181
+No, l'articolo che pubblicheremo
+
+425
+00:35:00,264 --> 00:35:03,059
+è un'attenta descrizione di suo padre.
+
+426
+00:35:03,142 --> 00:35:05,144
+E di come lei l'ha ucciso.
+
+427
+00:35:06,938 --> 00:35:08,564
+Un martello. A quell'età?
+
+428
+00:35:15,196 --> 00:35:19,951
+Mi chiedo se dentro di lei
+ci sia ancora un briciolo di innocenza.
+
+429
+00:35:49,981 --> 00:35:53,734
+Mi ha chiesto perché l'ho fatta entrare.
+
+430
+00:35:55,403 --> 00:35:59,323
+Il motivo, sig.na Page, è
+che anch'io ho delle domande per lei.
+
+431
+00:35:59,407 --> 00:36:01,868
+Lei è una giornalista rispettata,
+
+432
+00:36:01,951 --> 00:36:06,247
+ma un tempo lavorava come
+semplice segretaria di uno studio legale.
+
+433
+00:36:06,330 --> 00:36:08,166
+Per Matt Murdock, vero?
+
+434
+00:36:08,249 --> 00:36:09,458
+Ero responsabile dell'ufficio.
+
+435
+00:36:09,542 --> 00:36:12,587
+Intimamente coinvolta nei suoi affari, eh?
+
+436
+00:36:12,670 --> 00:36:14,255
+Relativamente al lavoro.
+
+437
+00:36:14,338 --> 00:36:15,506
+Certamente.
+
+438
+00:36:15,590 --> 00:36:21,762
+Mi dica, quando ha scoperto
+della vita segreta del sig. Murdock?
+
+439
+00:36:29,896 --> 00:36:31,105
+Grazie.
+
+440
+00:36:32,064 --> 00:36:33,691
+Grazie, sig.na Page.
+
+441
+00:36:48,497 --> 00:36:49,874
+Vuoi sapere un segreto?
+
+442
+00:36:51,292 --> 00:36:53,294
+Posso dirti un segreto, Wilson.
+
+443
+00:36:53,377 --> 00:36:56,214
+Posso chiamarti così?
+Ci conosciamo abbastanza bene, ormai.
+
+444
+00:36:56,297 --> 00:36:58,174
+- Come vuoi, Karen.
+- Bene.
+
+445
+00:37:00,468 --> 00:37:02,220
+James Wesley.
+
+446
+00:37:05,264 --> 00:37:08,517
+Come hai preso la sua scomparsa?
+
+447
+00:37:10,353 --> 00:37:14,774
+Sono le prime 24 ore
+a essere le peggiori, vero?
+
+448
+00:37:15,358 --> 00:37:19,028
+Quando chiami, chiami, chiami
+e nessuno risponde.
+
+449
+00:37:19,111 --> 00:37:20,780
+Diventa un'ossessione.
+
+450
+00:37:22,865 --> 00:37:27,787
+Chiamare. Sentire all'infinito la voce
+del fantasma della segreteria telefonica.
+
+451
+00:37:28,913 --> 00:37:29,914
+Ti preoccupi.
+
+452
+00:37:31,040 --> 00:37:32,083
+Inizi a farti domande.
+
+453
+00:37:32,708 --> 00:37:36,420
+Giuri: "Maledizione, se è ancora in vita,
+lo ucciderò con le mie mani".
+
+454
+00:37:39,257 --> 00:37:40,800
+Per te è stato così?
+
+455
+00:37:40,883 --> 00:37:42,385
+Ti sei infuriato?
+
+456
+00:37:43,177 --> 00:37:45,179
+Perché credevi che ti avesse tradito?
+
+457
+00:37:45,263 --> 00:37:47,098
+Chissà cosa sarebbe stato peggio per te. Il suo doppio gioco o la sua morte?
+
+458
+00:37:54,689 --> 00:37:56,649
+È morto in fretta.
+
+459
+00:37:57,233 --> 00:37:58,901
+Se te lo stessi chiedendo.
+
+460
+00:37:59,944 --> 00:38:01,529
+Non ha sofferto molto.
+
+461
+00:38:02,363 --> 00:38:06,784
+Vedi, Wilson, non è di Matt Murdock
+che dovresti preoccuparti.
+
+462
+00:38:08,160 --> 00:38:09,662
+Ho ucciso io Wesley.
+
+463
+00:38:11,289 --> 00:38:14,208
+Gli ho sparato sette volte.
+
+464
+00:38:14,292 --> 00:38:17,920
+Perché ho esaurito i proiettili.
+Si meritava di peggio.
+
+465
+00:38:19,839 --> 00:38:20,756
+Non muoverti!
+
+466
+00:38:24,135 --> 00:38:25,136
+Cosa?
+
+467
+00:38:34,770 --> 00:38:35,813
+Foggy?
+
+468
+00:38:41,068 --> 00:38:42,403
+Prendilo come un complimento.
+
+469
+00:38:42,486 --> 00:38:44,530
+Credevano davvero
+che volessi ucciderlo?
+
+470
+00:38:44,613 --> 00:38:46,699
+- Dovevo pur dire qualcosa.
+- No.
+
+471
+00:38:47,491 --> 00:38:49,243
+Hai rovinato tutto. Lo avevo in pugno.
+
+472
+00:38:49,327 --> 00:38:51,829
+In pugno? Ti avrebbe spezzato
+come un ramoscello.
+
+473
+00:38:51,912 --> 00:38:53,497
+Almeno lo avrebbero registrato.
+
+474
+00:38:55,791 --> 00:38:57,126
+Era davvero quello il piano?
+
+475
+00:38:58,044 --> 00:39:01,380
+Maledizione, Karen.
+Non trasformarti in Matt.
+
+476
+00:39:05,009 --> 00:39:08,637
+Non volevo che mi uccidesse.
+Volevo solo che mi attaccasse.
+
+477
+00:39:09,513 --> 00:39:10,514
+Bene.
+
+478
+00:39:11,724 --> 00:39:14,518
+- Beh, mi hai dato tu l'idea.
+- Io?
+
+479
+00:39:14,602 --> 00:39:16,896
+Dicevi di volere
+far abbassare la guardia a Tower
+
+480
+00:39:16,979 --> 00:39:20,149
+e ho pensato che avrei potuto far sì
+che Fisk smettesse di pensare
+
+481
+00:39:20,232 --> 00:39:22,193
+e reagisse impulsivamente.
+
+482
+00:39:22,985 --> 00:39:25,363
+Mi ero immaginato qualcosa di simile.
+
+483
+00:39:25,905 --> 00:39:27,865
+Non era un brutto piano, a dire il vero.
+
+484
+00:39:27,948 --> 00:39:30,868
+Tranne per la parte
+in cui speri nell'arrivo dell'FBI
+
+485
+00:39:30,951 --> 00:39:32,620
+prima che quel mostro ti pesti a morte.
+
+486
+00:39:32,703 --> 00:39:34,580
+Non ha più importanza, no?
+
+487
+00:39:36,165 --> 00:39:37,833
+Come facevi a sapere che ero qui?
+
+488
+00:39:38,459 --> 00:39:39,668
+Ti conosco.
+
+489
+00:39:39,752 --> 00:39:41,087
+Quando non sei venuta,
+
+490
+00:39:41,962 --> 00:39:45,883
+ho pensato a diverse spiegazioni
+e questa era di gran lunga la peggiore.
+
+491
+00:39:45,966 --> 00:39:47,718
+Perciò ero piuttosto sicuro.
+
+492
+00:39:48,386 --> 00:39:50,012
+Almeno ci ho provato.
+
+493
+00:39:50,096 --> 00:39:51,263
+Ci hai provato.
+
+494
+00:39:51,847 --> 00:39:54,266
+Domani, un esercito te la farà pagare.
+
+495
+00:39:58,771 --> 00:40:01,107
+La copia del rapporto per l'assicurazione.
+
+496
+00:40:01,732 --> 00:40:02,817
+Grazie.
+
+497
+00:41:57,056 --> 00:41:58,390
+Vieni con me.
+
+498
+00:42:02,353 --> 00:42:04,563
+Sì, farò di nuovo tardi.
+
+499
+00:42:05,814 --> 00:42:09,693
+Lo so, tesoro, ma domani formalizzeranno
+le accuse contro gli albanesi
+
+500
+00:42:09,777 --> 00:42:12,238
+e devo controllare il mio resoconto.
+
+501
+00:42:13,906 --> 00:42:16,325
+Sì, stasera non ce la faccio.
+
+502
+00:42:19,370 --> 00:42:20,913
+Da' un bacio a Sami per me.
+
+503
+00:42:23,165 --> 00:42:24,291
+Ti amo anch'io.
+
+504
+00:43:20,306 --> 00:43:21,307
+Capo. Sono Nadeem.
+
+505
+00:43:23,767 --> 00:43:25,144
+Scusi se l'ho svegliata.
+
+506
+00:43:27,980 --> 00:43:29,315
+Dobbiamo parlare.
+
+507
+00:44:26,705 --> 00:44:27,706
+Dopo di te.
+
+508
+00:44:41,178 --> 00:44:44,264
+È sempre stato qui?
+
+509
+00:44:49,228 --> 00:44:50,229
+Noi...
+
+510
+00:44:52,314 --> 00:44:53,482
+Ho un problema.
+
+511
+00:44:54,817 --> 00:44:56,318
+Nadeem lo sa.
+
+512
+00:44:56,402 --> 00:44:57,736
+So che lo sa.
+
+513
+00:44:58,821 --> 00:45:01,240
+Ci occuperemo del problema.
+
+514
+00:45:09,123 --> 00:45:10,165
+Dex...
+
+515
+00:45:12,835 --> 00:45:15,295
+...non puoi tenerti dentro la rabbia.
+
+516
+00:45:17,131 --> 00:45:19,466
+Deve andare da qualche parte
+
+517
+00:45:19,550 --> 00:45:22,177
+o diventa veleno.
+
+518
+00:45:22,261 --> 00:45:24,388
+Ti ucciderà da dentro.
+
+519
+00:45:24,471 --> 00:45:30,060
+Quando questa rabbia
+non può restare dentro di me
+
+520
+00:45:30,144 --> 00:45:31,812
+per un altro secondo,
+
+521
+00:45:32,855 --> 00:45:38,986
+un grido primordiale
+è l'unica liberazione soddisfacente.
+
+522
+00:46:12,644 --> 00:46:14,062
+<i>Mi piace far accadere le cose</i>
+
+523
+00:46:14,146 --> 00:46:16,398
+<i>senza che nessuno lo sappia.</i>
+
+524
+00:46:17,274 --> 00:46:20,360
+<i>Facciamo i nostri esercizi.</i>
+<i>Chiudi gli occhi.</i>
+
+525
+00:46:20,444 --> 00:46:21,862
+Non aveva genitori.
+
+526
+00:46:21,945 --> 00:46:23,280
+<i>Sto scavando una buca.</i>
+
+527
+00:46:24,698 --> 00:46:27,493
+- Ha combattuto a lungo.
+<i>- Ho sepolto la rabbia sotto terra.</i>
+
+528
+00:46:27,576 --> 00:46:28,952
+<i>- Bene.</i>
+- Era arrabbiato.
+
+529
+00:46:29,036 --> 00:46:33,373
+<i>- Ora coprila con la terra.</i>
+<i>- Ok. Ma, dr.ssa Mercer?</i>
+
+530
+00:46:34,041 --> 00:46:35,083
+Avanti, lo dica.
+
+531
+00:46:35,167 --> 00:46:36,335
+<i>Voglio aprire la scatola.</i>
+
+532
+00:46:36,418 --> 00:46:38,003
+Ho promesso di non dire niente.
+
+533
+00:46:38,086 --> 00:46:40,422
+- Ma vuole dire che le suona familiare.
+- Tu dici?
+
+534
+00:46:45,260 --> 00:46:48,013
+Neanch'io avevo nessuno,
+ma non sono come lui.
+
+535
+00:46:49,890 --> 00:46:52,851
+I nastri indicano che era un assassino
+fin dalla giovane età.
+
+536
+00:46:52,935 --> 00:46:54,269
+Quel tizio è uno psicopatico.
+
+537
+00:46:58,524 --> 00:47:00,234
+E oggi avevo una possibilità.
+
+538
+00:47:01,568 --> 00:47:04,238
+Una possibilità di coglierlo di sorpresa.
+E l'ho sprecata.
+
+539
+00:47:05,447 --> 00:47:07,199
+Hai fatto quel che credevi giusto.
+
+540
+00:47:07,825 --> 00:47:10,118
+Hai mantenuto la parola data
+all'agente Nadeem.
+
+541
+00:47:13,539 --> 00:47:15,332
+E quante persone moriranno per questo?
+
+542
+00:47:35,227 --> 00:47:38,397
+Non so se ho la forza di superare questo.
+
+543
+00:47:40,858 --> 00:47:42,609
+È così testardo.
+
+544
+00:47:43,610 --> 00:47:45,946
+Pieno di furia e stupido orgoglio.
+
+545
+00:47:47,823 --> 00:47:48,907
+Ti prego...
+
+546
+00:47:50,075 --> 00:47:51,577
+...proteggilo.
+
+547
+00:47:53,370 --> 00:47:57,291
+Impediscigli di fare gli stessi maledetti
+errori che ti hanno portato via da noi.
+
+548
+00:47:58,250 --> 00:48:00,836
+Nostro figlio ti somiglia troppo, Jack.
+
+549
+00:48:07,426 --> 00:48:08,635
+Mamma?
+

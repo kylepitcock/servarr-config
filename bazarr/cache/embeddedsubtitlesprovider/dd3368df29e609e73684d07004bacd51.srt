@@ -1,0 +1,202 @@
+1
+00:00:07,125 --> 00:00:08,625
+A NETFLIX SAJÁT GYÁRTÁSÚ SOROZATA
+
+2
+00:00:26,875 --> 00:00:30,458
+ÜZEMZAVAR
+
+3
+00:00:58,166 --> 00:00:59,791
+Itt fogok meghalni.
+
+4
+00:01:47,958 --> 00:01:49,708
+OXIGÉNSZINT
+MENEDÉKKERESÉS
+
+5
+00:01:51,666 --> 00:01:53,250
+ÁLLAPOT: OFFLINE
+15,42 KM
+
+6
+00:02:14,125 --> 00:02:15,000
+OXIGÉNRIASZTÁS
+
+7
+00:02:15,083 --> 00:02:15,916
+AKTIVÁLÁS
+
+8
+00:02:16,000 --> 00:02:16,833
+AKTIVÁLÁS...
+
+9
+00:02:28,208 --> 00:02:29,291
+A francba!
+
+10
+00:02:29,791 --> 00:02:32,041
+Látom, a tiéd is kemény landolás volt.
+
+11
+00:03:02,291 --> 00:03:04,416
+KÖSZÖNTI A 817-RD9G
+MENEDÉKEGYSÉG
+
+12
+00:03:08,750 --> 00:03:11,000
+<i>Menedékegység aktiválva.</i>
+
+13
+00:03:11,083 --> 00:03:13,208
+<i>Figyelem, sérülést érzékelek.</i>
+
+14
+00:03:23,125 --> 00:03:24,875
+<i>Kommunikáció üzemben.</i>
+
+15
+00:03:24,958 --> 00:03:26,500
+MENTÉSKÉRÉS
+ÁTVITELRE VÁR
+
+16
+00:03:29,750 --> 00:03:31,291
+<i>Karbantartó robot...</i>
+
+17
+00:03:35,583 --> 00:03:36,541
+<i>Hiba.</i>
+
+18
+00:03:36,625 --> 00:03:38,083
+Ócskavas.
+
+19
+00:03:38,166 --> 00:03:41,625
+<i>Karbantartó robot, hiba.</i>
+
+20
+00:03:45,666 --> 00:03:49,041
+<i>Karbantartó robot, meghibásodás.</i>
+
+21
+00:03:49,625 --> 00:03:50,458
+Várj!
+
+22
+00:03:54,625 --> 00:03:56,916
+Várj! Program leáll!
+
+23
+00:03:57,833 --> 00:03:59,333
+Program leáll!
+
+24
+00:04:00,375 --> 00:04:02,000
+<i>Végrehajtási hiba.</i>
+
+25
+00:04:50,875 --> 00:04:52,583
+VESZÉLY
+ELLENSÉG LŐTÁVOLBAN
+
+26
+00:04:54,666 --> 00:04:56,583
+<i>Prometheus CVW2.</i>
+
+27
+00:04:56,666 --> 00:04:59,416
+<i>ECM-ek online, támadás engedélyezve.</i>
+
+28
+00:04:59,500 --> 00:05:00,791
+<i>Nova 6 úton.</i>
+
+29
+00:05:00,875 --> 00:05:02,291
+<i>Nova 9 úton.</i>
+
+30
+00:05:02,375 --> 00:05:03,458
+Nova 4 úton.
+
+31
+00:05:03,541 --> 00:05:06,000
+<i>Nyugtázva, élesítsék a fegyverrendszert!</i>
+
+32
+00:05:06,083 --> 00:05:08,041
+Vettem. Élesítés.
+
+33
+00:05:08,125 --> 00:05:11,125
+Divine Flash 12 Judgment 2 betöltve.
+
+34
+00:05:12,250 --> 00:05:14,000
+Élesítve és vadászatra kész.
+
+35
+00:05:14,083 --> 00:05:18,333
+<i>Nova raj, lépcsős kötelék.
+Gyors és kemény csapást kérek!</i>
+
+36
+00:07:01,625 --> 00:07:05,208
+<i>731, ellenséges tűz alatt vagyunk!</i>
+
+37
+00:07:08,750 --> 00:07:10,375
+Elvesztettük az egyest!
+
+38
+00:07:15,416 --> 00:07:16,291
+Tüzelek.
+
+39
+00:07:17,166 --> 00:07:19,291
+Gyerünk!
+
+40
+00:07:27,333 --> 00:07:29,500
+VÉSZLEÁLLÍTÁS
+
+41
+00:09:59,875 --> 00:10:02,500
+MENTÉSKÉRÉS
+ÁTVITELRE VÁR
+
+42
+00:10:14,500 --> 00:10:16,125
+<i>SOS-jelzés fogadva.</i>
+
+43
+00:10:16,208 --> 00:10:21,750
+<i>817-RD9G menedékegység, mentőcsapat úton.</i>
+
+44
+00:10:26,875 --> 00:10:30,250
+<i>Figyelmeztetés:
+a karbantartó robot meghibásodott.</i>
+
+45
+00:10:32,333 --> 00:10:35,625
+<i>Figyelmeztetés:
+a karbantartó robot meghibásodott.</i>
+
+46
+00:10:35,708 --> 00:10:37,125
+Nem mondod.
+
+47
+00:10:38,000 --> 00:10:41,291
+<i>Figyelmeztetés:
+a karbantartó robot meghibásodott.</i>
+
+48
+00:12:03,083 --> 00:12:05,583
+A feliratot fordította: Vass András
+

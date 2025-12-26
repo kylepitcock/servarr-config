@@ -1,0 +1,489 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2.37,1.97,2,20,20,20,0
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.01,0:00:08.93,Default,,0,0,0,,UNA SERIE ORIGINAL DE NETFLIX
+Dialogue: 0,0:00:09.02,0:00:10.31,Default,,0,0,0,,¡...uta que me parió!
+Dialogue: 0,0:00:12.77,0:00:18.11,Default,,0,0,0,,- Tenemos varias opciones.\N- Sí, hay muchas opciones para charlar.
+Dialogue: 0,0:00:18.19,0:00:20.61,Default,,0,0,0,,- Sabes que te amo.\N- No es el punto.
+Dialogue: 0,0:00:20.69,0:00:22.73,Default,,0,0,0,,Acordamos no tener hijos, salvo que...
+Dialogue: 0,0:00:22.82,0:00:26.62,Default,,0,0,0,,Un adolescente avispado necesitara casa\Nantes de su audición en Julliard.
+Dialogue: 0,0:00:26.70,0:00:29.49,Default,,0,0,0,,Apoyaríamos su carrera de bailarín\Ny viviría con nosotros.
+Dialogue: 0,0:00:29.58,0:00:32.17,Default,,0,0,0,,- ¿Pero un bebé? ¿Tú...?\N- No importo yo.
+Dialogue: 0,0:00:32.25,0:00:34.88,Default,,0,0,0,,No hay un "mí" en la palabra "útero".
+Dialogue: 0,0:00:34.96,0:00:37.17,Default,,0,0,0,,Hay una "u", un "te", un "ro".
+Dialogue: 0,0:00:37.25,0:00:40.46,Default,,0,0,0,,y sí hay un "ro" en la palabra "nosotros".
+Dialogue: 0,0:00:40.55,0:00:43.85,Default,,0,0,0,,Te apoyaré en todo 24 x 7.
+Dialogue: 0,0:00:43.93,0:00:47.89,Default,,0,0,0,,24 x 7 es igual a 168.\NTe apoyaré un 168%.
+Dialogue: 0,0:00:47.97,0:00:50.81,Default,,0,0,0,,- Lo que decidas...\N- Lo que decidamos, porque es algo...
+Dialogue: 0,0:00:50.89,0:00:53.98,Default,,0,0,0,,Por supuesto, hay que conversarlo.
+Dialogue: 0,0:00:55.15,0:00:58.49,Default,,0,0,0,,Digamos qué queremos al mismo tiempo\Na la cuenta de tres.
+Dialogue: 0,0:00:58.57,0:01:00.86,Default,,0,0,0,,- De acuerdo.\N- Uno, dos...
+Dialogue: 0,0:01:00.94,0:01:02.48,Default,,0,0,0,,¿En "tres" o después?
+Dialogue: 0,0:01:02.57,0:01:05.03,Default,,0,0,0,,¡No puedo decir dos cosas a la vez!
+Dialogue: 0,0:01:05.11,0:01:08.49,Default,,0,0,0,,- De acuerdo.\N- Uno, dos, tres.
+Dialogue: 0,0:01:08.58,0:01:09.62,Default,,0,0,0,,- Aborto.\N- Abórtalo.
+Dialogue: 0,0:01:09.70,0:01:11.95,Default,,0,0,0,,Oh, no, dijimos cosas diferentes.
+Dialogue: 0,0:02:06.80,0:02:07.93,Default,,0,0,0,,CARRERA AL ÓSCAR
+Dialogue: 0,0:02:08.01,0:02:12.27,Default,,0,0,0,,La carrera al Óscar se está animando\Ny las estrellas están calentando motores
+Dialogue: 0,0:02:12.35,0:02:14.77,Default,,0,0,0,,en los premios Copo de Nieve de Oro.
+Dialogue: 0,0:02:14.85,0:02:19.77,Default,,0,0,0,,Primer paso de la tortura\Nque es la agotadora Carrera al Óscar.
+Dialogue: 0,0:02:19.86,0:02:21.95,Default,,0,0,0,,PREMIOS COPO DE NIEVE DE ORO\N2016
+Dialogue: 0,0:02:22.02,0:02:26.02,Default,,0,0,0,,Los nominados a mejor actor\Nde largometraje o Vine son...
+Dialogue: 0,0:02:26.53,0:02:28.70,Default,,0,0,0,,Mitt Dermon por Hoyo de Medianoche...
+Dialogue: 0,0:02:29.49,0:02:32.58,Default,,0,0,0,,Bread Poot por Ciudad de SIDA...
+Dialogue: 0,0:02:33.45,0:02:37.79,Default,,0,0,0,,...Lernernerner DiCarpricorn\Npor El sastre y el maní...
+Dialogue: 0,0:02:38.54,0:02:42.50,Default,,0,0,0,,...Jurj Clooners\Npor El nazi que jugaba al parchís...
+Dialogue: 0,0:02:43.55,0:02:46.76,Default,,0,0,0,,...y BoJack Horseman por Secretariat.
+Dialogue: 0,0:02:47.47,0:02:48.72,Default,,0,0,0,,Dios mío.
+Dialogue: 0,0:02:48.80,0:02:52.39,Default,,0,0,0,,Y el Copo de Nieve de Oro es para...\NJurj Clooners.
+Dialogue: 0,0:02:52.47,0:02:55.89,Default,,0,0,0,,Dios santo. No puede ser verdad.
+Dialogue: 0,0:02:59.98,0:03:01.98,Default,,0,0,0,,La próxima vez será para ti.
+Dialogue: 0,0:03:02.06,0:03:05.65,Default,,0,0,0,,Mis clientes ganaron el Óscar\Nen nueve de los últimos diez años.
+Dialogue: 0,0:03:05.73,0:03:06.73,Default,,0,0,0,,¿Nueve de diez?
+Dialogue: 0,0:03:06.82,0:03:10.32,Default,,0,0,0,,Una aerolínea no se jactaría\Nde aterrizar 9 de 10 aviones
+Dialogue: 0,0:03:10.41,0:03:11.54,Default,,0,0,0,,en su comercial.
+Dialogue: 0,0:03:11.62,0:03:14.41,Default,,0,0,0,,A todos les encanta Secretariat.\NLlegará tu momento.
+Dialogue: 0,0:03:14.49,0:03:19.29,Default,,0,0,0,,Si me disculpas, tengo que decirle\Na A.O. Scott lo grandioso que eres.
+Dialogue: 0,0:03:19.37,0:03:21.16,Default,,0,0,0,,¡Scott!
+Dialogue: 0,0:03:21.71,0:03:23.00,Default,,0,0,0,,Hola, Diane.
+Dialogue: 0,0:03:23.08,0:03:26.08,Default,,0,0,0,,- Diane, Diane.\N- Estoy haciendo mi trabajo, BoJack.
+Dialogue: 0,0:03:26.17,0:03:27.71,Default,,0,0,0,,Los jóvenes y sus teléfonos.
+Dialogue: 0,0:03:27.80,0:03:31.64,Default,,0,0,0,,Podría haber un arcoíris hermoso\Naquí y ahora y te lo perderías.
+Dialogue: 0,0:03:31.72,0:03:34.60,Default,,0,0,0,,Es para reflexionar.\N¿Puedes ver arcoíris en tu teléfono?
+Dialogue: 0,0:03:34.68,0:03:36.35,Default,,0,0,0,,Cállate, BoJack.
+Dialogue: 0,0:03:36.43,0:03:37.56,Default,,0,0,0,,Mierda.
+Dialogue: 0,0:03:37.64,0:03:40.14,Default,,0,0,0,,Tuiteé "Cállate, BoJack"\Ncomo Cynthia Nixon.
+Dialogue: 0,0:03:40.23,0:03:42.69,Default,,0,0,0,,Es creíble. No me quiere y con razón.
+Dialogue: 0,0:03:42.77,0:03:45.19,Default,,0,0,0,,- Estábamos en las Poconos...\N- Ahora no.
+Dialogue: 0,0:03:45.27,0:03:47.98,Default,,0,0,0,,- ¿Qué tienes en el culo?\N- ¿De verdad quieres saber?
+Dialogue: 0,0:03:48.07,0:03:50.28,Default,,0,0,0,,Quiero saber qué trepó hasta tu culo,
+Dialogue: 0,0:03:50.36,0:03:52.15,Default,,0,0,0,,hizo una casita en tu culo,
+Dialogue: 0,0:03:52.24,0:03:55.53,Default,,0,0,0,,tuvo familia, vivió una vida provechosa\Ny murió en tu culo.
+Dialogue: 0,0:03:55.62,0:03:56.66,Default,,0,0,0,,Voy a abortar.
+Dialogue: 0,0:03:57.54,0:03:58.54,Default,,0,0,0,,Me trae recuerdos.
+Dialogue: 0,0:03:58.62,0:04:01.04,Default,,0,0,0,,Tuve mi cuota de abortos en los 90.
+Dialogue: 0,0:04:01.12,0:04:02.62,Default,,0,0,0,,No yo, pero los pagué.
+Dialogue: 0,0:04:02.71,0:04:05.17,Default,,0,0,0,,Espero que se hayan hecho los abortos
+Dialogue: 0,0:04:05.25,0:04:07.34,Default,,0,0,0,,y no se quedaran con el dinero.
+Dialogue: 0,0:04:07.42,0:04:10.92,Default,,0,0,0,,Diane, ¿estás tuiteando en nombre\Nde la cantante pop Sextina Aquafina?
+Dialogue: 0,0:04:11.01,0:04:12.26,Default,,0,0,0,,Eso intento, ¿por qué?
+Dialogue: 0,0:04:12.34,0:04:15.72,Default,,0,0,0,,Porque acabas de tuitear\Na sus 40 millones de seguidores
+Dialogue: 0,0:04:15.80,0:04:17.26,Default,,0,0,0,,"Voy a abortar".
+Dialogue: 0,0:04:17.35,0:04:18.27,Default,,0,0,0,,¿Qué? No...
+Dialogue: 0,0:04:18.35,0:04:19.52,Default,,0,0,0,,Voy a abortar
+Dialogue: 0,0:04:19.60,0:04:20.56,Default,,0,0,0,,Demonios.
+Dialogue: 0,0:04:21.77,0:04:23.81,Default,,0,0,0,,El tuit que recorrió el mundo.
+Dialogue: 0,0:04:23.90,0:04:27.15,Default,,0,0,0,,Sextina Aquafina dice: "Voy a abortar".
+Dialogue: 0,0:04:27.23,0:04:30.07,Default,,0,0,0,,Y el mundo dice: "¿Qué?".
+Dialogue: 0,0:04:30.15,0:04:32.24,Default,,0,0,0,,Si sucede, vamos a hablar de ello.
+Dialogue: 0,0:04:32.32,0:04:34.24,Default,,0,0,0,,Es hora de "Tom despotrica".
+Dialogue: 0,0:04:34.95,0:04:37.20,Default,,0,0,0,,¿Twitter es el foro apropiado
+Dialogue: 0,0:04:37.28,0:04:39.70,Default,,0,0,0,,para discutir un tema sensible\Ncomo el aborto?
+Dialogue: 0,0:04:39.79,0:04:42.42,Default,,0,0,0,,¿No sería un foro más apropiado\Nninguno, jamás?
+Dialogue: 0,0:04:42.50,0:04:46.63,Default,,0,0,0,,Esperen. ¿Dice "Tomdes potrica"?\N¿Por qué dice "Tomdes potrica"?
+Dialogue: 0,0:04:46.71,0:04:47.75,Default,,0,0,0,,Dije claramente...
+Dialogue: 0,0:04:47.84,0:04:50.26,Default,,0,0,0,,Randy, no mires a Jessica.\NEs tu culpa.
+Dialogue: 0,0:04:52.92,0:04:56.55,Default,,0,0,0,,Diane, VIM está colgando de un hilo\Ny apenas sobrevive
+Dialogue: 0,0:04:56.64,0:04:58.14,Default,,0,0,0,,gracias a clientes como Sextina.
+Dialogue: 0,0:04:58.22,0:05:01.52,Default,,0,0,0,,Oí que cerraste el trato\Nde los apartamentos de Papá Oso.
+Dialogue: 0,0:05:01.60,0:05:04.56,Default,,0,0,0,,Gran inversión.\NNo estamos al borde de la ruina.
+Dialogue: 0,0:05:04.64,0:05:06.73,Default,,0,0,0,,Estamos al borde de la ruina.
+Dialogue: 0,0:05:06.81,0:05:09.94,Default,,0,0,0,,Si se lo explico y me disculpo,\Nlo comprenderá.
+Dialogue: 0,0:05:10.03,0:05:13.62,Default,,0,0,0,,Sí, porque es muy comprensiva.\NEs una estrella pop adolescente.
+Dialogue: 0,0:05:13.70,0:05:16.79,Default,,0,0,0,,Literalmente, las dos cualidades\Nmenos compasivas combinadas
+Dialogue: 0,0:05:16.87,0:05:20.75,Default,,0,0,0,,en la supernova de incomprensión\Nque es Sextina Aquafina.
+Dialogue: 0,0:05:22.54,0:05:24.25,Default,,0,0,0,,Imaginen mi sorpresa
+Dialogue: 0,0:05:24.33,0:05:28.92,Default,,0,0,0,,cuando estoy en mitad de mi actuación\Nante el primo de Gadafi en su yate,
+Dialogue: 0,0:05:29.00,0:05:32.80,Default,,0,0,0,,y estoy en una copa de champaña gigante\Ncantando "Teta izquierda"
+Dialogue: 0,0:05:32.88,0:05:36.18,Default,,0,0,0,,y todos empiezan a mirar sus teléfonos\Ny luego a mí,
+Dialogue: 0,0:05:36.26,0:05:39.56,Default,,0,0,0,,porque aparentemente\Nvoy a abortar un bebé que no tengo.
+Dialogue: 0,0:05:39.64,0:05:44.19,Default,,0,0,0,,Les hice convertir el yate en auto\Npara que me trajeran a despedir a alguien.
+Dialogue: 0,0:05:44.27,0:05:47.90,Default,,0,0,0,,- Esa sería yo.\N- Bien. Estás despedida, Cuatro Ojos.
+Dialogue: 0,0:05:48.77,0:05:53.02,Default,,0,0,0,,Publicaré una declaración\Npara explicar todo este lío. Lo siento.
+Dialogue: 0,0:05:53.11,0:05:55.95,Default,,0,0,0,,- Oh... ¡Oh!\N- ¿"Oh"? ¿Quién te autorizó a decir "oh"?
+Dialogue: 0,0:05:56.03,0:05:59.87,Default,,0,0,0,,Taylor Swift acaba de tuitear\Nque eres valiente.
+Dialogue: 0,0:05:59.95,0:06:02.66,Default,,0,0,0,,Nicki Minaj te tuiteó\Nuna carita con corazones.
+Dialogue: 0,0:06:02.74,0:06:05.49,Default,,0,0,0,,Y BuzzFeed publicó una lista\Nde las 15 famosas
+Dialogue: 0,0:06:05.58,0:06:07.67,Default,,0,0,0,,que deberían haber abortado\Ncomo Sextina.
+Dialogue: 0,0:06:07.75,0:06:11.17,Default,,0,0,0,,- Eres el tema del momento.\N- ¿Soy el tema del momento?
+Dialogue: 0,0:06:11.25,0:06:14.92,Default,,0,0,0,,Las mujeres que se someten a esto\Nlo callan porque las estigmatiza.
+Dialogue: 0,0:06:15.01,0:06:17.68,Default,,0,0,0,,Que lo estés haciendo público\Nes importante.
+Dialogue: 0,0:06:17.76,0:06:19.80,Default,,0,0,0,,Lo sería, si de veras abortaras.
+Dialogue: 0,0:06:19.89,0:06:24.27,Default,,0,0,0,,¿Lo que dices\Nes que tal vez sí vaya a abortar?
+Dialogue: 0,0:06:24.35,0:06:26.60,Default,,0,0,0,,No, porque no lo harás.
+Dialogue: 0,0:06:26.68,0:06:29.68,Default,,0,0,0,,Pero si lo hicieras,\Nte convertirías en un ícono cultural.
+Dialogue: 0,0:06:29.77,0:06:33.32,Default,,0,0,0,,Cuatro Ojos, estás des-despedida.\NVoy a abortar.
+Dialogue: 0,0:06:33.40,0:06:35.03,Default,,0,0,0,,- Bueno...\N- Iré a la TV.
+Dialogue: 0,0:06:35.11,0:06:38.40,Default,,0,0,0,,Si hago que una mujer\Nse sienta menos sola,
+Dialogue: 0,0:06:38.49,0:06:39.95,Default,,0,0,0,,valdrá la pena, ¿verdad?
+Dialogue: 0,0:06:40.03,0:06:41.03,Default,,0,0,0,,Sí...
+Dialogue: 0,0:06:41.12,0:06:44.12,Default,,0,0,0,,Si hago que un millón de mujeres\Ncompren mi álbum,
+Dialogue: 0,0:06:44.20,0:06:45.74,Default,,0,0,0,,definitivamente valdrá la pena.
+Dialogue: 0,0:06:46.66,0:06:48.66,Default,,0,0,0,,- Diane, acéptalo.\N- De acuerdo.
+Dialogue: 0,0:06:48.75,0:06:53.55,Default,,0,0,0,,Sextina Aquafina, eres la cara\Ndel movimiento proelección.
+Dialogue: 0,0:06:53.63,0:06:55.51,Default,,0,0,0,,Ahora vamos a informarte.
+Dialogue: 0,0:06:55.59,0:06:56.55,Default,,0,0,0,,¿Qué dices?
+Dialogue: 0,0:06:56.63,0:06:59.13,Default,,0,0,0,,PLANIFOCACIÓN FAMILIAR
+Dialogue: 0,0:07:00.01,0:07:01.22,Default,,0,0,0,,Antes de la intervención,
+Dialogue: 0,0:07:01.30,0:07:04.01,Default,,0,0,0,,tendrás que ver una ecografía\Ny oír el latido.
+Dialogue: 0,0:07:04.10,0:07:05.89,Default,,0,0,0,,O latidos, si tienes varias crías.
+Dialogue: 0,0:07:05.97,0:07:08.68,Default,,0,0,0,,- ¿Por qué debe oír latidos?\N- Así dice la ley.
+Dialogue: 0,0:07:08.77,0:07:11.19,Default,,0,0,0,,Y debo decirte que luego de un mes,
+Dialogue: 0,0:07:11.27,0:07:14.57,Default,,0,0,0,,tus cachorritos tienen un color favorito\Nque podría ser el azul.
+Dialogue: 0,0:07:14.65,0:07:17.61,Default,,0,0,0,,- No puede ser cierto.\N- Tengo que decírtelo por ley.
+Dialogue: 0,0:07:17.69,0:07:21.36,Default,,0,0,0,,Y tendrás que mirar 20 horas\Nde videos de perritos
+Dialogue: 0,0:07:21.45,0:07:24.37,Default,,0,0,0,,mientras suena\NI will remember you de Sarah McLachlan.
+Dialogue: 0,0:07:24.45,0:07:27.74,Default,,0,0,0,,No te preocupes.\NYo miraré los videos de perritos por ti.
+Dialogue: 0,0:07:27.83,0:07:30.71,Default,,0,0,0,,- Estoy dispuesto a sacrificarme.\N- No, ella tiene que mirarlos.
+Dialogue: 0,0:07:30.79,0:07:34.54,Default,,0,0,0,,No te preocupes, Diane,\Nmiraremos los videos de perritos juntos.
+Dialogue: 0,0:07:34.63,0:07:38.47,Default,,0,0,0,,- No, tiene que mirarlos sola.\N- Diane, te tengo terribles noticias.
+Dialogue: 0,0:07:42.05,0:07:46.18,Default,,0,0,0,,Mañana, una entrevista exclusiva\Ncon la incontenible provocadora
+Dialogue: 0,0:07:46.26,0:07:47.97,Default,,0,0,0,,Sextina Aquafina.
+Dialogue: 0,0:07:48.06,0:07:52.36,Default,,0,0,0,,Pero primero, algo que no se abortará\Nes la carrera al Óscar.
+Dialogue: 0,0:07:52.44,0:07:54.44,Default,,0,0,0,,Esta noche, los Premios Leonard Maltin.
+Dialogue: 0,0:07:54.52,0:07:56.61,Default,,0,0,0,,Se entregarán trofeos\Na todas las actuaciones
+Dialogue: 0,0:07:56.69,0:07:59.11,Default,,0,0,0,,que a Leonard Maltin\Nle parecieron bastante buenas.
+Dialogue: 0,0:08:00.90,0:08:04.90,Default,,0,0,0,,Y el Malty al Actor Bastante Bueno\Nes para Bread Poot.
+Dialogue: 0,0:08:15.75,0:08:16.92,Default,,0,0,0,,¿Necesitas otro trago?
+Dialogue: 0,0:08:17.00,0:08:20.30,Default,,0,0,0,,¿Porque soy un fracasado\Ny tengo que ahogar mis penas?
+Dialogue: 0,0:08:20.38,0:08:24.34,Default,,0,0,0,,- No, solo porque podrías tener sed.\N- Me vendría bien un whisky.
+Dialogue: 0,0:08:24.43,0:08:27.02,Default,,0,0,0,,Mira. Jurj Clooners.
+Dialogue: 0,0:08:27.10,0:08:28.89,Default,,0,0,0,,Ahí está, es Jurj Clooners.
+Dialogue: 0,0:08:28.97,0:08:30.60,Default,,0,0,0,,¿Cómo están? Gracias.
+Dialogue: 0,0:08:30.68,0:08:32.77,Default,,0,0,0,,Jurj apesta. ¿Por qué todos lo adoran?
+Dialogue: 0,0:08:32.85,0:08:36.44,Default,,0,0,0,,No es Dios. Es un viejo\Nal que le gustan las bromas.
+Dialogue: 0,0:08:36.52,0:08:37.73,Default,,0,0,0,,Eso suena a Dios.
+Dialogue: 0,0:08:37.82,0:08:40.41,Default,,0,0,0,,- ¡Hola, Jurj!\N- BoJack, ¿verdad?
+Dialogue: 0,0:08:40.49,0:08:42.66,Default,,0,0,0,,Sí, qué bueno verte.
+Dialogue: 0,0:08:42.74,0:08:47.29,Default,,0,0,0,,Hola, Jurj, mi nombre es Todd.\NY mi amigo Keith duerme en tu sillón.
+Dialogue: 0,0:08:47.37,0:08:50.12,Default,,0,0,0,,¿Conoces a Keith?\NDile que ordene su mierda.
+Dialogue: 0,0:08:51.91,0:08:53.25,Default,,0,0,0,,Típico de Keith.
+Dialogue: 0,0:08:53.33,0:08:56.83,Default,,0,0,0,,¿Por qué no vas a buscar tu sombra?
+Dialogue: 0,0:08:56.92,0:08:59.13,Default,,0,0,0,,Estaba aquí hace un segundo.
+Dialogue: 0,0:08:59.21,0:09:02.51,Default,,0,0,0,,Me encantó tu actuación\Nen El nazi que jugaba al parchís.
+Dialogue: 0,0:09:02.59,0:09:05.01,Default,,0,0,0,,¿Cómo te identificas\Ncon un criminal de guerra?
+Dialogue: 0,0:09:05.09,0:09:07.59,Default,,0,0,0,,No lo pienso como un criminal de guerra.
+Dialogue: 0,0:09:07.68,0:09:10.72,Default,,0,0,0,,Solo lo pienso como una persona\Ncon un acento raro.
+Dialogue: 0,0:09:10.81,0:09:13.40,Default,,0,0,0,,Totalmente.\NCreo que estoy entendiendo todo esto.
+Dialogue: 0,0:09:13.48,0:09:18.03,Default,,0,0,0,,Tú ganaste la otra noche, el otro\Nganó hoy, tal vez yo gane la próxima.
+Dialogue: 0,0:09:18.11,0:09:21.28,Default,,0,0,0,,Cielos. Mira, tú no serás el próximo.
+Dialogue: 0,0:09:21.36,0:09:24.20,Default,,0,0,0,,Sonará tonto si lo digo yo,\Npero es así.
+Dialogue: 0,0:09:24.28,0:09:29.16,Default,,0,0,0,,Jurj, Bread, Mitt, esos son nombres.\NNombres de verdad.
+Dialogue: 0,0:09:29.24,0:09:31.66,Default,,0,0,0,,Lernernerner DiCarpricorn.\NEse es un nombre.
+Dialogue: 0,0:09:31.74,0:09:33.70,Default,,0,0,0,,BoJack no es un nombre.
+Dialogue: 0,0:09:33.79,0:09:36.13,Default,,0,0,0,,Alguien tenía que decírtelo.
+Dialogue: 0,0:09:36.21,0:09:38.50,Default,,0,0,0,,Eres el Quinto. Lo entiendes, ¿no?
+Dialogue: 0,0:09:38.59,0:09:41.47,Default,,0,0,0,,- Bueno...\N- Claro que lo entiendes. Dame la mano.
+Dialogue: 0,0:09:42.01,0:09:45.14,Default,,0,0,0,,La mano eléctrica.\NClásica broma de Jurj.
+Dialogue: 0,0:09:45.22,0:09:47.06,Default,,0,0,0,,Nos vemos luego.
+Dialogue: 0,0:09:47.14,0:09:51.98,Default,,0,0,0,,Vivica, ahora entiendo\Npor qué dicen que estás tan buena.
+Dialogue: 0,0:09:52.89,0:09:54.73,Default,,0,0,0,,Disculpe, ¿va a quedarse mucho tiempo?
+Dialogue: 0,0:09:54.81,0:09:57.31,Default,,0,0,0,,Tenemos los premios TOC mañana,
+Dialogue: 0,0:09:57.40,0:10:00.99,Default,,0,0,0,,y a esos tipos les gustan\Nlas fiestas limpias.
+Dialogue: 0,0:10:04.53,0:10:06.57,Default,,0,0,0,,A ver si lo entendí bien.
+Dialogue: 0,0:10:06.65,0:10:09.74,Default,,0,0,0,,Alguien puso un bebé en tu vientre,\Ny ahora dices:
+Dialogue: 0,0:10:09.82,0:10:14.03,Default,,0,0,0,,"¿Hay un botón para deshacer esto?\NFuera embarazo".
+Dialogue: 0,0:10:14.12,0:10:16.33,Default,,0,0,0,,Eso es absolutamente correcto,
+Dialogue: 0,0:10:16.41,0:10:20.58,Default,,0,0,0,,pero me entusiasma la oportunidad\Nde ser la cara de este tema importante.
+Dialogue: 0,0:10:20.67,0:10:23.92,Default,,0,0,0,,Una de cada tres mujeres\Nabortará en algún momento.
+Dialogue: 0,0:10:24.01,0:10:26.51,Default,,0,0,0,,Eso parece demasiado. No te creo.
+Dialogue: 0,0:10:26.59,0:10:29.97,Default,,0,0,0,,Quiero desestigmatizar la experiencia\Npara todas las mujeres,
+Dialogue: 0,0:10:30.05,0:10:32.22,Default,,0,0,0,,así que estrenaré una nueva canción.
+Dialogue: 0,0:10:32.31,0:10:33.73,Default,,0,0,0,,- ¿Qué?\N- Sorpresa.
+Dialogue: 0,0:10:33.81,0:10:35.56,Default,,0,0,0,,- ¿Una nueva canción?\N- Tranquila.
+Dialogue: 0,0:10:35.64,0:10:39.23,Default,,0,0,0,,Rompe un huevo en tu cabeza,\Nsiente cómo la yema va bajando.
+Dialogue: 0,0:10:39.31,0:10:41.52,Default,,0,0,0,,Abran bien sus úteros,
+Dialogue: 0,0:10:41.61,0:10:45.03,Default,,0,0,0,,porque esta canción se llama\NSaca el feto, mata el feto.
+Dialogue: 0,0:10:45.11,0:10:45.94,Default,,0,0,0,,Cielos.
+Dialogue: 0,0:10:46.03,0:10:49.24,Default,,0,0,0,,Soy una mata bebés\NMatar bebés me calienta
+Dialogue: 0,0:10:49.32,0:10:52.32,Default,,0,0,0,,Tengo un alienígena dentro\NLo aplastaré como Sigourney
+Dialogue: 0,0:10:52.41,0:10:54.16,Default,,0,0,0,,No, detente.
+Dialogue: 0,0:10:54.24,0:10:56.16,Default,,0,0,0,,Saca el feto, mata el feto
+Dialogue: 0,0:10:56.25,0:10:58.96,Default,,0,0,0,,Brrap brrap, pew pew
+Dialogue: 0,0:10:59.04,0:11:00.50,Default,,0,0,0,,Detengan el video.
+Dialogue: 0,0:11:00.58,0:11:04.54,Default,,0,0,0,,Cuatro Ojos, tú lo lograste.\NMe diste fuerzas para contar mi historia.
+Dialogue: 0,0:11:04.63,0:11:08.97,Default,,0,0,0,,Creo que el tono es algo... ¿intenso?
+Dialogue: 0,0:11:09.05,0:11:12.60,Default,,0,0,0,,Cuando tú abortes,\Npodrás expresarte como quieras.
+Dialogue: 0,0:11:12.68,0:11:15.39,Default,,0,0,0,,Ahora se trata de mi cuerpo\Ny mis elecciones,
+Dialogue: 0,0:11:15.47,0:11:19.60,Default,,0,0,0,,y mi elección\Nes ser una cabrona completamente loca.
+Dialogue: 0,0:11:19.69,0:11:22.40,Default,,0,0,0,,Yo voy a abortar.\NTú ni siquiera estás embarazada.
+Dialogue: 0,0:11:22.48,0:11:26.07,Default,,0,0,0,,¿Y? Es la industria del entretenimiento.\N"Brrap brrap. Pew pew".
+Dialogue: 0,0:11:28.07,0:11:30.16,Default,,0,0,0,,"Brrap brrap. Pew pew".
+Dialogue: 0,0:11:30.24,0:11:31.74,Default,,0,0,0,,El osado grito de guerra
+Dialogue: 0,0:11:31.82,0:11:34.28,Default,,0,0,0,,de la autodenominada\N"nueva voz de la elección".
+Dialogue: 0,0:11:34.37,0:11:37.92,Default,,0,0,0,,¿No ha ido muy lejos\Nla libre elección para las mujeres?
+Dialogue: 0,0:11:38.00,0:11:40.71,Default,,0,0,0,,Reunimos un panel abarcativo\Nde hombres blancos con moño
+Dialogue: 0,0:11:40.79,0:11:42.00,Default,,0,0,0,,para hablar del aborto.
+Dialogue: 0,0:11:42.08,0:11:45.25,Default,,0,0,0,,- ¿Señores?\N- Este no es un asunto solo femenino.
+Dialogue: 0,0:11:45.34,0:11:47.30,Default,,0,0,0,,Soy hombre, pero si me embarazara,
+Dialogue: 0,0:11:47.38,0:11:50.22,Default,,0,0,0,,¿postergaría mi vida\Npor un niño que no quiero?
+Dialogue: 0,0:11:50.30,0:11:51.47,Default,,0,0,0,,Claro que sí.
+Dialogue: 0,0:11:51.55,0:11:52.55,Default,,0,0,0,,Lo puedo asegurar
+Dialogue: 0,0:11:52.64,0:11:56.02,Default,,0,0,0,,porque jamás tendré que tomar\Nesa decisión, así que soy imparcial.
+Dialogue: 0,0:11:56.10,0:11:59.48,Default,,0,0,0,,- ¿Este video exalta al aborto?\N- Muy posiblemente, Tom.
+Dialogue: 0,0:11:59.56,0:12:02.77,Default,,0,0,0,,Los jóvenes de hoy piensan\Nque todo es N.B.D.
+Dialogue: 0,0:12:02.85,0:12:06.56,Default,,0,0,0,,N.B.D. significa obviamente "ningún B.D".\Nen referencia a B.D. Wong,
+Dialogue: 0,0:12:06.65,0:12:09.49,Default,,0,0,0,,que según los jóvenes\Nno tiene ningún bobo dilema.
+Dialogue: 0,0:12:09.57,0:12:14.24,Default,,0,0,0,,Si algo no es B.D., significa\Nque no presenta ningún bobo dilema.
+Dialogue: 0,0:12:14.32,0:12:19.33,Default,,0,0,0,,- Y hoy en día, los abortos no son B.D.\N- ¿Son necesarios los abortos?
+Dialogue: 0,0:12:19.41,0:12:22.79,Default,,0,0,0,,Una teoría dice que si el embarazo\Nes realmente no deseado,
+Dialogue: 0,0:12:22.87,0:12:25.96,Default,,0,0,0,,el cuerpo transforma el feto\Nen partículas de gas
+Dialogue: 0,0:12:26.04,0:12:28.13,Default,,0,0,0,,que luego expulsa en forma de pedo.
+Dialogue: 0,0:12:28.21,0:12:31.34,Default,,0,0,0,,¿Dónde oyó\Nesta fascinante teoría de los pedos?
+Dialogue: 0,0:12:31.42,0:12:35.22,Default,,0,0,0,,- No lo recuerdo. ¿En la Biblia?\N- Gracias por aclararlo.
+Dialogue: 0,0:12:35.30,0:12:39.26,Default,,0,0,0,,A continuación, Jurj Clooners hace llorar\Nal público con su nueva película,
+Dialogue: 0,0:12:39.35,0:12:42.52,Default,,0,0,0,,pero su última broma\Ntal vez los haga... ¿pensar?
+Dialogue: 0,0:12:43.69,0:12:47.90,Default,,0,0,0,,Jurj. Conque le gustan las bromas.\NYo le jugaré una buena broma.
+Dialogue: 0,0:12:47.98,0:12:50.44,Default,,0,0,0,,Debemos atraerlo.\N¿Qué les gusta a los actores?
+Dialogue: 0,0:12:50.53,0:12:52.57,Default,,0,0,0,,¿Las limosinas? ¿Las niñeras?
+Dialogue: 0,0:12:52.65,0:12:56.86,Default,,0,0,0,,¿Volar en sus aviones privados\Na áreas de desastre para poder "ayudar"?
+Dialogue: 0,0:12:56.95,0:12:58.49,Default,,0,0,0,,Sí, limosinas. Consigamos una.
+Dialogue: 0,0:12:58.58,0:13:00.67,Default,,0,0,0,,Y necesito una gorra, porque yo conduciré.
+Dialogue: 0,0:13:00.75,0:13:03.34,Default,,0,0,0,,Lo buscaré y él dirá: "Soy Jurj, apesto",
+Dialogue: 0,0:13:03.41,0:13:06.16,Default,,0,0,0,,y luego: "Sorpresa",\Ny lo golpearé con un bate.
+Dialogue: 0,0:13:06.25,0:13:07.42,Default,,0,0,0,,¡Es una broma!
+Dialogue: 0,0:13:07.50,0:13:11.63,Default,,0,0,0,,No suena tanto a broma.\NSuena a tú pegándole con un bate.
+Dialogue: 0,0:13:11.71,0:13:15.80,Default,,0,0,0,,Sí, es una broma mala deliberada\Npara mostrar que las bromas son estúpidas.
+Dialogue: 0,0:13:15.89,0:13:17.68,Default,,0,0,0,,- Es el punto.\N- ¿Es el punto?
+Dialogue: 0,0:13:17.76,0:13:20.55,Default,,0,0,0,,La broma tiene varios niveles.\NA la limosinería.
+Dialogue: 0,0:13:23.56,0:13:26.10,Default,,0,0,0,,Buenas tardes, Sr. Clooners.
+Dialogue: 0,0:13:26.19,0:13:28.82,Default,,0,0,0,,Espere un segundo,\Nmi publicista viene detrás.
+Dialogue: 0,0:13:28.90,0:13:31.49,Default,,0,0,0,,Por supuesto, que venga el publicista.
+Dialogue: 0,0:13:33.61,0:13:35.03,Default,,0,0,0,,- Mierda.\N- ¿Qué dijo, señor?
+Dialogue: 0,0:13:35.11,0:13:39.28,Default,,0,0,0,,- Dije "Alemania".\NUsted es el nazi que jugó al parchís.
+Dialogue: 0,0:13:39.37,0:13:43.25,Default,,0,0,0,,Ah, bien. Vamos al Auditorio\NAOL-Time-Warner-PepsiCo-Viacom
+Dialogue: 0,0:13:43.33,0:13:46.00,Default,,0,0,0,,Halliburton-Skynet-Toyota- Trader Joe's
+Dialogue: 0,0:13:46.08,0:13:47.87,Default,,0,0,0,,para el Premio Image Choice Spirit.
+Dialogue: 0,0:13:48.92,0:13:53.05,Default,,0,0,0,,De acuerdo. Sí, señora.\NAquí vamos, estamos conduciendo.
+Dialogue: 0,0:13:53.13,0:13:55.38,Default,,0,0,0,,No tiene que hablar, solo conduzca.
+Dialogue: 0,0:13:55.47,0:13:57.18,Default,,0,0,0,,¿Podemos hacer unas de paradas?
+Dialogue: 0,0:13:57.26,0:14:00.81,Default,,0,0,0,,Me quedé sin papel higiénico,\Nasí que pare en una farmacia.
+Dialogue: 0,0:14:00.89,0:14:03.98,Default,,0,0,0,,Tendrá que ir por el papel higiénico
+Dialogue: 0,0:14:04.06,0:14:06.15,Default,,0,0,0,,o los admiradores se me vendrán encima.
+Dialogue: 0,0:14:06.23,0:14:08.32,Default,,0,0,0,,Elija algo extra suave para mi trasero.
+Dialogue: 0,0:14:09.11,0:14:10.90,Default,,0,0,0,,- No sé...\N- Haga lo que dice.
+Dialogue: 0,0:14:10.98,0:14:13.65,Default,,0,0,0,,- Rápido.\N- De acuerdo.
+Dialogue: 0,0:14:16.28,0:14:19.49,Default,,0,0,0,,Me preocupa que le estés dando\Nal movimiento proelección
+Dialogue: 0,0:14:19.57,0:14:21.41,Default,,0,0,0,,algo para aferrarse como ejemplo...
+Dialogue: 0,0:14:21.49,0:14:23.91,Default,,0,0,0,,Dios mío, qué aburrida eres.
+Dialogue: 0,0:14:24.00,0:14:26.50,Default,,0,0,0,,¿Puedo abortar esta charla?\NAbortar.
+Dialogue: 0,0:14:26.58,0:14:29.83,Default,,0,0,0,,- Debes pensar en...\N- ¿O qué? ¿Vas a soltar al perro?
+Dialogue: 0,0:14:29.92,0:14:32.46,Default,,0,0,0,,Yo solo estoy aquí como apoyo emocional.
+Dialogue: 0,0:14:32.55,0:14:35.43,Default,,0,0,0,,¿Puedes terminar con esto?\NNo quiero tener que repetirlo.
+Dialogue: 0,0:14:35.51,0:14:37.80,Default,,0,0,0,,Tenemos la chance de dar un mensaje
+Dialogue: 0,0:14:37.88,0:14:41.26,Default,,0,0,0,,y lo único que decimos\Nes "Pshew pshew pow".
+Dialogue: 0,0:14:41.35,0:14:42.85,Default,,0,0,0,,- ¿Qué es eso?\N- ¿Qué haces?
+Dialogue: 0,0:14:42.93,0:14:44.60,Default,,0,0,0,,Es de la canción.
+Dialogue: 0,0:14:44.68,0:14:47.10,Default,,0,0,0,,¿Quieres decir "Brrap brrap, pew pew"?
+Dialogue: 0,0:14:47.18,0:14:49.64,Default,,0,0,0,,Sí, eso dije. "Pshow, kapow".
+Dialogue: 0,0:14:49.73,0:14:51.77,Default,,0,0,0,,Así no suena un arma.
+Dialogue: 0,0:14:55.32,0:14:57.66,Default,,0,0,0,,¿Pueden dejar de hacer sonidos de armas?
+Dialogue: 0,0:14:57.74,0:14:59.24,Default,,0,0,0,,Me están volviendo loco.
+Dialogue: 0,0:14:59.32,0:15:01.28,Default,,0,0,0,,Todos te prestan atención ahora,
+Dialogue: 0,0:15:01.37,0:15:04.67,Default,,0,0,0,,pero pronto la gente se aburrirá\Ny seguirá con otra cosa,
+Dialogue: 0,0:15:04.74,0:15:08.41,Default,,0,0,0,,y te reprocharás por no haber marcado\Nla diferencia cuando pudiste.
+Dialogue: 0,0:15:08.50,0:15:10.92,Default,,0,0,0,,Créeme, sucederá antes de lo que crees.
+Dialogue: 0,0:15:13.17,0:15:14.63,Default,,0,0,0,,Hola. Soy...
+Dialogue: 0,0:15:16.34,0:15:19.47,Default,,0,0,0,,Ya llegamos, por fin. Salgan.
+Dialogue: 0,0:15:19.55,0:15:21.18,Default,,0,0,0,,¿Podemos hacer una parada más?
+Dialogue: 0,0:15:21.26,0:15:24.26,Default,,0,0,0,,Acabo de recordar\Nque dejé a mi esposa en casa.
+Dialogue: 0,0:15:24.35,0:15:26.06,Default,,0,0,0,,¿Podemos regresar, por favor?
+Dialogue: 0,0:15:26.14,0:15:28.89,Default,,0,0,0,,¿Conductor? El señor dijo "por favor".
+Dialogue: 0,0:15:28.98,0:15:33.03,Default,,0,0,0,,Basta, es suficiente.\NNo soy tu conductor. Soy yo, BoJack.
+Dialogue: 0,0:15:34.36,0:15:35.61,Default,,0,0,0,,¿BoJack? ¿Qué haces?
+Dialogue: 0,0:15:35.69,0:15:38.78,Default,,0,0,0,,Iba a jugarle una broma\Ny golpearlo con el bate,
+Dialogue: 0,0:15:38.86,0:15:42.03,Default,,0,0,0,,pero entraste al auto\Nporque estás jugando a dos puntas.
+Dialogue: 0,0:15:42.11,0:15:44.03,Default,,0,0,0,,Espera, ¿qué es eso del bate?
+Dialogue: 0,0:15:44.12,0:15:46.04,Default,,0,0,0,,BoJack, esto no te queda bien.
+Dialogue: 0,0:15:46.12,0:15:48.21,Default,,0,0,0,,Pensé que creías en mí.
+Dialogue: 0,0:15:48.29,0:15:51.00,Default,,0,0,0,,Por eso siempre ganan tus clientes.\NRepresentas a todos.
+Dialogue: 0,0:15:51.08,0:15:53.37,Default,,0,0,0,,No es porque seas una buena publicista.
+Dialogue: 0,0:15:53.46,0:15:55.38,Default,,0,0,0,,Soy una publicista maravillosa.
+Dialogue: 0,0:15:55.46,0:15:58.55,Default,,0,0,0,,No para mí.\NPero sí para este cabrón bromista.
+Dialogue: 0,0:15:58.63,0:15:59.88,Default,,0,0,0,,Quisiste hacer lo mismo.
+Dialogue: 0,0:15:59.97,0:16:03.06,Default,,0,0,0,,Para demostrar\Nque las bromas son estúpidas.
+Dialogue: 0,0:16:03.14,0:16:05.02,Default,,0,0,0,,Suena un poco enrevesado,
+Dialogue: 0,0:16:05.10,0:16:07.73,Default,,0,0,0,,lo que lo hace una gran broma.
+Dialogue: 0,0:16:07.81,0:16:09.06,Default,,0,0,0,,Bien jugado, señor.
+Dialogue: 0,0:16:09.14,0:16:12.02,Default,,0,0,0,,No, ese es mi punto:\Nlas bromas son tontas.
+Dialogue: 0,0:16:12.10,0:16:15.44,Default,,0,0,0,,Estamos atrasados\Ny no voy a seguir dándole vueltas a esto.
+Dialogue: 0,0:16:15.52,0:16:18.98,Default,,0,0,0,,- Los publicistas tienen muchos clientes.\N- No la mía. Estás despedida.
+Dialogue: 0,0:16:19.07,0:16:21.53,Default,,0,0,0,,¿Es un chiste?\N¿Quién despide a Ana Spanakopita?
+Dialogue: 0,0:16:21.61,0:16:23.49,Default,,0,0,0,,Yo. Acabo de hacerlo.
+Dialogue: 0,0:16:23.57,0:16:25.53,Default,,0,0,0,,¿Quién va a programar tus apariciones?
+Dialogue: 0,0:16:25.62,0:16:28.04,Default,,0,0,0,,¿La inútil de tu agente, tu amigo idiota?
+Dialogue: 0,0:16:28.12,0:16:30.54,Default,,0,0,0,,No es tu problema. Salgan de mi limosina.
+Dialogue: 0,0:16:30.62,0:16:33.29,Default,,0,0,0,,Tengo que recoger\Nuna despedida de solteras.
+Dialogue: 0,0:16:33.96,0:16:38.80,Default,,0,0,0,,Bienvenida al programa. ¿Puedes hacer\Nun "pew pew" para la audiencia?
+Dialogue: 0,0:16:38.88,0:16:43.18,Default,,0,0,0,,- Tom, el aborto es un tema muy serio.\N- Sí, muy serio, estoy de acuerdo.
+Dialogue: 0,0:16:43.26,0:16:45.64,Default,,0,0,0,,Quiero contar la realidad del aborto
+Dialogue: 0,0:16:45.72,0:16:47.51,Default,,0,0,0,,y que el país sea testigo.
+Dialogue: 0,0:16:47.60,0:16:50.48,Default,,0,0,0,,Por eso Sextina Aquafina
+Dialogue: 0,0:16:50.56,0:16:54.19,Default,,0,0,0,,abortará en vivo por televisión.
+Dialogue: 0,0:16:54.27,0:16:55.15,Default,,0,0,0,,¿Que qué?
+Dialogue: 0,0:16:55.23,0:16:57.69,Default,,0,0,0,,Paguen para verlo, chicas.
+Dialogue: 0,0:16:57.77,0:16:58.90,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:16:58.98,0:17:02.48,Default,,0,0,0,,Paguen para verlo, chicas.\NBrrap brrap, pew pew, clink caja.
+Dialogue: 0,0:17:02.57,0:17:06.95,Default,,0,0,0,,¿Cómo vas a abortar en televisión en vivo\Nsi no estás embarazada?
+Dialogue: 0,0:17:07.03,0:17:09.74,Default,,0,0,0,,- Vamos a hacer la gran Argo.\N- ¿Cómo?
+Dialogue: 0,0:17:09.83,0:17:13.54,Default,,0,0,0,,Sí, un aborto falso.\NLa magia del cine, como en Argo.
+Dialogue: 0,0:17:13.62,0:17:15.41,Default,,0,0,0,,No pasó eso en Argo.
+Dialogue: 0,0:17:15.50,0:17:18.09,Default,,0,0,0,,Tiene que ser algo hecho con buen gusto.
+Dialogue: 0,0:17:18.17,0:17:21.76,Default,,0,0,0,,Sí, solo lo mejor para mi aborto.\NPura clase.
+Dialogue: 0,0:17:21.84,0:17:23.63,Default,,0,0,0,,John Carpenter puede hacer los efectos.
+Dialogue: 0,0:17:23.72,0:17:25.31,Default,,0,0,0,,- Me debe un favor.\N- ¿Qué?
+Dialogue: 0,0:17:25.38,0:17:27.80,Default,,0,0,0,,Llamaremos a Eddie Redmayne\Npara hacer de feto.
+Dialogue: 0,0:17:27.89,0:17:29.35,Default,,0,0,0,,¿Están escuchándose?
+Dialogue: 0,0:17:29.43,0:17:32.64,Default,,0,0,0,,No vamos a fingir un aborto\Npor televisión en vivo.
+Dialogue: 0,0:17:32.73,0:17:33.94,Default,,0,0,0,,No, lo grabaremos antes
+Dialogue: 0,0:17:34.02,0:17:37.32,Default,,0,0,0,,y pondremos una leyenda en la pantalla\Nque diga "en vivo".
+Dialogue: 0,0:17:37.40,0:17:39.78,Default,,0,0,0,,¿No creen\Nque es increíblemente irrespetuoso
+Dialogue: 0,0:17:39.86,0:17:41.95,Default,,0,0,0,,hacia las mujeres\Nque se practican abortos?
+Dialogue: 0,0:17:42.03,0:17:43.82,Default,,0,0,0,,No si es con buen gusto.
+Dialogue: 0,0:17:43.90,0:17:47.07,Default,,0,0,0,,Es por el cliente. Deja de hablar de ti.
+Dialogue: 0,0:17:47.16,0:17:49.08,Default,,0,0,0,,No hablo de mí.
+Dialogue: 0,0:17:49.16,0:17:51.91,Default,,0,0,0,,- Estoy cansada de que crees problemas.\N- Yo no...
+Dialogue: 0,0:17:51.99,0:17:54.03,Default,,0,0,0,,Lamento que seas tan fértil
+Dialogue: 0,0:17:54.12,0:17:56.25,Default,,0,0,0,,y estés en una relación amorosa estable
+Dialogue: 0,0:17:56.33,0:17:58.12,Default,,0,0,0,,y ahora no quieras una familia.
+Dialogue: 0,0:17:58.21,0:18:01.80,Default,,0,0,0,,- Debe ser terrible para ti.\N- ¿Qué?
+Dialogue: 0,0:18:01.88,0:18:04.93,Default,,0,0,0,,Si no estamos hablando de mí,\Nme largo de aquí.
+Dialogue: 0,0:18:05.01,0:18:07.22,Default,,0,0,0,,Resuelvan sus cosas y llámenme.
+Dialogue: 0,0:18:07.30,0:18:09.09,Default,,0,0,0,,¿Dónde está el idiota barbudo?
+Dialogue: 0,0:18:09.18,0:18:12.39,Default,,0,0,0,,¿Cómo hacen aquí las chicas\Npara conseguir estacionamiento gratis?
+Dialogue: 0,0:18:12.47,0:18:14.60,Default,,0,0,0,,¿Quieres decirme algo?
+Dialogue: 0,0:18:15.81,0:18:21.36,Default,,0,0,0,,He dado todo para llegar adonde estoy,\Ny no voy a tirarlo a la basura.
+Dialogue: 0,0:18:21.44,0:18:24.03,Default,,0,0,0,,Si ella quiere un aborto, lo tendrá.
+Dialogue: 0,0:18:24.11,0:18:27.03,Default,,0,0,0,,- Sabes que es una ridiculez.\N- Todo es una ridiculez.
+Dialogue: 0,0:18:27.11,0:18:28.44,Default,,0,0,0,,Ese es nuestro trabajo.
+Dialogue: 0,0:18:28.53,0:18:31.87,Default,,0,0,0,,No creas que eres demasiado\Nbuena para hacerlo.
+Dialogue: 0,0:18:31.95,0:18:33.66,Default,,0,0,0,,No formaré parte de esto.
+Dialogue: 0,0:18:36.16,0:18:38.00,Default,,0,0,0,,Oye, Barba, ¿adónde fuiste?
+Dialogue: 0,0:18:38.08,0:18:41.38,Default,,0,0,0,,Si no me dan el ticket de estacionamiento,\Nno podré irme.
+Dialogue: 0,0:18:41.46,0:18:43.59,Default,,0,0,0,,Están alucinando\Nsi creen que Sextina Aquafina
+Dialogue: 0,0:18:43.67,0:18:46.05,Default,,0,0,0,,va a pagar $15 de estacionamiento.
+Dialogue: 0,0:18:49.18,0:18:51.10,Default,,0,0,0,,¿Qué pensaste, nuevo publicista?
+Dialogue: 0,0:18:51.18,0:18:56.31,Default,,0,0,0,,Secretariat fue un atleta.\NY tú eras un atleta.
+Dialogue: 0,0:18:56.39,0:18:57.60,Default,,0,0,0,,¿Qué? No es así.
+Dialogue: 0,0:18:57.69,0:18:59.65,Default,,0,0,0,,¿No jugabas béisbol y fútbol?
+Dialogue: 0,0:19:01.44,0:19:03.61,Default,,0,0,0,,Creo que googleé al tipo equivocado.
+Dialogue: 0,0:19:03.69,0:19:07.78,Default,,0,0,0,,- ¿Me confundiste con Bo Jackson?\N- Esta idea sí te va a gustar.
+Dialogue: 0,0:19:07.86,0:19:09.90,Default,,0,0,0,,¿Viste el lavadero de automóviles?
+Dialogue: 0,0:19:09.99,0:19:15.08,Default,,0,0,0,,Necesitan a alguien que se disfrace\Nde gorila y lleve un cartel.
+Dialogue: 0,0:19:15.16,0:19:16.37,Default,,0,0,0,,¿Por qué haría eso?
+Dialogue: 0,0:19:16.45,0:19:18.74,Default,,0,0,0,,Cualquier cosa\Nque te haga visible sirve.
+Dialogue: 0,0:19:18.83,0:19:21.62,Default,,0,0,0,,¿Cómo seré visible\Nsi estoy disfrazado de gorila?
+Dialogue: 0,0:19:21.71,0:19:23.17,Default,,0,0,0,,No es buena idea,
+Dialogue: 0,0:19:23.25,0:19:27.88,Default,,0,0,0,,pero ¿crees que Lou Bega tuvo éxito\Ncon "Mambo número uno"?
+Dialogue: 0,0:19:27.97,0:19:31.64,Default,,0,0,0,,No, pero siguió insistiendo.
+Dialogue: 0,0:19:32.30,0:19:33.43,Default,,0,0,0,,¿ABORTARÍAN UN AUTO?
+Dialogue: 0,0:19:33.51,0:19:34.85,Default,,0,0,0,,¿Y SI JESÚS FUE ABORTADO?
+Dialogue: 0,0:19:34.93,0:19:39.02,Default,,0,0,0,,¿Que solo pienso en mí?\NYo soy la que abortaré.
+Dialogue: 0,0:19:39.10,0:19:42.35,Default,,0,0,0,,- Es ridículo.\N- Están en una completa bancarrota moral.
+Dialogue: 0,0:19:42.44,0:19:45.03,Default,,0,0,0,,Estoy de acuerdo contigo un 168%.
+Dialogue: 0,0:19:45.11,0:19:47.28,Default,,0,0,0,,Acabo de escribir "bancarrota moral".
+Dialogue: 0,0:19:47.36,0:19:50.57,Default,,0,0,0,,Y tienes razón.\NEste formulario es muy entrometido.
+Dialogue: 0,0:19:50.65,0:19:52.40,Default,,0,0,0,,¿Por qué tomé ese trabajo?
+Dialogue: 0,0:19:52.49,0:19:55.99,Default,,0,0,0,,Estabas pasando un mal momento,\NPrincesa Carolyn te quiso ayudar
+Dialogue: 0,0:19:56.08,0:19:57.75,Default,,0,0,0,,y te ofreció el trabajo.
+Dialogue: 0,0:19:57.83,0:20:01.21,Default,,0,0,0,,Cosa que no debería haber hecho.\NEs una bancarrota moral.
+Dialogue: 0,0:20:01.29,0:20:03.42,Default,,0,0,0,,De acuerdo, fue un buen gesto.
+Dialogue: 0,0:20:03.50,0:20:05.92,Default,,0,0,0,,Pero está poniendo su compañía en juego
+Dialogue: 0,0:20:06.00,0:20:09.59,Default,,0,0,0,,en manos del daño real\Nque esa demente con nariz de botella
+Dialogue: 0,0:20:09.67,0:20:11.21,Default,,0,0,0,,causa cada vez que va a las noticias.
+Dialogue: 0,0:20:11.80,0:20:13.72,Default,,0,0,0,,¡Eso es! Los programas de noticias.
+Dialogue: 0,0:20:13.80,0:20:16.60,Default,,0,0,0,,Debo ir allí\Ny denunciar a esas idiotas.
+Dialogue: 0,0:20:16.81,0:20:19.23,Default,,0,0,0,,¿Te parece una buena idea?
+Dialogue: 0,0:20:19.31,0:20:22.81,Default,,0,0,0,,Estoy de acuerdo con lo que digas,\Nporque vine a apoyarte,
+Dialogue: 0,0:20:22.90,0:20:26.32,Default,,0,0,0,,pero ¿tal vez no sea la mejor idea?
+Dialogue: 0,0:20:26.40,0:20:30.40,Default,,0,0,0,,Si esa idea fuera uno de los Dillon,\N¿sería Kevin y no Matt?
+Dialogue: 0,0:20:30.49,0:20:34.66,Default,,0,0,0,,Alguien tiene que decirle al mundo\Nque Sextina es un fraude.
+Dialogue: 0,0:20:34.74,0:20:35.99,Default,,0,0,0,,¿Conoces a Sextina Aquafina?
+Dialogue: 0,0:20:36.91,0:20:41.00,Default,,0,0,0,,- Sí, trabajo con ella.\N- Es tan genial.
+Dialogue: 0,0:20:41.08,0:20:45.58,Default,,0,0,0,,Su música me hace sentir fuerte,\Ncomo si pudiera hacer cualquier cosa.
+Dialogue: 0,0:20:45.67,0:20:47.00,Default,,0,0,0,,¿No te ofende?
+Dialogue: 0,0:20:47.09,0:20:48.63,Default,,0,0,0,,¿Qué te parece donde dice:
+Dialogue: 0,0:20:48.71,0:20:51.67,Default,,0,0,0,,"Le rezo a Dios que mi feto tenga alma
+Dialogue: 0,0:20:51.76,0:20:55.06,Default,,0,0,0,,para que sienta dolor\Ncuando lo eyecte de mi agujero"?
+Dialogue: 0,0:20:55.14,0:20:58.02,Default,,0,0,0,,Es una broma.\NEntiendes que es una broma, ¿verdad?
+Dialogue: 0,0:20:58.10,0:21:00.06,Default,,0,0,0,,Sí, por supuesto.
+Dialogue: 0,0:21:00.14,0:21:03.23,Default,,0,0,0,,¿Crees que quiere dispararle\Na su feto con un arma?
+Dialogue: 0,0:21:03.31,0:21:06.86,Default,,0,0,0,,- No, lo entiendo.\N- Abortar es aterrador.
+Dialogue: 0,0:21:06.94,0:21:10.65,Default,,0,0,0,,Con los manifestantes en la puerta\Ny eso de escuchar los latidos.
+Dialogue: 0,0:21:10.73,0:21:14.32,Default,,0,0,0,,Cuando puedes bromear sobre eso,\Nhace que sea menos aterrador.
+Dialogue: 0,0:21:15.45,0:21:17.04,Default,,0,0,0,,Sí.
+Dialogue: 0,0:21:17.12,0:21:18.25,Default,,0,0,0,,¿Diane?
+Dialogue: 0,0:21:26.79,0:21:28.25,Default,,0,0,0,,¿Ana?
+Dialogue: 0,0:21:29.04,0:21:31.46,Default,,0,0,0,,No seguiré trabajando con Jurj.
+Dialogue: 0,0:21:32.92,0:21:34.21,Default,,0,0,0,,Le avisé esta mañana.
+Dialogue: 0,0:21:34.30,0:21:36.68,Default,,0,0,0,,Pensó que le estaba jugando una broma
+Dialogue: 0,0:21:36.76,0:21:38.55,Default,,0,0,0,,pero, al final, lo entendió.
+Dialogue: 0,0:21:38.64,0:21:39.93,Default,,0,0,0,,¿Dejaste a Jurj?
+Dialogue: 0,0:21:40.01,0:21:43.93,Default,,0,0,0,,¿A Jurj Clooners,\Nel "hombre más sexy de EE. UU."?
+Dialogue: 0,0:21:44.02,0:21:47.02,Default,,0,0,0,,Jurj es fácil. Todos lo adoran.
+Dialogue: 0,0:21:47.10,0:21:50.69,Default,,0,0,0,,Tengo un máster en Publicidad\Ny es hora de ponerlo en uso.
+Dialogue: 0,0:21:50.77,0:21:54.07,Default,,0,0,0,,Dejé a todos mis otros clientes.\NTú llevas las de perder.
+Dialogue: 0,0:21:54.15,0:21:58.07,Default,,0,0,0,,Quiero poner toda mi atención en ti\Ny conseguirte ese Óscar.
+Dialogue: 0,0:21:58.16,0:22:00.08,Default,,0,0,0,,Nadie más, ¿eh? Bien.
+Dialogue: 0,0:22:00.16,0:22:02.95,Default,,0,0,0,,Todas tus sueños y esperanzas\Npuestos en mí.
+Dialogue: 0,0:22:03.04,0:22:04.54,Default,,0,0,0,,Vencer todos los pronósticos
+Dialogue: 0,0:22:04.62,0:22:08.04,Default,,0,0,0,,y ganar el premio mayor\Nen la carrera de un actor.
+Dialogue: 0,0:22:08.13,0:22:11.05,Default,,0,0,0,,- Sé que podemos hacerlo.\N- Solo yo, ¿eh? Vaya.
+Dialogue: 0,0:22:11.13,0:22:12.88,Default,,0,0,0,,Eso es... Eso...
+Dialogue: 0,0:22:12.96,0:22:14.84,Default,,0,0,0,,¿Hay alguien parado sobre mi tráquea?
+Dialogue: 0,0:22:14.92,0:22:17.13,Default,,0,0,0,,Llamemos a Jurj para...
+Dialogue: 0,0:22:17.22,0:22:19.39,Default,,0,0,0,,No, BoJack. Creo en ti.
+Dialogue: 0,0:22:20.10,0:22:21.56,Default,,0,0,0,,De acuerdo.
+Dialogue: 0,0:22:21.64,0:22:23.23,Default,,0,0,0,,Ana, ¿qué estás...?
+Dialogue: 0,0:22:23.31,0:22:25.23,Default,,0,0,0,,- Cielos.\N- Está bien.
+Dialogue: 0,0:22:25.31,0:22:29.40,Default,,0,0,0,,- Cuando me despediste, fue excitante.\N- Ana...
+Dialogue: 0,0:22:29.48,0:22:31.27,Default,,0,0,0,,Nadie me habla así.
+Dialogue: 0,0:22:31.36,0:22:36.03,Default,,0,0,0,,Me hizo pensar que trabajo para ti,\Ny eso me gustó.
+Dialogue: 0,0:22:36.11,0:22:37.15,Default,,0,0,0,,De acuerdo, pero...
+Dialogue: 0,0:22:37.24,0:22:42.16,Default,,0,0,0,,¿Te gusta eso?\N¿Tener el control? ¿Ser la estrella?
+Dialogue: 0,0:22:42.24,0:22:43.28,Default,,0,0,0,,Sí.
+Dialogue: 0,0:22:43.37,0:22:46.42,Default,,0,0,0,,Eres mi estrella, BoJack.\NMi estrella guía.
+Dialogue: 0,0:22:46.50,0:22:48.54,Default,,0,0,0,,- Pero nunca...\N- Me aprietas.
+Dialogue: 0,0:22:48.62,0:22:50.87,Default,,0,0,0,,- ...vuelvas a meterte conmigo.\N- Por favor.
+Dialogue: 0,0:22:50.96,0:22:53.05,Default,,0,0,0,,- ¿Entendido?\N- Sí, por Dios, sí.
+Dialogue: 0,0:22:53.13,0:22:55.01,Default,,0,0,0,,Bien.
+Dialogue: 0,0:22:55.09,0:22:59.14,Default,,0,0,0,,Te veo mañana temprano.\NTienes toda mi atención ahora.
+Dialogue: 0,0:23:03.22,0:23:06.06,Default,,0,0,0,,¿Cómo te sientes, Sextina?
+Dialogue: 0,0:23:06.14,0:23:09.14,Default,,0,0,0,,Un poco mareada,\Npero, en general, de maravillas.
+Dialogue: 0,0:23:09.23,0:23:10.73,Default,,0,0,0,,Bien. Ahora...
+Dialogue: 0,0:23:11.65,0:23:15.70,Default,,0,0,0,,- Eso fue, increíblemente, de buen gusto.\N- Y educativo, ¿verdad?
+Dialogue: 0,0:23:15.78,0:23:17.66,Default,,0,0,0,,Sí, extrañamente educativo.
+Dialogue: 0,0:23:17.74,0:23:22.91,Default,,0,0,0,,Aprendí mucho sobre el aborto,\Ny eso que acabo de abortar.
+Dialogue: 0,0:23:22.99,0:23:25.08,Default,,0,0,0,,- ¿Cómo te sientes?\N- Me siento mal.
+Dialogue: 0,0:23:25.16,0:23:26.66,Default,,0,0,0,,Físicamente, me refiero.
+Dialogue: 0,0:23:26.75,0:23:30.55,Default,,0,0,0,,Estoy contenta de haberlo hecho,\Npero más que nada me sentí vieja.
+Dialogue: 0,0:23:30.62,0:23:33.75,Default,,0,0,0,,Eran todas adolescentes y veinteañeras\Nlas que estaban allí.
+Dialogue: 0,0:23:33.84,0:23:37.68,Default,,0,0,0,,Sé que parece\Nque debería estar lista para tener hijos,
+Dialogue: 0,0:23:37.76,0:23:38.85,Default,,0,0,0,,pero no puedo...
+Dialogue: 0,0:23:38.92,0:23:43.09,Default,,0,0,0,,Diane, no tienes que explicarle\Nnada a nadie.
+Dialogue: 0,0:23:45.60,0:23:50.69,Default,,0,0,0,,- Sextina, buen trabajo. Lo logramos.\N- Sí. Oye, abuelita.
+Dialogue: 0,0:23:50.77,0:23:53.36,Default,,0,0,0,,He estado teniendo mucho sexo,
+Dialogue: 0,0:23:53.44,0:23:57.36,Default,,0,0,0,,porque soy una criatura sexual\Ny los delfines sí tienen sexo por placer,
+Dialogue: 0,0:23:57.44,0:23:59.53,Default,,0,0,0,,y resulta que estoy embarazada de verdad.
+Dialogue: 0,0:23:59.61,0:24:02.74,Default,,0,0,0,,- ¿Qué?\N- Y creo que quiero quedármelo.
+Dialogue: 0,0:24:02.82,0:24:05.82,Default,,0,0,0,,Pero puede que sea confuso\Npara mis admiradores,
+Dialogue: 0,0:24:05.91,0:24:09.04,Default,,0,0,0,,ya que acaban de ver\Ncómo me hacían la raspadita.
+Dialogue: 0,0:24:09.12,0:24:13.04,Default,,0,0,0,,Vamos a encargarnos de esto.\NVen a la oficina en 20 minutos.
+Dialogue: 0,0:24:13.13,0:24:17.09,Default,,0,0,0,,Tenemos que sacarla de la ciudad\Nantes de que se le note.
+Dialogue: 0,0:24:17.17,0:24:20.67,Default,,0,0,0,,La enviaremos a esa granja\Nadonde los famosos van a desaparecer,
+Dialogue: 0,0:24:20.76,0:24:23.18,Default,,0,0,0,,adonde fueron\NChad Michael Murray y Thora Birch.
+Dialogue: 0,0:24:23.26,0:24:25.22,Default,,0,0,0,,Podemos filmar\Nvarios videos musicales ahora...
+Dialogue: 0,0:24:25.30,0:24:29.22,Default,,0,0,0,,Y lanzarlos en el transcurso del año\Npara que parezca que sigue aquí.
+Dialogue: 0,0:24:29.31,0:24:32.27,Default,,0,0,0,,Cuando regrese,\Ndiremos que adoptó un bebé.
+Dialogue: 0,0:24:32.35,0:24:37.44,Default,,0,0,0,,- A la gente le va a encantar.\N- Sí, a todos les encantan los bebés.

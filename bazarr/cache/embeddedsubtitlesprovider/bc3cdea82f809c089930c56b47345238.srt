@@ -1,0 +1,209 @@
+1
+00:00:27,125 --> 00:00:29,833
+MODULE DE SECOURS
+
+2
+00:00:58,291 --> 00:00:59,791
+Je vais crever ici.
+
+3
+00:01:47,833 --> 00:01:49,750
+ALERTE RÉSERVE D'OXYGÈNE
+LOCALISER ABRI
+
+4
+00:01:51,666 --> 00:01:53,250
+STATUT : HORS LIGNE
+
+5
+00:02:14,125 --> 00:02:14,958
+NIVEAU CRITIQUE
+
+6
+00:02:15,041 --> 00:02:16,166
+ACTIVER
+
+7
+00:02:28,333 --> 00:02:29,291
+La vache.
+
+8
+00:02:29,791 --> 00:02:32,041
+Toi aussi, t'as atterri en catastrophe.
+
+9
+00:03:02,291 --> 00:03:04,416
+BIENVENUE DANS LA CAPSULE DE SURVIE
+
+10
+00:03:08,750 --> 00:03:11,000
+<i>Module de secours activé.</i>
+
+11
+00:03:11,083 --> 00:03:13,333
+<i>Alerte. Dégâts repérés.</i>
+
+12
+00:03:23,125 --> 00:03:26,041
+<i>Réseau de communication en état de marche.</i>
+
+13
+00:03:29,625 --> 00:03:31,291
+<i>Assistance robotique...</i>
+
+14
+00:03:35,583 --> 00:03:36,541
+<i>erreur.</i>
+
+15
+00:03:36,625 --> 00:03:37,666
+Saloperie.
+
+16
+00:03:38,166 --> 00:03:40,000
+<i>Assistance robotique :</i>
+
+17
+00:03:41,000 --> 00:03:41,833
+<i>erreur.</i>
+
+18
+00:03:45,666 --> 00:03:47,375
+<i>Assistance robotique :</i>
+
+19
+00:03:47,958 --> 00:03:49,000
+<i>défaillance.</i>
+
+20
+00:03:49,500 --> 00:03:50,458
+Attends !
+
+21
+00:03:54,416 --> 00:03:55,500
+Attends ! Arrête !
+
+22
+00:03:56,250 --> 00:03:57,750
+Coupure système !
+
+23
+00:03:57,833 --> 00:03:59,333
+Coupure du système !
+
+24
+00:04:00,375 --> 00:04:02,000
+<i>Impossible d'obtempérer.</i>
+
+25
+00:04:50,875 --> 00:04:52,583
+À PORTÉE D'ARMES ENNEMIES
+
+26
+00:04:54,833 --> 00:04:56,291
+<i>Prometheus CBW2.</i>
+
+27
+00:04:56,375 --> 00:04:59,458
+<i>Les brouilleurs électromagnétiques
+sont activés, vous pouvez attaquer.</i>
+
+28
+00:04:59,541 --> 00:05:00,875
+<i>Nova 6, en chemin.</i>
+
+29
+00:05:00,958 --> 00:05:02,291
+<i>Nova 9, en chemin.</i>
+
+30
+00:05:02,375 --> 00:05:03,458
+Nova 4, en chemin.
+
+31
+00:05:03,541 --> 00:05:06,000
+<i>Entendu.
+Vous êtes prêts à faire feu.</i>
+
+32
+00:05:06,083 --> 00:05:08,041
+Bien reçu. Je me tiens prêt.
+
+33
+00:05:08,125 --> 00:05:11,166
+Charge explosive du Jugement Dernier,
+Éclair Divin 12.
+
+34
+00:05:12,750 --> 00:05:14,000
+La chasse est ouverte.
+
+35
+00:05:14,083 --> 00:05:16,916
+<i>Escadron Nova,
+en rang, formation échelon.</i>
+
+36
+00:05:17,000 --> 00:05:18,333
+<i>Frappez vite et fort.</i>
+
+37
+00:07:01,625 --> 00:07:04,333
+<i>731, 731 !
+Tir ennemi imminent !</i>
+
+38
+00:07:08,750 --> 00:07:10,375
+On a perdu Rocket 1 !
+
+39
+00:07:15,416 --> 00:07:16,291
+Feu !
+
+40
+00:07:17,166 --> 00:07:19,291
+Allez, allez, allez !
+
+41
+00:07:27,333 --> 00:07:29,500
+ARRÊT D'URGENCE
+
+42
+00:09:59,875 --> 00:10:02,500
+SIGNAL DE DÉTRESSE
+EN ATTENTE DE TRANSMISSION
+
+43
+00:10:14,500 --> 00:10:16,416
+<i>Message de détresse reçu.</i>
+
+44
+00:10:16,500 --> 00:10:19,500
+<i>Module 817-RT9G.</i>
+
+45
+00:10:20,166 --> 00:10:21,750
+<i>Sauvetage en approche.</i>
+
+46
+00:10:26,875 --> 00:10:30,291
+<i>Alerte.
+Défaillance de l'assistance robotique.</i>
+
+47
+00:10:32,333 --> 00:10:33,458
+<i>Alerte.</i>
+
+48
+00:10:33,541 --> 00:10:35,625
+<i>Défaillance de l'assistance robotique.</i>
+
+49
+00:10:35,708 --> 00:10:37,666
+Ouais, sans blague.
+
+50
+00:10:38,166 --> 00:10:41,375
+<i>Alerte.
+Défaillance de l'assistance robotique.</i>
+

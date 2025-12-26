@@ -1,0 +1,491 @@
+1
+00:00:08,208 --> 00:00:11,083
+[sintonía robotizada de cabecera]
+
+2
+00:00:19,416 --> 00:00:20,458
+[fin de la música]
+
+3
+00:00:26,875 --> 00:00:30,458
+COBIJO
+
+4
+00:00:33,625 --> 00:00:35,375
+[jadeo]
+
+5
+00:00:40,291 --> 00:00:42,291
+[música de intriga]
+
+6
+00:00:47,541 --> 00:00:49,208
+[goteo]
+
+7
+00:00:53,333 --> 00:00:55,000
+[jadea]
+
+8
+00:00:58,166 --> 00:01:00,291
+- Voy a morir aquí.
+- [golpe de misterio]
+
+9
+00:01:18,416 --> 00:01:19,250
+[golpes]
+
+10
+00:01:24,500 --> 00:01:26,333
+[sonidos amortiguados]
+
+11
+00:01:29,708 --> 00:01:31,500
+[suspira]
+
+12
+00:01:36,500 --> 00:01:38,166
+[explosiones a lo lejos]
+
+13
+00:01:43,625 --> 00:01:45,416
+[pitido]
+
+14
+00:01:47,833 --> 00:01:49,708
+AVISO: OXÍGENO RESTANTE
+BUSQUE REFUGIO
+
+15
+00:01:51,666 --> 00:01:53,250
+ESTADO: DESCONECTADO
+
+16
+00:01:58,416 --> 00:02:00,208
+[música misteriosa de intriga]
+
+17
+00:02:14,125 --> 00:02:15,000
+POCO OXÍGENO
+
+18
+00:02:15,083 --> 00:02:15,916
+ACTIVAR
+
+19
+00:02:16,000 --> 00:02:16,833
+ACTIVANDO...
+
+20
+00:02:28,333 --> 00:02:32,041
+Mierda, parece que los dos
+hemos tenido un aterrizaje jodido.
+
+21
+00:02:35,458 --> 00:02:36,791
+[forcejeo de apertura]
+
+22
+00:02:59,791 --> 00:03:01,333
+[pitidos en máquina]
+
+23
+00:03:02,291 --> 00:03:04,416
+BIENVENIDO A COBIJO
+817-RD9G
+
+24
+00:03:08,750 --> 00:03:11,000
+[ordenador] <i>Cobijo activado.</i>
+
+25
+00:03:11,083 --> 00:03:13,208
+<i>Alerta: daños detectados.</i>
+
+26
+00:03:23,125 --> 00:03:25,000
+<i>Red de comunicación: funcional.</i>
+
+27
+00:03:25,083 --> 00:03:26,500
+RESCATE
+ESPERANDO TRANSMISIÓN
+
+28
+00:03:26,583 --> 00:03:27,541
+[puerta abierta]
+
+29
+00:03:29,625 --> 00:03:31,625
+<i>Robótica de mantenimiento...</i>
+
+30
+00:03:35,583 --> 00:03:36,541
+<i>Error.</i>
+
+31
+00:03:36,625 --> 00:03:38,083
+Vaya chatarra.
+
+32
+00:03:38,166 --> 00:03:41,625
+<i>Robótica de mantenimiento: error.</i>
+
+33
+00:03:45,083 --> 00:03:49,416
+<i>Robótica de mantenimiento:
+fallo de funcionamiento.</i>
+
+34
+00:03:49,500 --> 00:03:50,458
+[música de tensión]
+
+35
+00:03:51,041 --> 00:03:53,125
+[se queja de dolor]
+
+36
+00:03:53,208 --> 00:03:54,541
+[grita]
+
+37
+00:03:54,625 --> 00:03:56,125
+¡Para! ¡Espera!
+
+38
+00:03:56,208 --> 00:03:57,750
+Detener programa.
+
+39
+00:03:57,833 --> 00:03:59,333
+¡Detener programa!
+
+40
+00:03:59,416 --> 00:04:00,375
+[balbucea asustado]
+
+41
+00:04:00,458 --> 00:04:02,000
+<i>Detención imposible.</i>
+
+42
+00:04:03,791 --> 00:04:05,791
+[música oscura y siniestra]
+
+43
+00:04:09,416 --> 00:04:10,916
+[escaneo]
+
+44
+00:04:12,458 --> 00:04:14,458
+[música de tensión en aumento]
+
+45
+00:04:17,250 --> 00:04:18,750
+[se detiene el escaneo]
+
+46
+00:04:22,041 --> 00:04:23,666
+[música de misterio]
+
+47
+00:04:35,125 --> 00:04:36,416
+[gime de dolor]
+
+48
+00:04:37,125 --> 00:04:38,583
+[música de tensión]
+
+49
+00:04:43,166 --> 00:04:45,833
+[golpes]
+
+50
+00:04:46,791 --> 00:04:48,500
+[música en descenso]
+
+51
+00:04:48,583 --> 00:04:50,791
+[música estruendosa de misterio]
+
+52
+00:04:50,875 --> 00:04:52,583
+PELIGRO
+AL ALCANCE DEL ENEMIGO
+
+53
+00:04:54,666 --> 00:04:56,583
+[mujer-radio] <i>Habla Prometeo CBW2.</i>
+
+54
+00:04:56,666 --> 00:04:59,416
+<i>ECM activos. Tienen permiso para actuar.</i>
+
+55
+00:04:59,500 --> 00:05:00,791
+[piloto] <i>Nova 6 en camino</i>
+
+56
+00:05:00,875 --> 00:05:02,291
+[pilota] <i>Nova 9 en camino.</i>
+
+57
+00:05:02,375 --> 00:05:03,458
+Nova 4 en camino.
+
+58
+00:05:03,541 --> 00:05:06,000
+[mujer-radio]
+<i>Tienen permiso para disparar.</i>
+
+59
+00:05:06,083 --> 00:05:08,041
+Recibido. Vamos allá.
+
+60
+00:05:08,125 --> 00:05:11,416
+La carga útil es Divino Flash 12 Juicio 2.
+
+61
+00:05:12,250 --> 00:05:14,000
+Armado y listo para cazar.
+
+62
+00:05:14,083 --> 00:05:16,708
+[mujer-radio]
+<i>Escuadrón Nova en formación escalonada.</i>
+
+63
+00:05:16,791 --> 00:05:18,333
+<i>Ataques raudos y sin piedad.</i>
+
+64
+00:05:18,416 --> 00:05:19,791
+[nave acelera]
+
+65
+00:05:26,750 --> 00:05:28,208
+[jadea sobresaltado]
+
+66
+00:05:31,375 --> 00:05:32,958
+[chirrido de robot]
+
+67
+00:05:39,458 --> 00:05:41,208
+[música de suspense]
+
+68
+00:05:41,750 --> 00:05:44,041
+[pasos metálicos cerca]
+
+69
+00:05:48,125 --> 00:05:49,458
+[jadea nervioso]
+
+70
+00:05:55,166 --> 00:05:56,708
+[sonido viscoso]
+
+71
+00:05:57,625 --> 00:05:59,375
+[música de suspense en aumento]
+
+72
+00:06:00,750 --> 00:06:02,458
+[se queja de dolor]
+
+73
+00:06:04,166 --> 00:06:05,541
+[ruido estrepitoso]
+
+74
+00:06:09,458 --> 00:06:12,000
+[silencio]
+
+75
+00:06:14,458 --> 00:06:16,041
+[música de tensión]
+
+76
+00:06:24,916 --> 00:06:26,375
+[música en descenso]
+
+77
+00:06:41,291 --> 00:06:43,166
+[contiene el grito de dolor]
+
+78
+00:06:48,750 --> 00:06:50,375
+[contiene el dolor]
+
+79
+00:06:51,333 --> 00:06:52,708
+[huesos rotos]
+
+80
+00:06:55,458 --> 00:06:56,708
+[gime aliviado]
+
+81
+00:06:59,250 --> 00:07:00,500
+[balbucea dolorido]
+
+82
+00:07:01,625 --> 00:07:04,333
+[mujer-radio] <i>731, 731.
+Tenemos fuego hostil.</i>
+
+83
+00:07:08,750 --> 00:07:10,250
+¡Hemos perdido a Propulsor 1!
+
+84
+00:07:15,416 --> 00:07:16,291
+[hombre] Fuego.
+
+85
+00:07:17,666 --> 00:07:19,291
+Venga, venga, venga.
+
+86
+00:07:19,375 --> 00:07:21,291
+[música de tensión en aumento]
+
+87
+00:07:23,583 --> 00:07:25,166
+- [grita asustado]
+- [alarma]
+
+88
+00:07:25,250 --> 00:07:26,458
+[se queja de dolor]
+
+89
+00:07:27,333 --> 00:07:28,291
+[gime del esfuerzo]
+
+90
+00:07:28,375 --> 00:07:29,500
+EYECTOR
+
+91
+00:07:32,000 --> 00:07:33,458
+[música en descenso]
+
+92
+00:07:48,375 --> 00:07:50,375
+[música tenue de recuerdo]
+
+93
+00:07:58,000 --> 00:07:59,458
+[arranque de nave]
+
+94
+00:08:11,333 --> 00:08:12,666
+[fin de la música]
+
+95
+00:08:18,458 --> 00:08:20,250
+[movimientos del robot cerca]
+
+96
+00:08:21,666 --> 00:08:23,416
+[música tensa de suspense]
+
+97
+00:08:27,083 --> 00:08:28,916
+[música en aumento]
+
+98
+00:08:29,416 --> 00:08:31,500
+- [gime del esfuerzo]
+- [fin de la música]
+
+99
+00:08:31,583 --> 00:08:32,958
+[exhala nervioso]
+
+100
+00:08:37,500 --> 00:08:39,125
+[música de tensión]
+
+101
+00:09:26,958 --> 00:09:29,083
+[continúa la música de tensión]
+
+102
+00:09:45,750 --> 00:09:47,250
+[música en aumento]
+
+103
+00:09:54,416 --> 00:09:55,958
+[fin de la música]
+
+104
+00:09:59,875 --> 00:10:02,500
+RESCATE
+ESPERANDO TRANSMISIÓN
+
+105
+00:10:04,958 --> 00:10:05,833
+[pitido]
+
+106
+00:10:14,291 --> 00:10:16,291
+[ordenador] <i>Mensaje de auxilio recibido.</i>
+
+107
+00:10:16,375 --> 00:10:18,916
+<i>Cobijo 817-RD9G.</i>
+
+108
+00:10:20,166 --> 00:10:21,750
+<i>Rescate en marcha.</i>
+
+109
+00:10:21,833 --> 00:10:23,208
+[música esperanzadora]
+
+110
+00:10:23,291 --> 00:10:24,458
+[se queja suavemente]
+
+111
+00:10:25,166 --> 00:10:26,041
+[exhala]
+
+112
+00:10:27,000 --> 00:10:30,250
+[ordenador] <i>Alerta:
+fallo del robot de mantenimiento.</i>
+
+113
+00:10:32,458 --> 00:10:35,458
+<i>Alerta: fallo del robot de mantenimiento.</i>
+
+114
+00:10:35,541 --> 00:10:37,541
+[tose] No me digas.
+
+115
+00:10:37,625 --> 00:10:40,583
+[ordenador] <i>Alerta:
+fallo del robot de mantenimiento.</i>
+
+116
+00:10:47,041 --> 00:10:49,041
+[fin de la música]
+
+117
+00:10:51,708 --> 00:10:56,208
+[música apacible robotizada]
+
+118
+00:10:58,333 --> 00:11:00,208
+[música tenue de misterio]
+
+119
+00:11:58,291 --> 00:12:00,208
+[fin de la música]
+

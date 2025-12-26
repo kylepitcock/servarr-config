@@ -1,0 +1,2382 @@
+1
+00:00:01,750 --> 00:00:05,041
+Algo pasó en el dos.
+Algo muy malo pasó en el dos.
+
+2
+00:00:05,416 --> 00:00:08,916
+Escúchame, ¡un mensaje tarda
+como una semana en llegar aquí arriba!
+
+3
+00:00:09,000 --> 00:00:12,791
+¿Y tú entras en pánico por un problema
+que pasa del otro lado del edificio?
+
+4
+00:00:12,875 --> 00:00:14,458
+PREVIAMENTE EN
+ANDOR
+
+5
+00:00:14,541 --> 00:00:16,041
+¿Crees que nos están escuchando?
+
+6
+00:00:16,125 --> 00:00:17,416
+Tú qué vas a saber.
+
+7
+00:00:17,500 --> 00:00:19,791
+Te digo lo que sé,
+a ellos no les importamos.
+
+8
+00:00:19,875 --> 00:00:23,000
+Lo único que necesitan es
+activar el piso dos veces al día
+
+9
+00:00:23,083 --> 00:00:24,666
+y que su producción siga subiendo.
+
+10
+00:00:24,750 --> 00:00:25,875
+MON: <i>Necesito un préstamo.</i>
+
+11
+00:00:26,291 --> 00:00:27,666
+¿Tienes a alguien en mente?
+
+12
+00:00:28,000 --> 00:00:29,000
+No es una lista larga.
+
+13
+00:00:29,083 --> 00:00:30,833
+Y tienes miedo de decirme quién es.
+
+14
+00:00:31,666 --> 00:00:32,666
+Davo Sculdun.
+
+15
+00:00:32,750 --> 00:00:35,750
+Él no es un banquero, es un ladrón.
+
+16
+00:00:37,125 --> 00:00:38,583
+Tu respiración suena débil.
+
+17
+00:00:38,791 --> 00:00:40,416
+El doctor ya vino ayer.
+
+18
+00:00:42,250 --> 00:00:43,750
+¿En serio no sabes dónde está?
+
+19
+00:00:44,791 --> 00:00:46,416
+KINO: ¡Hombre nuevo en el piso!
+
+20
+00:00:47,708 --> 00:00:48,875
+¡Mantengan posiciones!
+
+21
+00:00:48,958 --> 00:00:50,250
+Tengo una nueva idea.
+
+22
+00:00:50,458 --> 00:00:51,666
+(LO ELECTROCUTA)
+
+23
+00:00:54,458 --> 00:00:56,416
+LUTHEN: <i>Anto Kreegyr, quiero que se vean.</i>
+
+24
+00:00:56,500 --> 00:00:57,500
+¿Anto Kreegyr?
+
+25
+00:00:57,583 --> 00:00:59,875
+Sondea la central
+de energía imperial de Spellhaus.
+
+26
+00:01:00,333 --> 00:01:03,333
+Tenemos un piloto rebelde en custodia.
+Es del grupo de Anto Kreegyr.
+
+27
+00:01:03,416 --> 00:01:05,500
+No creemos que Kreegyr
+sepa que desapareció.
+
+28
+00:01:05,666 --> 00:01:07,000
+¿Y si manipulamos la nave?
+
+29
+00:01:07,083 --> 00:01:09,000
+Que el piloto esté muerto en la cabina.
+
+30
+00:01:09,083 --> 00:01:12,083
+Que sea su prioridad,
+con velocidad y cautela.
+
+31
+00:01:12,166 --> 00:01:13,458
+Que no quede rastro.
+
+32
+00:01:13,666 --> 00:01:15,000
+KINO: ¿No puedes salvarlo?
+
+33
+00:01:15,291 --> 00:01:16,625
+Ya no hay nada que hacer.
+
+34
+00:01:17,500 --> 00:01:19,083
+Tuvo un infarto cerebral.
+
+35
+00:01:20,666 --> 00:01:22,833
+¿Qué fue lo que pasó en el dos?
+
+36
+00:01:22,916 --> 00:01:27,250
+Un hombre que liberaron del cuatro terminó
+de vuelta en el dos al día siguiente.
+
+37
+00:01:27,333 --> 00:01:30,166
+El rumor se extendió en el piso
+y mataron a todos.
+
+38
+00:01:30,458 --> 00:01:32,583
+Nadie sale de aquí, ¿verdad?
+
+39
+00:01:32,791 --> 00:01:35,583
+Ahora no. No después de esto.
+
+40
+00:01:46,041 --> 00:01:49,208
+(MÚSICA HEROICA)
+
+41
+00:03:09,958 --> 00:03:11,458
+CASSIAN: Hay que irnos mañana.
+
+42
+00:03:13,000 --> 00:03:14,583
+-¿Mañana?
+-Eso dije.
+
+43
+00:03:15,916 --> 00:03:16,916
+¿Adónde?
+
+44
+00:03:17,500 --> 00:03:19,833
+Adonde sea. Tiene que ser mañana.
+
+45
+00:03:20,500 --> 00:03:22,083
+-Mañana...
+-No podemos esperar.
+
+46
+00:03:22,208 --> 00:03:24,208
+No vamos a tener una mejor oportunidad.
+
+47
+00:03:25,166 --> 00:03:27,250
+-Tú estás loco.
+-No, escúchame.
+
+48
+00:03:28,166 --> 00:03:30,625
+No tienen suficientes guardias y lo saben.
+
+49
+00:03:31,125 --> 00:03:33,416
+Tienen miedo. Justo ahora tienen miedo.
+
+50
+00:03:33,500 --> 00:03:34,875
+¿Miedo? ¿Miedo de qué?
+
+51
+00:03:34,958 --> 00:03:37,541
+Acaban de matar a cien hombres
+para que no hablaran.
+
+52
+00:03:38,333 --> 00:03:40,666
+-¿Cómo le dices a eso?
+-Yo le digo poder.
+
+53
+00:03:40,750 --> 00:03:43,500
+¿Poder? Al poder no le da pánico.
+
+54
+00:03:44,708 --> 00:03:48,625
+Cinco mil hombres están a punto de saber
+que nunca saldrán de aquí con vida.
+
+55
+00:03:50,125 --> 00:03:52,333
+¿Crees que eso
+no les preocupa allá arriba?
+
+56
+00:03:53,208 --> 00:03:56,333
+Lo que estamos construyendo aquí
+es algo que obviamente necesitan.
+
+57
+00:03:57,583 --> 00:03:59,750
+Ya no se dejarán sorprender otra vez.
+
+58
+00:04:00,291 --> 00:04:01,333
+(SUENA ALARMA)
+
+59
+00:04:01,541 --> 00:04:03,375
+Nunca habrá menos guardias que mañana.
+
+60
+00:04:03,541 --> 00:04:05,083
+-¡Lo sabes!
+-En formación.
+
+61
+00:04:05,291 --> 00:04:07,958
+Cada día que esperamos,
+se hacen más fuertes.
+
+62
+00:04:08,166 --> 00:04:09,500
+Sería bueno tener un plan.
+
+63
+00:04:09,583 --> 00:04:11,916
+-¡Tenemos un plan!
+-Oh, ¿qué, ustedes?
+
+64
+00:04:12,208 --> 00:04:13,458
+¿Tú, Bimok y Melshi?
+
+65
+00:04:13,541 --> 00:04:16,125
+-¡No tienes tiempo para estupideces!
+-¡Formación!
+
+66
+00:04:18,333 --> 00:04:20,875
+El plan funciona
+por el hombre que van a enviar.
+
+67
+00:04:22,083 --> 00:04:23,875
+Van a reemplazar a Ulaf mañana.
+
+68
+00:04:24,833 --> 00:04:27,000
+Tal vez no vuelva a pasar
+hasta que sea muy tarde.
+
+69
+00:04:27,291 --> 00:04:29,791
+Prefiero morir
+tratando de acabar con ellos
+
+70
+00:04:29,875 --> 00:04:31,708
+que morir dándoles lo que quieren.
+
+71
+00:04:35,958 --> 00:04:38,041
+No vamos a tener una mejor oportunidad.
+
+72
+00:04:39,708 --> 00:04:40,958
+Tiene que ser mañana.
+
+73
+00:04:42,416 --> 00:04:43,541
+¡En formación!
+
+74
+00:04:50,958 --> 00:04:53,208
+HOMBRE POR ALTAVOZ:
+<i>Home Blue, procedan directo a su celda.</i>
+
+75
+00:04:53,291 --> 00:04:55,625
+-Keef, ¿dónde está Ulaf? ¡Keef!
+-Se murió.
+
+76
+00:04:55,708 --> 00:04:56,916
+<i>Tienen 30 segundos.</i>
+
+77
+00:04:57,083 --> 00:04:59,458
+-HOMBRE: ¿Qué pasó?
+-HOMBRE 2: Está muerto, ¿no es obvio?
+
+78
+00:04:59,666 --> 00:05:01,666
+-HOMBRE 3: ¿Quién era?
+-HOMBRE 2: Ulaf, el anciano.
+
+79
+00:05:01,750 --> 00:05:03,208
+Hombre nuevo. Mañana.
+
+80
+00:05:03,833 --> 00:05:05,166
+JEMBOC: ¿Qué está pasando?
+
+81
+00:05:05,291 --> 00:05:07,333
+(TODOS HABLAN A LA VEZ)
+
+82
+00:05:07,416 --> 00:05:09,125
+-¡Diles!
+-¿Decirnos qué?
+
+83
+00:05:09,875 --> 00:05:10,958
+¿Qué pasó?
+
+84
+00:05:11,416 --> 00:05:12,541
+El doctor estuvo aquí.
+
+85
+00:05:12,708 --> 00:05:14,000
+XAUL: No ayudó mucho, ¿o sí?
+
+86
+00:05:14,333 --> 00:05:15,375
+Kino.
+
+87
+00:05:15,458 --> 00:05:18,333
+<i>Deben obedecer de inmediato</i>
+<i>las reglas de las instalaciones</i>
+
+88
+00:05:18,416 --> 00:05:20,458
+<i>o se activarán los pisos sin advertencia.</i>
+
+89
+00:05:20,541 --> 00:05:21,583
+Keef, ¡el piso!
+
+90
+00:05:23,625 --> 00:05:24,625
+XAUL: ¿Qué está pasando?
+
+91
+00:05:24,708 --> 00:05:26,916
+El doctor nos dijo
+lo que pasó en el piso dos.
+
+92
+00:05:27,000 --> 00:05:29,125
+-HOMBRE 4: ¿Qué pasó?
+-¿Es cierto? ¿Frieron a todo el piso?
+
+93
+00:05:29,208 --> 00:05:30,541
+Es... Es peor que eso.
+
+94
+00:05:31,166 --> 00:05:32,875
+-Es el porqué.
+-HOMBRE 5: ¡Más fuerte!
+
+95
+00:05:33,041 --> 00:05:34,500
+CASSIAN: ¡Dijo que cometieron un error!
+
+96
+00:05:34,708 --> 00:05:36,791
+¡Regresaron a un hombre
+después de liberarlo!
+
+97
+00:05:36,875 --> 00:05:39,250
+¡Frieron a dos turnos para ocultarlo!
+
+98
+00:05:39,333 --> 00:05:41,541
+-¿Tú los oíste o qué?
+-HOMBRE 5: ¿Cómo lo supo?
+
+99
+00:05:41,625 --> 00:05:42,625
+HOMBRE 2: No te creo nada.
+
+100
+00:05:42,708 --> 00:05:44,333
+HOMBRE 4: Es un doctor.
+No tiene información.
+
+101
+00:05:44,416 --> 00:05:47,375
+¡Nadie va a salir de aquí!
+
+102
+00:05:47,541 --> 00:05:49,541
+(SILENCIO)
+
+103
+00:06:03,166 --> 00:06:04,375
+Es cierto.
+
+104
+00:06:07,083 --> 00:06:08,666
+Los rumores son ciertos.
+
+105
+00:06:10,666 --> 00:06:12,208
+No nos van a dejar ir.
+
+106
+00:06:13,375 --> 00:06:14,500
+Jamás.
+
+107
+00:06:17,666 --> 00:06:19,083
+Nos vamos a morir aquí.
+
+108
+00:06:19,750 --> 00:06:21,166
+O en el siguiente lugar.
+
+109
+00:06:24,833 --> 00:06:27,583
+Así que todos vuelvan a sus celdas
+
+110
+00:06:29,541 --> 00:06:31,083
+y empiecen a resolverlo.
+
+111
+00:06:40,458 --> 00:06:43,791
+LAGRET: Los hombres de Kreegyr
+se lo creyeron, solicitan aterrizar.
+
+112
+00:06:44,208 --> 00:06:46,458
+-¿Lo encontraron?
+-Lo están remolcando, señor.
+
+113
+00:06:46,541 --> 00:06:49,333
+Piloto muerto, nave a la deriva,
+puerto de origen desconocido.
+
+114
+00:06:50,333 --> 00:06:52,958
+"En Kafrene, los servicios
+de rescate no responden.
+
+115
+00:06:53,041 --> 00:06:54,250
+"Un GPE 7000.
+
+116
+00:06:54,333 --> 00:06:57,416
+"Su propulsor, al parecer, se congeló
+debido a una falla hidráulica
+
+117
+00:06:57,500 --> 00:06:59,000
+"al reentrar al hiperespacio".
+
+118
+00:06:59,083 --> 00:07:01,750
+-Funcionó.
+-Ahora debemos esperar.
+
+119
+00:07:01,958 --> 00:07:03,500
+-Sugerencia, señor.
+-Adelante.
+
+120
+00:07:03,750 --> 00:07:06,291
+-No creo que debamos esperar.
+-Continúe.
+
+121
+00:07:06,458 --> 00:07:07,666
+Hay que hacer lo de siempre.
+
+122
+00:07:07,750 --> 00:07:09,541
+¿Nave sin identificar, piloto muerto?
+
+123
+00:07:09,625 --> 00:07:11,166
+Queremos saber qué pasó, ¿no?
+
+124
+00:07:11,333 --> 00:07:12,916
+Hay que asumir que Kreegyr nos vigila.
+
+125
+00:07:13,000 --> 00:07:15,333
+Lo menos sospechoso
+que podemos hacer es interesarnos.
+
+126
+00:07:16,000 --> 00:07:17,916
+Y eso es justo lo que vamos a hacer.
+
+127
+00:07:38,250 --> 00:07:39,541
+KINO: ¡Escúchenme!
+
+128
+00:07:41,666 --> 00:07:44,875
+Ya se acabó contar turnos.
+
+129
+00:07:46,000 --> 00:07:48,541
+Solo queda el aquí y el ahora.
+
+130
+00:07:49,791 --> 00:07:52,250
+Solo hay una salida.
+
+131
+00:07:53,000 --> 00:07:54,375
+Hagan lo que quieran.
+
+132
+00:07:55,416 --> 00:07:58,500
+Pero yo voy a asumir que ya estoy muerto.
+
+133
+00:07:58,875 --> 00:08:00,666
+Y voy a partir de ahí.
+
+134
+00:08:00,833 --> 00:08:02,916
+No hay que avisarle al turno nocturno.
+
+135
+00:08:03,708 --> 00:08:06,250
+De alguna manera se van a enterar.
+
+136
+00:08:08,083 --> 00:08:09,333
+Quiero que se vea bien.
+
+137
+00:08:20,791 --> 00:08:23,000
+HOMBRE POR ALTAVOZ:
+<i>Nuevo anuncio de protocolo.</i>
+
+138
+00:08:23,125 --> 00:08:25,333
+<i>Todas las transferencias</i>
+<i>por el puente aéreo</i>
+
+139
+00:08:25,416 --> 00:08:28,458
+<i>serán en formación y en silencio</i>
+<i>hasta nuevo aviso.</i>
+
+140
+00:08:28,541 --> 00:08:30,750
+<i>Cualquier turno</i>
+<i>que no cumpla con las normas</i>
+
+141
+00:08:30,833 --> 00:08:32,583
+<i>será castigado colectivamente.</i>
+
+142
+00:08:33,000 --> 00:08:34,416
+<i>En formación ahora.</i>
+
+143
+00:08:34,708 --> 00:08:36,583
+¡En formación!
+
+144
+00:08:40,208 --> 00:08:41,250
+Vuelta.
+
+145
+00:08:50,208 --> 00:08:51,291
+Listo.
+
+146
+00:09:19,958 --> 00:09:22,958
+JEZZI: Doctor Mullmoy,
+no estamos seguros de qué hacer.
+
+147
+00:09:23,541 --> 00:09:25,375
+Necesita su medicina, lo sabe,
+
+148
+00:09:25,458 --> 00:09:27,125
+pero la encontramos escondiéndola.
+
+149
+00:09:27,208 --> 00:09:29,291
+Y cuando le dije qué es lo que creía
+que estaba haciendo,
+
+150
+00:09:29,375 --> 00:09:32,166
+me dijo que sus pastillas no la dejan
+comer y quiere seguir comiendo
+
+151
+00:09:32,250 --> 00:09:34,916
+y no pensar que algo está mal con ella.
+
+152
+00:09:35,041 --> 00:09:36,250
+MULLMOY: ¿Dónde está?
+
+153
+00:09:36,916 --> 00:09:38,291
+Vi que se fue por allá.
+
+154
+00:09:38,666 --> 00:09:39,750
+Gracias.
+
+155
+00:09:43,916 --> 00:09:45,333
+DAVO: Estuve aquí una vez.
+
+156
+00:09:45,916 --> 00:09:47,291
+Hace 30 años.
+
+157
+00:09:47,958 --> 00:09:52,041
+Acababa de salir de Chandrila,
+y mi jefe en esa época me invitó a verla.
+
+158
+00:09:52,375 --> 00:09:53,583
+TAY: ¿Ha cambiado mucho?
+
+159
+00:09:54,083 --> 00:09:55,083
+No tengo idea.
+
+160
+00:09:55,916 --> 00:09:57,125
+No puse mucha atención.
+
+161
+00:09:57,541 --> 00:10:00,708
+Supuse que iba a volver aquí seguido.
+
+162
+00:10:00,791 --> 00:10:02,125
+Es propiedad del estado.
+
+163
+00:10:02,208 --> 00:10:04,041
+Las reglas son estrictas
+con la decoración.
+
+164
+00:10:04,125 --> 00:10:06,000
+Nuestras opciones de cambio son limitadas.
+
+165
+00:10:06,083 --> 00:10:07,791
+Ah, es algo vieja, ¿no cree?
+
+166
+00:10:10,708 --> 00:10:11,833
+Me gustan nuevas.
+
+167
+00:10:13,083 --> 00:10:15,250
+Sé que no tiene estilo y es un cliché,
+
+168
+00:10:15,333 --> 00:10:17,916
+pero una de las indulgencias
+de una gran riqueza
+
+169
+00:10:18,000 --> 00:10:20,000
+es ser libre de lo que otros opinan.
+
+170
+00:10:20,875 --> 00:10:22,208
+Ya expuso su punto.
+
+171
+00:10:22,958 --> 00:10:25,041
+Sí, todos dicen que usted es muy directa.
+
+172
+00:10:25,125 --> 00:10:27,041
+La senadora tiene muchas obligaciones,
+
+173
+00:10:27,125 --> 00:10:29,958
+y debe gestionar
+su tiempo en función a eso.
+
+174
+00:10:30,666 --> 00:10:32,208
+Me agradan las cosas claras.
+
+175
+00:10:32,666 --> 00:10:35,083
+Pero también debo considerar
+
+176
+00:10:35,500 --> 00:10:37,041
+qué está a la vuelta de la esquina.
+
+177
+00:10:37,125 --> 00:10:40,333
+Mmm, está claro que su curiosidad
+le ha sido productiva.
+
+178
+00:10:40,583 --> 00:10:42,791
+Me reuní con su esposo
+en varias ocasiones.
+
+179
+00:10:42,958 --> 00:10:44,583
+-Estoy segura.
+-(RISITA)
+
+180
+00:10:45,583 --> 00:10:48,791
+Supongo que no es una esquina
+que veremos en esta conversación.
+
+181
+00:10:48,916 --> 00:10:50,000
+Claro que no.
+
+182
+00:10:51,083 --> 00:10:55,000
+Muchas culturas no aprecian del todo
+la claridad en un matrimonio chandrilano.
+
+183
+00:10:55,083 --> 00:10:57,291
+Incluso nuestro pueblo
+se confunde a veces.
+
+184
+00:10:57,875 --> 00:10:59,958
+Los límites pueden ser liberadores.
+
+185
+00:11:00,583 --> 00:11:02,250
+Las tradiciones son valiosas.
+
+186
+00:11:02,916 --> 00:11:05,375
+Eso. Ya nos estamos entendiendo.
+
+187
+00:11:06,416 --> 00:11:10,791
+Así que está en búsqueda
+de una situación bancaria más flexible.
+
+188
+00:11:10,916 --> 00:11:13,083
+Ya discutimos todo esto, Davo.
+
+189
+00:11:13,958 --> 00:11:16,000
+Quiero oír que lo diga.
+
+190
+00:11:19,958 --> 00:11:21,000
+Sí.
+
+191
+00:11:21,250 --> 00:11:25,375
+Buscamos acuerdos financieros alternativos
+para nuestra fundación.
+
+192
+00:11:26,666 --> 00:11:28,750
+Como Tay, sin duda, le ha dicho,
+
+193
+00:11:28,875 --> 00:11:31,125
+hemos alcanzado
+una escala en nuestros activos
+
+194
+00:11:31,208 --> 00:11:34,375
+que permite que una gran variedad
+de transacciones se fusionen
+
+195
+00:11:34,458 --> 00:11:37,916
+de un modo
+que la observación externa es imposible.
+
+196
+00:11:38,000 --> 00:11:39,583
+Así es, ya fui informada.
+
+197
+00:11:40,375 --> 00:11:42,333
+Lo lamentable es que
+
+198
+00:11:42,625 --> 00:11:46,041
+personas como usted,
+que tienen una reputación inmaculada,
+
+199
+00:11:46,166 --> 00:11:49,583
+sientan a veces que al tomar
+la ventaja de una oportunidad,
+
+200
+00:11:49,666 --> 00:11:51,333
+los van a... Van a marcar.
+
+201
+00:11:51,500 --> 00:11:52,625
+Pero es su dinero.
+
+202
+00:11:53,208 --> 00:11:55,416
+La fortuna familiar
+no debería avergonzarlos.
+
+203
+00:11:55,500 --> 00:11:59,083
+Y deberían poder moverlo a su gusto
+con su privacidad intacta.
+
+204
+00:11:59,708 --> 00:12:01,458
+El imperio y sus nuevas regulaciones,
+
+205
+00:12:01,541 --> 00:12:04,000
+hechas sin consultar
+al Senado debo añadir,
+
+206
+00:12:04,083 --> 00:12:06,416
+son fastidiosas, aunque evitables.
+
+207
+00:12:06,875 --> 00:12:09,875
+Ellos crearon el juego,
+y nosotros lo jugamos.
+
+208
+00:12:10,791 --> 00:12:13,125
+Este dinero es para un fondo de caridad.
+
+209
+00:12:13,208 --> 00:12:14,333
+DAVO: Eso me han dicho.
+
+210
+00:12:16,500 --> 00:12:18,958
+-¿Cuál será el costo?
+-¿Mi precio?
+
+211
+00:12:19,041 --> 00:12:21,916
+Asumimos que un porcentaje
+de los fondos transferidos.
+
+212
+00:12:22,000 --> 00:12:23,416
+Mmm, no quiero un pago.
+
+213
+00:12:23,583 --> 00:12:25,958
+La fortuna no me interesa en este punto.
+
+214
+00:12:26,750 --> 00:12:28,541
+Es caridad, ¿no es cierto?
+
+215
+00:12:30,125 --> 00:12:32,041
+-Yo insisto.
+-DAVO: Y yo me rehúso.
+
+216
+00:12:32,125 --> 00:12:33,333
+Por favor, no se ofenda.
+
+217
+00:12:33,708 --> 00:12:36,000
+Prefiero no deberle ningún favor.
+
+218
+00:12:36,708 --> 00:12:38,875
+Me siento más cómoda
+pagando por las molestias.
+
+219
+00:12:41,083 --> 00:12:45,041
+Una pizca de incomodidad podría ser
+el precio de los negocios.
+
+220
+00:12:49,625 --> 00:12:50,791
+Estoy esperando.
+
+221
+00:12:51,916 --> 00:12:54,000
+Quisiera una invitación para regresar.
+
+222
+00:12:54,208 --> 00:12:56,625
+Quiero volver aquí al menos otra vez.
+
+223
+00:12:57,291 --> 00:12:59,666
+Bueno, estoy segura
+de que es algo que se puede arreglar.
+
+224
+00:12:59,916 --> 00:13:01,708
+DAVO: Tengo un hijo de 14 años.
+
+225
+00:13:01,958 --> 00:13:03,541
+Quisiera que viniera conmigo.
+
+226
+00:13:07,333 --> 00:13:08,875
+¿Lo está diciendo en serio?
+
+227
+00:13:10,416 --> 00:13:12,000
+No estoy pretendiendo que se casen.
+
+228
+00:13:12,083 --> 00:13:13,791
+Entonces, ¿de qué estamos hablando?
+
+229
+00:13:13,875 --> 00:13:17,708
+Que se conozcan.
+Su hija tiene 13, pronto estará en edad.
+
+230
+00:13:17,791 --> 00:13:22,208
+Dos jóvenes adolescentes atractivos
+y privilegiados ciudadanos chandrilanos.
+
+231
+00:13:22,750 --> 00:13:25,958
+¿Qué le hace pensar
+que apruebo esa tradición?
+
+232
+00:13:26,625 --> 00:13:31,083
+Nuestra posición a veces es
+la que decide por nosotros, ¿no es verdad?
+
+233
+00:13:31,166 --> 00:13:35,250
+Senadora, ninguno de los dos ha vivido
+una vida que conlleve al conformismo.
+
+234
+00:13:36,958 --> 00:13:38,958
+¿Esa es su única oferta?
+
+235
+00:13:39,708 --> 00:13:42,083
+-Temo que así es.
+-Tay lo lleva a la salida.
+
+236
+00:13:44,666 --> 00:13:45,750
+Claro.
+
+237
+00:13:50,791 --> 00:13:52,208
+Es mucho en qué pensar.
+
+238
+00:13:52,291 --> 00:13:54,083
+No estoy pensando nada, no se equivoque.
+
+239
+00:13:56,875 --> 00:13:59,166
+Nunca le había escuchado algo incorrecto.
+
+240
+00:14:01,000 --> 00:14:02,083
+Ha sido un placer.
+
+241
+00:14:22,750 --> 00:14:24,416
+Hay una marca en la fuente.
+
+242
+00:14:24,958 --> 00:14:26,291
+Puede ser lo que sea.
+
+243
+00:14:26,791 --> 00:14:29,041
+Eso es lo que creí. Fui a las escaleras.
+
+244
+00:14:30,500 --> 00:14:31,958
+El barandal no está.
+
+245
+00:14:32,250 --> 00:14:33,625
+Lo quitaron hace poco.
+
+246
+00:14:35,125 --> 00:14:37,208
+Quiere una reunión cara a cara.
+
+247
+00:14:37,750 --> 00:14:39,375
+Hasta ahí mi buen día.
+
+248
+00:14:39,458 --> 00:14:42,083
+No me gusta. Ahora no, no es buen momento.
+
+249
+00:14:42,166 --> 00:14:43,625
+A ti nada te gusta.
+
+250
+00:14:43,916 --> 00:14:45,666
+Al menos deberías dejarme ir.
+
+251
+00:14:45,791 --> 00:14:48,250
+Llévate al Fondor, ve a un lugar seguro
+y deja que me haga cargo.
+
+252
+00:14:48,333 --> 00:14:51,500
+Sabes que eso no pasará.
+No pierdas el tiempo.
+
+253
+00:14:52,750 --> 00:14:53,958
+Ya pasó un año.
+
+254
+00:14:54,583 --> 00:14:56,375
+Me sorprende que esperara tanto.
+
+255
+00:14:56,833 --> 00:14:58,000
+¿Y si es una trampa?
+
+256
+00:14:58,291 --> 00:15:00,916
+Si es una trampa, pues ya perdimos.
+
+257
+00:15:03,333 --> 00:15:04,375
+JEMBOC: Quiten las manos.
+
+258
+00:15:05,833 --> 00:15:07,250
+¿En serio vamos a hacerlo?
+
+259
+00:15:08,166 --> 00:15:10,416
+-¿Sigues adentro?
+-No importa cómo, quiero salir.
+
+260
+00:15:10,666 --> 00:15:13,666
+Estoy muerto. Estoy muerto.
+Debería estar muerto.
+
+261
+00:15:15,416 --> 00:15:17,583
+No te mueras sin pelear primero.
+
+262
+00:15:21,083 --> 00:15:22,333
+Solo una salida.
+
+263
+00:15:22,583 --> 00:15:23,666
+¡A trabajar!
+
+264
+00:15:25,416 --> 00:15:26,708
+¡No se detengan!
+
+265
+00:15:29,166 --> 00:15:30,250
+¡Sigan!
+
+266
+00:15:31,875 --> 00:15:33,125
+¡Más rápido!
+
+267
+00:15:33,208 --> 00:15:34,916
+HOMBRE: Sí, no bajen el ritmo.
+
+268
+00:15:35,333 --> 00:15:36,458
+Guarda esto.
+
+269
+00:15:41,208 --> 00:15:45,291
+Justo ahora, estamos dos lugares atrás.
+
+270
+00:15:46,000 --> 00:15:51,541
+¡No vamos a dejar
+que el turno termine así!
+
+271
+00:16:04,458 --> 00:16:05,500
+Alto ahí.
+
+272
+00:16:06,375 --> 00:16:09,541
+En formación. Manos a la cabeza,
+vista al frente, pies juntos.
+
+273
+00:16:13,250 --> 00:16:14,583
+KINO: ¡No se detengan!
+
+274
+00:16:18,125 --> 00:16:19,250
+¡Sigan!
+
+275
+00:16:24,333 --> 00:16:25,666
+Un paso al frente. Alto.
+
+276
+00:16:27,041 --> 00:16:30,750
+Aturdidor. Si lo uso,
+no se te va a olvidar, ¿sí? ¿Sí?
+
+277
+00:16:31,291 --> 00:16:32,458
+Hay que revisar el tres.
+
+278
+00:16:32,708 --> 00:16:34,333
+-Hazlo ahora.
+-No se retrasen.
+
+279
+00:16:34,458 --> 00:16:35,833
+-Nos vamos.
+-Enterado.
+
+280
+00:16:36,208 --> 00:16:37,333
+GUARDIA: ¡Dije ojos al frente!
+
+281
+00:16:38,291 --> 00:16:40,625
+¿En dónde está? ¿Están vigilando?
+
+282
+00:16:40,708 --> 00:16:42,000
+-Cálmate.
+-¿Cómo?
+
+283
+00:16:42,083 --> 00:16:43,750
+Creí que ya estabas muerto.
+
+284
+00:16:57,750 --> 00:17:01,083
+El nuevo está listo en el 5-2-D,
+solicitando anulación del sistema.
+
+285
+00:17:01,166 --> 00:17:02,291
+¿Cómo va todo por ahí?
+
+286
+00:17:02,708 --> 00:17:04,791
+HOMBRE POR RADIO: <i>Enterado. Un momento.</i>
+
+287
+00:17:07,458 --> 00:17:08,541
+Todo bien.
+
+288
+00:17:10,333 --> 00:17:12,125
+-Okey, ya.
+-(CHIFLA)
+
+289
+00:17:40,208 --> 00:17:41,541
+(SUENA ALARMA)
+
+290
+00:17:49,916 --> 00:17:51,375
+HOMBRE POR ALTAVOZ: <i>En formación.</i>
+
+291
+00:17:59,500 --> 00:18:01,000
+(SE ABRE LA PUERTA)
+
+292
+00:18:40,000 --> 00:18:42,291
+HOMBRE POR ALTAVOZ:
+<i>En formación. Hombre nuevo en el piso.</i>
+
+293
+00:18:42,375 --> 00:18:43,458
+<i>Mantengan posiciones.</i>
+
+294
+00:18:43,541 --> 00:18:45,291
+KINO: ¡Hombre nuevo en el piso!
+
+295
+00:18:45,375 --> 00:18:46,750
+¡A sus posiciones!
+
+296
+00:18:57,291 --> 00:18:58,625
+Elevador activado.
+
+297
+00:19:05,750 --> 00:19:07,666
+-¿Qué dijiste? Repítelo.
+-No dije nada.
+
+298
+00:19:07,791 --> 00:19:09,500
+Si quieres decirme algo, dímelo ya.
+
+299
+00:19:09,583 --> 00:19:11,041
+(DISCUTEN INDISTINTAMENTE)
+
+300
+00:19:11,125 --> 00:19:13,791
+¡Ey, los dos, vuelvan a la formación!
+
+301
+00:19:13,875 --> 00:19:15,625
+¡Vuelvan a la formación!
+
+302
+00:19:15,791 --> 00:19:18,625
+-¡Sepárense los dos!
+-¡Vuelvan a la formación!
+
+303
+00:19:18,750 --> 00:19:20,833
+(GRITOS INDISTINTOS)
+
+304
+00:19:23,625 --> 00:19:25,541
+¿Qué está pasando? ¿Qué fue eso?
+
+305
+00:19:26,708 --> 00:19:27,791
+¡Ahora!
+
+306
+00:19:31,833 --> 00:19:33,000
+¿Qué está pasando ahí?
+
+307
+00:19:33,458 --> 00:19:34,625
+¡Ya, ya!
+
+308
+00:19:38,416 --> 00:19:41,208
+-¡Quítate de mi objetivo!
+-¿Qué estás haciendo?
+
+309
+00:19:54,458 --> 00:19:55,750
+¡Es ahora! ¡Ayúdenlos!
+
+310
+00:19:56,291 --> 00:19:57,833
+¡Ataquen!
+
+311
+00:20:22,333 --> 00:20:23,916
+¡Activen el piso!
+
+312
+00:20:24,083 --> 00:20:25,541
+¡Activen el piso!
+
+313
+00:20:25,708 --> 00:20:27,416
+¡Suban a las mesas!
+
+314
+00:20:27,583 --> 00:20:29,208
+¡Suban a las mesas!
+
+315
+00:20:29,458 --> 00:20:30,833
+¡Suban a las mesas!
+
+316
+00:20:30,958 --> 00:20:32,291
+GUARDIA: ¡Activen el piso!
+
+317
+00:20:38,916 --> 00:20:40,083
+(GRITOS)
+
+318
+00:20:44,375 --> 00:20:46,666
+-HOMBRE: ¡Bien hecho!
+-HOMBRE 2: ¡Se detuvo!
+
+319
+00:20:52,500 --> 00:20:54,041
+¡Ataquen!
+
+320
+00:20:56,291 --> 00:20:58,333
+Tenemos una situación en el 5-2-D.
+
+321
+00:20:58,416 --> 00:20:59,791
+Repito, tenemos una situación...
+
+322
+00:20:59,916 --> 00:21:01,291
+(SUENAN DISPAROS)
+
+323
+00:21:11,416 --> 00:21:12,875
+¡No! ¡Xaul!
+
+324
+00:21:20,458 --> 00:21:21,458
+¡Ey!
+
+325
+00:21:26,541 --> 00:21:28,208
+-¡Libre!
+-¡Por aquí!
+
+326
+00:21:28,541 --> 00:21:29,625
+¡Suban!
+
+327
+00:21:33,583 --> 00:21:35,125
+¡Ya estamos!
+
+328
+00:22:13,166 --> 00:22:14,500
+¡Muévete!
+
+329
+00:22:17,041 --> 00:22:19,166
+-Kino, ¡rápido!
+-¡Hay que defender el nivel!
+
+330
+00:22:19,250 --> 00:22:20,750
+Que alguien más haga eso.
+
+331
+00:22:20,958 --> 00:22:23,458
+¡Vuelen las consolas!
+¡No cierren las puertas!
+
+332
+00:22:25,625 --> 00:22:27,000
+HOMBRE POR RADIO: <i>¿Qué pasa abajo?</i>
+
+333
+00:22:27,083 --> 00:22:29,458
+-No estoy seguro, señor...
+<i>-Estoy viendo una fuga de agua.</i>
+
+334
+00:22:29,541 --> 00:22:31,333
+Tengo alarmas de servicio
+en todos los paneles.
+
+335
+00:22:31,416 --> 00:22:33,375
+<i>Manda a alguien y revisen todo. Ahora.</i>
+
+336
+00:22:33,500 --> 00:22:35,750
+Vayan al 5-2-D. ¡Ahora!
+
+337
+00:22:44,250 --> 00:22:46,458
+-Jemboc.
+-Taga, por aquí, camina.
+
+338
+00:22:49,750 --> 00:22:50,833
+¡Rápido!
+
+339
+00:22:54,583 --> 00:22:55,833
+Ya, ya, ya.
+
+340
+00:23:06,416 --> 00:23:09,416
+¡Es una salida! ¡Vengan a pelear!
+
+341
+00:23:17,708 --> 00:23:19,125
+(TODOS FESTEJAN)
+
+342
+00:23:44,375 --> 00:23:45,958
+¡Ya nos vamos! ¡Sígannos!
+
+343
+00:23:53,208 --> 00:23:55,791
+¡Suban! ¡Usen todo lo que puedan!
+
+344
+00:23:59,208 --> 00:24:00,291
+Ya.
+
+345
+00:24:04,583 --> 00:24:07,291
+HOMBRE POR ALTAVOZ: <i>Este es</i>
+<i>un aviso de emergencia del complejo.</i>
+
+346
+00:24:07,375 --> 00:24:11,166
+<i>El programa de protocolo completo</i>
+<i>comenzará en 40 segundos.</i>
+
+347
+00:24:11,250 --> 00:24:15,125
+Cualquier desatención o incumplimiento
+resultará en una activación global.
+
+348
+00:24:15,208 --> 00:24:16,500
+Empieza la cuenta.
+
+349
+00:24:16,750 --> 00:24:17,875
+Cuenta iniciada.
+
+350
+00:24:17,958 --> 00:24:19,625
+¿Ya pudieron resolver la fuga de agua?
+
+351
+00:24:19,708 --> 00:24:22,583
+-Están esperando a que el piso sea seguro.
+-Aísla al cinco.
+
+352
+00:24:22,708 --> 00:24:24,666
+-Cerrado.
+-Cinco cinco.
+
+353
+00:24:24,750 --> 00:24:27,291
+Cinco tres, cinco seis.
+Ponle un bloqueo total.
+
+354
+00:24:27,375 --> 00:24:29,500
+Fríe todo el nivel,
+que el epicentro sea el 5-2.
+
+355
+00:24:29,625 --> 00:24:30,750
+Muy tarde.
+
+356
+00:24:32,208 --> 00:24:33,416
+No hay nadie ahí.
+
+357
+00:24:34,000 --> 00:24:35,291
+No deberían estar aquí.
+
+358
+00:24:36,208 --> 00:24:37,291
+Apágalo.
+
+359
+00:24:37,750 --> 00:24:39,416
+-¿Perdón?
+-¡Que lo apagues!
+
+360
+00:24:40,583 --> 00:24:42,000
+¿Que apague qué? Son muchas cosas.
+
+361
+00:24:44,500 --> 00:24:46,333
+Yo, eh, yo lo apago.
+
+362
+00:24:47,000 --> 00:24:49,083
+Muévete de ahí. ¡Ahora!
+
+363
+00:24:50,958 --> 00:24:52,791
+Desactiva los pisos. Todos los pisos.
+
+364
+00:24:53,291 --> 00:24:54,333
+Hazlo.
+
+365
+00:24:57,125 --> 00:25:00,291
+No, no solo los desactives.
+
+366
+00:25:00,916 --> 00:25:03,291
+-Corta la energía.
+-Es hidro.
+
+367
+00:25:03,750 --> 00:25:06,250
+Si se desconecta,
+tardará meses en volver a activarse.
+
+368
+00:25:07,041 --> 00:25:08,166
+No puedo hacerlo.
+
+369
+00:25:09,083 --> 00:25:10,875
+Él tiene las autorizaciones.
+
+370
+00:25:42,750 --> 00:25:44,375
+Es la fuente de respaldo.
+
+371
+00:25:46,458 --> 00:25:47,666
+Quítate de ahí.
+
+372
+00:25:49,875 --> 00:25:50,916
+¡Aquí!
+
+373
+00:25:56,625 --> 00:25:59,416
+Ve con él. ¡Muévete!
+
+374
+00:26:00,375 --> 00:26:02,708
+¡En formación! ¡Ahora!
+
+375
+00:26:04,250 --> 00:26:05,291
+Te toca.
+
+376
+00:26:09,333 --> 00:26:10,416
+Kino.
+
+377
+00:26:15,875 --> 00:26:17,166
+(ESTÁTICA DE RADIO)
+
+378
+00:26:27,750 --> 00:26:28,916
+Diles qué hacer.
+
+379
+00:26:31,875 --> 00:26:34,208
+Tienes que ser tú. Venga, Kino.
+
+380
+00:26:34,750 --> 00:26:38,583
+Haces esto todos los días.
+Diles qué hacer.
+
+381
+00:26:48,666 --> 00:26:49,708
+(PRENDE MICRÓFONO)
+
+382
+00:26:50,083 --> 00:26:52,625
+Mi nombre es Kino Loy.
+
+383
+00:26:53,541 --> 00:26:56,541
+<i>Soy el encargado de turno del nivel cinco.</i>
+
+384
+00:26:58,750 --> 00:27:03,833
+<i>Les estoy hablando</i>
+<i>desde el centro de mando en el nivel ocho.</i>
+
+385
+00:27:05,958 --> 00:27:09,583
+Estamos, en este momento,
+en control del edificio.
+
+386
+00:27:13,083 --> 00:27:14,708
+¿Es lo mejor que puedes hacer?
+
+387
+00:27:18,083 --> 00:27:19,708
+¿Cuánto tiempo aguantamos?
+
+388
+00:27:20,041 --> 00:27:21,625
+¿Hasta dónde llegamos?
+
+389
+00:27:22,375 --> 00:27:25,541
+¿Cuántos de nosotros lo logramos?
+Todo eso ahora...
+
+390
+00:27:26,125 --> 00:27:27,416
+Depende de nosotros.
+
+391
+00:27:28,583 --> 00:27:32,625
+Ya desactivamos
+todos los pisos de las instalaciones.
+
+392
+00:27:34,500 --> 00:27:37,666
+<i>Todos los pisos están fríos.</i>
+
+393
+00:27:40,458 --> 00:27:43,833
+<i>Donde quiera que estén,</i>
+<i>ahora mismo levántense,</i>
+
+394
+00:27:44,041 --> 00:27:45,458
+<i>dejen de trabajar.</i>
+
+395
+00:27:45,833 --> 00:27:48,500
+<i>Salgan de sus celdas. Tomen el control.</i>
+
+396
+00:27:49,041 --> 00:27:50,458
+<i>Comiencen a subir.</i>
+
+397
+00:27:51,000 --> 00:27:54,541
+<i>No tienen suficientes guardias y lo saben.</i>
+
+398
+00:27:55,041 --> 00:27:58,083
+Si esperamos a que se den cuenta,
+será muy tarde.
+
+399
+00:28:00,375 --> 00:28:04,541
+Nunca vamos a tener
+una mejor oportunidad que esta.
+
+400
+00:28:06,583 --> 00:28:10,500
+Y prefiero caer tratando de vencerlos
+
+401
+00:28:10,583 --> 00:28:13,250
+que caer haciendo lo que quieren.
+
+402
+00:28:14,166 --> 00:28:15,541
+Sabemos
+
+403
+00:28:16,291 --> 00:28:20,208
+que frieron a cien hombres
+en el nivel dos.
+
+404
+00:28:20,875 --> 00:28:24,208
+Sabemos que están
+aumentando nuestras sentencias.
+
+405
+00:28:24,583 --> 00:28:28,833
+<i>Cada día que pasa,</i>
+<i>sabemos que nadie fuera de aquí</i>
+
+406
+00:28:29,125 --> 00:28:30,791
+<i>sabe lo que está pasando.</i>
+
+407
+00:28:31,375 --> 00:28:35,541
+<i>Y ya sabemos que cuando nos dicen</i>
+<i>que nos van a liberar,</i>
+
+408
+00:28:35,666 --> 00:28:38,125
+¡todos vamos a ser transferidos
+
+409
+00:28:38,208 --> 00:28:41,208
+a alguna otra prisión para ir a morir!
+
+410
+00:28:42,250 --> 00:28:45,875
+¡Y eso acaba hoy!
+
+411
+00:28:46,791 --> 00:28:49,958
+Solo hay una salida.
+
+412
+00:28:50,041 --> 00:28:54,833
+¡Ahora mismo, el edificio es nuestro!
+
+413
+00:28:56,125 --> 00:29:00,125
+¡Tienen que correr, escalar, matar!
+
+414
+00:29:01,375 --> 00:29:03,375
+Ayúdense entre ustedes.
+
+415
+00:29:04,625 --> 00:29:07,333
+Si ven a alguien confundido,
+a alguien perdido,
+
+416
+00:29:08,250 --> 00:29:10,500
+hagan que se mueva
+y ustedes sigan moviéndose
+
+417
+00:29:10,583 --> 00:29:13,625
+hasta que podamos ver este lugar detrás.
+
+418
+00:29:14,541 --> 00:29:16,583
+<i>Hay 5000 de nosotros.</i>
+
+419
+00:29:17,750 --> 00:29:22,166
+<i>Si podemos pelear</i>
+<i>la mitad de lo que hemos trabajado,</i>
+
+420
+00:29:22,291 --> 00:29:25,041
+<i>estaremos en casa en poco tiempo.</i>
+
+421
+00:29:26,541 --> 00:29:28,291
+<i>¡Una salida!</i>
+
+422
+00:29:28,583 --> 00:29:30,791
+<i>¡Una salida!</i>
+
+423
+00:29:31,541 --> 00:29:33,750
+¡Una salida!
+
+424
+00:29:34,166 --> 00:29:36,375
+¡Una salida!
+
+425
+00:29:36,625 --> 00:29:39,000
+¡Una salida!
+
+426
+00:29:39,333 --> 00:29:41,375
+TODOS: ¡Una salida!
+
+427
+00:29:41,541 --> 00:29:44,416
+¡Una salida! ¡Una salida!
+
+428
+00:29:44,666 --> 00:29:47,458
+¡Una salida! ¡Una salida!
+
+429
+00:29:47,583 --> 00:29:50,583
+¡Una salida! ¡Una salida!
+
+430
+00:29:50,750 --> 00:29:53,708
+¡Una salida! ¡Una salida!
+
+431
+00:29:53,791 --> 00:29:56,791
+¡Una salida! ¡Una salida!
+
+432
+00:29:57,041 --> 00:29:59,875
+¡Una salida! ¡Una salida!
+
+433
+00:30:00,083 --> 00:30:03,041
+¡Una salida! ¡Una salida!
+
+434
+00:30:03,166 --> 00:30:06,125
+-¡Una salida! ¡Una salida!
+-(LO CALLA)
+
+435
+00:30:06,291 --> 00:30:09,083
+¡Una salida! ¡Una salida!
+
+436
+00:30:09,208 --> 00:30:12,500
+¡Una salida! ¡Una salida!
+
+437
+00:30:12,625 --> 00:30:15,375
+¡Una salida! ¡Una salida!
+
+438
+00:30:15,500 --> 00:30:17,291
+¡Una salida!
+
+439
+00:30:17,916 --> 00:30:19,541
+¡Es una salida!
+
+440
+00:30:21,291 --> 00:30:24,125
+Pase lo que pase ahora, lo logramos.
+
+441
+00:30:27,750 --> 00:30:28,833
+¿Qué pasa?
+
+442
+00:30:29,625 --> 00:30:31,000
+No sé nadar.
+
+443
+00:30:31,500 --> 00:30:33,250
+-¿Qué?
+-MELSHI: ¿Qué te dijo?
+
+444
+00:30:34,166 --> 00:30:35,541
+¡No sé nadar!
+
+445
+00:32:00,791 --> 00:32:04,166
+LUTHEN: <i>Si es una trampa,</i>
+<i>presiona los botones por 215.</i>
+
+446
+00:32:07,375 --> 00:32:09,791
+<i>Tendremos privacidad.</i>
+<i>Estamos en el exprés.</i>
+
+447
+00:32:11,541 --> 00:32:13,625
+<i>Antes que nada, felicidades.</i>
+
+448
+00:32:15,833 --> 00:32:18,875
+-¿Por qué?
+<i>-Tu hija. Sana, preciosa.</i>
+
+449
+00:32:18,958 --> 00:32:20,625
+<i>Debes estar feliz.</i>
+
+450
+00:32:24,750 --> 00:32:26,291
+¿Lo dices para asustarme?
+
+451
+00:32:26,375 --> 00:32:28,958
+<i>Desde hace un año no hemos podido hablar.</i>
+
+452
+00:32:29,291 --> 00:32:31,083
+<i>Ya te convertiste en padre.</i>
+
+453
+00:32:31,291 --> 00:32:32,416
+<i>Tenía que mencionarlo.</i>
+
+454
+00:32:32,541 --> 00:32:33,583
+No es justo.
+
+455
+00:32:34,958 --> 00:32:38,625
+Que tú sepas. Que me vigiles.
+
+456
+00:32:40,208 --> 00:32:42,458
+¿Alguna vez piensas
+cómo se siente de mi lado?
+
+457
+00:32:42,958 --> 00:32:44,625
+<i>No he dejado de pensar en ti.</i>
+
+458
+00:32:48,583 --> 00:32:50,458
+<i>¿Por qué estamos aquí hoy, Lonni?</i>
+
+459
+00:32:50,791 --> 00:32:52,625
+Los ojos están en una nueva supervisora.
+
+460
+00:32:53,000 --> 00:32:54,333
+Dedra Meero.
+
+461
+00:32:54,875 --> 00:32:57,750
+Está enfocada en un sospechoso
+que ella llama Eje.
+
+462
+00:32:58,291 --> 00:33:00,000
+Cree que él construye una red rebelde.
+
+463
+00:33:00,083 --> 00:33:03,250
+Empezó investigando
+equipo imperial naval robado,
+
+464
+00:33:03,333 --> 00:33:07,250
+y ahora busca una conexión con Aldhani.
+
+465
+00:33:08,500 --> 00:33:10,000
+<i>¿Dedra Meero?</i>
+
+466
+00:33:10,625 --> 00:33:12,833
+Hubo un incidente
+en Ferrix hace unos meses.
+
+467
+00:33:12,916 --> 00:33:15,916
+Ella cree que hay conexión.
+Está volteando todo de cabeza.
+
+468
+00:33:17,166 --> 00:33:18,791
+Están buscando a...
+
+469
+00:33:19,833 --> 00:33:22,000
+Un ladrón y también al intermediario.
+
+470
+00:33:22,083 --> 00:33:23,958
+<i>Ah, "Eje".</i>
+
+471
+00:33:24,625 --> 00:33:26,750
+Se está ganando la atención.
+A Partagaz le gusta.
+
+472
+00:33:26,833 --> 00:33:29,458
+<i>Ah, pues eso es bueno. Que siga pasando.</i>
+
+473
+00:33:31,541 --> 00:33:32,916
+¿Y esto por qué es bueno?
+
+474
+00:33:33,000 --> 00:33:34,500
+<i>Porque está perdiendo el tiempo.</i>
+
+475
+00:33:37,833 --> 00:33:39,416
+¿No tuviste nada que ver con Aldhani?
+
+476
+00:33:39,500 --> 00:33:42,416
+<i>Pues casi nada.</i>
+<i>Nos invitaron, pero no fuimos.</i>
+
+477
+00:33:42,833 --> 00:33:45,250
+<i>Tuvieron suerte. No creo en la suerte.</i>
+
+478
+00:33:46,250 --> 00:33:48,291
+<i>Pero no estás aquí por eso.</i>
+
+479
+00:33:53,916 --> 00:33:57,166
+Capturó a un piloto rebelde
+con provisiones para Anto Kreegyr.
+
+480
+00:33:57,875 --> 00:34:00,666
+Lo torturaron de inmediato
+y fingieron un accidente.
+
+481
+00:34:02,041 --> 00:34:04,791
+Sabemos que hay una redada
+planeada en la estación de Spellhaus.
+
+482
+00:34:04,875 --> 00:34:07,291
+Si Kreegyr ataca, lo estarán esperando.
+
+483
+00:34:08,458 --> 00:34:09,791
+<i>Y si no lo hace,</i>
+
+484
+00:34:10,083 --> 00:34:11,833
+<i>sabrán que algo está mal.</i>
+
+485
+00:34:11,916 --> 00:34:13,416
+Los van a masacrar.
+
+486
+00:34:13,500 --> 00:34:14,833
+<i>Son 50 hombres.</i>
+
+487
+00:34:15,416 --> 00:34:16,583
+<i>Tú vales más que ellos.</i>
+
+488
+00:34:16,666 --> 00:34:18,500
+-Oye, tienes que avisarles.
+<i>-¿Para qué?</i>
+
+489
+00:34:19,166 --> 00:34:20,458
+<i>¿Arruinar todo?</i>
+
+490
+00:34:21,333 --> 00:34:23,625
+<i>¿Qué mejor manera de asegurarle a la OSI</i>
+
+491
+00:34:23,708 --> 00:34:26,708
+<i>que no hay una falla en su seguridad</i>
+<i>que sacrificando a Kreegyr?</i>
+
+492
+00:34:27,333 --> 00:34:28,708
+<i>Esto lo hago por ti.</i>
+
+493
+00:34:28,958 --> 00:34:30,375
+<i>Por nadie más.</i>
+
+494
+00:34:31,583 --> 00:34:32,750
+(SE FRENA EL ASCENSOR)
+
+495
+00:34:44,708 --> 00:34:46,875
+Ya dime por qué estamos aquí hoy, Lonni.
+
+496
+00:34:50,916 --> 00:34:52,541
+No puedo seguir con esto.
+
+497
+00:34:54,375 --> 00:34:55,500
+Yo ya soy papá.
+
+498
+00:34:57,541 --> 00:34:59,291
+No tenía idea cómo me iba a sentir.
+
+499
+00:35:01,583 --> 00:35:02,958
+Hicimos un voto.
+
+500
+00:35:06,750 --> 00:35:08,541
+Ya te entregué a Dedra Meero.
+
+501
+00:35:09,666 --> 00:35:11,666
+Ya te entregué Spellhaus.
+
+502
+00:35:11,750 --> 00:35:14,083
+Te advertí sobre Ferrix,
+estoy honrando mi voto.
+
+503
+00:35:15,166 --> 00:35:17,458
+Llevo abriéndome camino durante seis años,
+
+504
+00:35:18,250 --> 00:35:19,791
+trabajando para llegar arriba.
+
+505
+00:35:20,791 --> 00:35:21,791
+Solo.
+
+506
+00:35:24,708 --> 00:35:26,083
+¿Y cuál era tu plan?
+
+507
+00:35:27,458 --> 00:35:30,875
+¿Conseguir una enorme canasta
+de regalo para mí de despedida?
+
+508
+00:35:34,416 --> 00:35:36,666
+¿Qué pensabas decirle a la OSI?
+
+509
+00:35:39,291 --> 00:35:40,458
+Mi salud.
+
+510
+00:35:42,083 --> 00:35:44,833
+La familia de mi esposa
+maneja importaciones.
+
+511
+00:35:44,916 --> 00:35:48,375
+Incluso diciendo esas palabras,
+sabes que es imposible.
+
+512
+00:35:49,333 --> 00:35:52,250
+No podemos dejarte ir, Lonni.
+No hay reemplazo.
+
+513
+00:35:53,041 --> 00:35:54,666
+Te entrenamos por mucho tiempo.
+
+514
+00:35:54,750 --> 00:35:56,208
+Y sí, has estado solo,
+
+515
+00:35:57,000 --> 00:36:01,083
+pero tu carrera se ha beneficiado mucho
+de la información que hemos proporcionado.
+
+516
+00:36:01,791 --> 00:36:03,708
+Información que me costó mucho.
+
+517
+00:36:05,000 --> 00:36:06,416
+Amas a tu hija.
+
+518
+00:36:06,916 --> 00:36:10,166
+Los hombres de Kreegyr se morirán
+para que no le falte un padre.
+
+519
+00:36:11,375 --> 00:36:12,750
+Estás atrapado, Lonni.
+
+520
+00:36:13,833 --> 00:36:16,875
+No me gusta decirlo así,
+pero no vas a ningún lado.
+
+521
+00:36:18,875 --> 00:36:20,250
+Mi sacrificio
+
+522
+00:36:21,791 --> 00:36:24,583
+no significa nada para ti, ¿o sí?
+
+523
+00:36:26,291 --> 00:36:29,291
+Ya te dije que no he dejado
+de pensar en ti, y así es.
+
+524
+00:36:29,666 --> 00:36:32,625
+Tu inversión en la Rebelión es épica.
+
+525
+00:36:33,083 --> 00:36:36,083
+Una doble vida. Cada día un montaje.
+
+526
+00:36:36,416 --> 00:36:37,791
+¿El estrés de eso?
+
+527
+00:36:38,500 --> 00:36:41,291
+Necesitamos héroes, Lonni, y aquí estás.
+
+528
+00:36:42,375 --> 00:36:44,166
+¿Y tú qué estás sacrificando?
+
+529
+00:36:52,583 --> 00:36:53,666
+Calma.
+
+530
+00:36:56,625 --> 00:36:58,333
+Caridad, linaje.
+
+531
+00:37:00,750 --> 00:37:01,916
+Amor.
+
+532
+00:37:04,166 --> 00:37:08,500
+He renunciado a tener paz interior.
+He hecho de mi mente un espacio sin sol.
+
+533
+00:37:10,500 --> 00:37:12,833
+Comparto mis sueños con fantasmas.
+
+534
+00:37:14,750 --> 00:37:17,875
+Me despierto cada día con una ecuación
+que escribí hace 15 años,
+
+535
+00:37:17,958 --> 00:37:19,875
+y de la que solo hay una conclusión.
+
+536
+00:37:20,333 --> 00:37:21,791
+Estoy condenado por esto.
+
+537
+00:37:23,208 --> 00:37:26,125
+Mi ira, mi ego, mi incapacidad de ceder,
+
+538
+00:37:26,208 --> 00:37:28,000
+mi afán de pelear,
+
+539
+00:37:28,083 --> 00:37:30,708
+me han puesto en un camino
+del que no puedo escapar.
+
+540
+00:37:31,375 --> 00:37:33,458
+Ansiaba ser un salvador
+contra la injusticia
+
+541
+00:37:33,541 --> 00:37:36,041
+sin contemplar el costo,
+y al momento de entender...
+
+542
+00:37:36,875 --> 00:37:38,750
+Ya no había suelo debajo de mis pies.
+
+543
+00:37:38,833 --> 00:37:41,125
+¿Cuál es? ¿Cuál es mi sacrificio?
+
+544
+00:37:42,333 --> 00:37:46,666
+Estoy condenado a usar
+lo que tiene mi enemigo para vencerlo.
+
+545
+00:37:46,750 --> 00:37:49,250
+Quemo mi decencia por el futuro de otro.
+
+546
+00:37:49,333 --> 00:37:53,833
+Quemo mi vida para crear
+un amanecer que nunca veré.
+
+547
+00:37:54,416 --> 00:37:58,583
+Y el ego que comenzó esta pelea
+nunca tendrá un espejo,
+
+548
+00:37:58,666 --> 00:38:01,791
+o una audiencia, o la luz de la gratitud.
+
+549
+00:38:03,333 --> 00:38:05,041
+Así que, ¿qué sacrifico?
+
+550
+00:38:07,125 --> 00:38:08,458
+¡Sacrifico todo!
+
+551
+00:38:16,083 --> 00:38:17,625
+Solo quédate conmigo, Lonni.
+
+552
+00:38:19,833 --> 00:38:22,041
+Necesito todos los héroes que haya.
+
+553
+00:38:30,833 --> 00:38:33,791
+(SUENA MÚSICA ÉPICA)
+

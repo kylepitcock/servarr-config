@@ -1,0 +1,201 @@
+1
+00:00:26,875 --> 00:00:30,458
+COBIJO
+
+2
+00:00:58,166 --> 00:01:00,291
+Voy a morir aquí.
+
+3
+00:01:47,833 --> 00:01:49,708
+AVISO: OXÍGENO RESTANTE
+BUSQUE REFUGIO
+
+4
+00:01:51,666 --> 00:01:53,250
+ESTADO: DESCONECTADO
+
+5
+00:02:14,125 --> 00:02:15,000
+POCO OXÍGENO
+
+6
+00:02:15,083 --> 00:02:15,916
+ACTIVAR
+
+7
+00:02:16,000 --> 00:02:16,833
+ACTIVANDO...
+
+8
+00:02:28,333 --> 00:02:32,041
+Mierda, parece que los dos
+hemos tenido un aterrizaje jodido.
+
+9
+00:03:02,291 --> 00:03:04,416
+BIENVENIDO A COBIJO
+817-RD9G
+
+10
+00:03:08,750 --> 00:03:11,000
+<i>Cobijo activado.</i>
+
+11
+00:03:11,083 --> 00:03:13,208
+<i>Alerta: daños detectados.</i>
+
+12
+00:03:23,125 --> 00:03:25,000
+<i>Red de comunicación: funcional.</i>
+
+13
+00:03:25,083 --> 00:03:26,500
+RESCATE
+ESPERANDO TRANSMISIÓN
+
+14
+00:03:29,625 --> 00:03:31,625
+<i>Robótica de mantenimiento...</i>
+
+15
+00:03:35,583 --> 00:03:36,541
+<i>Error.</i>
+
+16
+00:03:36,625 --> 00:03:38,083
+Vaya chatarra.
+
+17
+00:03:38,166 --> 00:03:41,625
+<i>Robótica de mantenimiento: error.</i>
+
+18
+00:03:45,083 --> 00:03:49,416
+<i>Robótica de mantenimiento:
+fallo de funcionamiento.</i>
+
+19
+00:03:54,625 --> 00:03:56,125
+¡Para! ¡Espera!
+
+20
+00:03:56,208 --> 00:03:57,750
+Detener programa.
+
+21
+00:03:57,833 --> 00:03:59,333
+¡Detener programa!
+
+22
+00:04:00,458 --> 00:04:02,000
+<i>Detención imposible.</i>
+
+23
+00:04:50,875 --> 00:04:52,583
+PELIGRO
+AL ALCANCE DEL ENEMIGO
+
+24
+00:04:54,666 --> 00:04:56,583
+<i>Habla Prometeo CBW2.</i>
+
+25
+00:04:56,666 --> 00:04:59,416
+<i>ECM activos. Tienen permiso para actuar.</i>
+
+26
+00:04:59,500 --> 00:05:00,791
+<i>Nova 6 en camino</i>
+
+27
+00:05:00,875 --> 00:05:02,291
+<i>Nova 9 en camino.</i>
+
+28
+00:05:02,375 --> 00:05:03,458
+Nova 4 en camino.
+
+29
+00:05:03,541 --> 00:05:06,000
+<i>Tienen permiso para disparar.</i>
+
+30
+00:05:06,083 --> 00:05:08,041
+Recibido. Vamos allá.
+
+31
+00:05:08,125 --> 00:05:11,416
+La carga útil es Divino Flash 12 Juicio 2.
+
+32
+00:05:12,250 --> 00:05:14,000
+Armado y listo para cazar.
+
+33
+00:05:14,083 --> 00:05:16,708
+<i>Escuadrón Nova en formación escalonada.</i>
+
+34
+00:05:16,791 --> 00:05:18,333
+<i>Ataques raudos y sin piedad.</i>
+
+35
+00:07:01,625 --> 00:07:04,333
+<i>731, 731.
+Tenemos fuego hostil.</i>
+
+36
+00:07:08,750 --> 00:07:10,250
+¡Hemos perdido a Propulsor 1!
+
+37
+00:07:15,416 --> 00:07:16,291
+Fuego.
+
+38
+00:07:17,666 --> 00:07:19,291
+Venga, venga, venga.
+
+39
+00:07:28,375 --> 00:07:29,500
+EYECTOR
+
+40
+00:09:59,875 --> 00:10:02,500
+RESCATE
+ESPERANDO TRANSMISIÓN
+
+41
+00:10:14,291 --> 00:10:16,291
+<i>Mensaje de auxilio recibido.</i>
+
+42
+00:10:16,375 --> 00:10:18,916
+<i>Cobijo 817-RD9G.</i>
+
+43
+00:10:20,166 --> 00:10:21,750
+<i>Rescate en marcha.</i>
+
+44
+00:10:27,000 --> 00:10:30,250
+<i>Alerta:
+fallo del robot de mantenimiento.</i>
+
+45
+00:10:32,458 --> 00:10:35,458
+<i>Alerta: fallo del robot de mantenimiento.</i>
+
+46
+00:10:35,541 --> 00:10:37,541
+No me digas.
+
+47
+00:10:37,625 --> 00:10:40,583
+<i>Alerta:
+fallo del robot de mantenimiento.</i>
+
+-> 00:12:05,583
+Subtítulos: Victoria Tormo Peris
+

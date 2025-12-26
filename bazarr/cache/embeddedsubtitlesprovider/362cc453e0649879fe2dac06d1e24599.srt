@@ -1,0 +1,4898 @@
+1
+00:00:10,719 --> 00:00:13,888
+[Dustin] Jonathan! Nancy! Jonathan!
+
+2
+00:00:14,764 --> 00:00:16,349
+Jonathan! Nancy!
+
+3
+00:00:16,433 --> 00:00:18,518
+[dramatische Musik]
+
+4
+00:00:18,601 --> 00:00:22,689
+-Was zum Teufel hast du vor?
+-Sei vorsichtig! Rühr ja nichts an!
+
+5
+00:00:22,772 --> 00:00:24,774
+[Musik verklingt]
+
+6
+00:00:32,699 --> 00:00:34,701
+[Donnergrollen]
+
+7
+00:00:36,036 --> 00:00:37,787
+Vielleicht hast du ihn verfehlt.
+
+8
+00:00:39,956 --> 00:00:41,833
+[elektrisches Knistern und Peitschen]
+
+9
+00:00:43,084 --> 00:00:45,086
+[grollendes Rauschen]
+
+10
+00:00:45,712 --> 00:00:46,588
+[Nancy] Nein.
+
+11
+00:00:54,262 --> 00:00:56,723
+-Okay, ich glaube, wir sollten jetzt doch…
+-Ja.
+
+12
+00:00:56,806 --> 00:00:58,183
+[sie schreien]
+
+13
+00:00:58,266 --> 00:01:00,143
+[Steve und Dustin schreien]
+
+14
+00:01:00,226 --> 00:01:02,228
+[dramatische Musik]
+
+15
+00:01:27,670 --> 00:01:29,297
+[Musik verklingt]
+
+16
+00:01:29,380 --> 00:01:31,382
+-[Türklingel läutet]
+-[heftiges Klopfen]
+
+17
+00:01:40,725 --> 00:01:42,310
+Ich weiß, es ist fünf Uhr morgens,
+
+18
+00:01:42,393 --> 00:01:45,396
+aber Sie müssen mir
+einen Telemetrie-Tracker bauen.
+
+19
+00:01:45,480 --> 00:01:47,273
+Was? Erica, es ist fünf…
+
+20
+00:01:47,357 --> 00:01:49,359
+Das waren eingangs ihre Worte.
+
+21
+00:01:49,442 --> 00:01:51,611
+Entschuldigung, und wer sind Sie?
+
+22
+00:01:51,694 --> 00:01:53,738
+-Der Babysitter.
+-Mein Onkel.
+
+23
+00:01:53,822 --> 00:01:55,115
+Wer ist da, Zuckerbär?
+
+24
+00:01:55,198 --> 00:01:57,617
+Schon gut, Zuckerschnecke.
+Geh wieder ins Bett.
+
+25
+00:01:57,700 --> 00:01:59,035
+Dauert nur 'ne Sekunde.
+
+26
+00:01:59,119 --> 00:02:00,328
+Okay.
+
+27
+00:02:00,411 --> 00:02:01,663
+Die Bibliothekarin?
+
+28
+00:02:01,746 --> 00:02:03,832
+Wenn Sie laut sind beim Sex,
+sagt sie dann: "Scht"?
+
+29
+00:02:03,915 --> 00:02:05,125
+Okay, hört zu.
+
+30
+00:02:05,208 --> 00:02:09,921
+Du, und keine Ahnung, wer Sie jetzt sind,
+ich finde das Ganze hier höchst unpassend.
+
+31
+00:02:10,004 --> 00:02:12,340
+Ich seh dich dann in der Schule, Erica.
+
+32
+00:02:13,466 --> 00:02:15,343
+Dustin ist in großer Gefahr.
+
+33
+00:02:15,927 --> 00:02:18,138
+In Gefahr? In was für einer Gefahr?
+
+34
+00:02:18,221 --> 00:02:19,848
+Es geht um Leben und Tod.
+
+35
+00:02:19,931 --> 00:02:23,226
+Was sagen Sie, Zuckerbär?
+Spielen Sie weiter mit dem Bücherwurm,
+
+36
+00:02:23,309 --> 00:02:26,688
+oder bauen Sie uns einen Tracker,
+um Ihren Starschüler zu retten?
+
+37
+00:02:28,356 --> 00:02:29,190
+[ächzt]
+
+38
+00:02:29,274 --> 00:02:30,191
+[Steve] Henderson!
+
+39
+00:02:30,942 --> 00:02:31,776
+Dustin?
+
+40
+00:02:32,277 --> 00:02:34,737
+Dustin. Hey. Was war das da gerade?
+
+41
+00:02:34,821 --> 00:02:36,990
+War das der Schildgenerator?
+Haben sie ihn?
+
+42
+00:02:37,073 --> 00:02:38,116
+Ich hab mich geirrt.
+
+43
+00:02:38,825 --> 00:02:43,037
+Ich hab mich auf furchtbare,
+katastrophale Art geirrt.
+
+44
+00:02:43,121 --> 00:02:44,205
+Was?
+
+45
+00:02:44,289 --> 00:02:46,332
+Nachdem du weg warst,
+hab ich Notizen gefunden.
+
+46
+00:02:47,041 --> 00:02:48,418
+Brenners Notizen.
+
+47
+00:02:50,170 --> 00:02:53,381
+Die Lösung, um die Wand zu zerstören,
+ist in diesem Labor.
+
+48
+00:02:54,007 --> 00:02:56,050
+Aber es ist nicht der Schildgenerator.
+
+49
+00:02:56,134 --> 00:02:58,636
+Es ist eine dunkle Magie,
+nicht von Vecna erschaffen.
+
+50
+00:03:02,056 --> 00:03:03,391
+Sondern der Wissenschaft.
+
+51
+00:03:04,809 --> 00:03:08,396
+Theoretische Physiker
+nennen es exotische Materie.
+
+52
+00:03:08,479 --> 00:03:11,858
+Es ist eine einzelne Energiequelle,
+die diese Wand zusammenhält,
+
+53
+00:03:11,941 --> 00:03:14,569
+und ich denke,
+Nancy hat auf sie geschossen.
+
+54
+00:03:14,652 --> 00:03:16,654
+[zischendes Rauschen]
+
+55
+00:03:25,580 --> 00:03:28,041
+[Steve] Deshalb sind wir hier.
+Wir wollen durch diese Wand.
+
+56
+00:03:28,124 --> 00:03:30,001
+-[Dustin] Du hörst nicht zu.
+-[Steve] Doch.
+
+57
+00:03:30,084 --> 00:03:31,669
+Von Vecna ist die Wand nicht.
+
+58
+00:03:31,753 --> 00:03:33,755
+Also ist er nicht auf der anderen Seite.
+
+59
+00:03:33,838 --> 00:03:36,966
+Und Holly und die vermissten Kinder
+sind es auch nicht. Niemand ist es.
+
+60
+00:03:37,508 --> 00:03:39,636
+Was ist auf der anderen Seite dieser Wand?
+
+61
+00:03:39,719 --> 00:03:42,055
+[Grollen]
+
+62
+00:03:44,474 --> 00:03:45,892
+[Grollen verstummt]
+
+63
+00:03:49,771 --> 00:03:51,105
+Wieso hat es aufgehört?
+
+64
+00:03:51,189 --> 00:03:53,650
+[Rattern]
+
+65
+00:03:57,779 --> 00:04:00,031
+Was ist auf der anderen Seite dieser Wand?
+
+66
+00:04:00,823 --> 00:04:01,658
+Der Tod.
+
+67
+00:04:02,408 --> 00:04:03,243
+[Zischen]
+
+68
+00:04:03,326 --> 00:04:04,869
+[Wind rauscht]
+
+69
+00:04:04,953 --> 00:04:06,120
+Oh!
+
+70
+00:04:11,834 --> 00:04:14,504
+Kommt mit! Kommt! Wir müssen weg!
+
+71
+00:04:15,338 --> 00:04:18,633
+Beeilung, Beeilung!
+Los, schnell! Vorsicht, passt auf!
+
+72
+00:04:19,342 --> 00:04:20,468
+Los, runter, runter!
+
+73
+00:04:26,599 --> 00:04:27,892
+[Elf schreit]
+
+74
+00:04:30,687 --> 00:04:32,397
+Die ganze Zeit über,
+
+75
+00:04:32,480 --> 00:04:34,649
+all unsere Vermutungen
+über die andere Seite,
+
+76
+00:04:34,732 --> 00:04:35,984
+sie waren alle…
+
+77
+00:04:36,484 --> 00:04:38,361
+…total falsch.
+
+78
+00:04:38,444 --> 00:04:40,446
+[Ächzen]
+
+79
+00:04:41,739 --> 00:04:42,907
+[Explosion]
+
+80
+00:04:42,991 --> 00:04:45,743
+[Hopper] Das Tor! Das Tor!
+
+81
+00:04:46,869 --> 00:04:48,663
+Ich kann den Weg freimachen!
+
+82
+00:04:48,746 --> 00:04:52,834
+Nein, nein, nein!
+Das tust du nicht! Du bleibst hinter mir!
+
+83
+00:04:52,917 --> 00:04:54,919
+Nein! Nicht, verdammt noch mal!
+
+84
+00:04:55,003 --> 00:04:56,587
+[dramatische Musik]
+
+85
+00:05:03,636 --> 00:05:04,762
+[Ächzen]
+
+86
+00:05:15,732 --> 00:05:17,608
+[ächzt angestrengt]
+
+87
+00:05:19,277 --> 00:05:20,528
+Und das bedeutet,
+
+88
+00:05:20,611 --> 00:05:24,157
+die andere Seite
+ist keine andere Dimension.
+
+89
+00:05:24,240 --> 00:05:25,992
+Es ist keine andere Welt.
+
+90
+00:05:26,075 --> 00:05:27,702
+Es ist ein Wurmloch.
+
+91
+00:05:27,785 --> 00:05:31,414
+Eine Brücke
+zwischen zwei Punkten in Raum und Zeit.
+
+92
+00:05:31,497 --> 00:05:33,666
+Zwischen unserer Welt und einer anderen.
+
+93
+00:05:33,750 --> 00:05:35,668
+Und wenn diese Brücke einstürzt?
+
+94
+00:05:35,752 --> 00:05:37,378
+Wird sie uns mit sich reißen.
+
+95
+00:05:39,881 --> 00:05:41,215
+Und zwar uns alle.
+
+96
+00:05:41,799 --> 00:05:43,760
+[Musik schwillt an]
+
+97
+00:05:46,429 --> 00:05:48,431
+[Musik verklingt]
+
+98
+00:05:48,514 --> 00:05:50,516
+[spannungsvolle Stille]
+
+99
+00:05:52,977 --> 00:05:54,979
+[dumpfes Donnergrollen]
+
+100
+00:05:56,189 --> 00:05:58,191
+[sphärische Musik]
+
+101
+00:06:02,653 --> 00:06:04,655
+[Musik steigt an]
+
+102
+00:06:11,371 --> 00:06:13,164
+[Musik verklingt]
+
+103
+00:06:13,247 --> 00:06:15,458
+[Titelmusik]
+
+104
+00:07:03,464 --> 00:07:10,471
+KAPITEL SECHS
+DIE FLUCHT VON CAMAZOTZ
+
+105
+00:07:12,432 --> 00:07:14,475
+[Titelmusik verklingt]
+
+106
+00:07:14,559 --> 00:07:16,519
+[Gräser rascheln im Wind]
+
+107
+00:07:19,147 --> 00:07:21,149
+[Grillen zirpen]
+
+108
+00:07:22,900 --> 00:07:25,361
+[dramatische, packende Musik]
+
+109
+00:07:25,445 --> 00:07:28,114
+[sie wimmern ängstlich]
+
+110
+00:07:41,043 --> 00:07:42,503
+Geh rein, los, los, los, los!
+
+111
+00:07:47,300 --> 00:07:49,385
+Alles in Ordnung? Geht's dir gut?
+
+112
+00:07:49,469 --> 00:07:50,386
+Alles ist gut.
+
+113
+00:07:50,470 --> 00:07:53,306
+Hier sind wir sicher.
+Er kann uns hier nichts anhaben.
+
+114
+00:07:53,389 --> 00:07:54,474
+Max…
+
+115
+00:07:54,557 --> 00:07:55,975
+[unheilvolle Musik]
+
+116
+00:08:03,608 --> 00:08:05,109
+Holly!
+
+117
+00:08:05,860 --> 00:08:06,986
+Komm.
+
+118
+00:08:10,740 --> 00:08:14,368
+Holly, Schätzchen.
+Bleib stehen, oder ich tu ihr weh.
+
+119
+00:08:16,204 --> 00:08:20,416
+Ich weiß,
+du hältst Max für deine Freundin.
+
+120
+00:08:21,042 --> 00:08:25,338
+Aber sie hat dich reingelegt, Holly.
+Sie hat dich nur gegen mich aufgehetzt.
+
+121
+00:08:25,421 --> 00:08:27,215
+Sie ist eine Lügnerin.
+
+122
+00:08:27,298 --> 00:08:29,634
+Nein! Nein, du bist der Lügner!
+
+123
+00:08:29,717 --> 00:08:32,011
+Ich hab gesehen, wer du wirklich bist!
+
+124
+00:08:32,094 --> 00:08:35,306
+Du bist ein Monster! Ein ekliges Monster!
+
+125
+00:08:35,389 --> 00:08:36,849
+Holly!
+
+126
+00:08:36,933 --> 00:08:40,645
+Wenn du jetzt nicht auf der Stelle mit
+mir zurückgehst zu den anderen Kindern,
+
+127
+00:08:40,728 --> 00:08:43,272
+bleibt mir keine Wahl,
+und ich tu Max etwas an.
+
+128
+00:08:47,026 --> 00:08:49,153
+Und möglicherweise muss ich sie töten.
+
+129
+00:08:49,237 --> 00:08:51,405
+Wieso tust du's dann nicht, hm?
+
+130
+00:08:51,989 --> 00:08:53,074
+Ich bin doch hier.
+
+131
+00:08:53,157 --> 00:08:54,909
+Oh ja, richtig.
+
+132
+00:08:54,992 --> 00:08:57,620
+Du hast viel zu viel Angst
+vor so einer dummen Höhle.
+
+133
+00:08:57,703 --> 00:08:59,288
+Du gottverdammter Feigling!
+
+134
+00:08:59,372 --> 00:09:03,251
+Die Dinge haben sich geändert, Max.
+
+135
+00:09:03,334 --> 00:09:07,255
+Denn es gibt jetzt andere Wege,
+an dich ranzukommen.
+
+136
+00:09:07,838 --> 00:09:09,090
+Und Holly,
+
+137
+00:09:09,882 --> 00:09:13,928
+wenn deine neue Freundin
+anfängt zu leiden,
+
+138
+00:09:14,554 --> 00:09:16,180
+und sie wird leiden,
+
+139
+00:09:17,014 --> 00:09:20,810
+kannst du entweder zu mir zurückkehren
+und ihr Leiden beenden
+
+140
+00:09:20,893 --> 00:09:23,396
+oder deiner Freundin beim Sterben zusehen.
+
+141
+00:09:24,063 --> 00:09:26,274
+Ihr Leben liegt in deinen Händen.
+
+142
+00:09:28,484 --> 00:09:30,486
+[Musik steigt an]
+
+143
+00:09:35,700 --> 00:09:37,702
+[Musik verklingt]
+
+144
+00:09:38,828 --> 00:09:43,499
+6. NOVEMBER
+
+145
+00:09:44,584 --> 00:09:46,586
+[melancholische Synthesizer-Musik]
+
+146
+00:09:57,263 --> 00:10:01,058
+WSQK
+50.000 WATT
+
+147
+00:10:10,318 --> 00:10:12,778
+[Lucas] Kann mir
+bitte einer von euch erklären,
+
+148
+00:10:12,862 --> 00:10:14,947
+was da draußen passiert ist?
+
+149
+00:10:15,031 --> 00:10:16,574
+Wir haben die Partikel zerstört.
+
+150
+00:10:16,657 --> 00:10:19,035
+Ich hab gesehen,
+wie sie den Turm hochgeflogen sind.
+
+151
+00:10:19,118 --> 00:10:21,245
+-Das habt ihr doch gesehen.
+-Ja, wer nicht.
+
+152
+00:10:21,329 --> 00:10:23,623
+Will müsste vom Schwarmbewusstsein
+abgekoppelt sein.
+
+153
+00:10:23,706 --> 00:10:25,791
+-Theoretisch.
+-Wieso ist er nicht aufgewacht?
+
+154
+00:10:25,875 --> 00:10:27,877
+Wie konnte er Max sehen,
+wenn sie bei Holly ist?
+
+155
+00:10:27,960 --> 00:10:30,630
+Ist das real,
+oder spielt Vecna wieder mit uns?
+
+156
+00:10:30,713 --> 00:10:32,506
+Das ergibt überhaupt keinen Sinn.
+
+157
+00:10:32,590 --> 00:10:37,094
+Die Ärzte, sie haben nie verstanden,
+wieso Max im Koma liegt. Richtig?
+
+158
+00:10:37,178 --> 00:10:38,721
+Was? Nein. Wieso?
+
+159
+00:10:38,804 --> 00:10:40,348
+[spannungsvolle Musik]
+
+160
+00:10:40,431 --> 00:10:43,559
+Oh, okay, okay, okay. Okay, okay.
+
+161
+00:10:43,643 --> 00:10:44,852
+Also, ähm…
+
+162
+00:10:44,935 --> 00:10:47,730
+Nehmen wir an,
+dass alles, was Will sah, real war.
+
+163
+00:10:47,813 --> 00:10:50,066
+-Er hat Max gesehen und Holly.
+-Ja, aber wie?
+
+164
+00:10:50,149 --> 00:10:55,321
+Erklär ich euch gleich.
+Sagen wir, das, äh… das ist Will.
+
+165
+00:10:55,404 --> 00:10:58,824
+Und… das ist Holly.
+
+166
+00:10:58,908 --> 00:11:03,621
+Und, äh… äh… das, wer sonst, ist Max.
+
+167
+00:11:04,580 --> 00:11:06,332
+Sie sind an drei verschiedenen Orten.
+
+168
+00:11:06,415 --> 00:11:07,667
+Das Squawk, das Krankenhaus,
+
+169
+00:11:07,750 --> 00:11:09,752
+und ein unbekannter Ort
+auf der anderen Seite.
+
+170
+00:11:09,835 --> 00:11:11,045
+-Richtig?
+-Ja.
+
+171
+00:11:11,128 --> 00:11:14,799
+Aber es gibt ein ganz wesentliches Detail,
+das die drei verbindet.
+
+172
+00:11:14,882 --> 00:11:16,217
+Sie sind bewusstlos.
+
+173
+00:11:18,344 --> 00:11:20,179
+Was passiert, wenn Vecna dich erwischt?
+
+174
+00:11:20,763 --> 00:11:22,056
+Du fällst in Trance.
+
+175
+00:11:22,139 --> 00:11:24,225
+[Robin]
+Was dann ähnlich wirkt wie ein Koma.
+
+176
+00:11:24,308 --> 00:11:26,435
+Kein Wunder,
+dass die Ärzte nicht weiterwissen.
+
+177
+00:11:26,519 --> 00:11:27,478
+Max lag nie im Koma.
+
+178
+00:11:27,561 --> 00:11:29,188
+Sie war in Trance.
+
+179
+00:11:29,772 --> 00:11:32,692
+Ja. Genau wie Will und genau wie Holly.
+
+180
+00:11:32,775 --> 00:11:33,776
+Da klingelt's bei mir,
+
+181
+00:11:33,859 --> 00:11:36,487
+als sänge Whitney Houston
+in den höchsten Tönen.
+
+182
+00:11:36,570 --> 00:11:41,701
+Was, wenn sich das Bewusstsein der drei
+an der gleichen Stelle befindet?
+
+183
+00:11:41,784 --> 00:11:43,077
+In Vecnas Bewusstsein.
+
+184
+00:11:44,453 --> 00:11:45,538
+Gefangen.
+
+185
+00:11:46,580 --> 00:11:48,290
+Oder zumindest waren sie das.
+
+186
+00:11:48,374 --> 00:11:49,709
+Also, wenn Will recht hat,
+
+187
+00:11:49,792 --> 00:11:53,754
+versuchen Max und Holly gerade,
+aus diesem Gefängnis auszubrechen.
+
+188
+00:11:53,838 --> 00:11:55,464
+Und wenn ihnen das gelingt,
+
+189
+00:11:55,548 --> 00:11:58,759
+kehren sie auch zurück
+in ihre physischen Körper.
+
+190
+00:11:59,427 --> 00:12:02,388
+Und Max kehrt zurück ins Leben.
+
+191
+00:12:02,471 --> 00:12:05,266
+Und sie alle waren in Vecnas Bewusstsein.
+Wortwörtlich.
+
+192
+00:12:05,349 --> 00:12:07,852
+-Sie wissen alles. Sogar, wo Will ist.
+-Wo die Kinder sind.
+
+193
+00:12:07,935 --> 00:12:10,438
+-Vielleicht, was er vorhat.
+-Das ist das Endgame.
+
+194
+00:12:10,521 --> 00:12:12,815
+Das Schicksal des Planeten
+ruht möglicherweise
+
+195
+00:12:12,898 --> 00:12:15,818
+in den Händen deiner komatösen Freundin
+und deiner Schwester.
+
+196
+00:12:15,901 --> 00:12:18,028
+Es ist also noch einen Versuch wert, oder?
+
+197
+00:12:18,112 --> 00:12:19,947
+-Kannst du fahren?
+-Nicht ganz legal.
+
+198
+00:12:20,030 --> 00:12:22,116
+Hol Joyce' Wagen,
+aber lass dich nicht schnappen.
+
+199
+00:12:22,199 --> 00:12:23,701
+Fahrt zu Max, ich bleib bei Will.
+
+200
+00:12:23,784 --> 00:12:24,910
+Okay.
+
+201
+00:12:25,953 --> 00:12:28,456
+[Musik wird düster]
+
+202
+00:12:44,597 --> 00:12:46,599
+[Musik steigt an]
+
+203
+00:12:48,726 --> 00:12:50,019
+[Musik ebbt ab]
+
+204
+00:12:50,102 --> 00:12:52,021
+[Zischen]
+
+205
+00:12:52,104 --> 00:12:54,148
+[unheilvolle Musik]
+
+206
+00:12:54,231 --> 00:12:56,233
+[Will ächzt angestrengt]
+
+207
+00:13:04,116 --> 00:13:08,662
+[Henry]
+Erinnerst du dich an diesen Ort… William?
+
+208
+00:13:10,915 --> 00:13:12,833
+Nein. Nein. Nein.
+
+209
+00:13:12,917 --> 00:13:16,837
+-Löst er keine Erinnerungen…
+-Nein.
+
+210
+00:13:21,300 --> 00:13:22,593
+…bei dir aus?
+
+211
+00:13:23,719 --> 00:13:25,846
+Max. Holly.
+
+212
+00:13:26,889 --> 00:13:28,808
+Sie konnten fliehen, ist es nicht so?
+
+213
+00:13:30,100 --> 00:13:32,228
+Deine Beine
+waren wohl nicht schnell genug.
+
+214
+00:13:32,311 --> 00:13:35,231
+Du hältst dich für sehr clever,
+hab ich recht?
+
+215
+00:13:35,981 --> 00:13:38,275
+Aber vergiss nicht,
+
+216
+00:13:38,359 --> 00:13:41,320
+ich bin derjenige,
+
+217
+00:13:41,403 --> 00:13:44,365
+derjenige, der dich hier reingeholt hat.
+
+218
+00:13:45,491 --> 00:13:49,161
+Du bist meine Hülle gewesen.
+
+219
+00:13:49,245 --> 00:13:51,330
+Mein Spion.
+
+220
+00:13:52,331 --> 00:13:54,083
+Mein Bauherr.
+
+221
+00:13:55,376 --> 00:13:56,794
+Bauherr?
+
+222
+00:13:59,588 --> 00:14:04,635
+Was denkst du, wie diese Tunnel
+zustande gekommen sind, William? Hm?
+
+223
+00:14:05,886 --> 00:14:10,182
+Du, William, hast sie erbaut,
+
+224
+00:14:10,266 --> 00:14:13,561
+in jeder Nacht, in der du geschlafen hast.
+
+225
+00:14:16,939 --> 00:14:19,900
+Nein. Nein.
+
+226
+00:14:19,984 --> 00:14:22,820
+Es steckt sehr viel Kraft in dir.
+
+227
+00:14:23,529 --> 00:14:26,365
+Aber mach dir deshalb nichts vor.
+
+228
+00:14:27,241 --> 00:14:30,244
+Du weißt, es sind meine Kräfte.
+
+229
+00:14:30,327 --> 00:14:34,623
+Und sie sind stärker,
+als sie es je zuvor gewesen sind.
+
+230
+00:14:38,961 --> 00:14:41,547
+Viel stärker.
+
+231
+00:14:41,630 --> 00:14:43,632
+[Pulsieren]
+
+232
+00:14:52,141 --> 00:14:54,268
+Jetzt ist die Zeit gekommen.
+
+233
+00:14:55,394 --> 00:15:01,066
+Zeit für meine Hüllen,
+uns in eine neue Welt zu führen.
+
+234
+00:15:02,818 --> 00:15:04,403
+Eine bessere Welt.
+
+235
+00:15:05,321 --> 00:15:10,075
+Nur schade,
+dass deine Welt niemals existieren wird,
+
+236
+00:15:10,159 --> 00:15:13,078
+jetzt, wo Max eine deiner Hüllen besitzt.
+
+237
+00:15:13,162 --> 00:15:14,496
+Ich kenne Wege,
+
+238
+00:15:14,580 --> 00:15:17,791
+um einen Fuchs
+aus seinem Bau zu räuchern, William.
+
+239
+00:15:17,875 --> 00:15:20,294
+Und du wirst mir dabei helfen.
+
+240
+00:15:20,377 --> 00:15:25,257
+Du wirst noch einmal mein Spion sein.
+
+241
+00:15:25,341 --> 00:15:29,094
+Ein letztes Mal.
+
+242
+00:15:29,178 --> 00:15:31,555
+Nein. Niemals.
+
+243
+00:15:37,478 --> 00:15:39,480
+[Vecna brummt]
+
+244
+00:15:42,274 --> 00:15:44,026
+Je mehr du dich widersetzt…
+
+245
+00:15:46,195 --> 00:15:48,322
+…umso mehr tut es weh.
+
+246
+00:15:48,822 --> 00:15:51,158
+[Will ächzt und röchelt]
+
+247
+00:16:01,794 --> 00:16:03,796
+[schreit]
+
+248
+00:16:09,510 --> 00:16:11,887
+[Musik ebbt ab]
+
+249
+00:16:15,766 --> 00:16:16,767
+Wie dumm.
+
+250
+00:16:21,772 --> 00:16:23,107
+-Hey!
+-Was machst du da?
+
+251
+00:16:23,190 --> 00:16:24,566
+Gucken, ob er da noch ist.
+
+252
+00:16:24,650 --> 00:16:26,193
+-Ist er nicht.
+-Woher weißt du das?
+
+253
+00:16:26,276 --> 00:16:28,696
+Weil er weiß,
+dass er uns hier nicht kriegt. Los.
+
+254
+00:16:28,779 --> 00:16:32,032
+Er sagte, Dinge hätten sich geändert
+und es gäbe andere Wege.
+
+255
+00:16:32,116 --> 00:16:35,160
+Er redet totalen Mist.
+Das solltest du inzwischen wissen.
+
+256
+00:16:35,244 --> 00:16:36,870
+Und was sollen wir jetzt machen?
+
+257
+00:16:36,954 --> 00:16:39,790
+Etwa gar nichts?
+Unser Schicksal hinnehmen?
+
+258
+00:16:39,873 --> 00:16:41,458
+Einen Scheiß nehmen wir hin.
+
+259
+00:16:41,542 --> 00:16:43,711
+Wir bleiben am Leben,
+bis wir gerettet werden.
+
+260
+00:16:43,794 --> 00:16:45,129
+Gerettet von El, oder was?
+
+261
+00:16:45,212 --> 00:16:47,131
+-Mhm.
+-Woher willst du wissen, dass sie es war?
+
+262
+00:16:47,214 --> 00:16:49,800
+Falls du nicht noch jemanden
+mit übernatürlichen Kräften kennst,
+
+263
+00:16:49,883 --> 00:16:52,177
+der fähig ist,
+sich in Vecnas Gedanken einzuschleusen,
+
+264
+00:16:52,261 --> 00:16:55,097
+gegen ihn kämpft und ihn benutzt,
+um uns zu sagen, wir sollen abhauen,
+
+265
+00:16:55,180 --> 00:16:56,306
+dann muss es El sein.
+
+266
+00:16:56,390 --> 00:16:59,476
+Also weiß sie, dass wir hier sind
+und wird kommen und uns retten.
+
+267
+00:16:59,560 --> 00:17:01,645
+Kannst du bitte aufhören,
+hin- und herzulaufen?
+
+268
+00:17:01,729 --> 00:17:04,273
+Du erinnerst mich langsam
+an deinen Bruder.
+
+269
+00:17:04,857 --> 00:17:06,358
+[Holly seufzt]
+
+270
+00:17:08,235 --> 00:17:09,278
+Danke.
+
+271
+00:17:15,659 --> 00:17:17,953
+[Holly] Wieso kommt Henry hier nicht rein?
+
+272
+00:17:18,037 --> 00:17:19,246
+[Max] Ich weiß es nicht.
+
+273
+00:17:20,414 --> 00:17:22,750
+Du bist jetzt seit zwei Jahren hier.
+
+274
+00:17:24,001 --> 00:17:25,919
+Du hast sicher eine Theorie.
+
+275
+00:17:29,089 --> 00:17:32,176
+Wenn wir hier schon warten,
+können wir doch genauso gut reden.
+
+276
+00:17:38,640 --> 00:17:40,142
+-Dieses Gefängnis…
+-…Camazotz.
+
+277
+00:17:40,225 --> 00:17:42,352
+Camazotz. Richtig.
+
+278
+00:17:44,480 --> 00:17:47,316
+Das besteht aus Henrys Erinnerungen,
+verstehst du?
+
+279
+00:17:47,816 --> 00:17:50,444
+Das heißt, auch an diese Höhle.
+
+280
+00:17:50,527 --> 00:17:54,239
+Also nehm ich an, es… es ist…
+
+281
+00:17:54,782 --> 00:17:56,909
+…keine Ahnung, eine Erinnerung,
+
+282
+00:17:56,992 --> 00:17:59,745
+der sich Henry
+aus irgendeinem Grund nicht stellen will.
+
+283
+00:18:00,454 --> 00:18:02,247
+Irgendetwas Traumatisches.
+
+284
+00:18:03,415 --> 00:18:06,543
+Hier drin ist nichts
+auch nur im Entferntesten so schrecklich,
+
+285
+00:18:06,627 --> 00:18:09,505
+daher… vielleicht auch nicht.
+
+286
+00:18:11,924 --> 00:18:13,509
+Egal. Ist meine Theorie.
+
+287
+00:18:15,010 --> 00:18:16,011
+Sie ist gut.
+
+288
+00:18:18,555 --> 00:18:19,389
+Danke.
+
+289
+00:18:19,973 --> 00:18:22,893
+Und wenn du recht hast…
+
+290
+00:18:24,394 --> 00:18:28,023
+…wär's vielleicht möglich,
+zu entkommen über diese Erinnerung.
+
+291
+00:18:28,107 --> 00:18:29,358
+-Was?
+-Okay, also…
+
+292
+00:18:30,109 --> 00:18:33,487
+Mein Haus, euer Dachboden,
+das waren auch traumatische Erinnerungen.
+
+293
+00:18:33,570 --> 00:18:35,405
+Sie haben uns weg von Camazotz geführt,
+
+294
+00:18:35,489 --> 00:18:38,075
+also funktioniert's vielleicht
+mit Henrys Erinnerung.
+
+295
+00:18:38,158 --> 00:18:41,036
+Also erstens,
+wie ich schon sagte, hier drin ist nichts.
+
+296
+00:18:41,120 --> 00:18:44,039
+Zweitens, unsere Erinnerungen
+waren nicht nur traumatisch.
+
+297
+00:18:44,123 --> 00:18:47,543
+Es waren genau die Momente,
+als Henry unseren Verstand gestohlen hat.
+
+298
+00:18:47,626 --> 00:18:49,711
+Es ist schlecht möglich,
+dass er seinen stiehlt.
+
+299
+00:18:49,795 --> 00:18:53,215
+-Woher weißt du das?
+-Weil das keinen Sinn ergibt, Holly.
+
+300
+00:18:53,298 --> 00:18:55,551
+Ergibt hier überhaupt etwas einen Sinn?
+
+301
+00:18:57,719 --> 00:19:01,306
+Ich meine,
+vielleicht ist hier noch so was…
+
+302
+00:19:01,807 --> 00:19:04,977
+…so was wie ein Geheimgang,
+etwas in der Art.
+
+303
+00:19:05,060 --> 00:19:06,019
+Oh, richtig, ja.
+
+304
+00:19:06,103 --> 00:19:08,355
+Hatte ich total vergessen,
+diesen Geheimgang.
+
+305
+00:19:11,733 --> 00:19:13,235
+Und was ist da draußen?
+
+306
+00:19:13,318 --> 00:19:15,612
+Sand. Sehr viel Sand.
+
+307
+00:19:16,155 --> 00:19:17,489
+-Hast du alles abgesucht?
+-Ja.
+
+308
+00:19:17,573 --> 00:19:20,033
+-Wirklich alles?
+-Das Gebiet ist endlos.
+
+309
+00:19:20,117 --> 00:19:21,118
+Also nein.
+
+310
+00:19:23,829 --> 00:19:25,455
+Du gehst da jetzt nicht raus.
+
+311
+00:19:25,539 --> 00:19:29,334
+Holly, wir gehen da nicht raus,
+sondern warten hier auf El. Schluss, aus.
+
+312
+00:19:29,418 --> 00:19:32,921
+Ich denke nicht, dass Henry geblufft hat,
+als er sagte, er kriegt dich.
+
+313
+00:19:33,005 --> 00:19:36,175
+Wir müssen hier rauskommen,
+bevor das passiert.
+
+314
+00:19:36,925 --> 00:19:37,843
+Kommst du?
+
+315
+00:19:38,427 --> 00:19:41,180
+Oder lässt du ein Kind
+ohne Aufsicht in die Wüste laufen?
+
+316
+00:19:42,806 --> 00:19:43,765
+Ich nehm es zurück.
+
+317
+00:19:43,849 --> 00:19:45,809
+Du erinnerst mich
+nicht nur an deinen Bruder,
+
+318
+00:19:45,893 --> 00:19:47,311
+du bist dein Bruder!
+
+319
+00:20:01,241 --> 00:20:02,242
+Joyce?
+
+320
+00:20:03,660 --> 00:20:05,662
+Hast du einen Bestattungswagen bestellt?
+
+321
+00:20:05,746 --> 00:20:07,164
+[sanfte Musik]
+
+322
+00:20:08,332 --> 00:20:10,000
+[Auto nähert sich]
+
+323
+00:20:14,713 --> 00:20:16,381
+[Musik wird hoffnungsvoll]
+
+324
+00:20:16,465 --> 00:20:17,716
+Mike.
+
+325
+00:20:21,220 --> 00:20:22,262
+[Mike] El!
+
+326
+00:20:22,346 --> 00:20:23,555
+[Elf] Oh Mike.
+
+327
+00:20:26,183 --> 00:20:28,185
+[Joyce weint leise]
+
+328
+00:20:30,437 --> 00:20:32,314
+[Hopper] Ich bin ja jetzt da.
+
+329
+00:20:32,981 --> 00:20:33,899
+Geht's dir gut?
+
+330
+00:20:34,399 --> 00:20:35,567
+Ja, mir geht's gut.
+
+331
+00:20:36,652 --> 00:20:37,778
+Das ist Kali.
+
+332
+00:20:38,654 --> 00:20:39,863
+Meine Schwester.
+
+333
+00:20:39,947 --> 00:20:41,615
+Dann ist das der berühmte Mike.
+
+334
+00:20:42,741 --> 00:20:44,660
+Ich, äh… ich versteh nicht ganz.
+
+335
+00:20:44,743 --> 00:20:48,163
+[Hopper] Ist 'ne lange Geschichte.
+Ich empfehl, sie nur einmal zu erzählen.
+
+336
+00:20:49,206 --> 00:20:51,250
+Wo ist der Rest unserer Truppe?
+
+337
+00:20:55,671 --> 00:20:57,089
+Er liegt hier drin.
+
+338
+00:21:00,801 --> 00:21:02,803
+[Musik wird düster]
+
+339
+00:21:03,971 --> 00:21:05,639
+[Hopper] Oh mein Gott.
+
+340
+00:21:06,515 --> 00:21:09,268
+-Seit wann ist er in diesem Zustand?
+-'n paar Stunden.
+
+341
+00:21:10,560 --> 00:21:13,021
+Könntest du vielleicht versuchen,
+ihn zu finden?
+
+342
+00:21:14,648 --> 00:21:16,984
+[Musik schwillt an]
+
+343
+00:21:17,651 --> 00:21:18,944
+[Musik verklingt]
+
+344
+00:21:19,027 --> 00:21:21,446
+Weißt du, wie lang es dauert,
+bis 'n Wurmloch zusammenbricht?
+
+345
+00:21:21,530 --> 00:21:22,823
+-Was?
+-Zehn Minuten? Oder 20?
+
+346
+00:21:22,906 --> 00:21:24,992
+Ich dachte, es ginge schlagartig.
+Wohl nicht.
+
+347
+00:21:25,075 --> 00:21:28,745
+-Du klingst enttäuscht, dass wir leben.
+-Nein, ich bin irritiert.
+
+348
+00:21:28,829 --> 00:21:31,248
+So wie ich das sehe,
+gibt es zwei Möglichkeiten.
+
+349
+00:21:31,331 --> 00:21:33,792
+Entweder ist das das Leben danach
+und wir sind Geister,
+
+350
+00:21:33,875 --> 00:21:35,043
+eher unwahrscheinlich,
+
+351
+00:21:35,127 --> 00:21:39,214
+oder Nancy hat die exotische Materie
+nicht ganz zerstört.
+
+352
+00:21:39,298 --> 00:21:42,718
+Denn dann wären die Wände des Wurmlochs
+in sich zusammengefallen
+
+353
+00:21:42,801 --> 00:21:44,928
+und wir ins Nirwana gerauscht.
+
+354
+00:21:45,012 --> 00:21:47,055
+Okay, also worauf warten wir hier noch?
+
+355
+00:21:47,139 --> 00:21:48,098
+Wo willst du hin?
+
+356
+00:21:48,181 --> 00:21:50,934
+Gucken, ob ich 'n Signal kriege
+und Nancy finde.
+
+357
+00:21:51,018 --> 00:21:52,769
+-Steve, warte.
+-Komm, Henderson.
+
+358
+00:21:52,853 --> 00:21:54,271
+-Warte!
+-Na, los!
+
+359
+00:21:54,980 --> 00:21:57,482
+Steve, wir wissen nicht,
+ob's hier oben sicher ist.
+
+360
+00:21:57,566 --> 00:21:59,359
+Die Materie wurde nicht zerstört.
+
+361
+00:21:59,443 --> 00:22:01,528
+Ich sagte,
+sie wurde nicht vollständig zerstört.
+
+362
+00:22:01,611 --> 00:22:03,113
+-Aber sie wurde verändert.
+-Komm.
+
+363
+00:22:03,196 --> 00:22:06,033
+Wir haben keine Ahnung,
+welche Wirkung das haben könnte,
+
+364
+00:22:06,116 --> 00:22:08,076
+auf Materie, Raum-Zeit, Schwerkraft.
+
+365
+00:22:08,160 --> 00:22:10,162
+Das ganze Gebäude könnte instabil sein,
+
+366
+00:22:10,245 --> 00:22:12,456
+eine sich der Physik
+widersetzende Todesfalle.
+
+367
+00:22:12,539 --> 00:22:14,249
+Auf mich wirkt es ziemlich stabil.
+
+368
+00:22:14,333 --> 00:22:18,837
+Nancy, hörst du mich?
+Jonathan, bist du da? Hallo?
+
+369
+00:22:18,920 --> 00:22:20,922
+[zischendes Rauschen]
+
+370
+00:22:22,549 --> 00:22:24,259
+[Dustin] Heiliges Kanonenrohr.
+
+371
+00:22:27,763 --> 00:22:29,765
+[spannungsvolle Synthesizer-Musik]
+
+372
+00:22:32,559 --> 00:22:34,770
+Bitte sag mir nicht, sie sind da oben.
+
+373
+00:22:50,702 --> 00:22:52,704
+[atmet panisch]
+
+374
+00:22:54,247 --> 00:22:55,999
+[zischendes Rauschen]
+
+375
+00:22:59,044 --> 00:23:02,047
+Nein, nein, nein, nein. Nein! Nancy!
+
+376
+00:23:05,175 --> 00:23:07,594
+Nancy! Nein, nein, nein!
+
+377
+00:23:07,677 --> 00:23:09,471
+Nancy! Komm schon!
+
+378
+00:23:09,554 --> 00:23:12,808
+-[sie japst]
+-Nancy, komm. Komm schon.
+
+379
+00:23:12,891 --> 00:23:14,476
+-Alles okay?
+-Ja.
+
+380
+00:23:14,559 --> 00:23:16,436
+-Alles okay?
+-Ich glaub schon.
+
+381
+00:23:16,520 --> 00:23:17,479
+Was ist passiert?
+
+382
+00:23:18,355 --> 00:23:20,565
+Ich weiß es nicht. Ich weiß es nicht.
+
+383
+00:23:21,566 --> 00:23:24,945
+Wir sind wohl runtergestürzt
+und haben ihn eindeutig nicht zerstört.
+
+384
+00:23:25,028 --> 00:23:27,030
+Eher richtig wütend gemacht.
+
+385
+00:23:28,865 --> 00:23:30,492
+Komm mit. Na los.
+
+386
+00:23:30,575 --> 00:23:33,120
+[er ächzt angestrengt]
+
+387
+00:23:33,203 --> 00:23:34,871
+Lass uns schnell verschwinden.
+
+388
+00:23:37,499 --> 00:23:39,584
+-Wo ist die Tür?
+-Scheiße. Scheiße!
+
+389
+00:23:40,335 --> 00:23:42,337
+Da ist sie. Komm mit.
+
+390
+00:23:44,840 --> 00:23:46,258
+[sie ächzen angestrengt]
+
+391
+00:23:46,341 --> 00:23:47,300
+Scheiße!
+
+392
+00:23:50,178 --> 00:23:52,222
+Nein, nein, nein! Scheiße! Scheiße!
+
+393
+00:23:52,722 --> 00:23:53,974
+Nein, nein, nein, nein!
+
+394
+00:23:54,057 --> 00:23:56,059
+[sie ächzen angestrengt]
+
+395
+00:23:56,643 --> 00:23:58,145
+Scheiße, verdammt!
+
+396
+00:23:59,479 --> 00:24:01,189
+Komm schon! Komm schon!
+
+397
+00:24:02,524 --> 00:24:04,651
+Nein! Komm schon!
+
+398
+00:24:04,734 --> 00:24:06,570
+[Musik verklingt]
+
+399
+00:24:07,571 --> 00:24:09,573
+[sanfte, spannungsvolle Musik]
+
+400
+00:24:21,918 --> 00:24:25,589
+Und Nancy hat keine Nachricht
+in der Kirche hinterlassen, oder so was?
+
+401
+00:24:25,672 --> 00:24:27,966
+[ächzt] Nein, nein, nichts.
+
+402
+00:24:28,675 --> 00:24:32,179
+Das bedeutet, entweder sind sie
+nur rücksichtslose Mistgören,
+
+403
+00:24:32,262 --> 00:24:34,097
+oder sie wurden vom Militär gefasst.
+
+404
+00:24:34,181 --> 00:24:37,767
+Also ich tendiere stark zu der Theorie
+"rücksichtslose Mistgören".
+
+405
+00:24:37,851 --> 00:24:41,480
+Diese Fleischwand, die ihr entdeckt habt…
+Du denkst nicht, dass sie…
+
+406
+00:24:41,563 --> 00:24:44,274
+Dass sie in den Staubsauger
+auf der anderen Seite gesaugt wurden?
+
+407
+00:24:44,357 --> 00:24:46,443
+Tu ich nicht. Aber genau weiß ich's nicht.
+
+408
+00:24:46,526 --> 00:24:49,070
+Ich bin so verwirrt wie du.
+
+409
+00:24:49,154 --> 00:24:52,991
+Die ganze Geschichte,
+Max, Holly, diese Wand…
+
+410
+00:24:53,074 --> 00:24:55,785
+Das hängt alles zusammen,
+aber ich versteh nicht, wie.
+
+411
+00:24:55,869 --> 00:24:59,706
+Als würde da ein Puzzleteil fehlen.
+Ein großes Puzzleteil.
+
+412
+00:24:59,789 --> 00:25:03,418
+Diese Teile sind in Vecnas Bewusstsein.
+Und jetzt haben wir den Zugang.
+
+413
+00:25:03,502 --> 00:25:06,379
+[Kali] Nur, dass Jane
+bis jetzt nichts gefunden hat.
+
+414
+00:25:06,463 --> 00:25:09,549
+Oh Mann, mit ihrem Optimismus
+versüßt sie uns wieder den Tag.
+
+415
+00:25:09,633 --> 00:25:11,092
+Sie hat oben echt zu kämpfen.
+
+416
+00:25:11,176 --> 00:25:13,303
+Vielleicht solltest du
+ihr noch Zeit geben.
+
+417
+00:25:13,386 --> 00:25:15,472
+Sie wird immer schwächer, nicht stärker.
+
+418
+00:25:15,555 --> 00:25:20,977
+Du bist die Expertin in Bezug auf El, hm?
+Wie lange kennst du sie? Anderthalb Tage?
+
+419
+00:25:21,061 --> 00:25:23,271
+Ich kenne sie schon länger als Sie.
+
+420
+00:25:23,355 --> 00:25:26,983
+Wir sind gemeinsam aufgewachsen.
+Und ihr Name ist Jane.
+
+421
+00:25:27,067 --> 00:25:29,027
+-Jane Hopper.
+-Ich will nur helfen.
+
+422
+00:25:29,110 --> 00:25:30,695
+Na klar, du willst nur helfen.
+
+423
+00:25:30,779 --> 00:25:32,656
+Tut mir leid,
+dass ich keine Dankbarkeit zeige.
+
+424
+00:25:32,739 --> 00:25:34,115
+Sagtest du nicht, es sei sinnlos?
+
+425
+00:25:34,199 --> 00:25:35,951
+Du hältst das Ganze für sinnlos?
+
+426
+00:25:36,034 --> 00:25:37,327
+Das hab ich nie gesagt.
+
+427
+00:25:37,410 --> 00:25:40,372
+Ach ja? Genauso hörte es sich aber an.
+
+428
+00:25:40,455 --> 00:25:43,833
+Ich lass dich zwei Sekunden allein mit El,
+und du schleimst dich in ihre Gedanken.
+
+429
+00:25:43,917 --> 00:25:46,503
+Sie findet Will nicht,
+weil du sie von der Spur abbringst.
+
+430
+00:25:46,586 --> 00:25:49,506
+Von der war sie schon abgekommen,
+als ich sie traf.
+
+431
+00:25:49,589 --> 00:25:50,882
+Wegen all Ihrer Lügen.
+
+432
+00:25:50,966 --> 00:25:52,384
+Alles, was ich je getan habe…
+
+433
+00:25:52,467 --> 00:25:55,512
+Ja, Sie wollen sie beschützen.
+Reden Sie sich das weiter ein.
+
+434
+00:25:55,595 --> 00:25:59,182
+Aber wenn Sie sie schützen wollen,
+muss sie die Wahrheit erfahren.
+
+435
+00:25:59,266 --> 00:26:01,268
+Sie sollte gut vorbereitet sein auf das,
+
+436
+00:26:01,351 --> 00:26:04,062
+was sie dort
+auf der anderen Seite noch erwartet.
+
+437
+00:26:04,145 --> 00:26:07,357
+Henry zu töten, ist noch nicht das Ende.
+
+438
+00:26:07,440 --> 00:26:10,694
+-Was soll das bedeuten?
+-Es bedeutet gar nichts. Sie ist ein Kind.
+
+439
+00:26:10,777 --> 00:26:13,196
+Sie hat keine Ahnung,
+was sie da von sich gibt.
+
+440
+00:26:13,280 --> 00:26:15,115
+Und sie redet einen Haufen Unsinn.
+
+441
+00:26:15,198 --> 00:26:17,158
+Sie wissen, dass das nicht wahr ist.
+
+442
+00:26:18,368 --> 00:26:20,996
+Aber genauso, wie Sie Jane anlügen,
+
+443
+00:26:21,079 --> 00:26:23,039
+belügen Sie sich selbst.
+
+444
+00:26:25,125 --> 00:26:27,752
+Sie fragen sich, wieso ich noch hier bin?
+
+445
+00:26:29,504 --> 00:26:34,467
+Ich bin hier, um dafür zu sorgen,
+dass das nie wieder passiert.
+
+446
+00:26:36,761 --> 00:26:38,680
+[elektrisches Surren]
+
+447
+00:26:41,016 --> 00:26:41,891
+El!
+
+448
+00:26:46,313 --> 00:26:47,314
+El!
+
+449
+00:26:48,023 --> 00:26:50,025
+-Hey, ist alles in Ordnung?
+-[sie keucht]
+
+450
+00:26:50,817 --> 00:26:53,695
+Ich komm nicht an ihn ran.
+Er entgleitet mir immer wieder.
+
+451
+00:26:53,778 --> 00:26:55,447
+Da drin haben wir jede Menge Essen,
+
+452
+00:26:55,530 --> 00:26:58,950
+also stärk dich, ruh dich aus,
+und dann versuchen wir's noch mal.
+
+453
+00:26:59,034 --> 00:27:02,412
+-Du schaffst das.
+-Oder wir optimieren dein Signal.
+
+454
+00:27:02,996 --> 00:27:05,290
+-Der Tank.
+-Die Vorbereitung dauert 'ne Weile.
+
+455
+00:27:05,373 --> 00:27:07,459
+Du musst deine Batterie ohnehin aufladen.
+
+456
+00:27:07,542 --> 00:27:11,254
+War mühselig, das Ding zu aufzubauen.
+Es sollte sich also auch lohnen.
+
+457
+00:27:13,048 --> 00:27:15,258
+HAWKINS MEMORIAL KRANKENHAUS
+
+458
+00:27:15,342 --> 00:27:17,469
+[Reifen quietschen]
+
+459
+00:27:17,552 --> 00:27:21,181
+-Hey, Doris, ich meld mich später an.
+-Ich bin die moralische Unterstützung.
+
+460
+00:27:21,264 --> 00:27:25,560
+Miss Buckley! Miss Buckley!
+Ach, jetzt reicht's mir.
+
+461
+00:27:25,644 --> 00:27:27,771
+[Aufzug klingelt]
+
+462
+00:27:27,854 --> 00:27:29,981
+Hey. Wir müssen reden.
+
+463
+00:27:30,065 --> 00:27:31,733
+-Ja.
+-Warte! Robin!
+
+464
+00:27:31,816 --> 00:27:34,152
+-Ich muss das klären. Geh.
+-Aber unser Plan!
+
+465
+00:27:34,235 --> 00:27:35,403
+Vickie.
+
+466
+00:27:37,030 --> 00:27:39,783
+Ich weiß, du bist sauer.
+Du hast allen Grund dazu, aber…
+
+467
+00:27:39,866 --> 00:27:41,660
+-Sie suchen nach dir.
+-Wer?
+
+468
+00:27:41,743 --> 00:27:43,662
+-Sicherheitsdienst, das Militär.
+-Wieso?
+
+469
+00:27:43,745 --> 00:27:46,122
+-Willst du mich für dumm verkaufen?
+-Wovon sprichst du?
+
+470
+00:27:46,206 --> 00:27:50,377
+Gut, ich geb dir 'n Hinweis.
+Du, Mr. Baileys Zimmer, Benzos.
+
+471
+00:27:50,460 --> 00:27:52,504
+-Ach…
+-Klingelt's da bei dir?
+
+472
+00:27:52,587 --> 00:27:55,924
+Robin, jetzt rück schon damit raus.
+Was ist eigentlich los mit dir?
+
+473
+00:27:56,007 --> 00:27:57,467
+Sag es. Sofort!
+
+474
+00:28:03,014 --> 00:28:06,267
+Okay, Max. Zeit, nach Hause zu kommen.
+
+475
+00:28:07,143 --> 00:28:09,854
+[Musik: "Running up that Hill"
+von Kate Bush]
+
+476
+00:28:17,779 --> 00:28:19,781
+[Musik verklingt]
+
+477
+00:28:21,116 --> 00:28:23,284
+[Max] Ich glaub, das war jetzt lang genug.
+
+478
+00:28:23,368 --> 00:28:25,412
+[Holly]
+Wir haben erst 'n Zentimeter abgesucht.
+
+479
+00:28:25,495 --> 00:28:27,414
+[Max] Endlich verstehst du, was ich meine.
+
+480
+00:28:27,497 --> 00:28:30,375
+Ich hab hier draußen
+wer weiß wie lange rumgesucht.
+
+481
+00:28:30,458 --> 00:28:33,628
+Du wirst nicht plötzlich was finden,
+was ich nicht gefunden hab.
+
+482
+00:28:33,712 --> 00:28:36,464
+Hat mein Bruder
+dir jemals von Onkel Eric erzählt?
+
+483
+00:28:36,548 --> 00:28:37,799
+Onkel Eric?
+
+484
+00:28:37,882 --> 00:28:40,385
+Er ist ein Sondengänger.
+Weißt du, was das ist?
+
+485
+00:28:40,468 --> 00:28:41,761
+Er sucht nach Metall.
+
+486
+00:28:41,845 --> 00:28:43,471
+Ja, mit seinem Metalldetektor.
+
+487
+00:28:43,555 --> 00:28:47,267
+Er sucht nach alten Schätzen und Zeug,
+was von Toten im Boden zurückbleibt.
+
+488
+00:28:47,350 --> 00:28:50,478
+Egal, am liebsten sucht er
+im Indiana Beach Vergnügungspark.
+
+489
+00:28:50,562 --> 00:28:52,564
+Da hat er wirklich jahrelang gesucht,
+
+490
+00:28:52,647 --> 00:28:55,150
+aber das Einzige, was er gefunden hat,
+war Plunder.
+
+491
+00:28:55,233 --> 00:28:57,986
+Eines Tages dann
+schlug er die Zeitung auf und boom.
+
+492
+00:28:58,069 --> 00:28:59,362
+Schlagzeile, erste Seite.
+
+493
+00:28:59,446 --> 00:29:02,949
+Ein Tourist hatte eine Blechdose
+mit Gold- und Silbermünzen gefunden,
+
+494
+00:29:03,032 --> 00:29:04,033
+Wert 1 Mio. Dollar.
+
+495
+00:29:04,117 --> 00:29:07,287
+Na schön, lass mich raten.
+In dem Szenario bin ich Onkel Eric.
+
+496
+00:29:07,370 --> 00:29:08,955
+Und ich bin der Tourist.
+
+497
+00:29:19,382 --> 00:29:20,800
+So dumm.
+
+498
+00:29:22,177 --> 00:29:24,179
+[spannungsvolle Musik]
+
+499
+00:29:37,525 --> 00:29:39,194
+M markiert den Punkt.
+
+500
+00:29:43,448 --> 00:29:45,283
+-Wo gehst du hin?
+-Ich hab eine Idee.
+
+501
+00:29:45,366 --> 00:29:47,869
+-Was für eine?
+-Zeig ich dir, wenn wir dort sind.
+
+502
+00:29:47,952 --> 00:29:51,664
+Du hast gesagt, du willst wieder zurück.
+Gut, wir gehen wieder zurück.
+
+503
+00:29:53,958 --> 00:29:57,295
+Leute, wenn ihr uns hört, wir kommen.
+Ich wiederhole, wir kommen.
+
+504
+00:29:57,378 --> 00:30:00,298
+Nicht so schnell. Je höher wir gehen,
+umso gefährlicher wird es.
+
+505
+00:30:00,381 --> 00:30:01,883
+Ein Grund mehr, sich zu beeilen.
+
+506
+00:30:01,966 --> 00:30:04,260
+Es bringt ihnen nichts, wenn wir tot sind.
+Steve!
+
+507
+00:30:13,436 --> 00:30:15,021
+Hatte ich ja gesagt.
+
+508
+00:30:15,104 --> 00:30:17,440
+[Musik schwillt an]
+
+509
+00:30:17,524 --> 00:30:19,609
+-[sie ächzen angestrengt]
+-[Musik ebbt ab]
+
+510
+00:30:20,318 --> 00:30:22,695
+Komm schon! Verdammt!
+
+511
+00:30:24,781 --> 00:30:25,824
+Verdammt!
+
+512
+00:30:30,245 --> 00:30:31,663
+Was machst du denn da?
+
+513
+00:30:31,746 --> 00:30:35,333
+Weiter unten sah es aus,
+als hätte ein Soldat die Tür durchbrochen.
+
+514
+00:30:41,965 --> 00:30:43,258
+Vorsicht!
+
+515
+00:30:47,846 --> 00:30:49,222
+[Jonathan] Scheiße! Zurück!
+
+516
+00:30:52,225 --> 00:30:53,977
+Scheiße! Scheiße!
+
+517
+00:30:54,060 --> 00:30:55,395
+Oh Gott.
+
+518
+00:31:01,943 --> 00:31:02,944
+Heilige Scheiße!
+
+519
+00:31:05,446 --> 00:31:07,490
+Der Tisch! Schnell, auf den Tisch!
+
+520
+00:31:18,459 --> 00:31:19,544
+Was jetzt?
+
+521
+00:31:26,009 --> 00:31:28,052
+Hilfe! Hilfe!
+
+522
+00:31:28,136 --> 00:31:30,513
+-Hilfe! Hilfe!
+-Steve!
+
+523
+00:31:30,597 --> 00:31:32,140
+-Hey!
+-Hilfe!
+
+524
+00:31:32,223 --> 00:31:36,853
+-Hilfe! Hilfe! Hilfe! Hilfe!
+-Hilfe! Hilfe! Hilfe!
+
+525
+00:31:36,936 --> 00:31:38,938
+-[Schreie hallen nach]
+-[Musik verklingt]
+
+526
+00:31:39,022 --> 00:31:41,024
+[Vögel zwitschern]
+
+527
+00:32:11,804 --> 00:32:13,056
+Wir sind gleich so weit.
+
+528
+00:32:17,143 --> 00:32:18,895
+El kriegt das wieder hin.
+
+529
+00:32:19,479 --> 00:32:20,813
+Sie kriegt das hin.
+
+530
+00:32:25,276 --> 00:32:27,236
+Es war meine Idee, Hop.
+
+531
+00:32:28,571 --> 00:32:30,740
+Es war meine Idee.
+
+532
+00:32:30,823 --> 00:32:33,076
+Ich hab vorgeschlagen, dass er reingeht.
+
+533
+00:32:33,159 --> 00:32:35,620
+Ich weiß nicht, ich hab irgendwie gedacht,
+
+534
+00:32:35,703 --> 00:32:39,666
+nach allem, was passiert ist,
+nach allem, wozu er schon fähig war,
+
+535
+00:32:39,749 --> 00:32:43,544
+da dachte ich,
+vielleicht hab ich ihn all die Zeit,
+
+536
+00:32:43,628 --> 00:32:46,589
+in der ich so sehr versucht habe,
+ihn zu schützen,
+
+537
+00:32:46,673 --> 00:32:49,258
+letztendlich eigentlich
+doch eher ausgebremst.
+
+538
+00:32:51,010 --> 00:32:55,181
+Weil ich nicht zugehört habe,
+ihm nicht vertraut habe.
+
+539
+00:32:55,264 --> 00:33:01,437
+Und hätt ich ihm vielleicht, keine Ahnung,
+ihm einfach geglaubt und… und losgelassen,
+
+540
+00:33:01,521 --> 00:33:04,357
+dann hätte sich das Ganze
+irgendwie geregelt.
+
+541
+00:33:04,440 --> 00:33:06,234
+Und… es ist,
+
+542
+00:33:06,317 --> 00:33:11,364
+als wäre einfach jede Entscheidung,
+die ich treffe, falsch.
+
+543
+00:33:11,447 --> 00:33:12,573
+Ich weiß.
+
+544
+00:33:14,075 --> 00:33:18,371
+Entweder du drängst sie in Situationen,
+auf die sie nicht vorbereitet sind,
+
+545
+00:33:18,454 --> 00:33:20,832
+oder du bist wie ich, verstehst du,
+überängstlich.
+
+546
+00:33:20,915 --> 00:33:23,251
+Und genau das
+nehmen sie dir natürlich übel.
+
+547
+00:33:23,334 --> 00:33:26,212
+Joyce, das ist das Schöne am Elternsein.
+
+548
+00:33:28,131 --> 00:33:30,133
+Du wirst dein Leben lang daran erinnert,
+
+549
+00:33:30,216 --> 00:33:34,971
+dass jede Entscheidung,
+die du getroffen hast, falsch gewesen ist.
+
+550
+00:33:38,433 --> 00:33:40,518
+Es liegt nicht an dir, Joyce.
+
+551
+00:33:42,979 --> 00:33:44,313
+Es liegt nicht an dir.
+
+552
+00:33:44,814 --> 00:33:47,650
+-[sanfte, melancholische Musik]
+-[Joyce seufzt leise]
+
+553
+00:33:54,115 --> 00:33:56,534
+-[Wasser schwappt hin und her]
+-[Musik verklingt]
+
+554
+00:33:59,871 --> 00:34:02,165
+[Mike] Sieht gut aus.
+Hat Murray den besorgt?
+
+555
+00:34:02,874 --> 00:34:03,875
+[Elf] Ja.
+
+556
+00:34:05,668 --> 00:34:07,628
+Santa Claus hat einen guten Geschmack.
+
+557
+00:34:11,966 --> 00:34:13,259
+Hey.
+
+558
+00:34:13,342 --> 00:34:17,597
+Vorhin im Squawk,
+da hat Kali etwas Eigenartiges gesagt.
+
+559
+00:34:17,680 --> 00:34:20,850
+Sie meinte, es wäre nicht vorbei,
+auch wenn wir Henry töten.
+
+560
+00:34:20,933 --> 00:34:22,685
+Weißt du, was sie gemeint hat?
+
+561
+00:34:23,895 --> 00:34:25,146
+Spielt keine Rolle.
+
+562
+00:34:25,730 --> 00:34:27,565
+Ich muss es etwas aufwärmen.
+
+563
+00:34:27,648 --> 00:34:31,027
+Aber wenn's keine Rolle spielt,
+wieso war Hop so sauer auf sie?
+
+564
+00:34:31,110 --> 00:34:32,403
+Da ist nichts, Mike.
+
+565
+00:34:32,487 --> 00:34:34,238
+-Freunde lügen nicht.
+-Ich lüge nicht.
+
+566
+00:34:34,322 --> 00:34:37,658
+[Mike] Du weichst aus.
+Das ist dasselbe. Ich will nur helfen.
+
+567
+00:34:37,742 --> 00:34:40,203
+Du kannst nicht helfen. Hierbei nicht.
+
+568
+00:34:40,286 --> 00:34:42,413
+[Mike] Überlass mir doch die Entscheidung.
+
+569
+00:34:44,207 --> 00:34:45,416
+El, ich bitte dich.
+
+570
+00:34:45,500 --> 00:34:46,834
+[sanfte Musik]
+
+571
+00:34:50,296 --> 00:34:52,924
+Es gibt ein Labor, auf der anderen Seite.
+
+572
+00:34:53,007 --> 00:34:58,262
+Sie lassen Papas Programm neu anlaufen,
+versuchen, neue Nummern zu erschaffen.
+
+573
+00:35:01,974 --> 00:35:03,059
+Das Militär?
+
+574
+00:35:06,437 --> 00:35:07,396
+Okay.
+
+575
+00:35:07,897 --> 00:35:11,651
+Also, zuerst töten wir Vecna,
+danach zerstören wir das neue Labor,
+
+576
+00:35:11,734 --> 00:35:13,736
+beenden das Programm, als zweite Mission.
+
+577
+00:35:13,820 --> 00:35:16,239
+Mike, nein, du verstehst das nicht.
+
+578
+00:35:16,322 --> 00:35:18,825
+Sie brauchen kein Labor,
+um neue Nummern zu erschaffen,
+
+579
+00:35:18,908 --> 00:35:21,035
+sondern Henrys Blut.
+
+580
+00:35:22,328 --> 00:35:25,915
+Es ist in mir, aber ich bin kein Monster.
+
+581
+00:35:26,749 --> 00:35:28,209
+Das weiß ich jetzt.
+
+582
+00:35:28,793 --> 00:35:30,920
+Aber mit mir, mit meinem Blut…
+
+583
+00:35:32,088 --> 00:35:34,632
+…könnten viel mehr Monster entstehen.
+
+584
+00:35:35,508 --> 00:35:37,718
+Also immer mehr Henrys.
+
+585
+00:35:37,802 --> 00:35:40,263
+Das Militär wird weiter nach dir suchen.
+
+586
+00:35:40,346 --> 00:35:43,391
+Das wussten wir immer.
+Deshalb bleiben wir nicht in Hawkins.
+
+587
+00:35:43,474 --> 00:35:46,394
+Wenn alles vorbei ist,
+dann verschwinden wir.
+
+588
+00:35:46,477 --> 00:35:49,313
+Und fliehen in ein weit entferntes Land.
+Weißt du noch?
+
+589
+00:35:49,397 --> 00:35:51,774
+Irgendwohin, wo uns niemand finden kann.
+
+590
+00:35:52,316 --> 00:35:55,444
+Irgendwohin,
+wo mindestens ein Wasserfall ist.
+
+591
+00:35:56,445 --> 00:35:57,572
+Mike.
+
+592
+00:35:59,282 --> 00:36:02,493
+Das hier ist nicht
+wie eine deiner Kampagnen.
+
+593
+00:36:03,411 --> 00:36:05,371
+Du wirst dieses Ende nicht schreiben.
+
+594
+00:36:06,205 --> 00:36:07,456
+Dieses Mal nicht.
+
+595
+00:36:09,125 --> 00:36:10,543
+Ich vielleicht nicht.
+
+596
+00:36:11,419 --> 00:36:12,670
+Aber wir schon.
+
+597
+00:36:12,753 --> 00:36:16,215
+Du, ich, Lucas, Will und Dustin.
+
+598
+00:36:16,799 --> 00:36:18,551
+Weil es unsere Geschichte ist.
+
+599
+00:36:19,468 --> 00:36:21,804
+Und sie startet,
+indem wir Will zurückholen.
+
+600
+00:36:21,888 --> 00:36:23,890
+[Musik steigt an]
+
+601
+00:36:25,975 --> 00:36:27,977
+[Musik wird geheimnisvoll]
+
+602
+00:36:28,060 --> 00:36:30,062
+[Zischen, feuchtes Matschen]
+
+603
+00:36:33,191 --> 00:36:35,067
+[Musik schwillt an]
+
+604
+00:36:38,154 --> 00:36:38,988
+[flüstert] Max.
+
+605
+00:36:39,071 --> 00:36:41,157
+-[Musik verhallt abrupt]
+-[Grillen zirpen]
+
+606
+00:36:49,165 --> 00:36:51,417
+Dein Fernrohr
+brauchst du ja wohl nicht mehr.
+
+607
+00:36:51,500 --> 00:36:52,501
+Das ist meine Höhle.
+
+608
+00:36:52,585 --> 00:36:53,461
+Jap.
+
+609
+00:36:53,544 --> 00:36:55,379
+Außerdem ist die Kappe davor.
+
+610
+00:36:55,463 --> 00:36:56,297
+Jap.
+
+611
+00:36:57,298 --> 00:36:58,382
+Sieh durch.
+
+612
+00:36:59,717 --> 00:37:00,927
+Mit der Kappe.
+
+613
+00:37:05,932 --> 00:37:08,059
+Okay, es ist sehr dunkel.
+
+614
+00:37:08,142 --> 00:37:09,060
+Aber nicht völlig.
+
+615
+00:37:09,143 --> 00:37:12,813
+Du siehst doch den Lichtausschnitt.
+Er hat dieselbe Form wie der Eingang.
+
+616
+00:37:12,897 --> 00:37:15,524
+Wie wahrscheinlich ist es,
+dass ein Loch die Form hat?
+
+617
+00:37:15,608 --> 00:37:17,318
+Von einer Höhle, in der Henry war.
+
+618
+00:37:17,401 --> 00:37:21,280
+Die Kappe ist ein Hinweis, wie eine Karte,
+die Henry gemacht hat, als er jung war.
+
+619
+00:37:21,364 --> 00:37:23,950
+Und die uns zu einem Versteck führen soll.
+
+620
+00:37:24,033 --> 00:37:26,702
+Wir müssen einfach nur
+die Form danach ausrichten.
+
+621
+00:37:27,370 --> 00:37:30,039
+Und du denkst,
+in diesem Versteck, da finden wir was?
+
+622
+00:37:30,122 --> 00:37:34,168
+-Henrys traumatische Erinnerung?
+-Die, und einen Fluchtweg von Camazotz.
+
+623
+00:37:34,877 --> 00:37:37,296
+Zumindest ist das meine Theorie.
+
+624
+00:37:37,964 --> 00:37:38,798
+Die ist gut.
+
+625
+00:37:38,881 --> 00:37:39,715
+Danke.
+
+626
+00:37:39,799 --> 00:37:42,009
+Deine Theorie hat nur eine kleine Lücke.
+
+627
+00:37:42,093 --> 00:37:44,804
+Wir sind in der Nähe des Verstecks,
+und ich habe Augen.
+
+628
+00:37:44,887 --> 00:37:48,140
+Und ich sehe nach wie vor nichts,
+außer verdammt viel Sand.
+
+629
+00:37:48,224 --> 00:37:50,226
+-[Krachen]
+-[Holly schreit]
+
+630
+00:37:50,810 --> 00:37:53,896
+Halt dich fest! Halt dich fest!
+
+631
+00:37:53,980 --> 00:37:56,440
+[angestrengtes Ächzen]
+
+632
+00:38:07,201 --> 00:38:09,078
+[sie keuchen]
+
+633
+00:38:12,790 --> 00:38:14,417
+M markiert den Punkt.
+
+634
+00:38:16,752 --> 00:38:18,754
+[unverständliche Durchsage]
+
+635
+00:38:22,717 --> 00:38:25,803
+Vic, möchtest du mir
+nicht vielleicht etwas mitteilen?
+
+636
+00:38:25,886 --> 00:38:28,889
+Ich kann nicht deuten,
+was mir dein Gesichtsausdruck sagen will.
+
+637
+00:38:28,973 --> 00:38:31,267
+Ich weiß, du hast eine Menge zu verdauen,
+
+638
+00:38:31,350 --> 00:38:33,394
+und dann gleich alles auf einmal.
+
+639
+00:38:33,477 --> 00:38:35,479
+Monster und andere Dimensionen…
+
+640
+00:38:35,563 --> 00:38:38,858
+Die Turnbows unter Drogen zu setzen,
+das war echt rücksichtslos…
+
+641
+00:38:38,941 --> 00:38:42,570
+Okay, stopp, Robin.
+Bitte, hör einfach auf damit.
+
+642
+00:38:42,653 --> 00:38:44,113
+Ich wollt es dir erklären.
+
+643
+00:38:44,196 --> 00:38:48,284
+Nein, du hast weiter gelogen,
+und ich wusste, da stimmt was nicht.
+
+644
+00:38:48,367 --> 00:38:50,369
+Ich weiß! Es tut mir leid!
+
+645
+00:38:50,453 --> 00:38:52,621
+"Total verrückter Tag,
+ich meld mich morgen."
+
+646
+00:38:52,705 --> 00:38:54,040
+"Wieder Chaos beim Squawk."
+
+647
+00:38:54,123 --> 00:38:56,667
+Wer arbeitet
+die ganze Nacht bei einem Radiosender?
+
+648
+00:38:56,751 --> 00:38:59,378
+Und wer ist blöd genug,
+und glaubt das auch noch?
+
+649
+00:38:59,462 --> 00:39:03,007
+Ich offensichtlich, die zu Hause wartet,
+dass das Telefon klingelt,
+
+650
+00:39:03,090 --> 00:39:05,509
+während du dich mit Freunden zudröhnst.
+
+651
+00:39:05,593 --> 00:39:06,719
+Zudröhnst?
+
+652
+00:39:06,802 --> 00:39:10,348
+Ich bitte dich, Robin.
+Du hast gerade Entzugserscheinungen.
+
+653
+00:39:10,431 --> 00:39:12,266
+Nein, ich bin nicht auf Drogen.
+
+654
+00:39:12,350 --> 00:39:14,060
+-Klar, entschuldige.
+-Sieh mich an!
+
+655
+00:39:14,143 --> 00:39:17,730
+Du warst mit deinen Freunden unterwegs
+und hast Monster gejagt.
+
+656
+00:39:17,813 --> 00:39:20,191
+Gott! Nein.
+Vielleicht glaubst du's ja sogar selber.
+
+657
+00:39:20,274 --> 00:39:22,193
+Bei der Menge, auf der du drauf warst,
+
+658
+00:39:22,276 --> 00:39:26,072
+da verursacht so 'n kalter Entzug
+Verwirrtheit, Paranoia, Halluzinationen…
+
+659
+00:39:26,155 --> 00:39:29,033
+Das sind keine Halluzinationen!
+
+660
+00:39:29,116 --> 00:39:30,076
+Okay.
+
+661
+00:39:30,159 --> 00:39:31,327
+Fassen wir zusammen.
+
+662
+00:39:31,410 --> 00:39:34,205
+Da ist ein dunkler Magier,
+der entführt Kinder.
+
+663
+00:39:34,288 --> 00:39:36,582
+-Jap.
+-Und versteckt sie in einer Traumwelt.
+
+664
+00:39:36,665 --> 00:39:38,376
+Richtig.
+
+665
+00:39:38,459 --> 00:39:42,213
+Vickie!
+Die Erde hat sich in vier Teile gespalten.
+
+666
+00:39:42,296 --> 00:39:44,882
+Das Militär
+kontrolliert jetzt unsere Stadt.
+
+667
+00:39:44,965 --> 00:39:47,301
+Ist das, was ich sage,
+denn wirklich so krank?
+
+668
+00:39:48,511 --> 00:39:49,804
+Völlig krank.
+
+669
+00:39:49,887 --> 00:39:50,721
+Weißt du, was?
+
+670
+00:39:50,805 --> 00:39:53,391
+-Du willst wissen, was mein Gesicht sagt?
+-Ja.
+
+671
+00:39:53,474 --> 00:39:55,601
+Es ist Wut, aber mit einem Hauch,
+
+672
+00:39:55,684 --> 00:40:00,314
+und diesen Hauch lasse ich nur ungern zu,
+von Sorge.
+
+673
+00:40:01,232 --> 00:40:03,526
+Denn egal,
+wie wütend ich gerade auf dich bin,
+
+674
+00:40:03,609 --> 00:40:06,737
+dir geht's nicht gut, Robin,
+und du brauchst Hilfe.
+
+675
+00:40:06,821 --> 00:40:09,657
+Du brauchst dringend Hilfe.
+
+676
+00:40:09,740 --> 00:40:12,076
+-[Mann] Eine junge Frau…
+-Warte.
+
+677
+00:40:12,159 --> 00:40:16,664
+-[Mann] Haben Sie sie gesehen?
+-Robin Buckley? Ja. In diesem Raum.
+
+678
+00:40:16,747 --> 00:40:18,290
+[spannungsvolle Musik]
+
+679
+00:40:19,417 --> 00:40:21,544
+-Vickie, es tut mir sehr leid.
+-Lass es.
+
+680
+00:40:21,627 --> 00:40:23,129
+-Aber ich muss gehen.
+-Robin!
+
+681
+00:40:24,088 --> 00:40:27,133
+Hey! Hey, ich rede mit Ihnen.
+
+682
+00:40:27,800 --> 00:40:29,552
+Buckley, stopp!
+
+683
+00:40:32,721 --> 00:40:34,140
+Wo wollen Sie denn hin?
+
+684
+00:40:36,684 --> 00:40:37,852
+-Hilfe!
+-Hilfe!
+
+685
+00:40:37,935 --> 00:40:42,690
+-Hilfe! Dustin! Hey!
+-Hilfe! Steve! Hilfe!
+
+686
+00:40:44,024 --> 00:40:45,943
+Komm schon, komm schon.
+
+687
+00:40:46,026 --> 00:40:47,778
+Oh. Danke. Danke.
+
+688
+00:40:49,655 --> 00:40:51,991
+Was hast du vor? Das funktioniert niemals.
+
+689
+00:40:52,074 --> 00:40:55,369
+Stopp! Stopp!
+Steve, stopp! Ich mein's ernst.
+
+690
+00:40:55,453 --> 00:40:57,121
+Das ist nicht sicher! Du fällst noch!
+
+691
+00:40:57,204 --> 00:40:59,415
+Ist ja gut. Es ist instabil.
+Hab ich verstanden.
+
+692
+00:40:59,498 --> 00:41:02,334
+Bitte! Nein, nicht. Hör auf!
+Sei nicht so 'n Arschloch.
+
+693
+00:41:02,418 --> 00:41:04,128
+Ich versuch, an sie ranzukommen.
+
+694
+00:41:04,211 --> 00:41:07,339
+Du suchst ständig den Tod,
+und das lass ich nicht wieder zu!
+
+695
+00:41:07,423 --> 00:41:11,177
+Hör auf, so egoistisch zu sein, bitte.
+Wenn du da raufgehst, wirst du sterben.
+
+696
+00:41:11,260 --> 00:41:14,763
+Noch mal ertrag ich das nicht.
+Ich kann das nicht. Du darfst nicht gehen.
+
+697
+00:41:14,847 --> 00:41:16,765
+Lass das bitte nicht zu. Bitte.
+
+698
+00:41:16,849 --> 00:41:19,226
+-Bitte, das darf nicht noch mal passieren.
+-Hey.
+
+699
+00:41:19,310 --> 00:41:20,936
+Nicht du. [weint]
+
+700
+00:41:21,020 --> 00:41:24,148
+-Es tut mir leid.
+-Nein, nein, nein.
+
+701
+00:41:35,743 --> 00:41:37,786
+-Hilfe!
+-Hilfe!
+
+702
+00:41:37,870 --> 00:41:39,997
+-Kommt schon! Helft uns!
+-Hilfe!
+
+703
+00:41:40,080 --> 00:41:41,916
+Hey! Whoa, whoa, whoa!
+
+704
+00:41:41,999 --> 00:41:43,918
+Runter, schnell runter, los.
+
+705
+00:41:44,877 --> 00:41:45,961
+Was machen wir jetzt?
+
+706
+00:41:46,045 --> 00:41:49,757
+Im Sitzen verteilt sich unser Gewicht.
+Mr. Goldstein, Physik.
+
+707
+00:41:49,840 --> 00:41:52,134
+Und das verschafft uns etwas Zeit.
+
+708
+00:41:53,302 --> 00:41:55,471
+Sie müssten uns inzwischen gehört haben.
+
+709
+00:41:55,554 --> 00:41:57,097
+Wieso melden sie sich nicht?
+
+710
+00:41:57,181 --> 00:41:59,433
+Und selbst wenn,
+was könnten sie schon ausrichten?
+
+711
+00:41:59,517 --> 00:42:01,393
+Irgendwas. Egal was.
+
+712
+00:42:03,229 --> 00:42:04,647
+[Blubbern]
+
+713
+00:42:06,357 --> 00:42:08,025
+Sie werden nicht kommen.
+
+714
+00:42:08,108 --> 00:42:09,568
+Nein, sag das nicht.
+
+715
+00:42:09,652 --> 00:42:11,654
+Du wolltest, dass ich ehrlich bin.
+
+716
+00:42:11,737 --> 00:42:13,739
+[Blubbern]
+
+717
+00:42:22,498 --> 00:42:24,583
+[Donnergrollen]
+
+718
+00:42:31,257 --> 00:42:33,050
+Ich hasse The Clash.
+
+719
+00:42:35,052 --> 00:42:35,928
+Was?
+
+720
+00:42:36,011 --> 00:42:38,305
+[sanfte, melancholische Musik]
+
+721
+00:42:38,389 --> 00:42:40,516
+Ich hasse The Clash.
+
+722
+00:42:40,599 --> 00:42:45,020
+Immer wenn du sie auflegst, versuch ich,
+mich aus der Realität auszuklinken.
+
+723
+00:42:46,355 --> 00:42:50,317
+Ja. Ich hasse es, deine Artikel zu lesen.
+Du willst meine Meinung nicht.
+
+724
+00:42:50,401 --> 00:42:52,570
+Du willst, dass ich sage,
+dass sie toll sind.
+
+725
+00:42:52,653 --> 00:42:54,029
+Weil sie es sind.
+
+726
+00:42:54,113 --> 00:42:55,155
+Meistens schon.
+
+727
+00:42:55,239 --> 00:42:58,284
+"Meistens?" Wow, okay.
+
+728
+00:42:59,159 --> 00:43:01,662
+Ich habe "Schlachthof 5" nie gelesen.
+
+729
+00:43:01,745 --> 00:43:04,290
+Nur die Zusammenfassung,
+und so getan, als fänd ich's gut.
+
+730
+00:43:04,373 --> 00:43:05,749
+Ich hab Anna Karenina nie gelesen.
+
+731
+00:43:05,833 --> 00:43:08,294
+Nur die Zusammenfassung,
+und so getan, als fänd ich's gut.
+
+732
+00:43:08,377 --> 00:43:10,963
+Du kommst jedes Mal
+exakt sechs Minuten zu spät,
+
+733
+00:43:11,046 --> 00:43:14,925
+und ich sag nie was,
+aber ich möchte gegen 'ne Wand schlagen.
+
+734
+00:43:15,009 --> 00:43:17,011
+Dein rosa Sweater
+ist in der Kleidersammlung.
+
+735
+00:43:17,094 --> 00:43:18,929
+Was? Den hab ich überall gesucht.
+
+736
+00:43:19,013 --> 00:43:22,474
+Du weißt, ich hasse rosa.
+Danach hab ich mich schuldig gefühlt.
+
+737
+00:43:22,558 --> 00:43:25,603
+Ich hab Purple Palm Tree Delight
+im Klo runtergespült
+
+738
+00:43:25,686 --> 00:43:27,104
+und mich nicht schuldig gefühlt.
+
+739
+00:43:27,187 --> 00:43:28,439
+Ich bitte dich.
+
+740
+00:43:28,522 --> 00:43:31,358
+-Ich hasse es, wenn du high bist.
+-Ich, wenn du betrunken bist.
+
+741
+00:43:31,442 --> 00:43:34,403
+Noch mehr hasse ich es,
+wenn du high bist und ich betrunken.
+
+742
+00:43:34,486 --> 00:43:35,738
+Geb ich dir recht.
+
+743
+00:43:36,363 --> 00:43:37,906
+Wieso tun wir so was?
+
+744
+00:43:41,410 --> 00:43:42,620
+Keine Ahnung.
+
+745
+00:43:47,833 --> 00:43:49,418
+[Donnergrollen]
+
+746
+00:43:51,295 --> 00:43:53,380
+Ich hab mich nie an der Emerson beworben.
+
+747
+00:43:55,090 --> 00:43:56,425
+Ich weiß.
+
+748
+00:43:57,885 --> 00:43:59,595
+Wieso hast du dann nie was gesagt?
+
+749
+00:44:00,846 --> 00:44:02,264
+Wieso hast du nichts gesagt?
+
+750
+00:44:06,060 --> 00:44:07,561
+Ich weiß nicht genau.
+
+751
+00:44:13,317 --> 00:44:18,405
+Ich hatte das Gefühl…
+ich tue etwas, das falsch ist.
+
+752
+00:44:21,283 --> 00:44:24,578
+So, als würde ich
+gegen die natürliche Ordnung verstoßen.
+
+753
+00:44:26,455 --> 00:44:27,456
+Weißt du, nach…
+
+754
+00:44:28,999 --> 00:44:31,752
+Nach dem,
+was wir durchgemacht hatten, war es…
+
+755
+00:44:31,835 --> 00:44:33,629
+…unser gemeinsames Trauma.
+
+756
+00:44:35,422 --> 00:44:36,298
+Ja.
+
+757
+00:44:38,258 --> 00:44:42,429
+Wie ist es möglich,
+dass ein anderer das jemals versteht?
+
+758
+00:44:42,513 --> 00:44:46,558
+Es ist, als würde uns diese Geschichte…
+
+759
+00:44:48,018 --> 00:44:50,145
+…für immer miteinander verbinden.
+
+760
+00:44:50,854 --> 00:44:52,231
+Verstehst du?
+
+761
+00:44:54,149 --> 00:44:56,151
+Es gab mir einfach Sicherheit.
+
+762
+00:44:57,277 --> 00:44:58,654
+Aber irgendwie…
+
+763
+00:45:00,781 --> 00:45:01,782
+Ich weiß nicht.
+
+764
+00:45:02,616 --> 00:45:04,159
+…kann es auch erdrückend sein.
+
+765
+00:45:05,869 --> 00:45:06,912
+Ja.
+
+766
+00:45:10,874 --> 00:45:12,626
+In diesen Semesterferien…
+
+767
+00:45:13,293 --> 00:45:15,254
+…als du in Lenora warst…
+
+768
+00:45:16,672 --> 00:45:19,216
+Ich hätte nicht hierbleiben müssen,
+um zu arbeiten.
+
+769
+00:45:19,299 --> 00:45:22,177
+Ich hätte auch Fred bitten können,
+einzuspringen.
+
+770
+00:45:24,430 --> 00:45:26,682
+Aber ich denke, deshalb bin ich geblieben.
+
+771
+00:45:28,183 --> 00:45:32,354
+Dieses Gefühl,
+dass ich Raum für mich brauchte.
+
+772
+00:45:34,565 --> 00:45:36,942
+Um mit einem anderen zusammen zu sein.
+
+773
+00:45:41,989 --> 00:45:43,949
+Steve ist ein guter Kerl.
+
+774
+00:45:45,325 --> 00:45:47,119
+Er bringt mich zum Lachen.
+
+775
+00:45:48,370 --> 00:45:52,750
+Und er hat schönere Haare als du.
+Ja, viel schönere.
+
+776
+00:45:52,833 --> 00:45:54,543
+Aber, nein.
+
+777
+00:45:56,879 --> 00:45:59,173
+Nein, so war es nie mit ihm.
+
+778
+00:45:59,757 --> 00:46:01,633
+Wir sind einfach zu verschieden.
+
+779
+00:46:01,717 --> 00:46:05,429
+Weißt du, was er mir gesagt hat?
+Er will sechs Kinder.
+
+780
+00:46:05,512 --> 00:46:08,599
+-Sechs Kinder?
+-Sechs kleine Nuggets.
+
+781
+00:46:09,391 --> 00:46:11,101
+Das wär dann schon ein Happy Meal.
+
+782
+00:46:12,686 --> 00:46:14,146
+Was ich damit sagen will…
+
+783
+00:46:15,564 --> 00:46:17,274
+Er weiß, was er will.
+
+784
+00:46:17,357 --> 00:46:18,942
+Und das ist toll.
+
+785
+00:46:19,026 --> 00:46:21,820
+Aber ich… nicht.
+
+786
+00:46:23,989 --> 00:46:28,911
+Und ich hatte irgendwie gehofft,
+ich hätte noch die Zeit, das rauszufinden.
+
+787
+00:46:29,995 --> 00:46:32,706
+-Aber dann…
+-…spaltete sich die Welt.
+
+788
+00:46:32,790 --> 00:46:34,166
+Und jetzt…
+
+789
+00:46:36,835 --> 00:46:38,504
+Und jetzt… [schnieft]
+
+790
+00:46:42,549 --> 00:46:43,383
+Hey.
+
+791
+00:46:48,597 --> 00:46:50,682
+Noch ein letztes Bekenntnis.
+
+792
+00:46:51,642 --> 00:46:53,101
+Ein großes.
+
+793
+00:46:59,691 --> 00:47:01,527
+John Coltrane.
+
+794
+00:47:01,610 --> 00:47:06,156
+Ich hab das Gefühl,
+ich hab bei dir schon genug vermasselt.
+
+795
+00:47:08,450 --> 00:47:11,328
+Wär schön, wenn ich am Ende
+noch mal was richtig hinkriege.
+
+796
+00:47:12,287 --> 00:47:13,288
+Hier.
+
+797
+00:47:13,872 --> 00:47:15,874
+[weiter melancholische Musik]
+
+798
+00:47:31,348 --> 00:47:32,766
+Nancy Wheeler.
+
+799
+00:47:35,477 --> 00:47:36,770
+Willst du…
+
+800
+00:47:38,272 --> 00:47:39,314
+…mich…
+
+801
+00:47:40,148 --> 00:47:41,108
+…nicht heiraten?
+
+802
+00:47:41,191 --> 00:47:43,193
+[lacht sanft und schnieft]
+
+803
+00:47:48,115 --> 00:47:50,492
+Ich hätte so gern selbst daran geglaubt,
+
+804
+00:47:51,535 --> 00:47:55,622
+dass das in irgendeiner Weise
+alles in Ordnung bringt.
+
+805
+00:47:56,206 --> 00:47:58,625
+Aber es hätte alles
+nur noch schlimmer gemacht.
+
+806
+00:47:59,334 --> 00:48:01,086
+Vermutlich steckte er deshalb
+
+807
+00:48:01,169 --> 00:48:04,506
+die letzten beiden Tage wie
+eine Kanonenkugel in meiner Hosentasche.
+
+808
+00:48:04,590 --> 00:48:06,717
+[sie lachen]
+
+809
+00:48:06,800 --> 00:48:08,886
+Also, was sagst du?
+
+810
+00:48:12,639 --> 00:48:14,766
+Willst du meinen Nicht-Antrag annehmen?
+
+811
+00:48:16,059 --> 00:48:18,145
+Ich nehme deinen Nicht-Antrag an.
+
+812
+00:48:20,230 --> 00:48:21,899
+Ich habe dich geliebt.
+
+813
+00:48:22,691 --> 00:48:26,111
+Ich liebe dich noch immer, Nancy Wheeler.
+
+814
+00:48:27,446 --> 00:48:29,865
+Ich liebe dich, Jonathan Byers.
+
+815
+00:48:31,742 --> 00:48:33,744
+[beide weinen]
+
+816
+00:48:48,133 --> 00:48:50,135
+[Klimpern]
+
+817
+00:49:05,192 --> 00:49:06,777
+Oh mein Gott.
+
+818
+00:49:07,986 --> 00:49:09,905
+[Musik wird hoffnungsvoll]
+
+819
+00:49:15,035 --> 00:49:16,954
+-Nancy.
+-Jonathan!
+
+820
+00:49:17,663 --> 00:49:18,538
+Oh mein Gott!
+
+821
+00:49:21,625 --> 00:49:23,043
+-Komm her.
+-[sie lachen]
+
+822
+00:49:38,850 --> 00:49:40,852
+[Musik verklingt]
+
+823
+00:49:49,653 --> 00:49:50,904
+Danke.
+
+824
+00:49:50,988 --> 00:49:52,572
+Ich werd ihn finden…
+
+825
+00:49:54,074 --> 00:49:55,701
+…und wieder zurückbringen.
+
+826
+00:49:55,784 --> 00:49:58,328
+[sanfte, spannungsvolle Musik]
+
+827
+00:50:03,125 --> 00:50:06,211
+Okay.
+Denk dran, wenn du da wieder rauswillst…
+
+828
+00:50:13,927 --> 00:50:15,595
+[Deckel schließt quietschend]
+
+829
+00:50:35,532 --> 00:50:37,534
+Will, ich bin hier.
+
+830
+00:50:39,244 --> 00:50:41,747
+Und jetzt musst du mir zeigen, wo du bist.
+
+831
+00:50:43,290 --> 00:50:45,625
+Zeig mir, wo du bist.
+
+832
+00:50:45,709 --> 00:50:49,838
+[Zischen und feuchtes Matschen]
+
+833
+00:51:06,271 --> 00:51:07,272
+Will.
+
+834
+00:51:08,190 --> 00:51:09,816
+[Musik wird dramatisch]
+
+835
+00:51:10,567 --> 00:51:11,526
+Will.
+
+836
+00:51:12,194 --> 00:51:14,738
+Will, kannst du mich hören?
+Will, wach auf!
+
+837
+00:51:15,363 --> 00:51:17,365
+[Musik steigt an]
+
+838
+00:51:19,034 --> 00:51:21,161
+-[dumpfes Grollen]
+-[Elf ächzt angestrengt]
+
+839
+00:51:25,457 --> 00:51:27,459
+[Musik verklingt]
+
+840
+00:51:29,419 --> 00:51:31,421
+[mysteriöse Musik]
+
+841
+00:51:43,183 --> 00:51:44,559
+[Max] Darf ich mal?
+
+842
+00:51:51,983 --> 00:51:53,777
+Denkst du, es war ein Sturz?
+
+843
+00:51:55,821 --> 00:51:57,948
+[Mann atmet schnell]
+
+844
+00:51:58,031 --> 00:52:00,700
+[Holly] Es ist nur eine Erinnerung, oder?
+
+845
+00:52:00,784 --> 00:52:02,661
+Hier drin kann uns nichts zustoßen.
+
+846
+00:52:02,744 --> 00:52:04,412
+Nichts kann uns zustoßen.
+
+847
+00:52:11,878 --> 00:52:14,756
+[Mann wimmert und keucht]
+
+848
+00:52:18,009 --> 00:52:19,010
+Bleib hinter mir.
+
+849
+00:52:19,094 --> 00:52:22,055
+-Du hast gesagt, es kann uns nichts…
+-Ich weiß.
+
+850
+00:52:22,931 --> 00:52:24,683
+[Mann ächzt]
+
+851
+00:52:30,230 --> 00:52:32,232
+[Mann ächzt erneut]
+
+852
+00:52:33,358 --> 00:52:34,776
+Wie hast du mich gefunden?
+
+853
+00:52:37,112 --> 00:52:39,114
+Wie hast du mich gefunden?
+
+854
+00:52:39,197 --> 00:52:42,033
+Sieht er uns? Sieht er uns?
+Wie kann er uns sehen?
+
+855
+00:52:42,117 --> 00:52:43,952
+Ich tu Ihnen nichts, Sir.
+
+856
+00:52:44,035 --> 00:52:46,830
+Bitte, Mister, schießen Sie nicht.
+
+857
+00:52:46,913 --> 00:52:48,165
+Wer bist du?
+
+858
+00:52:48,248 --> 00:52:50,834
+Henry. Henry Creel.
+Ich wohn hier in der Nähe.
+
+859
+00:52:50,917 --> 00:52:52,961
+-Wer hat dich geschickt?
+-Niemand.
+
+860
+00:52:53,044 --> 00:52:55,213
+-Die haben dich geschickt.
+-Ich hörte Schreie.
+
+861
+00:52:55,297 --> 00:52:56,506
+Die haben dich geschickt!
+
+862
+00:52:56,590 --> 00:52:58,717
+Sie sind verwirrt.
+Sie brauchen einen Arzt.
+
+863
+00:52:58,800 --> 00:52:59,676
+[Schuss]
+
+864
+00:53:10,562 --> 00:53:12,564
+[Ächzen, Kampflaute]
+
+865
+00:53:13,773 --> 00:53:15,650
+Bitte! Bitte!
+
+866
+00:53:17,527 --> 00:53:18,987
+[Mann ächzt]
+
+867
+00:53:19,779 --> 00:53:21,531
+-[Henry ächzt]
+-[dumpfe Schläge]
+
+868
+00:53:24,159 --> 00:53:25,076
+Holly?
+
+869
+00:53:25,994 --> 00:53:27,037
+Holly!
+
+870
+00:53:27,120 --> 00:53:29,706
+[weiter dumpfe Schläge]
+
+871
+00:53:31,416 --> 00:53:32,417
+Scheiße!
+
+872
+00:53:34,336 --> 00:53:36,880
+Hey, ist okay. Alles ist gut.
+
+873
+00:53:36,963 --> 00:53:40,050
+Wieso wollte dieser Mann
+Henry etwas antun? Henry verletzen?
+
+874
+00:53:40,133 --> 00:53:41,343
+Er hat versucht zu helfen!
+
+875
+00:53:41,426 --> 00:53:43,386
+-Weiß nicht.
+-Wurde er so ein schlechter Mensch?
+
+876
+00:53:43,470 --> 00:53:47,641
+Keine Ahnung. Aber es ist vorbei, okay?
+Wir müssen jetzt weitergehen.
+
+877
+00:53:54,314 --> 00:53:56,900
+[Henry weint leise]
+
+878
+00:54:12,832 --> 00:54:16,127
+[Musik: "Running up that Hill"
+von Kate Bush ertönt in der Ferne]
+
+879
+00:54:19,047 --> 00:54:21,174
+[düstere Musik]
+
+880
+00:54:36,398 --> 00:54:37,399
+[Holly schreckt auf]
+
+881
+00:54:37,482 --> 00:54:38,692
+Du hattest recht.
+
+882
+00:54:38,775 --> 00:54:41,528
+Der Weg weg von Camazotz,
+die Lösung ist hier.
+
+883
+00:54:42,988 --> 00:54:45,198
+[Musik: "Running up that Hill"
+von Kate Bush]
+
+884
+00:54:48,285 --> 00:54:50,370
+[Herzfrequenzmesser piept gleichmäßig]
+
+885
+00:54:50,453 --> 00:54:51,288
+Max?
+
+886
+00:54:51,371 --> 00:54:52,622
+[Piepen wird schneller]
+
+887
+00:54:59,462 --> 00:55:01,756
+[Musik verklingt]
+
+888
+00:55:01,840 --> 00:55:05,468
+[Vecna]
+Du wirst noch einmal mein Spion sein.
+
+889
+00:55:05,552 --> 00:55:08,555
+Ein letztes Mal.
+
+890
+00:55:08,638 --> 00:55:09,889
+[schreit]
+
+891
+00:55:15,770 --> 00:55:18,606
+[Herzfrequenzmesser piept schnell]
+
+892
+00:55:20,066 --> 00:55:21,067
+Hab dich.
+
+893
+00:55:21,151 --> 00:55:22,777
+[japst]
+
+894
+00:55:22,861 --> 00:55:25,655
+Will. Will, ist ja gut. Ist ja gut.
+
+895
+00:55:25,739 --> 00:55:27,532
+Ich bin hier. Ich bin hier.
+
+896
+00:55:27,615 --> 00:55:28,825
+El…
+
+897
+00:55:28,908 --> 00:55:32,412
+Ich bin's. Ich bin's.
+Ich bin hier und bring dich nach Hause.
+
+898
+00:55:32,495 --> 00:55:35,623
+Ich wollte ihn aufhalten,
+aber ich hab's nicht geschafft.
+
+899
+00:55:35,707 --> 00:55:36,708
+Er hat's gesehen.
+
+900
+00:55:36,791 --> 00:55:39,002
+Er hat's gesehen? Was hat er gesehen?
+
+901
+00:55:39,753 --> 00:55:40,628
+Max.
+
+902
+00:55:41,838 --> 00:55:43,381
+Er weiß, wo sie jetzt ist.
+
+903
+00:55:44,049 --> 00:55:46,176
+Und er hat sie auf sie gehetzt.
+
+904
+00:55:46,676 --> 00:55:49,387
+Sie kommen, um sie zu holen. In Hawkins.
+
+905
+00:55:49,471 --> 00:55:51,389
+[dramatische Musik]
+
+906
+00:55:52,140 --> 00:55:53,266
+[schnappt nach Luft]
+
+907
+00:55:53,350 --> 00:55:55,310
+-El! Alles okay?
+-El, was ist passiert?
+
+908
+00:55:55,977 --> 00:55:57,228
+El, was ist lost?
+
+909
+00:55:57,312 --> 00:55:59,314
+-[Elf] Geht es ihm gut?
+-Ja.
+
+910
+00:55:59,397 --> 00:56:03,610
+Vecna ist auf dem Weg zu Max.
+Wir müssen ins Krankenhaus fahren.
+
+911
+00:56:03,693 --> 00:56:04,569
+Jetzt sofort.
+
+912
+00:56:04,652 --> 00:56:07,864
+-Hey! Sind Sie taub? Sie ist auf Entzug.
+-Ich bin nicht auf Entzug.
+
+913
+00:56:07,947 --> 00:56:11,284
+Sie wissen, was das heißt, oder?
+Sie muss in ein Krankenhaus.
+
+914
+00:56:11,368 --> 00:56:13,203
+Oh, sie ist in einem Krankenhaus!
+
+915
+00:56:13,286 --> 00:56:16,581
+Wir sind in Hawkins, Süße.
+Ist nicht unser erster Junkie.
+
+916
+00:56:16,664 --> 00:56:17,916
+[elektrisches Surren]
+
+917
+00:56:21,419 --> 00:56:23,546
+Stromausfall im Krankenhaus.
+
+918
+00:56:23,630 --> 00:56:26,132
+Nicht gut für die alten Leute.
+Nicht unser Problem.
+
+919
+00:56:26,216 --> 00:56:27,884
+Wir müssen sie evakuieren.
+
+920
+00:56:27,967 --> 00:56:30,678
+Einen Scheißdreck müssen wir.
+Weiter geht's, Junkie.
+
+921
+00:56:30,762 --> 00:56:32,305
+Nein, ich bin kein Junkie!
+
+922
+00:56:32,389 --> 00:56:36,476
+Und wenn wir sie hier nicht rausholen,
+sind diese Leute auch gleich alle tot.
+
+923
+00:56:36,559 --> 00:56:39,354
+Es gibt nichts
+auf dieser gottverdammten Erde,
+
+924
+00:56:39,437 --> 00:56:42,023
+was Sie davor bewahrt,
+in den Knast zu wandern.
+
+925
+00:56:42,107 --> 00:56:44,317
+Also sparen Sie sich Ihr Junkiegelaber.
+
+926
+00:56:44,401 --> 00:56:46,569
+-[Demogorgon brüllt]
+-[Vickie kreischt]
+
+927
+00:56:48,988 --> 00:56:50,240
+[Soldat] Scheiße!
+
+928
+00:56:50,323 --> 00:56:51,408
+[Soldat ächzt]
+
+929
+00:56:52,867 --> 00:56:55,120
+-[Robin schreit]
+-[Demogorgon brüllt]
+
+930
+00:56:56,162 --> 00:56:57,330
+[schreit]
+
+931
+00:57:09,259 --> 00:57:10,301
+[sie schreien]
+
+932
+00:57:13,513 --> 00:57:16,099
+-Sie wollen nichts von uns.
+-Hm? Was?
+
+933
+00:57:16,182 --> 00:57:19,185
+Von uns wollen sie gar nichts.
+Kennst du noch einen Ausgang?
+
+934
+00:57:19,269 --> 00:57:22,272
+Äh, im Keller. Im Keller!
+Da geht's zum Parkplatz.
+
+935
+00:57:24,232 --> 00:57:27,277
+Okay. Komm schon, Lucas.
+Bitte nimm ab. Nimm ab. Nimm ab.
+
+936
+00:57:27,360 --> 00:57:29,362
+[Telefon klingelt]
+
+937
+00:57:30,280 --> 00:57:31,990
+Nimm ab! Was machst du?
+
+938
+00:57:32,073 --> 00:57:33,324
+-Verstehen die uns?
+-Nein.
+
+939
+00:57:33,408 --> 00:57:35,827
+-Dann muss es kein Privatgespräch sein.
+-Was? Okay.
+
+940
+00:57:35,910 --> 00:57:38,621
+Lucas, hier ist Robin.
+Ein Demo ist auf dem Weg zu euch.
+
+941
+00:57:38,705 --> 00:57:40,874
+Kannst du mich hören?
+Ein Demo ist auf dem Weg zu euch.
+
+942
+00:57:40,957 --> 00:57:42,167
+Du musst Max da rausholen.
+
+943
+00:57:42,250 --> 00:57:45,253
+Nimm den Fahrstuhl am Treppenhaus.
+Wir treffen uns im Keller.
+
+944
+00:57:45,336 --> 00:57:47,547
+[elektrisches Surren und Knistern]
+
+945
+00:57:58,850 --> 00:58:00,393
+[brüllt]
+
+946
+00:58:00,477 --> 00:58:03,271
+[Kassettenrekorder
+spielt weiter "Running up that Hill"]
+
+947
+00:58:11,613 --> 00:58:13,281
+Komm schon. Na komm.
+
+948
+00:58:15,116 --> 00:58:16,201
+[Aufzug klingelt]
+
+949
+00:58:22,415 --> 00:58:23,625
+Scheiße! Scheiße!
+
+950
+00:58:24,751 --> 00:58:26,920
+Scheiße! Mach schon!
+
+951
+00:58:29,923 --> 00:58:31,758
+[Demogorgon brüllt]
+
+952
+00:58:31,841 --> 00:58:33,843
+[packende Musik]
+
+953
+00:58:44,521 --> 00:58:46,064
+So ein verdammter Mist!
+
+954
+00:58:46,147 --> 00:58:47,649
+[ächzt angestrengt]
+
+955
+00:58:47,732 --> 00:58:51,277
+Er bewegt sich nicht.
+Wir müssen's so versuchen, okay?
+
+956
+00:58:51,361 --> 00:58:52,362
+Los, komm.
+
+957
+00:58:54,030 --> 00:58:56,032
+[Holly ächzt angestrengt]
+
+958
+00:58:57,617 --> 00:58:58,493
+Bist du durch?
+
+959
+00:58:58,576 --> 00:59:00,537
+-Ja, hab's geschafft.
+-Okay.
+
+960
+00:59:04,290 --> 00:59:06,918
+-Los, nimm meine Hand. Mach schon, okay?
+-Okay.
+
+961
+00:59:09,963 --> 00:59:10,797
+[schreit]
+
+962
+00:59:10,880 --> 00:59:12,632
+[ächzt vor Schmerz]
+
+963
+00:59:23,268 --> 00:59:25,228
+[Aufzug klingelt]
+
+964
+00:59:25,895 --> 00:59:28,147
+[Lucas ächzt angestrengt]
+
+965
+00:59:30,733 --> 00:59:33,486
+-[Lucas] Scheiße! Geht! Sie kommen!
+-[Robin] Gott sei Dank.
+
+966
+00:59:33,570 --> 00:59:36,072
+-[Vickie] Hier lang!
+-[Demogorgon brüllt]
+
+967
+00:59:36,155 --> 00:59:37,865
+-[Lucas] Was ist los?
+-[Vickie] Robin!
+
+968
+00:59:37,949 --> 00:59:38,992
+[Brüllen]
+
+969
+00:59:39,075 --> 00:59:42,829
+-[Lucas] Wie konnten die uns finden?
+-[Robin] Keine Ahnung, wir müssen weg!
+
+970
+00:59:42,912 --> 00:59:45,373
+-[Lucas] Okay.
+-[Robin] Kommt! Beeilung!
+
+971
+00:59:45,456 --> 00:59:48,459
+[Robin] Los, kommt.
+Mach die Tür zu! Mach die Tür zu!
+
+972
+00:59:49,210 --> 00:59:50,587
+[Demogorgon brüllt]
+
+973
+00:59:50,670 --> 00:59:53,548
+-[Lucas] Scheiße!
+-[Robin] Los, weiter, wir müssen weiter.
+
+974
+00:59:53,631 --> 00:59:56,551
+-[Robin] Los, kommt. Wir müssen weiter!
+-[Lucas] Verdammt.
+
+975
+00:59:57,802 --> 00:59:59,887
+[Lucas] Die Tür, öffnet die Tür!
+
+976
+00:59:59,971 --> 01:00:01,347
+[Vickie] Nein…
+
+977
+01:00:01,431 --> 01:00:03,141
+[lautes Poltern]
+
+978
+01:00:05,393 --> 01:00:07,770
+Scheiße. Los, da lang.
+Kommt, kommt, kommt.
+
+979
+01:00:07,854 --> 01:00:10,315
+-Runter! Runter!
+-[Vickie] Runter! Runter!
+
+980
+01:00:10,398 --> 01:00:12,859
+[Kassettenrekorder spielt weiter
+"Running up that Hill"]
+
+981
+01:00:12,942 --> 01:00:14,652
+[Poltern]
+
+982
+01:00:18,072 --> 01:00:20,783
+Es tut mir leid.
+Ich dachte echt, du wärst 'n Junkie.
+
+983
+01:00:21,951 --> 01:00:22,952
+Und mir tut's leid,
+
+984
+01:00:23,036 --> 01:00:26,623
+dass ich dich so wirklich
+unverschämt lange hingehalten hab.
+
+985
+01:00:27,123 --> 01:00:30,710
+Nur, dass du's weißt,
+was Enzo's angeht, hab ich nicht gelogen.
+
+986
+01:00:30,793 --> 01:00:33,046
+Sollten wir das
+auf wundersame Weise überleben,
+
+987
+01:00:33,129 --> 01:00:35,173
+werde ich dich dahin ausführen.
+
+988
+01:00:35,840 --> 01:00:39,552
+Und dann ist Zeit für Dessert, alles klar?
+
+989
+01:00:47,560 --> 01:00:49,604
+[Poltern]
+
+990
+01:00:53,024 --> 01:00:54,901
+[brüllen]
+
+991
+01:00:56,194 --> 01:00:58,363
+[schnattern]
+
+992
+01:00:58,446 --> 01:01:02,241
+[Kassettenrekorder spielt weiter
+"Running up that Hill"]
+
+993
+01:01:04,952 --> 01:01:06,704
+[flüstert] Wir müssen das ausschalten.
+
+994
+01:01:06,788 --> 01:01:10,291
+Das geht nicht. Das geht nicht.
+Nein. Nein. Max kommt zurück.
+
+995
+01:01:11,000 --> 01:01:12,460
+Wir müssen.
+
+996
+01:01:13,044 --> 01:01:14,337
+Sie kommt zurück.
+
+997
+01:01:15,838 --> 01:01:17,465
+Max, komm schon!
+
+998
+01:01:17,548 --> 01:01:19,676
+[ächzt angestrengt]
+
+999
+01:01:20,885 --> 01:01:21,886
+[Holly] Alles okay?
+
+1000
+01:01:24,013 --> 01:01:25,014
+Geh.
+
+1001
+01:01:35,692 --> 01:01:36,734
+Okay.
+
+1002
+01:01:37,610 --> 01:01:38,778
+[Donnergrollen]
+
+1003
+01:01:40,697 --> 01:01:42,740
+Bereit, nach Hause zu gehen, Tourist?
+
+1004
+01:01:45,118 --> 01:01:46,035
+Ja.
+
+1005
+01:01:46,119 --> 01:01:49,288
+-[weiter "Running up that Hill"]
+-[darüber spannungsvolle Musik]
+
+1006
+01:01:59,340 --> 01:02:01,342
+[sanftes Knurren]
+
+1007
+01:02:06,305 --> 01:02:09,183
+[Kassettenrekorder
+spielt weiter "Running Up That Hill"]
+
+1008
+01:02:10,226 --> 01:02:12,228
+[Demogorgons knurren und schnattern]
+
+1009
+01:02:20,319 --> 01:02:22,363
+[dunkle, spannungsvolle Musik]
+
+1010
+01:02:23,614 --> 01:02:25,241
+[knurrt]
+
+1011
+01:02:30,538 --> 01:02:32,582
+[sie atmen nervös]
+
+1012
+01:02:40,506 --> 01:02:42,550
+[Musik steigt an]
+
+1013
+01:02:43,259 --> 01:02:44,260
+[Demogorgon schreit]
+
+1014
+01:02:46,512 --> 01:02:48,431
+[Buzzer ertönt]
+
+1015
+01:02:51,392 --> 01:02:52,727
+[Metall scheppert]
+
+1016
+01:03:05,031 --> 01:03:07,033
+[neugieriges Knurren]
+
+1017
+01:03:14,540 --> 01:03:17,376
+SAUERSTOFF
+ENTFLAMMBAR
+
+1018
+01:03:17,460 --> 01:03:19,587
+TROCKENTEMPERATUR
+HEISS
+
+1019
+01:03:19,670 --> 01:03:21,047
+[verwirrtes Knurren]
+
+1020
+01:03:22,673 --> 01:03:24,675
+[Robin und Vickie ächzen]
+
+1021
+01:03:31,265 --> 01:03:33,392
+-[Robin ächzt]
+-[Lampe pendelt quietschend]
+
+1022
+01:03:37,396 --> 01:03:39,398
+[hoffnungsvolle Musik]
+
+1023
+01:03:49,784 --> 01:03:51,786
+[sie ächzt laut vor Schmerz]
+
+1024
+01:03:57,166 --> 01:03:59,168
+[Musik verklingt]
+
+1025
+01:04:02,547 --> 01:04:04,131
+[Donnergrollen]
+
+1026
+01:04:08,386 --> 01:04:10,555
+["Running up that Hill"
+spielt in der Ferne]
+
+1027
+01:04:25,695 --> 01:04:26,904
+Lucas.
+
+1028
+01:04:26,988 --> 01:04:29,031
+[sanfte, melancholische Musik]
+
+1029
+01:04:33,452 --> 01:04:35,246
+Holly, warte.
+
+1030
+01:04:37,248 --> 01:04:41,252
+-Du kannst nicht mit mir kommen.
+-Was? W… Wie meinst du das?
+
+1031
+01:04:41,335 --> 01:04:42,837
+Dieser Weg führt zu mir.
+
+1032
+01:04:43,462 --> 01:04:48,050
+In meinen Körper. Nicht in deinen.
+Du musst deinen eigenen Weg finden.
+
+1033
+01:04:48,134 --> 01:04:51,679
+Wie? Ich hab keine Kate Bush.
+Ich weiß nicht mal, wer Kate Bush ist.
+
+1034
+01:04:51,762 --> 01:04:53,764
+Du brauchst keine Kate Bush,
+um hier rauszukommen.
+
+1035
+01:04:53,848 --> 01:04:55,766
+Und ich brauch sie auch nicht.
+
+1036
+01:04:55,850 --> 01:04:58,144
+Musik ist nicht der einzige Weg zurück.
+
+1037
+01:04:58,686 --> 01:05:01,856
+Du brauchst nur etwas,
+was dich mit der realen Welt verbindet,
+
+1038
+01:05:01,939 --> 01:05:03,649
+deinem Zuhause.
+
+1039
+01:05:03,733 --> 01:05:07,486
+Etwas,
+was eine große Bedeutung für dich hat.
+
+1040
+01:05:07,570 --> 01:05:10,156
+Wie Lucas, als er meine Hand gehalten hat,
+
+1041
+01:05:10,239 --> 01:05:11,198
+im Krankenhaus.
+
+1042
+01:05:12,158 --> 01:05:14,952
+Das konnte ich spüren. Genau hier.
+
+1043
+01:05:16,120 --> 01:05:18,581
+Und gleichzeitig
+hatte ich das Gefühl hier drin.
+
+1044
+01:05:19,248 --> 01:05:20,875
+Aber ich hab noch keinen Freund.
+
+1045
+01:05:20,958 --> 01:05:22,418
+Du brauchst keinen Freund.
+
+1046
+01:05:22,501 --> 01:05:24,420
+Es sollte nur etwas sein,
+was dir wichtig ist.
+
+1047
+01:05:24,503 --> 01:05:27,548
+Oder etwas,
+was dir ein Gefühl von Sicherheit gibt.
+
+1048
+01:05:27,632 --> 01:05:30,134
+Etwas, was dich stark macht.
+
+1049
+01:05:30,217 --> 01:05:31,677
+Etwas, was dir Hoffnung gibt.
+
+1050
+01:05:32,261 --> 01:05:33,471
+Holly die Heldenhafte.
+
+1051
+01:05:33,554 --> 01:05:35,306
+Sie steckt in dir, hier und jetzt.
+
+1052
+01:05:36,432 --> 01:05:38,768
+Aber sie steckt auch
+in der realen Welt in dir.
+
+1053
+01:05:38,851 --> 01:05:40,144
+Egal, wo du bist.
+
+1054
+01:05:40,227 --> 01:05:42,772
+Sie zeigt dir, wie du nach Hause kommst.
+
+1055
+01:05:42,855 --> 01:05:43,940
+Wie?
+
+1056
+01:05:44,690 --> 01:05:49,612
+Versuch, dich einfach zu erinnern,
+was dir an ihr so wichtig ist.
+
+1057
+01:05:50,571 --> 01:05:52,865
+Sie ist gar nicht wichtig für mich.
+
+1058
+01:05:55,076 --> 01:05:56,369
+Sie ist nur ein Anhänger.
+
+1059
+01:05:57,328 --> 01:06:00,331
+Wenn sie nur ein Anhänger ist,
+warum trägst du sie bei dir?
+
+1060
+01:06:00,414 --> 01:06:01,582
+Mike.
+
+1061
+01:06:01,666 --> 01:06:02,541
+Er hat gesagt,
+
+1062
+01:06:02,625 --> 01:06:05,461
+sie hätte so was wie göttliche Kräfte
+und auch nie Angst,
+
+1063
+01:06:05,544 --> 01:06:09,632
+und wenn ich mich je fürchten sollte,
+dann könnte ich werden wie sie.
+
+1064
+01:06:09,715 --> 01:06:13,427
+Ich hab's immer wieder versucht,
+aber es hat nie funktioniert.
+
+1065
+01:06:15,304 --> 01:06:17,473
+Egal was ich tue, ich bin immer ich.
+
+1066
+01:06:19,600 --> 01:06:22,186
+Ein Kind,
+das ohne Nachtlicht nicht schlafen kann.
+
+1067
+01:06:22,269 --> 01:06:25,439
+Als meine Mom angegriffen wurde,
+konnte ich sie nicht retten.
+
+1068
+01:06:25,523 --> 01:06:26,691
+Nicht mal mich selbst.
+
+1069
+01:06:27,441 --> 01:06:28,359
+Holly, lauf weg!
+
+1070
+01:06:29,610 --> 01:06:31,529
+Ich stand nur da.
+
+1071
+01:06:31,612 --> 01:06:33,531
+Und als Henry dann auf dich losging…
+
+1072
+01:06:34,198 --> 01:06:35,408
+Stopp!
+
+1073
+01:06:35,908 --> 01:06:38,411
+…stand ich wieder nur da. Verstehst du?
+
+1074
+01:06:38,494 --> 01:06:40,746
+Und nichts ist heldenhaft daran.
+
+1075
+01:06:40,830 --> 01:06:44,208
+Weil du nichts hättest tun können
+in diesen Momenten, Holly.
+
+1076
+01:06:44,291 --> 01:06:47,378
+Du bist eine Wheeler. Du bist clever.
+
+1077
+01:06:47,878 --> 01:06:48,879
+Denkst du ernsthaft,
+
+1078
+01:06:48,963 --> 01:06:51,716
+du hättest diese Monster
+mit einem Feuerhaken gestoppt?
+
+1079
+01:06:52,383 --> 01:06:54,885
+Und ein paar wichtige Dinge
+hast du ausgelassen.
+
+1080
+01:06:54,969 --> 01:06:57,805
+Als wir uns begegnet sind,
+bist du in den Wald gegangen,
+
+1081
+01:06:57,888 --> 01:07:00,558
+obwohl dir Henry erzählt hat,
+dass da Monster sind.
+
+1082
+01:07:00,641 --> 01:07:03,102
+Und dann bist du mir in die Höhle gefolgt,
+
+1083
+01:07:03,185 --> 01:07:05,688
+obwohl du keinen Grund hattest,
+mir zu vertrauen.
+
+1084
+01:07:05,771 --> 01:07:08,899
+Und als ich dir sagte,
+du musst zurück zu Henry,
+
+1085
+01:07:08,983 --> 01:07:11,861
+dich wieder der Gefahr aussetzen,
+hast du nicht gezögert.
+
+1086
+01:07:11,944 --> 01:07:13,154
+Und auch heute.
+
+1087
+01:07:13,237 --> 01:07:15,823
+Ich wollte schon aufgeben,
+du dagegen nicht.
+
+1088
+01:07:17,366 --> 01:07:19,910
+[weinend]
+Ich war hier so lange gefangen, Holly.
+
+1089
+01:07:20,995 --> 01:07:22,121
+So lange.
+
+1090
+01:07:24,040 --> 01:07:26,292
+Und ich hab's nie geschafft zu fliehen.
+
+1091
+01:07:27,793 --> 01:07:28,836
+Aber du…
+
+1092
+01:07:30,046 --> 01:07:32,381
+Du wusstest,
+wie wir entkommen von Camazotz.
+
+1093
+01:07:32,465 --> 01:07:36,927
+Nur deinetwegen
+kann ich meine Freunde wiedersehen.
+
+1094
+01:07:37,887 --> 01:07:39,638
+Ich kann Lucas wiedersehen.
+
+1095
+01:07:41,182 --> 01:07:43,684
+Du hast mich gerettet, Holly Wheeler.
+
+1096
+01:07:44,894 --> 01:07:46,062
+Du hast mich gerettet.
+
+1097
+01:07:48,189 --> 01:07:49,440
+Du siehst also,
+
+1098
+01:07:49,523 --> 01:07:52,902
+Holly die Heldenhafte
+ist nicht nur ein Anhänger.
+
+1099
+01:07:54,320 --> 01:07:56,030
+Sie steckt in dir, Holly.
+
+1100
+01:07:57,573 --> 01:07:58,699
+Sie steckt in dir.
+
+1101
+01:07:58,783 --> 01:08:00,743
+[schluchzt]
+
+1102
+01:08:00,826 --> 01:08:02,369
+[gefühlvolle Musik]
+
+1103
+01:08:03,662 --> 01:08:05,748
+[zischendes Rauschen]
+
+1104
+01:08:18,469 --> 01:08:20,513
+Woher wusstest du, dass das funktioniert?
+
+1105
+01:08:22,264 --> 01:08:23,724
+Ich wusste es nicht. [lacht]
+
+1106
+01:08:26,060 --> 01:08:30,481
+Du hast noch eine lange Reise vor dir.
+Ich weiß nicht, wann du wieder aufwachst.
+
+1107
+01:08:30,564 --> 01:08:32,691
+Aber Vecna hält dich
+auf der anderen Seite fest.
+
+1108
+01:08:32,775 --> 01:08:36,946
+Und vergiss nicht,
+die andere Seite ist genau wie Hawkins.
+
+1109
+01:08:37,029 --> 01:08:40,032
+Also such den Weg zurück in dein Haus
+und versteck dich dort.
+
+1110
+01:08:40,116 --> 01:08:42,701
+Wir kommen und finden dich. Okay?
+
+1111
+01:08:42,785 --> 01:08:44,787
+[Musik steigt an]
+
+1112
+01:08:53,796 --> 01:08:56,006
+[sie schluchzen]
+
+1113
+01:08:58,467 --> 01:09:00,219
+Ich seh dich auf der anderen Seite.
+
+1114
+01:09:00,803 --> 01:09:02,221
+Auf der anderen Seite.
+
+1115
+01:09:04,014 --> 01:09:06,016
+[Musik steigt weiter an]
+
+1116
+01:09:27,288 --> 01:09:29,874
+[Musik: "Running Up That Hill"
+von Kate Bush]
+
+1117
+01:09:52,313 --> 01:09:54,315
+[Musik verklingt]
+
+1118
+01:09:54,857 --> 01:09:56,942
+[Herzfrequenzmesser piept gleichmäßig]
+
+1119
+01:09:59,069 --> 01:10:01,488
+[sanfte, melancholische Musik]
+
+1120
+01:12:27,676 --> 01:12:29,136
+[Musik verklingt]
+

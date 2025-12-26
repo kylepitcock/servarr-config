@@ -1,0 +1,141 @@
+1
+00:00:58,166 --> 00:00:59,791
+I'm gonna die here.
+
+2
+00:02:28,208 --> 00:02:29,291
+Shit.
+
+3
+00:02:29,791 --> 00:02:32,041
+Man, looks like we both had a rough landing.
+
+4
+00:03:08,750 --> 00:03:10,999
+<i>Life Hutch, activated.</i>
+
+5
+00:03:11,083 --> 00:03:13,208
+<i>Warning, damage detected.</i>
+
+6
+00:03:23,125 --> 00:03:26,041
+<i>Communication network, functional.</i>
+
+7
+00:03:29,750 --> 00:03:31,291
+<i>Maintenance robotics...</i>
+
+8
+00:03:35,583 --> 00:03:36,541
+<i>Error.</i>
+
+9
+00:03:36,625 --> 00:03:38,082
+Piece of shit.
+
+10
+00:03:38,166 --> 00:03:41,625
+<i>Maintenance robotics, error.</i>
+
+11
+00:03:45,666 --> 00:03:49,041
+<i>Maintenance robotics, malfunction.</i>
+
+12
+00:03:49,625 --> 00:03:50,458
+Wait!
+
+13
+00:03:53,750 --> 00:03:56,916
+Stop! Hold on! Halt program!
+
+14
+00:03:57,833 --> 00:03:59,333
+Halt program!
+
+15
+00:04:00,375 --> 00:04:01,999
+<i>Unable to comply.</i>
+
+16
+00:04:54,666 --> 00:04:56,582
+<i>Prometheus CVW2.</i>
+
+17
+00:04:56,666 --> 00:04:59,416
+<i>ECMs are online. You are clear to engage.</i>
+
+18
+00:04:59,500 --> 00:05:00,791
+<i>Nova 6, en route.</i>
+
+19
+00:05:00,875 --> 00:05:02,291
+<i>Nova 9, en route.</i>
+
+20
+00:05:02,375 --> 00:05:03,457
+Nova 4, en route.
+
+21
+00:05:03,541 --> 00:05:05,999
+<i>Acknowledged, you are go for weapons hot.</i>
+
+22
+00:05:06,083 --> 00:05:08,041
+Copy that. Going hot.
+
+23
+00:05:08,125 --> 00:05:11,125
+Payload is Divine Flash 12 Judgment two.
+
+24
+00:05:12,250 --> 00:05:13,999
+Armed and ready to hunt.
+
+25
+00:05:14,083 --> 00:05:18,333
+<i>Nova Squadron line up,
+echelon formation. Hit them fast and hard.</i>
+
+26
+00:07:01,625 --> 00:07:05,208
+<i>731, 731, hostile fire incoming!</i>
+
+27
+00:07:08,750 --> 00:07:10,375
+We lost Rocket one!
+
+28
+00:07:15,416 --> 00:07:16,291
+Firing!
+
+29
+00:07:17,166 --> 00:07:19,291
+Come on, come on. Come on.
+
+30
+00:10:14,500 --> 00:10:16,124
+<i>Mayday message received.</i>
+
+31
+00:10:16,208 --> 00:10:21,749
+<i>Life Hutch 817-RD9G. Rescue inbound.</i>
+
+32
+00:10:26,875 --> 00:10:30,250
+<i>Warning: maintenance robot malfunction.</i>
+
+33
+00:10:32,333 --> 00:10:35,624
+<i>Warning: maintenance robot malfunction.</i>
+
+34
+00:10:35,708 --> 00:10:37,125
+No shit.
+
+35
+00:10:38,000 --> 00:10:41,291
+<i>Warning: maintenance robot malfunction.</i>
+

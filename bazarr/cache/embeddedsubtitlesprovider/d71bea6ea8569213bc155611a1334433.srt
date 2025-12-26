@@ -1,0 +1,202 @@
+1
+00:00:07,125 --> 00:00:08,625
+‎UN SERIAL ORIGINAL NETFLIX
+
+2
+00:00:26,875 --> 00:00:30,458
+‎SALVAREA
+
+3
+00:00:58,166 --> 00:00:59,791
+‎O să mor aici.
+
+4
+00:01:47,958 --> 00:01:49,708
+‎AVERTIZARE NIVEL OXIGEN
+‎CĂUTAȚI ADĂPOST
+
+5
+00:01:51,666 --> 00:01:53,250
+‎STARE: OFFLINE
+‎15,42 KM
+
+6
+00:02:14,125 --> 00:02:15,000
+‎NIVEL OXIGEN
+‎CRITIC
+
+7
+00:02:15,083 --> 00:02:15,916
+‎ACTIVAȚI
+
+8
+00:02:16,000 --> 00:02:16,833
+‎SE ACTIVEAZĂ
+
+9
+00:02:28,208 --> 00:02:29,291
+‎La naiba!
+
+10
+00:02:29,791 --> 00:02:32,041
+‎Frate, se pare că amândoi
+‎am aterizat greu.
+
+11
+00:03:02,291 --> 00:03:04,416
+‎BUN VENIT ÎN CAPSULA VITALĂ
+‎817-RD9G
+
+12
+00:03:08,750 --> 00:03:11,000
+<i>‎Capsulă vitală activată.</i>
+
+13
+00:03:11,083 --> 00:03:13,208
+<i>‎Avertizare de defecțiune.</i>
+
+14
+00:03:23,125 --> 00:03:25,416
+<i>‎Rețea de comunicații, funcțională.</i>
+
+15
+00:03:25,500 --> 00:03:26,500
+‎SEMNAL SOS
+‎SE TRANSMITE
+
+16
+00:03:29,750 --> 00:03:31,291
+<i>‎Robot de mentenanță...</i>
+
+17
+00:03:35,583 --> 00:03:36,541
+<i>‎eroare.</i>
+
+18
+00:03:36,625 --> 00:03:38,083
+‎Porcăria naibii!
+
+19
+00:03:38,166 --> 00:03:41,625
+<i>‎Robot de mentenanță, eroare.</i>
+
+20
+00:03:45,666 --> 00:03:49,041
+<i>‎Robot de mentenanță, defecțiune.</i>
+
+21
+00:03:49,625 --> 00:03:50,458
+‎Stai!
+
+22
+00:03:54,625 --> 00:03:56,916
+‎Oprește! Oprește programul!
+
+23
+00:03:57,833 --> 00:03:59,333
+‎Oprește programul!
+
+24
+00:04:00,375 --> 00:04:02,000
+<i>‎Comandă imposibil de executat.</i>
+
+25
+00:04:50,875 --> 00:04:52,583
+‎PERICOL
+‎ÎN RAZA ARMELOR INAMICE
+
+26
+00:04:54,666 --> 00:04:56,583
+<i>‎Prometheus CVW2.</i>
+
+27
+00:04:56,666 --> 00:04:59,416
+<i>‎Armament activ, puteți ataca.</i>
+
+28
+00:04:59,500 --> 00:05:00,791
+<i>‎Nova 6, pe drum.</i>
+
+29
+00:05:00,875 --> 00:05:02,291
+<i>‎Nova 9, pe drum.</i>
+
+30
+00:05:02,375 --> 00:05:03,458
+‎Nova 4, pe drum.
+
+31
+00:05:03,541 --> 00:05:06,000
+<i>‎Recepționat. Armamentul e pregătit.</i>
+
+32
+00:05:06,083 --> 00:05:08,041
+‎Recepționat, ne apropiem.
+
+33
+00:05:08,125 --> 00:05:11,125
+‎Armez Divine Flash 12, Judgment 2.
+
+34
+00:05:12,250 --> 00:05:14,000
+‎Armat și gata de vânătoare.
+
+35
+00:05:14,083 --> 00:05:18,333
+<i>‎Escadrila Nova, în formație.
+‎Loviți în plin și rapid.</i>
+
+36
+00:07:01,625 --> 00:07:05,208
+<i>‎731, 731, foc inamic.</i>
+
+37
+00:07:08,750 --> 00:07:10,375
+‎Am pierdut Rocket 1!
+
+38
+00:07:15,416 --> 00:07:16,291
+‎Foc!
+
+39
+00:07:17,166 --> 00:07:19,291
+‎Hai, haide, hai!
+
+40
+00:07:27,333 --> 00:07:29,500
+‎OPRIRE DE URGENȚĂ
+
+41
+00:09:59,875 --> 00:10:02,500
+‎SEMNAL SOS
+‎SE AȘTEAPTĂ TRANSMITEREA
+
+42
+00:10:14,500 --> 00:10:16,125
+<i>‎Mesaj SOS recepționat.</i>
+
+43
+00:10:16,208 --> 00:10:21,750
+<i>‎Capsula vitală 817-RD9G.
+‎Misiune de salvare pe drum.</i>
+
+44
+00:10:26,875 --> 00:10:30,250
+<i>‎Avertizare: robot de întreținere defect.</i>
+
+45
+00:10:32,333 --> 00:10:35,625
+<i>‎Avertizare: robot de întreținere defect.</i>
+
+46
+00:10:35,708 --> 00:10:37,125
+‎Serios, acum!
+
+47
+00:10:38,000 --> 00:10:41,291
+<i>‎Avertizare: robot de întreținere defect.</i>
+
+48
+00:12:03,083 --> 00:12:05,583
+‎Subtitrarea: Silvia Vițălaru
+

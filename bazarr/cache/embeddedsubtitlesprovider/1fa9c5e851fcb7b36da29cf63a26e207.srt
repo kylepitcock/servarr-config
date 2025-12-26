@@ -1,0 +1,202 @@
+1
+00:00:27,208 --> 00:00:30,458
+LA CABINA DI SOPRAVVIVENZA
+
+2
+00:00:58,166 --> 00:00:59,791
+Sto per morire.
+
+3
+00:01:47,875 --> 00:01:49,750
+OSSIGENO RIMANENTE
+LOCALIZZARE RIFUGIO
+
+4
+00:01:51,666 --> 00:01:53,250
+STATO: OFFLINE
+15,42 km
+
+5
+00:02:14,125 --> 00:02:15,000
+OSSIGENO CRITICO
+
+6
+00:02:15,083 --> 00:02:15,916
+ATTIVARE
+
+7
+00:02:16,000 --> 00:02:16,833
+ATTIVAZIONE...
+
+8
+00:02:28,208 --> 00:02:29,291
+Cavolo.
+
+9
+00:02:29,791 --> 00:02:32,041
+Abbiamo fatto entrambi
+un brusco atterraggio.
+
+10
+00:03:02,291 --> 00:03:04,416
+BENVENUTI NELLA CABINA
+DI SOPRAVVIVENZA
+
+11
+00:03:08,583 --> 00:03:11,000
+<i>Cabina di sopravvivenza, attivata.</i>
+
+12
+00:03:11,083 --> 00:03:13,208
+<i>Allarme, rilevato danno.</i>
+
+13
+00:03:23,125 --> 00:03:24,875
+<i>Rete di comunicazione, operativa.</i>
+
+14
+00:03:24,958 --> 00:03:26,500
+ATTESA TRASMISSIONE
+
+15
+00:03:29,666 --> 00:03:31,416
+<i>Robotica di manutenzione...</i>
+
+16
+00:03:35,583 --> 00:03:36,541
+<i>errore.</i>
+
+17
+00:03:36,625 --> 00:03:38,083
+Pezzo di merda.
+
+18
+00:03:38,166 --> 00:03:41,625
+<i>Robotica di manutenzione, errore.</i>
+
+19
+00:03:45,625 --> 00:03:48,791
+<i>Robotica di manutenzione, avaria.</i>
+
+20
+00:03:49,500 --> 00:03:50,458
+Ehi! Fermo!
+
+21
+00:03:53,208 --> 00:03:55,541
+No, basta! Smettila!
+
+22
+00:03:56,208 --> 00:03:59,333
+Arresta il programma!
+Arresta il programma!
+
+23
+00:04:00,291 --> 00:04:02,500
+<i>Impossibile eseguire il comando.</i>
+
+24
+00:04:50,875 --> 00:04:52,583
+ARMI NEMICHE IN AVVICINAMENTO
+
+25
+00:04:54,375 --> 00:04:56,500
+<i>Prometheus CVW2.</i>
+
+26
+00:04:56,583 --> 00:04:59,375
+<i>ECM in funzione.
+Avete l'autorizzazione ad attaccare.</i>
+
+27
+00:04:59,458 --> 00:05:02,291
+<i>- Nova 6 in rotta.
+- Nova 9 in rotta.</i>
+
+28
+00:05:02,375 --> 00:05:03,625
+Nova 4 in rotta.
+
+29
+00:05:03,708 --> 00:05:06,000
+<i>Ricevuto, pronti a fare fuoco.</i>
+
+30
+00:05:06,083 --> 00:05:08,041
+Ricevuto. Pronto al fuoco.
+
+31
+00:05:08,125 --> 00:05:11,000
+Carica esplosiva Divine Flash 12,
+Judgment 2.
+
+32
+00:05:12,250 --> 00:05:13,916
+Innescata e pronto alla caccia.
+
+33
+00:05:14,000 --> 00:05:16,750
+<i>Squadrone Nova, formazione in linea.</i>
+
+34
+00:05:16,833 --> 00:05:18,625
+<i>Colpite con forza e veloci.</i>
+
+35
+00:07:01,708 --> 00:07:04,333
+<i>7-3-1, 7-3-1!
+Fuoco ostile in arrivo!</i>
+
+36
+00:07:08,750 --> 00:07:10,541
+Abbiamo perso Rocket 1!
+
+37
+00:07:15,416 --> 00:07:16,291
+Fuoco!
+
+38
+00:07:17,250 --> 00:07:19,000
+Forza, forza, forza!
+
+39
+00:07:27,333 --> 00:07:28,833
+RITIRATA
+
+40
+00:09:59,875 --> 00:10:02,500
+SEGNALE DI SOCCORSO
+IN ATTESA DI TRASMISSIONE
+
+41
+00:10:14,416 --> 00:10:20,083
+<i>Messaggio di soccorso ricevuto.
+Cabina di Sopravvivenza 817-RD9G.</i>
+
+42
+00:10:20,166 --> 00:10:21,666
+<i>Soccorsi in arrivo.</i>
+
+43
+00:10:26,875 --> 00:10:30,250
+<i>Allarme: avaria nel robot di manutenzione.</i>
+
+44
+00:10:32,333 --> 00:10:35,416
+<i>Allarme: avaria nel robot di manutenzione.</i>
+
+45
+00:10:35,500 --> 00:10:37,916
+Puoi dirlo forte.
+
+46
+00:10:38,000 --> 00:10:41,291
+<i>Allarme: avaria nel robot di manutenzione.</i>
+
+e:
+avaria al robot di manutenzione.</i>
+
+48
+00:12:03,083 --> 00:12:05,583
+Sottotitoli: Alberto Ghè
+

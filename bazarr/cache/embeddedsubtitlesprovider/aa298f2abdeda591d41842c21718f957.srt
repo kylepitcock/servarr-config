@@ -1,0 +1,203 @@
+1
+00:00:26,958 --> 00:00:29,583
+KABIN PERLINDUNGAN
+
+2
+00:00:58,166 --> 00:00:59,583
+Aku akan mati.
+
+3
+00:01:46,375 --> 00:01:47,958
+TEMUKAN TEMPAT BERLINDUNG
+
+4
+00:01:48,041 --> 00:01:49,833
+PERINGATAN
+OKSIGEN TERSISA
+
+5
+00:01:51,666 --> 00:01:53,250
+STATUS: TIDAK TERHUBUNG
+
+6
+00:02:14,125 --> 00:02:14,958
+OKSIGEN KRITIS
+
+7
+00:02:15,041 --> 00:02:16,208
+AKTIFKAN
+
+8
+00:02:28,375 --> 00:02:32,041
+Sial. Pendaratan dia juga nggak mulus ya.
+
+9
+00:03:02,291 --> 00:03:04,416
+SELAMAT DATANG DI KABIN PERLINDUNGAN
+
+10
+00:03:08,875 --> 00:03:13,041
+Kabin Perlindungan:
+Aktif. Peringatan: Ada kerusakan.
+
+11
+00:03:13,125 --> 00:03:15,458
+Menjalankan sistem diagnosis.
+
+12
+00:03:18,541 --> 00:03:20,583
+Inti Fusi: Berfungsi.
+
+13
+00:03:23,125 --> 00:03:25,791
+{\an8}Jaringan komunikasi: Berfungsi.
+
+14
+00:03:29,875 --> 00:03:31,166
+Robot pemeliharaan...
+
+15
+00:03:35,791 --> 00:03:36,416
+Eror.
+
+16
+00:03:36,916 --> 00:03:38,083
+Ugh, enggak berguna.
+
+17
+00:03:38,666 --> 00:03:41,500
+Robot pemeliharaan: Eror.
+
+18
+00:03:45,791 --> 00:03:48,916
+Robot pemeliharaan: Malafungsi.
+
+19
+00:03:49,500 --> 00:03:50,458
+Tunggu!
+
+20
+00:03:54,500 --> 00:03:55,583
+Berhenti! Sebentar!
+
+21
+00:03:56,291 --> 00:03:58,916
+Hentikan program! Hentikan program!
+
+22
+00:04:00,541 --> 00:04:01,833
+{\an8}Tidak dapat mematuhi.
+
+23
+00:04:50,875 --> 00:04:52,583
+BAHAYA
+DALAM JANGKAUAN MUSUH
+
+24
+00:04:54,833 --> 00:04:58,083
+Prometheus Wing CBW2.
+Penangkal elektronik aktif,
+
+25
+00:04:58,166 --> 00:04:59,333
+silakan menyerang.
+
+26
+00:04:59,416 --> 00:05:00,375
+Nova 6, berangkat.
+
+27
+00:05:00,875 --> 00:05:02,291
+Nova 9, berangkat.
+
+28
+00:05:02,375 --> 00:05:03,375
+Nova 4, berangkat.
+
+29
+00:05:03,458 --> 00:05:06,000
+Dimengerti, kalian dipersilakan menyerang.
+
+30
+00:05:06,083 --> 00:05:06,750
+Dimengerti.
+
+31
+00:05:07,250 --> 00:05:11,708
+Menyerang.
+Muatan Divine Flash 12 Judgement 2.
+
+32
+00:05:11,791 --> 00:05:14,000
+{\an8}Siap untuk menyerang.
+
+33
+00:05:14,250 --> 00:05:18,125
+Skuadron Nova bersiap,
+formasi eselon. Serang dengan maksimal.
+
+34
+00:07:01,875 --> 00:07:04,333
+731, 731, musuh menyerang kita!
+
+35
+00:07:08,750 --> 00:07:10,250
+Rocket 1 gugur!
+
+36
+00:07:15,916 --> 00:07:16,708
+Tembak!
+
+37
+00:07:17,208 --> 00:07:19,291
+Ayo, ayo. Ayo.
+
+38
+00:07:27,333 --> 00:07:28,791
+MENYINGKIR
+
+39
+00:09:59,916 --> 00:10:02,500
+{\an8}SINYAL PENYELAMATAN
+MENUNGGU
+
+40
+00:10:14,458 --> 00:10:17,916
+Pesan darurat diterima.
+Kabin Perlindungan 817-RT9G.
+
+41
+00:10:18,000 --> 00:10:21,458
+Penyelamatan berlangsung.
+
+42
+00:10:27,083 --> 00:10:30,125
+Peringatan: Robot pemeliharaan malafungsi.
+
+43
+00:10:32,500 --> 00:10:35,416
+Peringatan: Robot pemeliharaan malafungsi.
+
+44
+00:10:35,500 --> 00:10:37,000
+Ya, aku tahu.
+
+45
+00:10:38,125 --> 00:10:41,000
+Peringatan: Robot pemeliharaan malafungsi.
+
+:35,625
+<i>Peringatan, malafungsi robot pemeliharaan.</i>
+
+46
+00:10:35,708 --> 00:10:37,125
+Jelas.
+
+47
+00:10:38,000 --> 00:10:41,291
+<i>Peringatan, malafungsi robot pemeliharaan.</i>
+
+48
+00:12:03,083 --> 00:12:05,583
+Terjemahan subtitle oleh Serina Rajagukguk
+

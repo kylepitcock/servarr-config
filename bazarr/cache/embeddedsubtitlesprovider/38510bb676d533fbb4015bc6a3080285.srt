@@ -1,0 +1,1784 @@
+1
+00:00:08,550 --> 00:00:12,262
+<font face="Serif" size="18"><i>And in weird things in space news,
+that mysterious "rift" is still there.</i></font>
+
+2
+00:00:12,346 --> 00:00:16,475
+<font face="Serif" size="18"><i>Not gone yet. You remember that, don't you?
+It's probably important. Back to you, Tabitha.</i></font>
+
+3
+00:00:16,558 --> 00:00:19,811
+<font face="Serif" size="18">Rick, Mom's working, and Dad's still sleeping.
+I'm gonna be late.</font>
+
+4
+00:00:19,895 --> 00:00:22,356
+<font face="Serif" size="18">Yeah, yeah. [burps] I got you. Here.</font>
+
+5
+00:00:22,439 --> 00:00:25,776
+<font face="Serif" size="18">- Holy shit. ls the portal gun working again?
+- Yeah, pretty much.</font>
+
+6
+00:00:26,652 --> 00:00:27,653
+<font face="Serif" size="18">[roaring]</font>
+
+7
+00:00:27,736 --> 00:00:29,279
+<font face="Serif" size="18">Sometimes that happens.</font>
+
+8
+00:00:32,533 --> 00:00:34,618
+<font face="Serif" size="18">Just get the keys.</font>
+
+9
+00:00:36,245 --> 00:00:39,081
+<font face="Serif" size="18">It's actually been nice taking a break
+from the portal travel stuff.</font>
+
+10
+00:00:39,164 --> 00:00:41,500
+<font face="Serif" size="18">I've been racking up a lot
+of high school adventures.</font>
+
+11
+00:00:41,583 --> 00:00:43,293
+<font face="Serif" size="18">I have a process, Morty.</font>
+
+12
+00:00:43,377 --> 00:00:46,922
+<font face="Serif" size="18">I'm fixing my portal gun, and every time
+you bring it up, it blocks my creative flow.</font>
+
+13
+00:00:47,005 --> 00:00:50,467
+<font face="Serif" size="18">And then I'm forced to take longer on purpose
+just to train you to not bring it up.</font>
+
+14
+00:00:50,551 --> 00:00:52,219
+<font face="Serif" size="18">Jeez. Do you know what "projection" is?</font>
+
+15
+00:00:52,302 --> 00:00:55,305
+<font face="Serif" size="18">- Do you?
+- No. I heard Mom use it.</font>
+
+16
+00:00:55,389 --> 00:00:56,473
+<font face="Serif" size="18">[school bell rings]</font>
+
+17
+00:00:56,557 --> 00:00:59,601
+<font face="Serif" size="18">Lord, no. He's here again?
+Morty protocol, children.</font>
+
+18
+00:00:59,685 --> 00:01:04,982
+<font face="Serif" size="18">Oh, what's it now? Brain bugs? Space worms?
+Have I been <i>The Faculty'd</i></font><font face="Serif" size="18"> again?</font>
+
+19
+00:01:05,065 --> 00:01:07,109
+<font face="Serif" size="18">You don't have to react like this every day.</font>
+
+20
+00:01:07,192 --> 00:01:10,487
+<font face="Serif" size="18">Last time, the aliens made me lick
+all the toilet seats.</font>
+
+21
+00:01:10,571 --> 00:01:13,282
+<font face="Serif" size="18">That's right, made me.
+I see that look on your faces.</font>
+
+22
+00:01:13,365 --> 00:01:14,408
+<font face="Serif" size="18">[building rumbling]</font>
+
+23
+00:01:14,491 --> 00:01:17,786
+<font face="Serif" size="18">- What did you do, you tiny monster?
+- This isn't me.</font>
+
+24
+00:01:25,043 --> 00:01:28,964
+<font face="Serif" size="18"><i>The people demand to know.
+Do these visitors come in peace?</i></font>
+
+25
+00:01:29,047 --> 00:01:33,260
+<font face="Serif" size="18"><i>But first, "Peter's Pizza Corner. "
+What slice we reviewing today, Petey?</i></font>
+
+26
+00:01:33,343 --> 00:01:34,428
+<font face="Serif" size="18"><i>Cheese.</i></font>
+
+27
+00:01:39,600 --> 00:01:43,228
+<font face="Serif" size="18">If these aliens want Earth,
+they'll have to go through Egypt.</font>
+
+28
+00:01:43,312 --> 00:01:45,856
+<font face="Serif" size="18">And they can ask mummies how that goes.</font>
+
+29
+00:01:48,609 --> 00:01:50,444
+<font face="Serif" size="18">Mummy mia!</font>
+
+30
+00:01:56,908 --> 00:01:58,869
+<font face="Serif" size="18">Dinosaurs are back?</font>
+
+31
+00:01:58,952 --> 00:02:01,038
+<font face="Serif" size="18">Monkeys went bald?</font>
+
+32
+00:02:01,580 --> 00:02:02,956
+<font face="Serif" size="18">[theme music playing]</font>
+
+33
+00:02:39,284 --> 00:02:43,288
+<font face="Serif" size="18">Before we start, where are the rest of us?</font>
+
+34
+00:02:43,997 --> 00:02:44,956
+<font face="Serif" size="18">Uh...</font>
+
+35
+00:02:45,040 --> 00:02:47,834
+<font face="Serif" size="18">They died. Long time ago.</font>
+
+36
+00:02:47,918 --> 00:02:50,796
+<font face="Serif" size="18">Way before us. We didn't see nothing.</font>
+
+37
+00:02:50,879 --> 00:02:54,549
+<font face="Serif" size="18">But surely our ancestors must have left
+some evidence behind.</font>
+
+38
+00:02:56,385 --> 00:02:57,469
+<font face="Serif" size="18">Why is he nervous?</font>
+
+39
+00:02:59,638 --> 00:03:03,350
+<font face="Serif" size="18">Because you're dinosaurs.</font>
+
+40
+00:03:03,433 --> 00:03:06,228
+<font face="Serif" size="18">It's weird. Thought you were dead.</font>
+
+41
+00:03:07,020 --> 00:03:11,775
+<font face="Serif" size="18">Moving on, we "dinosaurs"
+evolved here on Earth</font>
+
+42
+00:03:11,858 --> 00:03:14,695
+<font face="Serif" size="18">until our technology was Planetarily harmonic.</font>
+
+43
+00:03:14,778 --> 00:03:17,739
+<font face="Serif" size="18">That being the goal with technology.</font>
+
+44
+00:03:18,532 --> 00:03:21,159
+<font face="Serif" size="18">After we achieved perfect balance
+with Mother Earth,</font>
+
+45
+00:03:21,243 --> 00:03:24,496
+<font face="Serif" size="18">our best and bravest left to help other planets.</font>
+
+46
+00:03:24,579 --> 00:03:28,542
+<font face="Serif" size="18"><i>Over millions of years, we've called
+many worlds home and helped each one flourish.</i></font>
+
+47
+00:03:28,625 --> 00:03:33,171
+<font face="Serif" size="18"><i>Imagine our surprise upon returning home
+to find our species extinct</i></font>
+
+48
+00:03:33,255 --> 00:03:35,632
+<font face="Serif" size="18">and Earth now in the care of...</font>
+
+49
+00:03:35,716 --> 00:03:36,925
+<font face="Serif" size="18">you guys.</font>
+
+50
+00:03:37,008 --> 00:03:39,803
+<font face="Serif" size="18">When we left, you were basically squirrels.</font>
+
+51
+00:03:39,886 --> 00:03:44,641
+<font face="Serif" size="18">Well, we've come a long way,
+and we've buried a lot more than nuts.</font>
+
+52
+00:03:44,725 --> 00:03:49,312
+<font face="Serif" size="18">We've evolved past nonconstructive criticism,
+so let's agree you've done your best.</font>
+
+53
+00:03:49,396 --> 00:03:50,313
+<font face="Serif" size="18">You're still alive.</font>
+
+54
+00:03:50,397 --> 00:03:55,402
+<font face="Serif" size="18">But surely there was some point between
+gunpowder and something called Amazon Prime</font>
+
+55
+00:03:55,485 --> 00:03:58,572
+<font face="Serif" size="18">that you folks had to think,
+"Are we supposed to be running a planet?</font>
+
+56
+00:03:58,655 --> 00:04:02,367
+<font face="Serif" size="18">Wouldn't we rather make Marvel movies?"
+How many Marvel movies have you made?</font>
+
+57
+00:04:02,451 --> 00:04:04,369
+<font face="Serif" size="18">Twenty-nine, and 14 more on the way.</font>
+
+58
+00:04:04,453 --> 00:04:05,871
+<font face="Serif" size="18">See, you love doing that.</font>
+
+59
+00:04:05,954 --> 00:04:08,290
+<font face="Serif" size="18">And we love helping new life-forms
+get their footing.</font>
+
+60
+00:04:08,373 --> 00:04:12,586
+<font face="Serif" size="18">So now that we're back,
+we can respectfully take it from here.</font>
+
+61
+00:04:12,669 --> 00:04:15,756
+<font face="Serif" size="18">Now, hold on. if you've seen <i>Endgame,
+</i></font><font face="Serif" size="18">you know invasion is not something</font>
+
+62
+00:04:15,839 --> 00:04:16,923
+<font face="Serif" size="18">Earth takes lying down.</font>
+
+63
+00:04:17,007 --> 00:04:21,762
+<font face="Serif" size="18">This is not an invasion.
+Besides, wouldn't you like to lie down?</font>
+
+64
+00:04:21,845 --> 00:04:23,847
+<font face="Serif" size="18">Oh. You must be exhausted.</font>
+
+65
+00:04:23,930 --> 00:04:28,477
+<font face="Serif" size="18">Put your feet up, get more tattoos,
+finish rounding out this Ant-Man character.</font>
+
+66
+00:04:28,560 --> 00:04:31,855
+<font face="Serif" size="18">Think of it like your Earth concept of "vacation,"
+except permanent.</font>
+
+67
+00:04:31,938 --> 00:04:34,316
+<font face="Serif" size="18">I think I speak for all world leaders
+when I say that</font>
+
+68
+00:04:34,399 --> 00:04:37,652
+<font face="Serif" size="18">the poor people would just murder us
+if we made you leave, so...</font>
+
+69
+00:04:37,736 --> 00:04:38,945
+<font face="Serif" size="18">[clears throat]</font>
+
+70
+00:04:39,446 --> 00:04:41,323
+<font face="Serif" size="18">Welcome home, dinosaurs.</font>
+
+71
+00:04:41,406 --> 00:04:42,991
+<font face="Serif" size="18">[man] Oh. I could use a vacation.</font>
+
+72
+00:04:43,074 --> 00:04:45,327
+<font face="Serif" size="18">- Should we nuke them?
+- I'm on vacation, Curtis.</font>
+
+73
+00:04:45,410 --> 00:04:47,245
+<font face="Serif" size="18">Well, you leaned into this fast.</font>
+
+74
+00:04:47,329 --> 00:04:48,872
+<font face="Serif" size="18">[rock music playing]</font>
+
+75
+00:04:48,955 --> 00:04:52,751
+<font face="Serif" size="18">♪ <i>Zuniceratops</i></font><font face="Serif" size="18"> ♪</font>
+
+76
+00:04:52,834 --> 00:04:56,463
+<font face="Serif" size="18">♪ <i>Elvisaurus</i></font><font face="Serif" size="18"> ♪</font>
+
+77
+00:04:56,546 --> 00:04:58,882
+<font face="Serif" size="18">♪ <i>Bambiraptor</i></font><font face="Serif" size="18"> ♪</font>
+
+78
+00:04:58,965 --> 00:05:01,009
+<font face="Serif" size="18">♪ <i>Erectopus</i></font><font face="Serif" size="18"> ♪</font>
+
+79
+00:05:01,092 --> 00:05:05,764
+<font face="Serif" size="18">♪ <i>Dracorex Hogwartsia</i></font><font face="Serif" size="18"> ♪</font>
+
+80
+00:05:05,847 --> 00:05:09,184
+<font face="Serif" size="18">♪ <i>Gojirasaurus</i></font><font face="Serif" size="18"> ♪</font>
+
+81
+00:05:09,267 --> 00:05:11,144
+<font face="Serif" size="18">♪ <i>Vulcanodon</i></font><font face="Serif" size="18"> ♪</font>
+
+82
+00:05:11,228 --> 00:05:13,146
+<font face="Serif" size="18">♪ <i>Sauroniops</i></font><font face="Serif" size="18"> ♪</font>
+
+83
+00:05:13,230 --> 00:05:16,942
+<font face="Serif" size="18">♪ <i>Phuwiangosaurus</i></font><font face="Serif" size="18"> ♪</font>
+
+84
+00:05:17,025 --> 00:05:21,279
+<font face="Serif" size="18">♪ <i>Those are real dinosaur names</i></font><font face="Serif" size="18"> ♪</font>
+
+85
+00:05:21,363 --> 00:05:22,572
+<font face="Serif" size="18">[groans]</font>
+
+86
+00:05:23,615 --> 00:05:24,741
+<font face="Serif" size="18">[alarm buzzing]</font>
+
+87
+00:05:27,035 --> 00:05:31,248
+<font face="Serif" size="18">I can't even pretend to feel useful in a game.
+This is how humanity's story ends?</font>
+
+88
+00:05:31,331 --> 00:05:33,542
+<font face="Serif" size="18">Relieved of duty and sat at the kid's table?</font>
+
+89
+00:05:33,625 --> 00:05:35,126
+<font face="Serif" size="18">I got to respect these dinosaurs.</font>
+
+90
+00:05:35,210 --> 00:05:38,922
+<font face="Serif" size="18">They dominated a whole species just by calling
+its bluff about wanting more free time.</font>
+
+91
+00:05:39,005 --> 00:05:41,508
+<font face="Serif" size="18">They didn't dominate us
+because we're not worth a fight.</font>
+
+92
+00:05:41,591 --> 00:05:43,426
+<font face="Serif" size="18">We've become biological Tyler Perry movies.</font>
+
+93
+00:05:43,510 --> 00:05:45,762
+<font face="Serif" size="18">- All they've done is help.
+- We didn't need their help.</font>
+
+94
+00:05:45,846 --> 00:05:47,806
+<font face="Serif" size="18">We were not the problem. This house recycles.</font>
+
+95
+00:05:49,349 --> 00:05:52,060
+<font face="Serif" size="18">They sort it at the trash facility.</font>
+
+96
+00:05:52,143 --> 00:05:55,272
+<font face="Serif" size="18">What the eff? My dance videos
+are getting zero likes now.</font>
+
+97
+00:05:55,355 --> 00:05:59,276
+<font face="Serif" size="18">- Oh, yeah. The dinos kicked pedophiles off TikTok.
+- Great. So now I'm broke?</font>
+
+98
+00:05:59,359 --> 00:06:03,154
+<font face="Serif" size="18">- You don't need money anymore.
+- So what's this for now? Phone calls? Ugh.</font>
+
+99
+00:06:03,238 --> 00:06:05,115
+<font face="Serif" size="18">Come on, Dad. You don't hate this too?</font>
+
+100
+00:06:05,198 --> 00:06:07,409
+<font face="Serif" size="18">Why would I? I was already doing what I wanted.</font>
+
+101
+00:06:07,492 --> 00:06:10,537
+<font face="Serif" size="18">I do think it's kind of funny
+that you're all basically Jerry now.</font>
+
+102
+00:06:11,121 --> 00:06:12,330
+<font face="Serif" size="18">Fuck.</font>
+
+103
+00:06:12,831 --> 00:06:14,583
+<font face="Serif" size="18">Jerry, how do you do it?</font>
+
+104
+00:06:14,666 --> 00:06:17,294
+<font face="Serif" size="18">- Yeah, Dad, how do you do it?
+- How do you do it, Dad?</font>
+
+105
+00:06:17,377 --> 00:06:19,379
+<font face="Serif" size="18">- Huh?
+- [all] How do you do it?</font>
+
+106
+00:06:19,462 --> 00:06:21,256
+<font face="Serif" size="18">It's finally happened.</font>
+
+107
+00:06:36,187 --> 00:06:37,355
+<font face="Serif" size="18">[laughs]</font>
+
+108
+00:06:37,439 --> 00:06:39,024
+<font face="Serif" size="18">All right.</font>
+
+109
+00:06:39,107 --> 00:06:42,527
+<font face="Serif" size="18">Does anyone know how to mail things
+to publishers?</font>
+
+110
+00:06:42,611 --> 00:06:43,486
+<font face="Serif" size="18">[phone chiming]</font>
+
+111
+00:06:43,570 --> 00:06:47,032
+<font face="Serif" size="18">President only pages me if it's an emergency
+or he needs Molly.</font>
+
+112
+00:06:51,119 --> 00:06:55,790
+<font face="Serif" size="18">I'm sure glad you stayed open, Beau.
+Wish we could pay, but no more capitalism.</font>
+
+113
+00:06:56,374 --> 00:06:59,169
+<font face="Serif" size="18">I never make ribs for the money, Mr. President.</font>
+
+114
+00:06:59,252 --> 00:07:01,463
+<font face="Serif" size="18">Oh, here you go.</font>
+
+115
+00:07:01,546 --> 00:07:04,424
+<font face="Serif" size="18">That's not why I called.
+Drugs can't solve this problem.</font>
+
+116
+00:07:04,507 --> 00:07:06,051
+<font face="Serif" size="18">I can't live like this anymore.</font>
+
+117
+00:07:06,134 --> 00:07:09,596
+<font face="Serif" size="18">At first, it was fun spending all day watching
+whatever YouTube autoplays</font>
+
+118
+00:07:09,679 --> 00:07:13,099
+<font face="Serif" size="18">after the last one autoplayed, but a man
+can only watch so many ads for Grammarly.</font>
+
+119
+00:07:13,183 --> 00:07:17,520
+<font face="Serif" size="18">Rick. Please. You're not bound by morality.
+Get rid of them. Slit their necks.</font>
+
+120
+00:07:17,604 --> 00:07:20,065
+<font face="Serif" size="18"><i>Zero Dark Thirty</i></font><font face="Serif" size="18"> these fuckers
+for the good of the species.</font>
+
+121
+00:07:20,148 --> 00:07:24,069
+<font face="Serif" size="18">I won't tell. Help us go back to the old days,
+where we pretend to fix the problems we caused.</font>
+
+122
+00:07:24,152 --> 00:07:27,030
+<font face="Serif" size="18">You think I'm going to side with you
+over hyper-intelligent creatures</font>
+
+123
+00:07:27,113 --> 00:07:30,533
+<font face="Serif" size="18">operating way beyond your comprehension?
+I have more in common with them than you.</font>
+
+124
+00:07:30,617 --> 00:07:33,662
+<font face="Serif" size="18">You pompous autistic cadaver!
+You think you're above this?</font>
+
+125
+00:07:33,745 --> 00:07:35,413
+<font face="Serif" size="18">- I ought to--
+- Look here, Mr. President.</font>
+
+126
+00:07:35,497 --> 00:07:39,167
+<font face="Serif" size="18">When I need my ribs to be tender and delicious,
+I pamper them.</font>
+
+127
+00:07:39,250 --> 00:07:44,130
+<font face="Serif" size="18">See, if you give someone what they want,
+they'll give you what you need.</font>
+
+128
+00:07:44,214 --> 00:07:46,466
+<font face="Serif" size="18">- I'm just saying.
+- I see your point, Beau.</font>
+
+129
+00:07:46,549 --> 00:07:49,135
+<font face="Serif" size="18">All right, Rick. Name your price.</font>
+
+130
+00:07:49,970 --> 00:07:51,680
+<font face="Serif" size="18">- Oh, crap.
+- Goddamn it!</font>
+
+131
+00:07:51,763 --> 00:07:56,768
+<font face="Serif" size="18">- How often are you <i>Westworld</i></font><font face="Serif" size="18">-ing me?
+- Hang on. Rib-tips jammed his folk-chip again.</font>
+
+132
+00:07:56,851 --> 00:08:00,313
+<font face="Serif" size="18">Ol' reliable Rick. Always knows what to do.</font>
+
+133
+00:08:00,397 --> 00:08:01,398
+<font face="Serif" size="18">What do you want, Rick?</font>
+
+134
+00:08:01,481 --> 00:08:04,317
+<font face="Serif" size="18">I won't stoop to answering that again.
+You know exactly what I want.</font>
+
+135
+00:08:04,401 --> 00:08:06,486
+<font face="Serif" size="18">I can't snap my fingers and get you that job.</font>
+
+136
+00:08:06,569 --> 00:08:09,114
+<font face="Serif" size="18">- Yeah, yeah. Thanks for lunch.
+- Fine. Fine!</font>
+
+137
+00:08:09,197 --> 00:08:12,117
+<font face="Serif" size="18">If you get rid of the dinosaurs,
+you can host the Oscars.</font>
+
+138
+00:08:12,200 --> 00:08:13,034
+<font face="Serif" size="18">Yes!</font>
+
+139
+00:08:13,118 --> 00:08:18,415
+<font face="Serif" size="18">Righteous Rick. Straight shooting, truth-telling,
+never wets the bed.</font>
+
+140
+00:08:21,001 --> 00:08:26,089
+<font face="Serif" size="18">Goodbye, old friends. May you rest in peace,
+rather than the tank of an SUV.</font>
+
+141
+00:08:26,172 --> 00:08:28,883
+<font face="Serif" size="18">Hello, fellow cosmic voyagers.</font>
+
+142
+00:08:28,967 --> 00:08:30,010
+<font face="Serif" size="18">Can we help you?</font>
+
+143
+00:08:30,093 --> 00:08:31,886
+<font face="Serif" size="18">Actually, I can probably help you.</font>
+
+144
+00:08:31,970 --> 00:08:35,640
+<font face="Serif" size="18">See, I'm technically human, but I've come
+to be more, you know, on your level.</font>
+
+145
+00:08:35,724 --> 00:08:36,933
+<font face="Serif" size="18">We're fine, thank you.</font>
+
+146
+00:08:37,017 --> 00:08:38,268
+<font face="Serif" size="18">Maybe I'm being too indirect.</font>
+
+147
+00:08:38,351 --> 00:08:40,353
+<font face="Serif" size="18">I happen to dabble in multiversal travel,</font>
+
+148
+00:08:40,437 --> 00:08:42,772
+<font face="Serif" size="18">and I could probably zap you guys
+to an alternate Earth.</font>
+
+149
+00:08:42,856 --> 00:08:46,276
+<font face="Serif" size="18">We used portal travel eons ago,
+but evolved to a one-universe,</font>
+
+150
+00:08:46,359 --> 00:08:49,320
+<font face="Serif" size="18">one-truth policy
+as the highest form of existence.</font>
+
+151
+00:08:49,404 --> 00:08:53,533
+<font face="Serif" size="18">Sort of a "put your own oxygen mask on
+before helping others" type of a thing.</font>
+
+152
+00:08:53,616 --> 00:08:55,160
+<font face="Serif" size="18">Have you been on a plane?</font>
+
+153
+00:08:55,243 --> 00:08:56,828
+<font face="Serif" size="18">Yes, I've been on a plane.</font>
+
+154
+00:08:56,911 --> 00:08:59,748
+<font face="Serif" size="18">We have no problem if you jump dimensions.</font>
+
+155
+00:08:59,831 --> 00:09:02,459
+<font face="Serif" size="18">Although we sense
+your gateway device is suboptimal.</font>
+
+156
+00:09:02,542 --> 00:09:03,376
+<font face="Serif" size="18">Let us help.</font>
+
+157
+00:09:03,460 --> 00:09:05,837
+<font face="Serif" size="18">I don't need help. I'm here to help you.</font>
+
+158
+00:09:06,504 --> 00:09:07,464
+<font face="Serif" size="18">What the hell is this?</font>
+
+159
+00:09:07,547 --> 00:09:11,301
+<font face="Serif" size="18">A Portal Pistol. The gateways are see-through,
+not a green swirl,</font>
+
+160
+00:09:11,384 --> 00:09:13,261
+<font face="Serif" size="18">so now you can see where you're going.</font>
+
+161
+00:09:13,344 --> 00:09:14,262
+<font face="Serif" size="18">Clever girl.</font>
+
+162
+00:09:14,345 --> 00:09:17,348
+<font face="Serif" size="18">If you'd like, we could patch up your little
+interdimensional rift too.</font>
+
+163
+00:09:17,432 --> 00:09:21,102
+<font face="Serif" size="18">No, leave it. I know how to close that.
+That's there for a reason. Very canonical.</font>
+
+164
+00:09:21,186 --> 00:09:23,813
+<font face="Serif" size="18">- Don't you just want it closed?
+- Morty, whose team are you on?</font>
+
+165
+00:09:23,897 --> 00:09:28,485
+<font face="Serif" size="18">- It's normal to be frustrated. Here.
+- Oh, my God, are you fucking kidding me?</font>
+
+166
+00:09:28,568 --> 00:09:29,944
+<font face="Serif" size="18">- Goodbye.
+- No. Wait.</font>
+
+167
+00:09:30,028 --> 00:09:31,446
+<font face="Serif" size="18">What the fuck?</font>
+
+168
+00:09:33,698 --> 00:09:36,451
+<font face="Serif" size="18">- Dr. Manhattan high-road assholes teleporting me?
+- I saw my bones!</font>
+
+169
+00:09:36,534 --> 00:09:37,786
+<font face="Serif" size="18">Why wasn't that painful?</font>
+
+170
+00:09:37,869 --> 00:09:41,581
+<font face="Serif" size="18">- They didn't do it right. My fly is down.
+- Your fly was already down.</font>
+
+171
+00:09:41,664 --> 00:09:43,333
+<font face="Serif" size="18">What are you doing with that?</font>
+
+172
+00:09:43,416 --> 00:09:45,668
+<font face="Serif" size="18">- Rick, it was a better--
+- Nothing from them is better!</font>
+
+173
+00:09:45,752 --> 00:09:49,672
+<font face="Serif" size="18">- That thing had uptight Zen snob germs all over it.
+- So, what, now you're going to fight them?</font>
+
+174
+00:09:49,756 --> 00:09:53,259
+<font face="Serif" size="18">And prove we're violent and stupid? No.
+We're going to find out what they're hiding.</font>
+
+175
+00:09:53,343 --> 00:09:56,846
+<font face="Serif" size="18">Only people who have really fucked up
+in the past have to virtue signal this hard.</font>
+
+176
+00:09:56,930 --> 00:09:57,847
+<font face="Serif" size="18">Look at Sean Penn.</font>
+
+177
+00:09:57,931 --> 00:10:00,725
+<font face="Serif" size="18">But, Rick, aren't these feelings, like,
+what they're talking about?</font>
+
+178
+00:10:00,809 --> 00:10:05,355
+<font face="Serif" size="18">Like, life gets, "programmed for competition
+by early stages of evolution."</font>
+
+179
+00:10:05,438 --> 00:10:09,442
+<font face="Serif" size="18">Like, amoebas have to fight amoebas for energy,
+but once a species can get enough sugar,</font>
+
+180
+00:10:09,526 --> 00:10:13,655
+<font face="Serif" size="18">from a machine to give itself diabetes,
+it's allowed to start thinking beyond conflict.</font>
+
+181
+00:10:13,738 --> 00:10:15,573
+<font face="Serif" size="18">I mean, it's all in their pamphlet.</font>
+
+182
+00:10:17,408 --> 00:10:20,662
+<font face="Serif" size="18">Morty, you're a genius. I clearly mean
+that in the '90s ironic sense,</font>
+
+183
+00:10:20,745 --> 00:10:25,542
+<font face="Serif" size="18">but this self-fellating zine is a treasure map
+to every fossilized bone in their skeleton closet.</font>
+
+184
+00:10:25,625 --> 00:10:30,505
+<font face="Serif" size="18">They're going to call us Laura Dern because we're
+about to get elbow-deep in dino doo-doo.</font>
+
+185
+00:10:30,588 --> 00:10:31,714
+<font face="Serif" size="18">Get it, Morty? The gloves?</font>
+
+186
+00:10:31,798 --> 00:10:34,968
+<font face="Serif" size="18">- You remember that?
+- No, I get it. I said "clever girl" earlier.</font>
+
+187
+00:10:35,051 --> 00:10:36,845
+<font face="Serif" size="18">- You didn't even react.
+- I was angry.</font>
+
+188
+00:10:45,270 --> 00:10:48,148
+<font face="Serif" size="18">I'm looking for a few of my friends.</font>
+
+189
+00:10:48,231 --> 00:10:51,484
+<font face="Serif" size="18">Kind of look like the Skullfeet that used
+to live on our planet way before us.</font>
+
+190
+00:10:51,568 --> 00:10:53,361
+<font face="Serif" size="18">They're long gone now.</font>
+
+191
+00:10:53,444 --> 00:10:55,738
+<font face="Serif" size="18">- Really? They're extinct here too?
+- Yeah.</font>
+
+192
+00:10:55,822 --> 00:10:58,158
+<font face="Serif" size="18">We keep their bones
+in that museum over there.</font>
+
+193
+00:10:59,075 --> 00:11:01,786
+<font face="Serif" size="18">- Um, wow.
+- These guys aren't going to be much help.</font>
+
+194
+00:11:01,870 --> 00:11:06,457
+<font face="Serif" size="18">The leading theory is, the Skullfeet stepped on
+their own brains so much they straight-up died.</font>
+
+195
+00:11:06,541 --> 00:11:08,835
+<font face="Serif" size="18">Such a shame.
+Would have loved to hear them sing.</font>
+
+196
+00:11:08,918 --> 00:11:10,003
+<font face="Serif" size="18">- Sing?
+- Yeah.</font>
+
+197
+00:11:10,086 --> 00:11:13,339
+<font face="Serif" size="18">We figured they used to hold huge outdoor
+concerts in their land amphitheater.</font>
+
+198
+00:11:13,423 --> 00:11:15,967
+<font face="Serif" size="18">- [Rick] You people are idiots.
+- We didn't have much to go by.</font>
+
+199
+00:11:16,050 --> 00:11:18,595
+<font face="Serif" size="18">- Bones aren't big on conversation.
+- Neither are you.</font>
+
+200
+00:11:19,387 --> 00:11:22,974
+<font face="Serif" size="18">The majestic Basketsaur.
+Aren't they incredible?</font>
+
+201
+00:11:23,057 --> 00:11:27,604
+<font face="Serif" size="18">We're even making a series of terrible movies
+about cloning them in a theme park.</font>
+
+202
+00:11:27,687 --> 00:11:29,898
+<font face="Serif" size="18">- So what happened to them?
+- No idea.</font>
+
+203
+00:11:29,981 --> 00:11:34,110
+<font face="Serif" size="18">But we do know they all loved eating
+communal soup out of the Great Dirt Bowl.</font>
+
+204
+00:11:34,194 --> 00:11:35,904
+<font face="Serif" size="18">Starting to see a pattern here.</font>
+
+205
+00:11:36,863 --> 00:11:38,698
+<font face="Serif" size="18">Breathtaking, aren't they?</font>
+
+206
+00:11:38,781 --> 00:11:41,576
+<font face="Serif" size="18">It's a common misconception
+that they roamed our planet.</font>
+
+207
+00:11:41,659 --> 00:11:43,161
+<font face="Serif" size="18">The truth is, they rolled.</font>
+
+208
+00:11:43,244 --> 00:11:45,538
+<font face="Serif" size="18">Street-style mostly. Some vert.</font>
+
+209
+00:11:45,622 --> 00:11:48,625
+<font face="Serif" size="18">Let me guess. There's a very large,
+deep circular indentation</font>
+
+210
+00:11:48,708 --> 00:11:51,294
+<font face="Serif" size="18">in which these "Grindasaurs" used to shred.</font>
+
+211
+00:11:51,377 --> 00:11:55,965
+<font face="Serif" size="18">We think they had a second brain in their butt
+dedicated to pulling 1080s.</font>
+
+212
+00:11:56,049 --> 00:11:59,886
+<font face="Serif" size="18">Three planets visited by dinosaurs,
+three apocalyptic meteor impacts.</font>
+
+213
+00:11:59,969 --> 00:12:02,513
+<font face="Serif" size="18">Give me the board. I'm dropping in for data.</font>
+
+214
+00:12:02,597 --> 00:12:03,431
+<font face="Serif" size="18">[shouts]</font>
+
+215
+00:12:03,514 --> 00:12:05,725
+<font face="Serif" size="18">Rick! That's the hardest thing
+in skateboarding.</font>
+
+216
+00:12:05,808 --> 00:12:08,603
+<font face="Serif" size="18">It looked so easy on <i>Pro Skater 3.</i></font>
+
+217
+00:12:11,272 --> 00:12:12,357
+<font face="Serif" size="18">Hello.</font>
+
+218
+00:12:14,484 --> 00:12:15,360
+<font face="Serif" size="18">Jackpot, Morty.</font>
+
+219
+00:12:15,443 --> 00:12:17,820
+<font face="Serif" size="18">You still think the dinosaurs
+got something to hide?</font>
+
+220
+00:12:17,904 --> 00:12:19,530
+<font face="Serif" size="18">No, Morty, they have a reason to hide.</font>
+
+221
+00:12:19,614 --> 00:12:22,325
+<font face="Serif" size="18">- Come here, you little whippersnapper.
+- Stop! No, don't touch me.</font>
+
+222
+00:12:22,408 --> 00:12:25,203
+<font face="Serif" size="18">- Your hands are greasy.
+- Give me a hug. What's the matter with you?</font>
+
+223
+00:12:25,912 --> 00:12:29,290
+<font face="Serif" size="18">It's become clear your species
+is having a hard time</font>
+
+224
+00:12:29,374 --> 00:12:31,960
+<font face="Serif" size="18">adjusting to its reduced accountability.</font>
+
+225
+00:12:32,043 --> 00:12:35,713
+<font face="Serif" size="18">Our solution is to hold
+these regular keynotes, or talks,</font>
+
+226
+00:12:35,797 --> 00:12:38,633
+<font face="Serif" size="18">which you used to launch
+new phones and religions.</font>
+
+227
+00:12:38,716 --> 00:12:40,385
+<font face="Serif" size="18">I see someone eager to speak.</font>
+
+228
+00:12:40,468 --> 00:12:43,972
+<font face="Serif" size="18">Hi. What do you do
+when you want to kill yourself?</font>
+
+229
+00:12:44,055 --> 00:12:47,642
+<font face="Serif" size="18">You don't do that. Thank you for asking, though.
+Very important.</font>
+
+230
+00:12:47,725 --> 00:12:50,478
+<font face="Serif" size="18">We recently discovered a new piece
+of human literature</font>
+
+231
+00:12:50,561 --> 00:12:52,480
+<font face="Serif" size="18">that we think everyone should read.</font>
+
+232
+00:12:52,563 --> 00:12:57,277
+<font face="Serif" size="18">Holy shit! I'm a famous author!
+Wait, where's my name?</font>
+
+233
+00:12:57,360 --> 00:13:01,030
+<font face="Serif" size="18">We will distribute it
+to everyone on Earth tomorrow.</font>
+
+234
+00:13:01,114 --> 00:13:03,533
+<font face="Serif" size="18">Excuse me.
+Aren't you going to say who wrote it?</font>
+
+235
+00:13:03,616 --> 00:13:06,327
+<font face="Serif" size="18">Nope. Whoever wrote it
+must be above needing credit.</font>
+
+236
+00:13:06,411 --> 00:13:10,415
+<font face="Serif" size="18">It's all here in this book
+that belongs to everyone. For free.</font>
+
+237
+00:13:10,498 --> 00:13:13,376
+<font face="Serif" size="18">You communist lizard scumbags! I wrote that!</font>
+
+238
+00:13:13,459 --> 00:13:16,796
+<font face="Serif" size="18">- Me, Jerry Smith!
+- [horn blaring]</font>
+
+239
+00:13:17,839 --> 00:13:19,299
+<font face="Serif" size="18">Hey, hey, hey!</font>
+
+240
+00:13:25,888 --> 00:13:30,852
+<font face="Serif" size="18">Guess what. Dinosaurs are not secretly evil,
+and they're not out to cause anybody trouble,</font>
+
+241
+00:13:30,935 --> 00:13:33,813
+<font face="Serif" size="18">but it turns out trouble has a way
+of following them.</font>
+
+242
+00:13:34,522 --> 00:13:37,191
+<font face="Serif" size="18">[robot] Oh, yes, yes, yes. It's showtime.</font>
+
+243
+00:13:37,275 --> 00:13:41,321
+<font face="Serif" size="18">Literally every planet with dinosaurs on it
+is eventually smashed by a huge space rock</font>
+
+244
+00:13:41,404 --> 00:13:43,573
+<font face="Serif" size="18">that takes out them and most existing life.</font>
+
+245
+00:13:43,656 --> 00:13:45,450
+<font face="Serif" size="18">What? That can't be true.</font>
+
+246
+00:13:45,533 --> 00:13:47,952
+<font face="Serif" size="18">It's all right to be frustrated. Let me explain.</font>
+
+247
+00:13:48,036 --> 00:13:51,039
+<font face="Serif" size="18">Why would planet-killing meteors
+follow dinosaurs?</font>
+
+248
+00:13:51,122 --> 00:13:55,418
+<font face="Serif" size="18">As these reptiles evolved to higher
+and higher levels of loving vegan godhood,</font>
+
+249
+00:13:55,501 --> 00:13:58,338
+<font face="Serif" size="18">another life-form devolved
+into an equally selfless,</font>
+
+250
+00:13:58,421 --> 00:14:01,299
+<font face="Serif" size="18">hate-filled species of barely sentient rocks.</font>
+
+251
+00:14:01,382 --> 00:14:05,011
+<font face="Serif" size="18">They hurtle through space and do as much
+damage as they can to their chosen enemy,</font>
+
+252
+00:14:05,094 --> 00:14:10,308
+<font face="Serif" size="18">which is guess who. Yup, everywhere
+these dinos go, these rocks, they come a-crashing.</font>
+
+253
+00:14:10,391 --> 00:14:11,225
+<font face="Serif" size="18">And this one...</font>
+
+254
+00:14:12,393 --> 00:14:15,271
+<font face="Serif" size="18">is headed directly towards us.</font>
+
+255
+00:14:15,355 --> 00:14:17,982
+<font face="Serif" size="18">And all of our work? It was for--</font>
+
+256
+00:14:18,066 --> 00:14:19,859
+<font face="Serif" size="18">Nothing. Bingo. Welcome to life.</font>
+
+257
+00:14:19,942 --> 00:14:22,695
+<font face="Serif" size="18">It's a big boat with a lot of holes,
+but we're all in it together.</font>
+
+258
+00:14:22,779 --> 00:14:24,030
+<font face="Serif" size="18">- Oh, my.
+- Oh...</font>
+
+259
+00:14:24,113 --> 00:14:25,907
+<font face="Serif" size="18">So much death.</font>
+
+260
+00:14:26,532 --> 00:14:30,328
+<font face="Serif" size="18">Congratulations, primates.
+Looks like Earth could have done worse.</font>
+
+261
+00:14:30,411 --> 00:14:31,496
+<font face="Serif" size="18">Rick, out.</font>
+
+262
+00:14:31,579 --> 00:14:34,332
+<font face="Serif" size="18">Oh. And don't forget to tune in
+to this year's Oscars.</font>
+
+263
+00:14:35,416 --> 00:14:38,711
+<font face="Serif" size="18">- Well, this is a lot to take in.
+- [crowd booing]</font>
+
+264
+00:14:41,172 --> 00:14:42,715
+<font face="Serif" size="18">I like trains now.</font>
+
+265
+00:14:42,799 --> 00:14:44,592
+<font face="Serif" size="18">Okay, that hurt.</font>
+
+266
+00:14:44,675 --> 00:14:47,595
+<font face="Serif" size="18">[man] Trains rule! Dinos drool!</font>
+
+267
+00:14:48,721 --> 00:14:52,475
+<font face="Serif" size="18">And you had no idea about the disastrous meteors
+that followed in your wake?</font>
+
+268
+00:14:52,558 --> 00:14:55,937
+<font face="Serif" size="18">We just learned about it like you.
+Truly heartbreaking news.</font>
+
+269
+00:14:56,020 --> 00:14:59,440
+<font face="Serif" size="18">But I assume you're going to destroy it
+when it arrives here, right?</font>
+
+270
+00:14:59,524 --> 00:15:04,987
+<font face="Serif" size="18">Um, we're in the process of finding
+a solution that doesn't involve violence.</font>
+
+271
+00:15:05,071 --> 00:15:07,407
+<font face="Serif" size="18">Hold on. You're in the process?</font>
+
+272
+00:15:08,574 --> 00:15:09,992
+<font face="Serif" size="18">There you have it, Cooperheads.</font>
+
+273
+00:15:10,076 --> 00:15:12,286
+<font face="Serif" size="18">An angry species of rock
+is going to slam into our--</font>
+
+274
+00:15:12,370 --> 00:15:17,208
+<font face="Serif" size="18">Sorry their planet, and our new planet runners
+are weighing whether to let it happen.</font>
+
+275
+00:15:19,293 --> 00:15:22,338
+<font face="Serif" size="18">I mean, no one knows if the meteor species
+is even real.</font>
+
+276
+00:15:22,422 --> 00:15:24,924
+<font face="Serif" size="18">No. It's very real. We all know that.</font>
+
+277
+00:15:25,007 --> 00:15:28,302
+<font face="Serif" size="18">You know what's real?
+A rear naked choke hold. I'll show you.</font>
+
+278
+00:15:28,386 --> 00:15:29,220
+<font face="Serif" size="18">What?</font>
+
+279
+00:15:29,303 --> 00:15:30,763
+<font face="Serif" size="18">Final question.</font>
+
+280
+00:15:30,847 --> 00:15:32,974
+<font face="Serif" size="18">How we doing?</font>
+
+281
+00:15:33,057 --> 00:15:35,268
+<font face="Serif" size="18">[groans] We have come to the conclusion</font>
+
+282
+00:15:35,351 --> 00:15:39,522
+<font face="Serif" size="18">the only way to ensure humanity
+will be safe is for us to go.</font>
+
+283
+00:15:39,605 --> 00:15:41,482
+<font face="Serif" size="18">We are leaving the planet for good.</font>
+
+284
+00:15:41,566 --> 00:15:42,859
+<font face="Serif" size="18">[crowd cheering]</font>
+
+285
+00:15:43,734 --> 00:15:47,071
+<font face="Serif" size="18">♪ <i>Exxon spilling the oil</i></font><font face="Serif" size="18"> ♪</font>
+
+286
+00:15:47,155 --> 00:15:48,739
+<font face="Serif" size="18">♪ <i>Chernobyl blowing up</i></font><font face="Serif" size="18"> ♪</font>
+
+287
+00:15:48,823 --> 00:15:50,950
+<font face="Serif" size="18">♪ <i>Asbestos in Montana</i></font><font face="Serif" size="18"> ♪</font>
+
+288
+00:15:51,033 --> 00:15:55,163
+<font face="Serif" size="18">♪ <i>Atlantic City
+Type 2 diabetes</i></font><font face="Serif" size="18"> ♪</font>
+
+289
+00:15:55,246 --> 00:15:59,584
+<font face="Serif" size="18">♪ <i>Deepwater deeply blew it</i></font><font face="Serif" size="18"> ♪</font>
+
+290
+00:15:59,667 --> 00:16:02,503
+<font face="Serif" size="18">♪ <i>Giant garbage island</i></font><font face="Serif" size="18"> ♪</font>
+
+291
+00:16:02,587 --> 00:16:05,548
+<font face="Serif" size="18">♪ <i>And all the bees are dying</i></font><font face="Serif" size="18"> ♪</font>
+
+292
+00:16:05,631 --> 00:16:10,511
+<font face="Serif" size="18">♪ <i>Fuck off and Die...nosaurs</i></font><font face="Serif" size="18"> ♪</font>
+
+293
+00:16:10,595 --> 00:16:11,762
+<font face="Serif" size="18">[crowd cheering]</font>
+
+294
+00:16:15,725 --> 00:16:19,395
+<font face="Serif" size="18">Maybe it's the Molly,
+but I fucking love you, Rick.</font>
+
+295
+00:16:19,479 --> 00:16:20,521
+<font face="Serif" size="18">It's the Molly.</font>
+
+296
+00:16:20,605 --> 00:16:21,647
+<font face="Serif" size="18">Isn't this nice?</font>
+
+297
+00:16:21,731 --> 00:16:26,777
+<font face="Serif" size="18">Rivalries behind us, dinos gone,
+two cool guys living in the moment.</font>
+
+298
+00:16:26,861 --> 00:16:30,364
+<font face="Serif" size="18">So, like, [clears throat] you know what
+you're going to wear? Because--</font>
+
+299
+00:16:30,448 --> 00:16:31,991
+<font face="Serif" size="18">- I can't get another plus-one.
+- What?</font>
+
+300
+00:16:32,074 --> 00:16:37,163
+<font face="Serif" size="18">I got you the gig, you son of a bitch!
+I feel this napkin. Feel this napkin.</font>
+
+301
+00:16:37,246 --> 00:16:39,582
+<font face="Serif" size="18">So soft.</font>
+
+302
+00:16:39,665 --> 00:16:43,544
+<font face="Serif" size="18">[announcer]
+<i>This is the 95th annual Academy Awards.</i></font>
+
+303
+00:16:43,628 --> 00:16:48,674
+<font face="Serif" size="18"><i>Now, please welcome your host,
+an old science guy who got rid of the dinosaurs,</i></font>
+
+304
+00:16:48,758 --> 00:16:50,927
+<font face="Serif" size="18"><i>Rick Sanchez.</i></font>
+
+305
+00:16:53,429 --> 00:16:57,517
+<font face="Serif" size="18">Suck my gray tits, Hollywood pinkos.
+Where's the mic?</font>
+
+306
+00:16:57,600 --> 00:16:59,143
+<font face="Serif" size="18">The raising mic?</font>
+
+307
+00:16:59,227 --> 00:17:00,520
+<font face="Serif" size="18">[burping]</font>
+
+308
+00:17:00,603 --> 00:17:01,562
+<font face="Serif" size="18">Bring it up!</font>
+
+309
+00:17:05,566 --> 00:17:08,444
+<font face="Serif" size="18">Tommy. Tom Hanks is here.</font>
+
+310
+00:17:09,362 --> 00:17:11,322
+<font face="Serif" size="18">Come on. Do it.</font>
+
+311
+00:17:12,073 --> 00:17:13,741
+<font face="Serif" size="18">Come on.</font>
+
+312
+00:17:13,824 --> 00:17:15,117
+<font face="Serif" size="18">Do it.</font>
+
+313
+00:17:15,201 --> 00:17:17,370
+<font face="Serif" size="18">Okay, okay, one time.</font>
+
+314
+00:17:17,954 --> 00:17:20,373
+<font face="Serif" size="18">"Wilson!"</font>
+
+315
+00:17:20,456 --> 00:17:21,958
+<font face="Serif" size="18">[crowd cheering]</font>
+
+316
+00:17:22,041 --> 00:17:23,960
+<font face="Serif" size="18">I'm Oscar host Rick.</font>
+
+317
+00:17:25,711 --> 00:17:27,922
+<font face="Serif" size="18">Grandpa Rick, this is so cool.</font>
+
+318
+00:17:28,005 --> 00:17:30,258
+<font face="Serif" size="18">- That microphone bit killed.
+- Yeah, told you it would.</font>
+
+319
+00:17:30,341 --> 00:17:32,718
+<font face="Serif" size="18">- That was all scripted?
+- Every moment at the Oscars is.</font>
+
+320
+00:17:32,802 --> 00:17:34,303
+<font face="Serif" size="18">Even that one thing.</font>
+
+321
+00:17:34,387 --> 00:17:36,430
+<font face="Serif" size="18">Look who stole themselves a swag bag.</font>
+
+322
+00:17:36,514 --> 00:17:38,015
+<font face="Serif" size="18">A fucking Sprinkles coupon.</font>
+
+323
+00:17:38,099 --> 00:17:39,016
+<font face="Serif" size="18">We're splitting that.</font>
+
+324
+00:17:39,100 --> 00:17:43,062
+<font face="Serif" size="18">Hey, so I was thinking it might be funny
+to add dinosaurs to the "In memoriam."</font>
+
+325
+00:17:43,145 --> 00:17:46,190
+<font face="Serif" size="18">It feels beneath us. It's funnier that they left
+and we don't even care.</font>
+
+326
+00:17:46,274 --> 00:17:49,402
+<font face="Serif" size="18">Oh, yeah, they left, but they keep
+begging for attention.</font>
+
+327
+00:17:49,485 --> 00:17:50,528
+<font face="Serif" size="18">You haven't heard?</font>
+
+328
+00:17:50,611 --> 00:17:54,615
+<font face="Serif" size="18">The dinos are just standing up there on Mars
+with their dicks in their hands. So dramatic.</font>
+
+329
+00:17:54,699 --> 00:17:57,410
+<font face="Serif" size="18">What, they're just going to
+let the meteor hit them and die?</font>
+
+330
+00:17:57,493 --> 00:17:58,494
+<font face="Serif" size="18">[Jerry] Good.</font>
+
+331
+00:17:58,578 --> 00:18:02,206
+<font face="Serif" size="18">If being superior to everyone makes you die,
+I call that balance.</font>
+
+332
+00:18:02,290 --> 00:18:07,211
+<font face="Serif" size="18">It's all in my globally published book
+the dinos stripped my name from!</font>
+
+333
+00:18:08,212 --> 00:18:13,301
+<font face="Serif" size="18">Oscars are over. Where are my keys?
+Goddamn it! I need to fix portal travel.</font>
+
+334
+00:18:13,384 --> 00:18:15,803
+<font face="Serif" size="18">And I'm going to. I have a process.</font>
+
+335
+00:18:18,097 --> 00:18:19,974
+<font face="Serif" size="18">Our final act of kindness.</font>
+
+336
+00:18:20,057 --> 00:18:23,394
+<font face="Serif" size="18">It's been an honor serving
+the sanctity of life with you all.</font>
+
+337
+00:18:23,477 --> 00:18:25,062
+<font face="Serif" size="18">[screaming]</font>
+
+338
+00:18:25,813 --> 00:18:27,023
+<font face="Serif" size="18">[gibbering]</font>
+
+339
+00:18:31,319 --> 00:18:33,863
+<font face="Serif" size="18">- Rick, what are you doing?
+- Standing here with you guys.</font>
+
+340
+00:18:33,946 --> 00:18:36,741
+<font face="Serif" size="18">You don't want to do that.
+We're sacrificing ourselves here.</font>
+
+341
+00:18:36,824 --> 00:18:40,786
+<font face="Serif" size="18">Then so am I. You know?
+Elon Musk be damned, we're blowing up Mars.</font>
+
+342
+00:18:40,870 --> 00:18:44,749
+<font face="Serif" size="18">No. We're doing something selfless.
+You're doing it out of pettiness.</font>
+
+343
+00:18:44,832 --> 00:18:49,170
+<font face="Serif" size="18">How is anyone supposed to know the difference?
+Consider it a game of virtue chicken.</font>
+
+344
+00:18:54,008 --> 00:18:56,469
+<font face="Serif" size="18">Okay, if you won't go, we'll make you go.</font>
+
+345
+00:18:57,303 --> 00:19:00,264
+<font face="Serif" size="18">Oh. Sorry.
+I dino-proofed my tech to spite you guys.</font>
+
+346
+00:19:00,348 --> 00:19:03,726
+<font face="Serif" size="18">Which further proves selflessness and selfishness
+are two sides of the same coin,</font>
+
+347
+00:19:03,809 --> 00:19:05,311
+<font face="Serif" size="18">so what's the point?</font>
+
+348
+00:19:05,394 --> 00:19:07,480
+<font face="Serif" size="18">[gibbering]</font>
+
+349
+00:19:14,570 --> 00:19:18,783
+<font face="Serif" size="18">Fine. Cool with me that your final chapter
+is dying on Mars with an old dickhead.</font>
+
+350
+00:19:21,952 --> 00:19:22,953
+<font face="Serif" size="18">[shouts]</font>
+
+351
+00:19:24,288 --> 00:19:25,831
+<font face="Serif" size="18">All right! Welcome back!</font>
+
+352
+00:19:25,915 --> 00:19:28,125
+<font face="Serif" size="18">You obnoxious little twat!</font>
+
+353
+00:19:28,209 --> 00:19:31,671
+<font face="Serif" size="18">Yeah, but you're alive.
+No David Foster Wallace-ing in my galaxy.</font>
+
+354
+00:19:31,754 --> 00:19:34,674
+<font face="Serif" size="18">You don't get to be so smart that you remove
+yourself from everybody.</font>
+
+355
+00:19:34,757 --> 00:19:37,134
+<font face="Serif" size="18">From one God being to another, you're welcome.</font>
+
+356
+00:19:37,218 --> 00:19:39,637
+<font face="Serif" size="18">Well, as long as we're doing each other favors.</font>
+
+357
+00:19:41,347 --> 00:19:43,432
+<font face="Serif" size="18">Hey. Wait, wait, wait. What are you doing?</font>
+
+358
+00:19:47,770 --> 00:19:51,774
+<font face="Serif" size="18">You fixed my rift? You fucking hypocritical cocks.
+It was all canonical and shit.</font>
+
+359
+00:19:51,857 --> 00:19:56,237
+<font face="Serif" size="18">We could a milked that thing for a whole season.
+Or, like, a three-episode arc at least.</font>
+
+360
+00:19:56,320 --> 00:20:01,075
+<font face="Serif" size="18">Sorry. That's just us. We love helping,
+God beings to God being.</font>
+
+361
+00:20:01,158 --> 00:20:03,786
+<font face="Serif" size="18">Seriously. I was going to fix that.</font>
+
+362
+00:20:08,958 --> 00:20:10,251
+<font face="Serif" size="18">Shit. They're coming back.</font>
+
+363
+00:20:11,001 --> 00:20:14,588
+<font face="Serif" size="18">Can we turn on the AC?
+It's, like, a thousand degrees outside.</font>
+
+364
+00:20:14,672 --> 00:20:15,965
+<font face="Serif" size="18">- [phone chimes]
+- [gasps] Yes!</font>
+
+365
+00:20:16,048 --> 00:20:22,054
+<font face="Serif" size="18">New follower. Named CryptoForBareToes?
+Not sure I get it, but sounds like business.</font>
+
+366
+00:20:22,138 --> 00:20:24,014
+<font face="Serif" size="18">- Proud of you, honey.
+- ls Dad okay?</font>
+
+367
+00:20:24,098 --> 00:20:27,017
+<font face="Serif" size="18">Yes. I'm just writing my second book.</font>
+
+368
+00:20:27,101 --> 00:20:30,062
+<font face="Serif" size="18">I don't know what it's going to be about,
+but I can tell you one thing.</font>
+
+369
+00:20:30,146 --> 00:20:33,733
+<font face="Serif" size="18">The title is <i>Jerry Smith Presents A Book
+by Jerry Smith.</i></font>
+
+370
+00:20:34,525 --> 00:20:35,484
+<font face="Serif" size="18">Chapter one.</font>
+
+371
+00:20:39,530 --> 00:20:40,531
+<font face="Serif" size="18">Fuck!</font>
+
+372
+00:20:42,199 --> 00:20:44,660
+<font face="Serif" size="18">[Rick] Morty, get your ass in the garage.</font>
+
+373
+00:20:49,623 --> 00:20:53,335
+<font face="Serif" size="18">Hoo-ha! Check it out.
+A dimension where hats wear people.</font>
+
+374
+00:20:53,419 --> 00:20:54,336
+<font face="Serif" size="18">Mm.</font>
+
+375
+00:20:55,087 --> 00:20:56,839
+<font face="Serif" size="18">I did it! I fixed portal travel.</font>
+
+376
+00:20:56,922 --> 00:20:59,842
+<font face="Serif" size="18">- Oh, shit.
+- Figured my guy deserves a vacation.</font>
+
+377
+00:20:59,925 --> 00:21:03,179
+<font face="Serif" size="18">- Boob World!
+- You're damn right. And it's Areola Week.</font>
+
+378
+00:21:03,262 --> 00:21:06,849
+<font face="Serif" size="18">- All right! Good old-fashioned portal fun.
+- Yep. Like this.</font>
+
+379
+00:21:06,932 --> 00:21:10,102
+<font face="Serif" size="18">- It's going to be classic episodes, Morty.
+- Oh, I'm going to puke, Rick!</font>
+
+380
+00:21:10,186 --> 00:21:14,356
+<font face="Serif" size="18">Portaling in. Wrecking shit, Portaling out, Morty.
+Oh, my God. Adventures, Morty.</font>
+
+381
+00:21:14,440 --> 00:21:19,278
+<font face="Serif" size="18">Social commentary. Crude characters. Here we go.
+Rick and Morty time!</font>
+
+382
+00:21:19,653 --> 00:21:20,780
+<font face="Serif" size="18">[theme music playing]</font>
+
+383
+00:21:51,435 --> 00:21:52,770
+<font face="Serif" size="18">This is our home now.</font>
+
+384
+00:21:52,853 --> 00:21:55,022
+<font face="Serif" size="18">We shall live out the rest of our days here.</font>
+
+385
+00:21:55,105 --> 00:21:57,858
+<font face="Serif" size="18">Never interfering with the ways
+of the universe again.</font>
+
+386
+00:21:57,942 --> 00:21:59,318
+<font face="Serif" size="18">We are content.</font>
+
+387
+00:21:59,401 --> 00:22:00,611
+<font face="Serif" size="18">It was a good run.</font>
+
+388
+00:22:00,694 --> 00:22:02,488
+<font face="Serif" size="18">Speaking of a good run.</font>
+
+389
+00:22:02,571 --> 00:22:06,742
+<font face="Serif" size="18">I bet I could switch heel onto that Manny pad,
+big spin out, tre flip that gap, 5-0 the rail,</font>
+
+390
+00:22:06,826 --> 00:22:10,287
+<font face="Serif" size="18">drop into the bowl, stale fish into a Christ Air,
+and then we get fucking wrecked.</font>
+
+391
+00:22:10,371 --> 00:22:12,122
+<font face="Serif" size="18">It's on, lguanadon.</font>
+
+392
+00:22:12,206 --> 00:22:14,834
+<font face="Serif" size="18">♪ <i>Grinding some rocks!
+Nollie the hubba</i></font><font face="Serif" size="18"> ♪</font>
+
+393
+00:22:14,917 --> 00:22:17,962
+<font face="Serif" size="18">♪ <i>Goofyfoot, kick flip
+Take care of the Groms!</i></font><font face="Serif" size="18"> ♪</font>
+
+394
+00:22:18,045 --> 00:22:20,714
+<font face="Serif" size="18">♪ <i>But you're a bad little dino boy</i></font><font face="Serif" size="18"> ♪</font>
+
+395
+00:22:20,798 --> 00:22:24,301
+<font face="Serif" size="18">♪ <i>And you're rotting in a crater
+So now let's make some noise!</i></font><font face="Serif" size="18"> ♪</font>
+

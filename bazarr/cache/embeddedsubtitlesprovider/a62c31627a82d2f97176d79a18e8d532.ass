@@ -1,0 +1,385 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 872
+Timer: 100.0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2.37,1.97,2,20,20,20,0
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:42.13,0:00:43.34,Default,,0,0,0,,{\i1}Time.{\i0}
+Dialogue: 0,0:00:46.55,0:00:47.76,Default,,0,0,0,,{\i1}Space.{\i0}
+Dialogue: 0,0:00:49.30,0:00:50.30,Default,,0,0,0,,{\i1}Reality.{\i0}
+Dialogue: 0,0:00:53.30,0:00:55.26,Default,,0,0,0,,{\i1}It's more than a linear path.{\i0}
+Dialogue: 0,0:00:59.84,0:01:04.67,Default,,0,0,0,,{\i1}It's a prism of endless possibility.{\i0}
+Dialogue: 0,0:01:06.88,0:01:10.76,Default,,0,0,0,,{\i1}Where a single choice can branch out{\i0}\N{\i1}into infinite realities,{\i0}
+Dialogue: 0,0:01:13.09,0:01:16.22,Default,,0,0,0,,{\i1}creating alternate worlds{\i0}\N{\i1}from the ones you know.{\i0}
+Dialogue: 0,0:01:19.88,0:01:21.63,Default,,0,0,0,,{\i1}I am the Watcher.{\i0}
+Dialogue: 0,0:01:23.59,0:01:26.47,Default,,0,0,0,,{\i1}I am your guide{\i0}\N{\i1}through these vast new realities.{\i0}
+Dialogue: 0,0:01:28.30,0:01:29.63,Default,,0,0,0,,{\i1}Follow me{\i0}
+Dialogue: 0,0:01:30.13,0:01:31.96,Default,,0,0,0,,{\i1}and ponder the question...{\i0}
+Dialogue: 0,0:01:35.30,0:01:36.76,Default,,0,0,0,,{\i1}"What if?"{\i0}
+Dialogue: 0,0:01:44.46,0:01:46.13,Default,,0,0,0,,{\i1}Every journey has a beginning,{\i0}
+Dialogue: 0,0:01:46.96,0:01:49.67,Default,,0,0,0,,but change one step along the way,
+Dialogue: 0,0:01:49.76,0:01:53.47,Default,,0,0,0,,and you could end up at a very\Ndifferent destination.
+Dialogue: 0,0:01:57.21,0:01:58.79,Default,,0,0,0,,Come on. It's okay. Laugh. Hey!
+Dialogue: 0,0:01:58.88,0:02:00.88,Default,,0,0,0,,Is it cool\Nif I take a picture with you?
+Dialogue: 0,0:02:00.96,0:02:04.00,Default,,0,0,0,,Yes, it's very cool.\NPlease, no gang signs.
+Dialogue: 0,0:02:04.09,0:02:05.38,Default,,0,0,0,,No, throw it up. I'm kidding.
+Dialogue: 0,0:02:05.46,0:02:08.46,Default,,0,0,0,,Yeah, peace. I love peace.\NI'd be out of a job with peace.
+Dialogue: 0,0:02:10.96,0:02:12.34,Default,,0,0,0,,Contact left!
+Dialogue: 0,0:02:13.13,0:02:14.84,Default,,0,0,0,,Jimmy, stay with Stark!
+Dialogue: 0,0:02:16.88,0:02:19.13,Default,,0,0,0,,-Wait, wait, wait. Give me a gun.\N-Stay here.
+Dialogue: 0,0:02:42.09,0:02:44.76,Default,,0,0,0,,That was a spectacular\Nentrance, seriously.
+Dialogue: 0,0:02:44.84,0:02:47.22,Default,,0,0,0,,The Ten Rings have reinforcements\Nen route. Let's move.
+Dialogue: 0,0:02:47.30,0:02:50.59,Default,,0,0,0,,Fine by me, Lieutenant Killmonger?\NWhat is that?
+Dialogue: 0,0:02:50.67,0:02:51.92,Default,,0,0,0,,-German?\N-A nickname.
+Dialogue: 0,0:02:54.71,0:02:57.67,Default,,0,0,0,,That's clearly a good fit.\NI see where they got it.
+Dialogue: 0,0:02:57.76,0:02:59.68,Default,,0,0,0,,Uh, what's your afternoon like?
+Dialogue: 0,0:03:03.92,0:03:07.50,Default,,0,0,0,,Heroes are not born,\Nthey're forged in darkness.
+Dialogue: 0,0:03:11.63,0:03:13.05,Default,,0,0,0,,{\i1}Shaped in battle.{\i0}
+Dialogue: 0,0:03:16.84,0:03:18.84,Default,,0,0,0,,{\i1}Defined by sacrifice.{\i0}
+Dialogue: 0,0:03:18.92,0:03:22.13,Default,,0,0,0,,And I am Iron Man.
+Dialogue: 0,0:03:23.46,0:03:26.71,Default,,0,0,0,,Without Tony Stark's\Nfateful capture in Afghanistan,
+Dialogue: 0,0:03:26.80,0:03:30.22,Default,,0,0,0,,the Age of Iron Man\Nwould never come to pass.
+Dialogue: 0,0:03:30.63,0:03:33.88,Default,,0,0,0,,{\i1}Though the man was saved, a hero was lost,{\i0}
+Dialogue: 0,0:03:33.96,0:03:35.96,Default,,0,0,0,,{\i1}and a villain was given a new chance.{\i0}
+Dialogue: 0,0:03:36.30,0:03:38.22,Default,,0,0,0,,Mr. Stark, were you injured in the attack?
+Dialogue: 0,0:03:38.30,0:03:41.18,Default,,0,0,0,,No, but I did spill my drink,\Nand it was a '26 Macallan,
+Dialogue: 0,0:03:41.26,0:03:43.64,Default,,0,0,0,,so I'm pretty sure that's a war crime.
+Dialogue: 0,0:03:43.71,0:03:45.92,Default,,0,0,0,,Excuse me, sir.\NHarry Whittington, {\i1}British Post.{\i0}
+Dialogue: 0,0:03:46.01,0:03:48.43,Default,,0,0,0,,Did you learn any lessons\Nfrom your time in Afghanistan?
+Dialogue: 0,0:03:48.51,0:03:51.30,Default,,0,0,0,,I did. Never travel anywhere that\Ndoesn't have a Four Seasons.
+Dialogue: 0,0:03:52.84,0:03:55.47,Default,,0,0,0,,Mr. Stark,\Nhas this experience changed you?
+Dialogue: 0,0:03:55.55,0:03:59.80,Default,,0,0,0,,Well, I saw young Americans\Nkilled by the very weapons I created
+Dialogue: 0,0:03:59.88,0:04:05.05,Default,,0,0,0,,to protect them. And I realized\Nwe have to do better,
+Dialogue: 0,0:04:05.13,0:04:08.09,Default,,0,0,0,,build bigger, and fight badder for them.
+Dialogue: 0,0:04:08.17,0:04:11.34,Default,,0,0,0,,Which is why I'm bringing in\NLieutenant Erik Stevens,
+Dialogue: 0,0:04:11.42,0:04:13.34,Default,,0,0,0,,the Navy SEAL who saved my life,
+Dialogue: 0,0:04:13.42,0:04:16.92,Default,,0,0,0,,as Stark Industries'\Nnew chief security officer.
+Dialogue: 0,0:04:17.01,0:04:19.55,Default,,0,0,0,,This a load of bull.\NThat was supposed to be my promotion.
+Dialogue: 0,0:04:23.55,0:04:25.72,Default,,0,0,0,,All right! Tony's back, huh?
+Dialogue: 0,0:04:25.96,0:04:27.88,Default,,0,0,0,,Lieutenant. Lieutenant.\NChristine Everhart.
+Dialogue: 0,0:04:27.96,0:04:29.17,Default,,0,0,0,,I think we're done here.
+Dialogue: 0,0:04:29.26,0:04:31.59,Default,,0,0,0,,What is it you were doing\Nin the Kunar province?
+Dialogue: 0,0:04:31.67,0:04:33.84,Default,,0,0,0,,Uh, saving me.\NPretty sure we went over this.
+Dialogue: 0,0:04:33.92,0:04:36.30,Default,,0,0,0,,It's just strange.\NSince on the day of the attack,
+Dialogue: 0,0:04:36.38,0:04:38.67,Default,,0,0,0,,his unit was stationed 400 klicks away.
+Dialogue: 0,0:04:38.76,0:04:41.80,Default,,0,0,0,,If you're trying to imply that he had\Nadvanced knowledge of the attack...
+Dialogue: 0,0:04:41.88,0:04:45.30,Default,,0,0,0,,She'd be right. I uncovered plans\Nto assassinate Tony Stark
+Dialogue: 0,0:04:45.38,0:04:47.63,Default,,0,0,0,,while on a deep cover operation\Ninside the Ten Rings.
+Dialogue: 0,0:04:47.71,0:04:50.84,Default,,0,0,0,,Whoa! Whoa!\NWell, there you have it, folks.
+Dialogue: 0,0:04:50.92,0:04:53.09,Default,,0,0,0,,That's going to be a wrap\Non this conversation.
+Dialogue: 0,0:04:53.17,0:04:55.05,Default,,0,0,0,,Yeah. Yeah, you'd like that, wouldn't you?
+Dialogue: 0,0:04:55.13,0:04:59.26,Default,,0,0,0,,Because those plans were bankrolled\Nby Stark Industry COO Obadiah Stane.
+Dialogue: 0,0:05:01.34,0:05:02.34,Default,,0,0,0,,Tony, I...
+Dialogue: 0,0:05:02.42,0:05:05.84,Default,,0,0,0,,I don't know\Nwhat this kid's talking about.
+Dialogue: 0,0:05:05.92,0:05:07.96,Default,,0,0,0,,Let's get outta here\Nand work through this.
+Dialogue: 0,0:05:08.05,0:05:10.84,Default,,0,0,0,,No, no, don't you worry about that.\NI brought receipts.
+Dialogue: 0,0:05:10.92,0:05:13.88,Default,,0,0,0,,Wire transfers, bank documents,\Nphone records.
+Dialogue: 0,0:05:13.96,0:05:15.71,Default,,0,0,0,,Google it. I just dropped it all online.
+Dialogue: 0,0:05:17.42,0:05:18.42,Default,,0,0,0,,I knew it.
+Dialogue: 0,0:05:18.76,0:05:20.05,Default,,0,0,0,,Tony...
+Dialogue: 0,0:05:20.13,0:05:21.92,Default,,0,0,0,,You son of a... Security!
+Dialogue: 0,0:05:22.01,0:05:23.30,Default,,0,0,0,,Oh, man.
+Dialogue: 0,0:05:28.76,0:05:30.68,Default,,0,0,0,,Ah. I never liked that guy.
+Dialogue: 0,0:05:31.59,0:05:36.26,Default,,0,0,0,,I'll say this for the new guy,\Nhe certainly makes for good TV. Right?
+Dialogue: 0,0:05:36.80,0:05:39.51,Default,,0,0,0,,Terrorists, corporate raiders,\N{\i1}Maxim{\i0} cover models.
+Dialogue: 0,0:05:39.59,0:05:41.22,Default,,0,0,0,,What do they all have in common?
+Dialogue: 0,0:05:41.30,0:05:43.47,Default,,0,0,0,,-They came for the king.\N-And they missed.
+Dialogue: 0,0:05:43.55,0:05:44.55,Default,,0,0,0,,I owe it all to you.
+Dialogue: 0,0:05:44.63,0:05:49.80,Default,,0,0,0,,And that's why I want you by my side\N24-7 as my new COO.
+Dialogue: 0,0:05:49.88,0:05:51.80,Default,,0,0,0,,Wait. You're giving him Obadiah's job?
+Dialogue: 0,0:05:51.88,0:05:54.71,Default,,0,0,0,,Damn, I don't know, Mr. Stark.\NI think I'm more of a soldier.
+Dialogue: 0,0:05:54.80,0:05:58.13,Default,,0,0,0,,Which is why it's perfect.\NYou, me. We'll be like Butch and Sundance.
+Dialogue: 0,0:05:58.21,0:06:00.54,Default,,0,0,0,,-They died at the end, Tony.\N-Okay, bad example.
+Dialogue: 0,0:06:00.63,0:06:03.88,Default,,0,0,0,,Fact remains, I need a killer.\NFigurative one, of course.
+Dialogue: 0,0:06:03.96,0:06:06.34,Default,,0,0,0,,But, hey, a literal one can't hurt either.
+Dialogue: 0,0:06:08.13,0:06:09.96,Default,,0,0,0,,-To killers.\N-Yeah.
+Dialogue: 0,0:06:10.05,0:06:12.38,Default,,0,0,0,,You're Butch. I'm Sundance.\NJust so we're clear.
+Dialogue: 0,0:06:14.63,0:06:20.46,Default,,0,0,0,,So, Colonel Rhodes, what can you tell me\Nabout our knight in shining camouflage?
+Dialogue: 0,0:06:20.96,0:06:24.34,Default,,0,0,0,,Graduated Annapolis at 19,\NMIT a year later.
+Dialogue: 0,0:06:24.42,0:06:26.71,Default,,0,0,0,,Made quite a name for himself\Nsince joining the SEALs
+Dialogue: 0,0:06:26.80,0:06:30.43,Default,,0,0,0,,as part of an elite ghost squad\Nthat specializes in high-target wetwork.
+Dialogue: 0,0:06:30.51,0:06:32.55,Default,,0,0,0,,-Please tell me that's plumbing.\N-Assassinations.
+Dialogue: 0,0:06:32.63,0:06:34.51,Default,,0,0,0,,Jeez. Glad I asked for clarification.
+Dialogue: 0,0:06:34.59,0:06:36.88,Default,,0,0,0,,I'd say he's done pretty good\Nfor a kid from Oakland.
+Dialogue: 0,0:06:36.96,0:06:40.04,Default,,0,0,0,,I mean, what's your concern, Pepper?\NOther than the killing part.
+Dialogue: 0,0:06:40.13,0:06:43.92,Default,,0,0,0,,Lot of people come around looking to get\Ntheir moment in the sun with Tony Stark,
+Dialogue: 0,0:06:44.01,0:06:47.51,Default,,0,0,0,,and it's my job to sniff out\Nexactly what it is they want with him.
+Dialogue: 0,0:06:47.59,0:06:49.17,Default,,0,0,0,,-And what do you smell?\N-Nothing.
+Dialogue: 0,0:06:49.51,0:06:53.30,Default,,0,0,0,,And that's the problem.\NEveryone wants something.
+Dialogue: 0,0:06:57.01,0:07:00.09,Default,,0,0,0,,Welcome to Candy Land.\NI built everything in here myself.
+Dialogue: 0,0:07:00.17,0:07:02.63,Default,,0,0,0,,Well, except for the Lambo.\NThat's 3D printed.
+Dialogue: 0,0:07:02.71,0:07:04.21,Default,,0,0,0,,Oh, man. Repulsor tech?
+Dialogue: 0,0:07:04.30,0:07:07.01,Default,,0,0,0,,Trying to miniaturize the Jericho\Ninto a portable firearm.
+Dialogue: 0,0:07:07.09,0:07:08.09,Default,,0,0,0,,Bet she pops.
+Dialogue: 0,0:07:08.17,0:07:10.25,Default,,0,0,0,,Easy, killer. I come in peace.
+Dialogue: 0,0:07:10.34,0:07:12.63,Default,,0,0,0,,What did your old man used to say?\NAh. That's right.
+Dialogue: 0,0:07:12.71,0:07:15.17,Default,,0,0,0,,"Peace means having a bigger stick\Nthan the other guy."
+Dialogue: 0,0:07:16.21,0:07:18.04,Default,,0,0,0,,Hey, play nice. He's a friend.
+Dialogue: 0,0:07:18.13,0:07:21.34,Default,,0,0,0,,Lot of good it did dear old Dad.\NWhat about you?
+Dialogue: 0,0:07:21.42,0:07:23.30,Default,,0,0,0,,-You close with yours?\N-Nah.
+Dialogue: 0,0:07:24.09,0:07:26.84,Default,,0,0,0,,He died, too. Gang violence.
+Dialogue: 0,0:07:27.71,0:07:32.25,Default,,0,0,0,,Weapons in the wrong hands.\NWish no one had to fire them at all.
+Dialogue: 0,0:07:33.59,0:07:35.63,Default,,0,0,0,,For real. Then again...
+Dialogue: 0,0:07:36.42,0:07:38.30,Default,,0,0,0,,-Ah, forget it.\N-What?
+Dialogue: 0,0:07:38.38,0:07:39.71,Default,,0,0,0,,It's just my doctoral thesis.
+Dialogue: 0,0:07:39.80,0:07:42.38,Default,,0,0,0,,I developed plans\Nfor an automated combat drone.
+Dialogue: 0,0:07:42.46,0:07:44.71,Default,,0,0,0,,Thought I was going to make\Nhuman soldiers obsolete.
+Dialogue: 0,0:07:44.80,0:07:46.80,Default,,0,0,0,,But I could never crack the interface.
+Dialogue: 0,0:07:46.88,0:07:48.80,Default,,0,0,0,,'Cause you didn't have me. Let's do this.
+Dialogue: 0,0:07:48.88,0:07:50.51,Default,,0,0,0,,Let's build your science fair project.
+Dialogue: 0,0:07:50.59,0:07:52.72,Default,,0,0,0,,You saved my life.\NI'd like to return the favor.
+Dialogue: 0,0:07:54.46,0:07:57.21,Default,,0,0,0,,Jarvis, search the MIT\Ndoctoral thesis database.
+Dialogue: 0,0:07:57.30,0:07:58.80,Default,,0,0,0,,-Project...\N-Liberator.
+Dialogue: 0,0:07:58.88,0:08:01.01,Default,,0,0,0,,You've got an ear for branding.\NI'll give you that.
+Dialogue: 0,0:08:02.92,0:08:05.67,Default,,0,0,0,,Wow. Uh, bold design choice.
+Dialogue: 0,0:08:05.76,0:08:07.39,Default,,0,0,0,,What? I like anime.
+Dialogue: 0,0:08:07.46,0:08:11.04,Default,,0,0,0,,Worst-case scenario, we'll end up with\Nthe world's most expensive Gundam model.
+Dialogue: 0,0:08:11.13,0:08:12.63,Default,,0,0,0,,Jarvis, case the warehouse.
+Dialogue: 0,0:08:12.76,0:08:15.30,Default,,0,0,0,,We're gonna need FPV wiring,\Nnanocircuitry,
+Dialogue: 0,0:08:15.38,0:08:17.84,Default,,0,0,0,,and Bloody Marys.\NHangover's starting to kick in.
+Dialogue: 0,0:08:44.13,0:08:47.30,Default,,0,0,0,,Human pilots mean human error,\Nbut with Jarvis at the wheel,
+Dialogue: 0,0:08:47.38,0:08:52.13,Default,,0,0,0,,drones can react to stimuli in real-time\Nand no one needs to lift a finger.
+Dialogue: 0,0:08:53.96,0:08:58.25,Default,,0,0,0,,{\i1}Operations test.{\i0}\N{\i1}Stark Liberator drone mark one, showtime.{\i0}
+Dialogue: 0,0:09:02.59,0:09:04.38,Default,,0,0,0,,{\i1}It's only a failure if it explodes.{\i0}
+Dialogue: 0,0:09:05.21,0:09:06.67,Default,,0,0,0,,{\i1}Okay, that changes things.{\i0}
+Dialogue: 0,0:09:07.26,0:09:10.26,Default,,0,0,0,,{\i1}It appears the drone's regulating{\i0}\N{\i1}processor is over-clocked.{\i0}
+Dialogue: 0,0:09:10.34,0:09:12.72,Default,,0,0,0,,You know, we need another power source.
+Dialogue: 0,0:09:12.80,0:09:18.05,Default,,0,0,0,,Hey. Hey. If we could\Nminiaturize an arc reactor...
+Dialogue: 0,0:09:18.17,0:09:20.75,Default,,0,0,0,,-No, that's a dumb idea.\N-What we need is Vibranium.
+Dialogue: 0,0:09:20.84,0:09:23.67,Default,,0,0,0,,With the right juice, it can act\Nas a self-sustaining energy source.
+Dialogue: 0,0:09:23.76,0:09:25.51,Default,,0,0,0,,Yeah. Now you're thinking.
+Dialogue: 0,0:09:25.59,0:09:27.76,Default,,0,0,0,,Too bad Pops used up the last of it\Nduring the war.
+Dialogue: 0,0:09:27.84,0:09:29.72,Default,,0,0,0,,Hmm. Not all of it.
+Dialogue: 0,0:09:39.38,0:09:40.59,Default,,0,0,0,,Where did you get this?
+Dialogue: 0,0:09:40.67,0:09:42.80,Default,,0,0,0,,This kind of stuff pops up\Nall over the globe.
+Dialogue: 0,0:09:42.88,0:09:44.21,Default,,0,0,0,,You need the right hook up.
+Dialogue: 0,0:09:44.30,0:09:46.13,Default,,0,0,0,,I might have just the guy.
+Dialogue: 0,0:09:46.21,0:09:50.13,Default,,0,0,0,,Ulysses Klaue? No, Tony. Absolutely not.
+Dialogue: 0,0:09:50.21,0:09:52.71,Default,,0,0,0,,Are you allowed to say that\Nto people in my tax bracket?
+Dialogue: 0,0:09:52.80,0:09:54.22,Default,,0,0,0,,Tony, in case you forgot,
+Dialogue: 0,0:09:54.30,0:09:58.38,Default,,0,0,0,,Stark Industries doesn't fraternize\Nwith black market arms dealers.
+Dialogue: 0,0:09:58.46,0:10:00.42,Default,,0,0,0,,-She's right, Tony. I agree.\N-Wait. What?
+Dialogue: 0,0:10:00.51,0:10:02.72,Default,,0,0,0,,Things go south,\Nshareholders are gonna flip.
+Dialogue: 0,0:10:02.80,0:10:04.76,Default,,0,0,0,,Unless we secure\Nsome kind of diplomatic cover.
+Dialogue: 0,0:10:04.84,0:10:06.80,Default,,0,0,0,,We send Rhodey. There.\NHe's U.S. Air Force,
+Dialogue: 0,0:10:06.88,0:10:09.71,Default,,0,0,0,,and he's the company's military liaison.\NWe are all aboveboard.
+Dialogue: 0,0:10:09.80,0:10:11.51,Default,,0,0,0,,I think that's a great idea.
+Dialogue: 0,0:10:11.59,0:10:14.63,Default,,0,0,0,,Excellent. I's dotted, T's crossed.\NPep, drop the purchase order.
+Dialogue: 0,0:10:20.38,0:10:22.42,Default,,0,0,0,,Break out the fine China.
+Dialogue: 0,0:10:22.51,0:10:26.01,Default,,0,0,0,,Not every day the Americans get down\Nin the muck with the likes of me.
+Dialogue: 0,0:10:26.09,0:10:28.84,Default,,0,0,0,,Can't clean up the world\Nwithout getting your hands dirty.
+Dialogue: 0,0:10:29.05,0:10:32.43,Default,,0,0,0,,Oh! That is good.\NYou should stitch that on a pillow.
+Dialogue: 0,0:10:32.55,0:10:34.59,Default,,0,0,0,,{\i1}Ugh!{\i0}\N{\i1}This guy will run his mouth all day.{\i0}
+Dialogue: 0,0:10:34.67,0:10:36.25,Default,,0,0,0,,{\i1}Tell him you want to see the product.{\i0}
+Dialogue: 0,0:10:36.34,0:10:37.92,Default,,0,0,0,,So, about that Vibranium?
+Dialogue: 0,0:10:38.01,0:10:41.39,Default,,0,0,0,,Oh. Oh. No foreplay, eh?
+Dialogue: 0,0:10:41.46,0:10:44.34,Default,,0,0,0,,You know what?\NIt's a waste of time anyway.
+Dialogue: 0,0:10:45.59,0:10:48.97,Default,,0,0,0,,Dora Milaje spear.
+Dialogue: 0,0:10:49.05,0:10:52.38,Default,,0,0,0,,Bought it off the black market\Nfor ten mil. Steep, I know. But...
+Dialogue: 0,0:10:52.46,0:10:56.04,Default,,0,0,0,,Please, Tony spends $10 million\Non a slow Tuesday in Vegas.
+Dialogue: 0,0:10:56.13,0:10:57.38,Default,,0,0,0,,Good.
+Dialogue: 0,0:10:57.46,0:11:00.88,Default,,0,0,0,,Now that I know you mean business,\Nwe can move on to the good stuff.
+Dialogue: 0,0:11:08.30,0:11:09.30,Default,,0,0,0,,Uh...
+Dialogue: 0,0:11:10.63,0:11:12.05,Default,,0,0,0,,Where did you find all this?
+Dialogue: 0,0:11:13.09,0:11:15.47,Default,,0,0,0,,What's going on here? We've been breached.
+Dialogue: 0,0:11:15.55,0:11:17.18,Default,,0,0,0,,Find them and light them up.
+Dialogue: 0,0:11:20.26,0:11:23.64,Default,,0,0,0,,Killmonger, you got eyes on this?\NKillmonger!
+Dialogue: 0,0:11:25.34,0:11:27.05,Default,,0,0,0,,Sector four to sector one.
+Dialogue: 0,0:11:28.67,0:11:29.92,Default,,0,0,0,,Sector four to sector one.
+Dialogue: 0,0:11:30.01,0:11:32.01,Default,,0,0,0,,Killmonger, on comms.\NAre you seeing this?
+Dialogue: 0,0:12:05.38,0:12:07.51,Default,,0,0,0,,Our quarrel is not with you, Colonel.
+Dialogue: 0,0:12:07.59,0:12:09.92,Default,,0,0,0,,Oh, really? 'Cause you're sending me\Nmixed messages.
+Dialogue: 0,0:12:10.01,0:12:12.55,Default,,0,0,0,,Let me take the Vibranium\Nback where it belongs.
+Dialogue: 0,0:12:12.63,0:12:14.42,Default,,0,0,0,,Sorry, cuz.\NThat's ain't gonna fly.
+Dialogue: 0,0:12:27.26,0:12:29.26,Default,,0,0,0,,Really wish it didn't have\Nto go down like this.
+Dialogue: 0,0:12:36.38,0:12:39.84,Default,,0,0,0,,Stark R and D is no joke.\NThe sonic taser thing is legit.
+Dialogue: 0,0:12:41.05,0:12:42.05,Default,,0,0,0,,But this...
+Dialogue: 0,0:12:46.38,0:12:48.71,Default,,0,0,0,,-This I'm really feeling.\N-Erik, why?
+Dialogue: 0,0:12:50.42,0:12:53.46,Default,,0,0,0,,Better question. Why wear the uniform\Nof your own oppressors?
+Dialogue: 0,0:12:53.55,0:12:55.72,Default,,0,0,0,,Fight for them? Die for them?
+Dialogue: 0,0:12:55.80,0:13:00.76,Default,,0,0,0,,Kid, you've gotta be part of the system\Nto change the system.
+Dialogue: 0,0:13:00.84,0:13:02.97,Default,,0,0,0,,Nah. You can burn it down.
+Dialogue: 0,0:13:10.21,0:13:12.21,Default,,0,0,0,,Ooh!
+Dialogue: 0,0:13:12.30,0:13:16.47,Default,,0,0,0,,My, my, my. I would not want to play chess\Nwith you, my friend.
+Dialogue: 0,0:13:16.55,0:13:20.05,Default,,0,0,0,,I leaked word of the sale\Nto the Wakandan War Dogs.
+Dialogue: 0,0:13:20.13,0:13:23.92,Default,,0,0,0,,And it all played out\Njust as you predicted it would.
+Dialogue: 0,0:13:27.88,0:13:30.71,Default,,0,0,0,,We better load up the product.\NThe Dora'll be here soon.
+Dialogue: 0,0:13:55.38,0:13:59.96,Default,,0,0,0,,T'{\i1}We will not sit idly by{\i0}\N{\i1}while our resources are pillaged,{\i0}
+Dialogue: 0,0:14:00.05,0:14:03.97,Default,,0,0,0,,{\i1}our people killed at the hands{\i0}\N{\i1}of American imperialists.{\i0}
+Dialogue: 0,0:14:04.05,0:14:06.30,Default,,0,0,0,,Hey, Tony.\NBrought you a souvenir.
+Dialogue: 0,0:14:06.96,0:14:09.38,Default,,0,0,0,,What, airport gift shop out of Toblerones?
+Dialogue: 0,0:14:09.46,0:14:10.88,Default,,0,0,0,,So you've been watching the news?
+Dialogue: 0,0:14:10.96,0:14:13.34,Default,,0,0,0,,We lost one of our own.\NLet's show the world who's boss.
+Dialogue: 0,0:14:13.80,0:14:15.97,Default,,0,0,0,,And just who is the boss, Lieutenant?
+Dialogue: 0,0:14:16.05,0:14:18.01,Default,,0,0,0,,Last I checked,\Nyour name's on the building.
+Dialogue: 0,0:14:18.46,0:14:21.13,Default,,0,0,0,,And the paper trail.\NYou certainly saw to that.
+Dialogue: 0,0:14:22.01,0:14:23.43,Default,,0,0,0,,But not to everything.
+Dialogue: 0,0:14:27.71,0:14:31.42,Default,,0,0,0,,Word to the wise. Never play Clue\Nwith Jarvis. He sees all.
+Dialogue: 0,0:14:31.51,0:14:34.97,Default,,0,0,0,,Go ahead, call the cops.\NStill won't get here in time to save you.
+Dialogue: 0,0:14:35.05,0:14:38.26,Default,,0,0,0,,Yeah, well, police are the law.\NI want justice.
+Dialogue: 0,0:14:42.09,0:14:44.38,Default,,0,0,0,,You? You never lifted\Na finger in your life.
+Dialogue: 0,0:14:44.46,0:14:46.38,Default,,0,0,0,,You gonna ask Pepper to come and kill me?
+Dialogue: 0,0:14:46.46,0:14:49.88,Default,,0,0,0,,Yeah, probably not. But there's no need.\NI melted down that ring of yours.
+Dialogue: 0,0:14:54.92,0:14:56.84,Default,,0,0,0,,You were right.\NVibranium worked like a charm.
+Dialogue: 0,0:15:00.26,0:15:02.09,Default,,0,0,0,,What do you say? To killers?
+Dialogue: 0,0:15:16.46,0:15:18.71,Default,,0,0,0,,Whoa, he's got your number, am I right?
+Dialogue: 0,0:15:18.80,0:15:22.38,Default,,0,0,0,,You forget you programmed the drone\Nyourself? Your moves are his moves.
+Dialogue: 0,0:15:22.46,0:15:24.17,Default,,0,0,0,,I guess I have to freestyle, then.
+Dialogue: 0,0:15:56.26,0:15:59.09,Default,,0,0,0,,Each one is for a kill.\NBelieve it or not, Tony,
+Dialogue: 0,0:15:59.17,0:16:01.09,Default,,0,0,0,,I was really hoping\Nyou wouldn't make the cut.
+Dialogue: 0,0:16:02.84,0:16:06.17,Default,,0,0,0,,For a minute, I really thought it was\Nyou and me against the world.
+Dialogue: 0,0:16:06.67,0:16:09.05,Default,,0,0,0,,We're not fighting the same battles, Tony.
+Dialogue: 0,0:16:10.38,0:16:15.01,Default,,0,0,0,,Two gear-head orphans\Ntrying to do right by our fathers?
+Dialogue: 0,0:16:15.09,0:16:16.47,Default,,0,0,0,,We sound the same to me.
+Dialogue: 0,0:16:16.55,0:16:18.38,Default,,0,0,0,,The difference between you and me...
+Dialogue: 0,0:16:20.01,0:16:22.93,Default,,0,0,0,,...is that you can't see the difference\Nbetween you and me.
+Dialogue: 0,0:16:38.84,0:16:42.47,Default,,0,0,0,,Vibranium spear. Wakandan issue.\NDefinite hit job.
+Dialogue: 0,0:16:42.55,0:16:43.97,Default,,0,0,0,,The Wakandans sent a message.
+Dialogue: 0,0:16:44.05,0:16:45.34,Default,,0,0,0,,Not a very subtle one.
+Dialogue: 0,0:16:45.42,0:16:47.34,Default,,0,0,0,,How did none of this\Nget captured on security?
+Dialogue: 0,0:16:47.42,0:16:50.00,Default,,0,0,0,,Jarvis was wiped clean. Conveniently.
+Dialogue: 0,0:16:50.63,0:16:51.92,Default,,0,0,0,,What are you implying, Pepper?
+Dialogue: 0,0:16:52.01,0:16:54.93,Default,,0,0,0,,I don't know, three murders in two days,\Nand one man at the center?
+Dialogue: 0,0:16:55.01,0:16:57.43,Default,,0,0,0,,You are talking\Nto a highly decorated Naval officer.
+Dialogue: 0,0:16:57.51,0:16:59.80,Default,,0,0,0,,It's cool, General.\NCut the lady some slack.
+Dialogue: 0,0:16:59.88,0:17:01.38,Default,,0,0,0,,Her and Tony were tight.
+Dialogue: 0,0:17:02.88,0:17:03.96,Default,,0,0,0,,What's the next move?
+Dialogue: 0,0:17:04.05,0:17:06.09,Default,,0,0,0,,They want a war,\Nso that's what we'll give 'em.
+Dialogue: 0,0:17:06.17,0:17:07.88,Default,,0,0,0,,Put the Liberator drones into production.
+Dialogue: 0,0:17:07.96,0:17:11.13,Default,,0,0,0,,Okay, hold on. That'll require\Na multi-billion-dollar allocation.
+Dialogue: 0,0:17:11.21,0:17:12.79,Default,,0,0,0,,The board will need to be consulted.
+Dialogue: 0,0:17:12.88,0:17:14.63,Default,,0,0,0,,The Patriot Act should cover the red tape.
+Dialogue: 0,0:17:14.71,0:17:18.17,Default,,0,0,0,,The U.S. Military is hereby seizing\Ncontrol of all Stark Industries assets.
+Dialogue: 0,0:17:18.26,0:17:19.89,Default,,0,0,0,,You must be joking.
+Dialogue: 0,0:17:19.96,0:17:22.71,Default,,0,0,0,,No one has ever accused me\Nof being funny, Miss Potts.
+Dialogue: 0,0:17:22.80,0:17:25.22,Default,,0,0,0,,We're at war. You work for me now.
+Dialogue: 0,0:17:34.38,0:17:39.01,Default,,0,0,0,,Congratulations, Lieutenant.\NYou just invented 21st century warfare.
+Dialogue: 0,0:17:57.34,0:17:59.30,Default,,0,0,0,,Oh! That is...
+Dialogue: 0,0:17:59.38,0:18:03.01,Default,,0,0,0,,Yes! Yes! Yes!
+Dialogue: 0,0:18:03.09,0:18:06.88,Default,,0,0,0,,Oh, I'm glad to see my Vibranium's\Nbeen put to good use.
+Dialogue: 0,0:18:06.96,0:18:11.00,Default,,0,0,0,,Yeah, and I'm just getting started.\NHow about a road trip?
+Dialogue: 0,0:18:16.34,0:18:20.72,Default,,0,0,0,,-You telling me this is it?\N-Wakandans are full of surprises.
+Dialogue: 0,0:18:32.88,0:18:34.09,Default,,0,0,0,,Wakanda.
+Dialogue: 0,0:18:34.67,0:18:36.55,Default,,0,0,0,,I found it, Dad.
+Dialogue: 0,0:18:36.63,0:18:39.84,Default,,0,0,0,,Hey! Hey, boy!\NCome on. We better get going.
+Dialogue: 0,0:18:39.92,0:18:41.46,Default,,0,0,0,,Not looking to meet the business end
+Dialogue: 0,0:18:41.55,0:18:44.13,Default,,0,0,0,,of one of their spears,\Nif you know what I mean.
+Dialogue: 0,0:18:44.21,0:18:45.25,Default,,0,0,0,,-Savages.
+Dialogue: 0,0:18:45.34,0:18:48.13,Default,,0,0,0,,It's like you said.\NWakandans are full of surprises.
+Dialogue: 0,0:19:00.13,0:19:02.38,Default,,0,0,0,,I come with a gift.\NAn offering of justice.
+Dialogue: 0,0:19:03.67,0:19:07.46,Default,,0,0,0,,For I am N'Jadaka, son of Prince N'Jobu.
+Dialogue: 0,0:19:10.26,0:19:11.68,Default,,0,0,0,,What is this foolishness?
+Dialogue: 0,0:19:11.76,0:19:13.59,Default,,0,0,0,,N'Jobu sired no children!
+Dialogue: 0,0:19:13.67,0:19:17.21,Default,,0,0,0,,We were led to believe that.\NI let us believe that.
+Dialogue: 0,0:19:19.26,0:19:20.47,Default,,0,0,0,,We are at war,
+Dialogue: 0,0:19:20.55,0:19:23.59,Default,,0,0,0,,he is still an American soldier.\NWhat does he know of our people?
+Dialogue: 0,0:19:23.67,0:19:25.46,Default,,0,0,0,,These are my people too, cousin.
+Dialogue: 0,0:19:25.55,0:19:27.68,Default,,0,0,0,,I brought you the man\Nwho stole your Vibranium
+Dialogue: 0,0:19:27.76,0:19:31.18,Default,,0,0,0,,and murdered your people\Nas proof of my loyalty to Wakanda.
+Dialogue: 0,0:19:47.76,0:19:50.43,Default,,0,0,0,,You have the eyes of your father.
+Dialogue: 0,0:19:52.26,0:19:54.34,Default,,0,0,0,,He used to tell me stories about you.
+Dialogue: 0,0:19:54.42,0:19:58.42,Default,,0,0,0,,About watching the sunset from the top\Nof Mount Bashenga with his brother.
+Dialogue: 0,0:19:58.92,0:20:03.38,Default,,0,0,0,,I shared the same story with my own son.
+Dialogue: 0,0:20:03.71,0:20:06.71,Default,,0,0,0,,I spent my whole life\Nsearching for my home.
+Dialogue: 0,0:20:06.80,0:20:10.72,Default,,0,0,0,,Rest easy, nephew. You are home.
+Dialogue: 0,0:20:11.76,0:20:15.18,Default,,0,0,0,,But there's no time to rest, Uncle.\NWar is here.
+Dialogue: 0,0:20:17.88,0:20:20.01,Default,,0,0,0,,The drones are made up of Vibranium alloy.
+Dialogue: 0,0:20:20.09,0:20:22.30,Default,,0,0,0,,Just like your weapons.\NAlmost indestructible.
+Dialogue: 0,0:20:22.38,0:20:26.63,Default,,0,0,0,,Oh, please. They're built by Americans.\NWe'll be home in time for lunch.
+Dialogue: 0,0:20:26.71,0:20:28.42,Default,,0,0,0,,It will not be that easy.
+Dialogue: 0,0:20:28.51,0:20:30.89,Default,,0,0,0,,The drones operate via a hive matrix,
+Dialogue: 0,0:20:30.96,0:20:34.75,Default,,0,0,0,,communicating with each other in real time\Nto maximize strategic efficiency.
+Dialogue: 0,0:20:34.84,0:20:37.13,Default,,0,0,0,,Then how do we cut them off\Nfrom their network?
+Dialogue: 0,0:20:37.21,0:20:38.79,Default,,0,0,0,,We let them inside our force shields.
+Dialogue: 0,0:20:38.88,0:20:41.63,Default,,0,0,0,,The electromagnetic interference\Nwill block their satellite uplink.
+Dialogue: 0,0:20:41.71,0:20:44.59,Default,,0,0,0,,You're suggesting we let\Nthe killer robots into the city?
+Dialogue: 0,0:20:44.67,0:20:47.34,Default,,0,0,0,,That's the only way to disconnect them\Nfrom the Jarvis AI.
+Dialogue: 0,0:20:47.42,0:20:49.00,Default,,0,0,0,,After that, we'll destroy 'em.
+Dialogue: 0,0:20:49.09,0:20:51.47,Default,,0,0,0,,The Americans won't have\Nany Vibranium left to rebuild.
+Dialogue: 0,0:20:51.55,0:20:54.18,Default,,0,0,0,,Why should we trust you\Nwith our people's lives?
+Dialogue: 0,0:20:54.26,0:20:56.55,Default,,0,0,0,,I know what it's like to have\Nsomeone taken from me,
+Dialogue: 0,0:20:56.63,0:21:00.34,Default,,0,0,0,,and if I had the chance to avenge\Nmy father, I wouldn't hesitate.
+Dialogue: 0,0:21:03.46,0:21:05.38,Default,,0,0,0,,These people murdered your son.
+Dialogue: 0,0:21:05.46,0:21:09.38,Default,,0,0,0,,Even if there's only a chance I'm legit,\Nisn't it worth the risk?
+Dialogue: 0,0:21:09.96,0:21:11.59,Default,,0,0,0,,What say you, General?
+Dialogue: 0,0:21:17.42,0:21:18.84,Default,,0,0,0,,For T'Challa!
+Dialogue: 0,0:21:18.92,0:21:23.84,Default,,0,0,0,,{\i1}Yibambe! Yibambe! Yibambe!{\i0}
+Dialogue: 0,0:21:56.96,0:21:58.13,Default,,0,0,0,,Status, gentlemen.
+Dialogue: 0,0:21:58.21,0:22:01.13,Default,,0,0,0,,We have full systems green,\NGeneral. Drones moving into position.
+Dialogue: 0,0:22:01.21,0:22:02.67,Default,,0,0,0,,This is the Wakandan capital?
+Dialogue: 0,0:22:02.76,0:22:05.39,Default,,0,0,0,,-Confirm location.\N-Sir, all drones are on target.
+Dialogue: 0,0:22:08.71,0:22:09.84,Default,,0,0,0,,It's time.
+Dialogue: 0,0:22:09.92,0:22:14.17,Default,,0,0,0,,Are you certain about this, {\i1}baba?{\i0}\NEntrusting our fate to this outsider.
+Dialogue: 0,0:22:14.26,0:22:15.72,Default,,0,0,0,,He is family.
+Dialogue: 0,0:22:15.80,0:22:17.18,Default,,0,0,0,,Open the shields.
+Dialogue: 0,0:22:24.17,0:22:27.38,Default,,0,0,0,,Wakanda. So the rumors are true.
+Dialogue: 0,0:22:35.30,0:22:37.51,Default,,0,0,0,,Show them the true might\Nof the U.S. Military.
+Dialogue: 0,0:22:37.59,0:22:38.63,Default,,0,0,0,,Uncle?
+Dialogue: 0,0:22:38.71,0:22:40.00,Default,,0,0,0,,Close the shields.
+Dialogue: 0,0:22:53.63,0:22:56.34,Default,,0,0,0,,-What the hell is going on?\N-Some kind of interference.
+Dialogue: 0,0:22:56.42,0:22:57.75,Default,,0,0,0,,The drones have all gone dark.
+Dialogue: 0,0:22:57.84,0:23:00.13,Default,,0,0,0,,Yeah, I see that. Get it back online!
+Dialogue: 0,0:23:09.26,0:23:12.09,Default,,0,0,0,,It's working!\NYou were right.
+Dialogue: 0,0:23:12.17,0:23:13.55,Default,,0,0,0,,Thank you, nephew.
+Dialogue: 0,0:23:13.63,0:23:16.88,Default,,0,0,0,,You've made your uncle and father proud.
+Dialogue: 0,0:23:16.96,0:23:18.75,Default,,0,0,0,,I only wish to serve Wakanda.
+Dialogue: 0,0:23:18.84,0:23:22.22,Default,,0,0,0,,I'd much rather\Nyou join me in celebration tonight.
+Dialogue: 0,0:23:22.30,0:23:24.84,Default,,0,0,0,,Know that wherever\Nlife's journey takes you,
+Dialogue: 0,0:23:24.92,0:23:27.42,Default,,0,0,0,,you'll always have a home in Wakanda.
+Dialogue: 0,0:23:28.38,0:23:30.01,Default,,0,0,0,,I want a little bit more than that.
+Dialogue: 0,0:23:38.59,0:23:39.88,Default,,0,0,0,,That is impossible.
+Dialogue: 0,0:23:39.96,0:23:41.63,Default,,0,0,0,,The drones should be disconnected.
+Dialogue: 0,0:23:41.71,0:23:44.50,Default,,0,0,0,,Tony Stark! He must've built\Na back-up transmitter.
+Dialogue: 0,0:23:44.59,0:23:45.80,Default,,0,0,0,,Why would he do that?
+Dialogue: 0,0:23:45.88,0:23:47.76,Default,,0,0,0,,That man was a villain.\NDidn't trust anyone.
+Dialogue: 0,0:23:51.46,0:23:53.71,Default,,0,0,0,,-Charge!
+Dialogue: 0,0:24:20.67,0:24:23.25,Default,,0,0,0,,Wakanda forever!
+Dialogue: 0,0:25:34.38,0:25:36.42,Default,,0,0,0,,Wakanda forever!
+Dialogue: 0,0:25:42.51,0:25:44.05,Default,,0,0,0,,For T'Challa!
+Dialogue: 0,0:25:46.80,0:25:52.13,Default,,0,0,0,,{\i1}Yibambe! Yibambe! Yibambe!{\i0}
+Dialogue: 0,0:26:29.13,0:26:31.30,Default,,0,0,0,,Does it meet your expectations?
+Dialogue: 0,0:26:31.38,0:26:32.63,Default,,0,0,0,,It surpasses them.
+Dialogue: 0,0:26:32.71,0:26:36.09,Default,,0,0,0,,I wish we could share it with our brothers\Nand sisters across the world.
+Dialogue: 0,0:26:36.17,0:26:38.50,Default,,0,0,0,,Your father wished the same.
+Dialogue: 0,0:26:38.59,0:26:42.05,Default,,0,0,0,,Perhaps that is why Bast\Nhas returned you to us.
+Dialogue: 0,0:26:42.13,0:26:45.38,Default,,0,0,0,,I am a loyal servant\Nof Wakanda, Your Majesty.
+Dialogue: 0,0:26:45.46,0:26:47.34,Default,,0,0,0,,Let me be of service.
+Dialogue: 0,0:26:48.67,0:26:54.71,Default,,0,0,0,,T'With this herb,\Nyou shall become the next Black Panther.
+Dialogue: 0,0:27:13.80,0:27:15.59,Default,,0,0,0,,Was it worth it,
+Dialogue: 0,0:27:17.80,0:27:18.97,Default,,0,0,0,,my cousin?
+Dialogue: 0,0:27:19.84,0:27:22.01,Default,,0,0,0,,Yeah. I did what I had to do.
+Dialogue: 0,0:27:22.09,0:27:24.34,Default,,0,0,0,,T'For what? A throne?
+Dialogue: 0,0:27:24.42,0:27:26.25,Default,,0,0,0,,For vengeance. For my father.
+Dialogue: 0,0:27:26.34,0:27:29.34,Default,,0,0,0,,And for all my brothers and sisters\Nwho suffered through oppression
+Dialogue: 0,0:27:29.42,0:27:31.17,Default,,0,0,0,,while you just sat back and watched.
+Dialogue: 0,0:27:31.26,0:27:34.80,Default,,0,0,0,,You believe the cure for human\Nsuffering is more suffering.
+Dialogue: 0,0:27:34.88,0:27:37.42,Default,,0,0,0,,The cure is power. And now, I have it.
+Dialogue: 0,0:27:37.51,0:27:39.47,Default,,0,0,0,,T'{\i1}Because you stole it.{\i0}
+Dialogue: 0,0:27:39.55,0:27:44.05,Default,,0,0,0,,{\i1}Power, unearned, can be{\i0}\N{\i1}a very volatile force, cousin.{\i0}
+Dialogue: 0,0:27:44.13,0:27:46.63,Default,,0,0,0,,{\i1}It'll get the best of you, eventually.{\i0}
+Dialogue: 0,0:27:46.71,0:27:49.96,Default,,0,0,0,,On your plane, or on ours.
+Dialogue: 0,0:27:55.88,0:27:57.71,Default,,0,0,0,,Destroyers are circling the African coast.
+Dialogue: 0,0:27:57.80,0:28:00.18,Default,,0,0,0,,I want all Jericho missiles\Nlocked and loaded by 0600.
+Dialogue: 0,0:28:00.26,0:28:01.97,Default,,0,0,0,,-Yes, sir.\N-All due respect, sir,
+Dialogue: 0,0:28:02.05,0:28:03.68,Default,,0,0,0,,isn't that a lot of firepower to aim
+Dialogue: 0,0:28:03.76,0:28:06.34,Default,,0,0,0,,at a country most Americans\Ncan't find on a map?
+Dialogue: 0,0:28:06.42,0:28:08.42,Default,,0,0,0,,By tomorrow, they won't need to.
+Dialogue: 0,0:28:20.80,0:28:22.84,Default,,0,0,0,,What... How did you get in here?
+Dialogue: 0,0:28:22.92,0:28:24.42,Default,,0,0,0,,I'm here to help, Miss Potts.
+Dialogue: 0,0:28:29.13,0:28:31.42,Default,,0,0,0,,I knew it. He killed Tony.
+Dialogue: 0,0:28:31.51,0:28:34.09,Default,,0,0,0,,And your brother? How did you get this?
+Dialogue: 0,0:28:34.17,0:28:37.46,Default,,0,0,0,,Mr. Stark was a genius,\Nbut he's not the only genius.
+Dialogue: 0,0:28:37.55,0:28:39.13,Default,,0,0,0,,It appears have a common enemy.
+Dialogue: 0,0:28:39.21,0:28:43.46,Default,,0,0,0,,Unfortunately, your side\Nand mine refuse to see it.
+Dialogue: 0,0:28:43.55,0:28:46.76,Default,,0,0,0,,So, let us open their eyes together.
+Dialogue: 0,0:28:47.55,0:28:50.38,Default,,0,0,0,,{\i1}Heroes are never really gone.{\i0}
+Dialogue: 0,0:28:51.30,0:28:52.97,Default,,0,0,0,,{\i1}They live forever.{\i0}
+Dialogue: 0,0:28:54.01,0:28:58.01,Default,,0,0,0,,{\i1}As do the ones they inspire{\i0}\N{\i1}to carry on the fight.{\i0}

@@ -44,7 +44,7 @@ deathbycaptcha:
   username: ''
 embeddedsubtitles:
   fallback_lang: en
-  hi_fallback: false
+  hi_fallback: true
   included_codecs: []
   timeout: 600
   unknown_as_fallback: false
@@ -58,7 +58,7 @@ general:
   branch: master
   chmod: '0640'
   chmod_enabled: false
-  days_to_upgrade_subs: 2
+  days_to_upgrade_subs: 5
   debug: false
   default_und_audio_lang: ''
   default_und_embedded_subtitles_lang: ''
@@ -69,13 +69,13 @@ general:
   - anidb
   enabled_providers:
   - animetosho
-  - embeddedsubtitles
   - supersubtitles
   - yifysubtitles
   - tvsubtitles
   - opensubtitlescom
   - gestdown
   - wizdom
+  - embeddedsubtitles
   flask_secret_key: a1d62ea377d3b4ae9c02b43766c705ec
   hi_extension: hi
   ignore_ass_subs: false
@@ -84,7 +84,7 @@ general:
   ip: '*'
   language_equals: []
   minimum_score: 90
-  minimum_score_movie: 80
+  minimum_score_movie: 81
   movie_default_enabled: true
   movie_default_profile: 1
   movie_tag_enabled: false
@@ -105,7 +105,7 @@ general:
   skip_hashing: false
   subfolder: current
   subfolder_custom: ''
-  subzero_mods: remove_tags,common,fix_uppercase,remove_tags,common,fix_uppercase,remove_tags,remove_HI
+  subzero_mods: remove_tags,OCR_fixes,common
   theme: auto
   upgrade_frequency: 6
   upgrade_manual: true
@@ -284,8 +284,8 @@ subsync:
   force_audio: false
   gss: true
   max_offset_seconds: 120
-  no_fix_framerate: true
-  subsync_movie_threshold: 86
+  no_fix_framerate: false
+  subsync_movie_threshold: 87
   subsync_threshold: 96
   use_subsync: true
   use_subsync_movie_threshold: true

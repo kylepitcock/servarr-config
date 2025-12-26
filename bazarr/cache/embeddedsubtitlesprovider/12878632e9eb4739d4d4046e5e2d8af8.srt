@@ -1,0 +1,3742 @@
+1
+00:00:10,719 --> 00:00:13,888
+<i>Jonathan! Nancy! Jonathan!</i>
+
+2
+00:00:14,764 --> 00:00:16,349
+Jonathan! Nancy!
+
+3
+00:00:18,601 --> 00:00:19,436
+Mit csinálsz?
+
+4
+00:00:19,519 --> 00:00:22,689
+Idehallgassatok! Ne érjetek semmihez!
+
+5
+00:00:36,536 --> 00:00:37,787
+Nem találtad el?
+
+6
+00:00:54,763 --> 00:00:56,723
+- Talán jobb, ha...
+- Igen.
+
+7
+00:01:40,725 --> 00:01:45,396
+Tudom, hogy hajnali öt van, de építenie
+kell egy telemetriás nyomkövetőt!
+
+8
+00:01:45,480 --> 00:01:47,273
+Mi? Erica...
+
+9
+00:01:47,357 --> 00:01:49,359
+Hajnali öt van, igen. Ezzel kezdte.
+
+10
+00:01:49,442 --> 00:01:51,611
+Ne haragudjon, de ki maga?
+
+11
+00:01:51,694 --> 00:01:53,738
+- A bácsikám.
+- A bébiszittere.
+
+12
+00:01:53,822 --> 00:01:55,115
+Ki az, nyuszifül?
+
+13
+00:01:55,198 --> 00:01:58,326
+Feküdj csak vissza, szivibogyó!
+Mindjárt jövök.
+
+14
+00:01:59,119 --> 00:02:00,328
+Oké.
+
+15
+00:02:00,411 --> 00:02:01,663
+A könyvtáros?
+
+16
+00:02:01,746 --> 00:02:03,832
+Az ágyban is csendben kell maradni?
+
+17
+00:02:03,915 --> 00:02:09,671
+Idehallgassanak! Nem tudom, ki maga,
+de ez egyáltalán nem helyénvaló.
+
+18
+00:02:10,255 --> 00:02:12,340
+Órán találkozunk, Erica.
+
+19
+00:02:13,383 --> 00:02:15,343
+Dustin veszélyben van.
+
+20
+00:02:16,010 --> 00:02:18,138
+Miféle veszélyben?
+
+21
+00:02:18,221 --> 00:02:19,848
+Élet-halál típusúban.
+
+22
+00:02:19,931 --> 00:02:21,182
+Mi legyen, nyuszifül?
+
+23
+00:02:21,266 --> 00:02:26,062
+Maradsz a könyvmolyoddal, vagy segítesz
+megmenteni Dustint a nyomkövetővel?
+
+24
+00:02:29,232 --> 00:02:30,066
+Henderson!
+
+25
+00:02:30,942 --> 00:02:33,528
+Dustin!
+
+26
+00:02:33,611 --> 00:02:34,737
+Ez meg mi volt?
+
+27
+00:02:34,821 --> 00:02:36,990
+A pajzsgenerátor volt? Megtalálták?
+
+28
+00:02:37,073 --> 00:02:38,116
+Tévedtem.
+
+29
+00:02:38,825 --> 00:02:40,076
+Totálisan,
+
+30
+00:02:41,494 --> 00:02:43,037
+katasztrofálisan tévedtem.
+
+31
+00:02:43,121 --> 00:02:44,205
+Micsoda?
+
+32
+00:02:44,289 --> 00:02:46,332
+Találtam odalent egy naplót.
+
+33
+00:02:47,041 --> 00:02:48,626
+<i>Brenner naplója volt.</i>
+
+34
+00:02:50,170 --> 00:02:53,381
+<i>Tényleg a laborban van a kulcs
+a fal lerombolásához,</i>
+
+35
+00:02:53,464 --> 00:02:56,050
+<i>de a fal nem egy pajzsgenerátor.</i>
+
+36
+00:02:56,134 --> 00:02:58,636
+Nem mágia tartja össze, és nem Vecna műve.
+
+37
+00:03:02,056 --> 00:03:03,391
+A tudomány szülte.
+
+38
+00:03:04,809 --> 00:03:07,979
+<i>Az elméleti fizikusok
+egzotikus anyagnak hívják.</i>
+
+39
+00:03:08,479 --> 00:03:12,066
+Ez egy energiaforrás,
+ami összetartja azt az óriás falat.
+
+40
+00:03:12,150 --> 00:03:14,569
+Attól tartok, Nancy belelőtt az előbb.
+
+41
+00:03:25,747 --> 00:03:28,541
+<i>Ez miért baj?
+Az a cél, hogy lebontsuk a falat.</i>
+
+42
+00:03:28,625 --> 00:03:30,627
+- Nem figyelsz!
+- De.
+
+43
+00:03:30,710 --> 00:03:35,256
+A fal nem Vecna műve, tehát nincs
+a másik oldalán, ahogy Hollyék sincsenek.
+
+44
+00:03:35,340 --> 00:03:36,299
+Nincs ott senki.
+
+45
+00:03:37,675 --> 00:03:39,636
+Akkor mi van a fal túloldalán?
+
+46
+00:03:49,812 --> 00:03:51,105
+Miért állt le?
+
+47
+00:03:57,779 --> 00:04:00,031
+Dustin, mi van a fal túloldalán?
+
+48
+00:04:00,823 --> 00:04:01,658
+A halál.
+
+49
+00:04:11,834 --> 00:04:14,087
+Gyerünk, menjünk!
+
+50
+00:04:15,421 --> 00:04:16,798
+Gyorsan!
+
+51
+00:04:17,507 --> 00:04:18,633
+Menjünk!
+
+52
+00:04:19,342 --> 00:04:20,468
+Bukjatok le!
+
+53
+00:04:30,687 --> 00:04:32,397
+Egész idő alatt
+
+54
+00:04:32,480 --> 00:04:35,650
+<i>minden,
+amit az Átfordított Világról gondoltunk,</i>
+
+55
+00:04:36,484 --> 00:04:37,944
+téves volt.
+
+56
+00:04:42,991 --> 00:04:45,743
+A kapu!
+
+57
+00:04:46,869 --> 00:04:48,663
+Megtisztítom az utat!
+
+58
+00:04:48,746 --> 00:04:52,834
+Nem, maradj mögöttem!
+
+59
+00:04:52,917 --> 00:04:54,919
+Ne! Az istenit!
+
+60
+00:05:04,345 --> 00:05:07,056
+Ne!
+
+61
+00:05:19,777 --> 00:05:22,405
+Ez a hely, az Átfordított Világ,
+
+62
+00:05:22,488 --> 00:05:24,073
+<i>nem egy másik dimenzió.</i>
+
+63
+00:05:24,157 --> 00:05:25,992
+<i>Ez nem egy másik világ.</i>
+
+64
+00:05:26,075 --> 00:05:27,702
+<i>Ez egy féregjárat.</i>
+
+65
+00:05:27,785 --> 00:05:28,786
+Egy híd
+
+66
+00:05:29,662 --> 00:05:33,791
+két pont között az időben és térben,
+a mi világunk és egy másik között.
+
+67
+00:05:33,875 --> 00:05:37,378
+- És ha a híd összeomlik?
+- Akkor magunkkal ránt minket.
+
+68
+00:05:39,922 --> 00:05:41,049
+Mindnyájunkat.
+
+69
+00:07:03,464 --> 00:07:10,471
+HATODIK FEJEZET: SZÖKÉS CAMAZOTZBÓL
+
+70
+00:07:41,043 --> 00:07:42,503
+Menj!
+
+71
+00:07:47,467 --> 00:07:50,386
+Jól vagy? Semmi baj.
+
+72
+00:07:51,179 --> 00:07:53,306
+Megmenekültünk. Ide nem jön be.
+
+73
+00:07:53,389 --> 00:07:54,265
+Max!
+
+74
+00:08:03,858 --> 00:08:05,109
+Holly!
+
+75
+00:08:05,860 --> 00:08:06,861
+Gyere!
+
+76
+00:08:10,823 --> 00:08:11,866
+Holly, drágám!
+
+77
+00:08:11,949 --> 00:08:14,076
+Állj meg, vagy bántom Maxet!
+
+78
+00:08:16,204 --> 00:08:20,416
+Tudom, hogy azt hiszed, ő a barátod.
+
+79
+00:08:21,042 --> 00:08:25,254
+De ő becsapott téged, Holly.
+Átverte az elmédet.
+
+80
+00:08:25,338 --> 00:08:27,215
+Max hazudik.
+
+81
+00:08:27,298 --> 00:08:29,634
+Nem. Te hazudsz.
+
+82
+00:08:29,717 --> 00:08:32,011
+Láttam, hogy milyen vagy igazából.
+
+83
+00:08:32,094 --> 00:08:35,306
+Egy szörnyeteg vagy.
+Egy undorító szörnyeteg.
+
+84
+00:08:35,389 --> 00:08:36,849
+Holly!
+
+85
+00:08:36,933 --> 00:08:40,520
+Ha nem jössz vissza velem
+most azonnal a többiekhez,
+
+86
+00:08:40,603 --> 00:08:43,272
+kénytelen leszek bántani Maxet.
+
+87
+00:08:47,026 --> 00:08:49,153
+Talán meg is kell ölnöm.
+
+88
+00:08:49,237 --> 00:08:51,405
+Miért nem teszed meg most?
+
+89
+00:08:52,156 --> 00:08:53,074
+Itt vagyok.
+
+90
+00:08:53,157 --> 00:08:54,909
+Ja, tényleg!
+
+91
+00:08:54,992 --> 00:08:59,288
+Túlságosan félsz
+ettől a hülye barlangtól, te gyáva féreg!
+
+92
+00:08:59,956 --> 00:09:02,792
+A dolgok megváltoztak, Max.
+
+93
+00:09:03,334 --> 00:09:07,255
+Most már vannak eszközeim, hogy elérjelek.
+
+94
+00:09:07,838 --> 00:09:08,839
+És Holly?
+
+95
+00:09:09,966 --> 00:09:13,177
+Amikor az új barátod szenvedni kezd,
+
+96
+00:09:14,512 --> 00:09:16,180
+mert hidd el, szenvedni fog,
+
+97
+00:09:16,973 --> 00:09:20,184
+akkor választhatsz,
+hogy visszatérsz hozzám,
+
+98
+00:09:21,018 --> 00:09:23,396
+vagy végignézed a halálát.
+
+99
+00:09:24,230 --> 00:09:25,982
+Az élete a te kezedben van.
+
+100
+00:09:38,828 --> 00:09:43,499
+NOVEMBER 6.
+
+101
+00:10:10,401 --> 00:10:14,947
+<i>Valaki elmagyarázná,
+hogy mi a franc történt?</i>
+
+102
+00:10:15,031 --> 00:10:18,743
+Kifüstöltük a részecskéket.
+Láttam, ahogy felszálltak.
+
+103
+00:10:18,826 --> 00:10:21,245
+- Ti is láttátok?
+- Elég feltűnő volt.
+
+104
+00:10:21,329 --> 00:10:23,623
+Willnek le kellett volna csatlakoznia.
+
+105
+00:10:23,706 --> 00:10:25,791
+- Elvileg.
+- Miért nem ébred fel?
+
+106
+00:10:25,875 --> 00:10:30,630
+Hogy láthatta Maxet, ha Hollyval van?
+Igaz ez? Vagy Vecna szórakozik velünk?
+
+107
+00:10:30,713 --> 00:10:32,506
+Ennek semmi értelme!
+
+108
+00:10:32,590 --> 00:10:37,094
+A dokik nem értették,
+hogy Max miért esett kómába, ugye?
+
+109
+00:10:37,178 --> 00:10:38,721
+Mi? Nem. Miért?
+
+110
+00:10:40,848 --> 00:10:43,934
+Jól van.
+
+111
+00:10:44,018 --> 00:10:47,730
+Tegyük fel egy pillanatra,
+hogy minden igaz, amit Will látott.
+
+112
+00:10:47,813 --> 00:10:50,066
+- Látta Maxet és Hollyt.
+- De hogyan?
+
+113
+00:10:50,149 --> 00:10:53,194
+Mindjárt rátérek. Tegyük fel...
+
+114
+00:10:54,070 --> 00:10:55,321
+hogy ez Will.
+
+115
+00:10:55,404 --> 00:10:58,824
+És ez pedig Holly.
+
+116
+00:10:58,908 --> 00:10:59,784
+És...
+
+117
+00:11:00,910 --> 00:11:03,621
+persze ez Max.
+
+118
+00:11:04,580 --> 00:11:06,332
+Három külön helyen vannak:
+
+119
+00:11:06,415 --> 00:11:09,752
+a rádióban, a kórházban,
+és az Átfordított Világban, ugye?
+
+120
+00:11:09,835 --> 00:11:11,045
+- Igen.
+- Igen.
+
+121
+00:11:11,128 --> 00:11:14,799
+De egy nagyon fontos dolog közös bennük.
+
+122
+00:11:14,882 --> 00:11:16,217
+Eszméletlenek.
+
+123
+00:11:18,719 --> 00:11:22,056
+- Mi történik, amikor Vecna elkap?
+- Transzba esel.
+
+124
+00:11:22,139 --> 00:11:24,225
+Ami baromira hasonlít a kómára.
+
+125
+00:11:24,308 --> 00:11:27,478
+A dokik ezért tanácstalanok.
+Max nem kómában van.
+
+126
+00:11:27,561 --> 00:11:29,188
+Hanem transzban.
+
+127
+00:11:29,772 --> 00:11:32,692
+Mint Will és Holly.
+
+128
+00:11:33,275 --> 00:11:36,487
+A megoldás kristálytiszta,
+mint Whitney Houston hangja.
+
+129
+00:11:36,570 --> 00:11:38,155
+Mi van, ha az elméjük...
+
+130
+00:11:39,281 --> 00:11:40,700
+egy helyen van?
+
+131
+00:11:41,784 --> 00:11:43,077
+Vecna elméjében.
+
+132
+00:11:44,453 --> 00:11:45,538
+Bezárva.
+
+133
+00:11:46,580 --> 00:11:48,290
+Legalábbis egyelőre.
+
+134
+00:11:48,374 --> 00:11:53,754
+Ha Willnek igaza van, Max és Holly
+épp kitörni készülnek a börtönükből.
+
+135
+00:11:53,838 --> 00:11:58,759
+Ha sikerrel járnak,
+visszatérnek a fizikai testükbe,
+
+136
+00:11:59,552 --> 00:12:02,388
+és Max fel fog ébredni.
+
+137
+00:12:02,471 --> 00:12:05,266
+Megjárták Vecna elméjét. Szó szerint.
+
+138
+00:12:05,349 --> 00:12:07,852
+- Tudni fogják, hol van Will.
+- A gyerekek.
+
+139
+00:12:07,935 --> 00:12:10,438
+- Ismerik Vecna terveit.
+- A végjátékot.
+
+140
+00:12:10,521 --> 00:12:16,402
+A bolygó sorsa a te ájult barátnődön
+és a te kishúgodon múlik.
+
+141
+00:12:16,485 --> 00:12:17,987
+Egy próbát megér, nem?
+
+142
+00:12:18,070 --> 00:12:19,947
+- Tudsz vezetni?
+- Papíron nem.
+
+143
+00:12:20,030 --> 00:12:23,701
+Nem baj. Joyce kocsijával
+menjetek be Maxhez! Én itt maradok.
+
+144
+00:12:23,784 --> 00:12:24,785
+Oké.
+
+145
+00:13:04,116 --> 00:13:06,160
+Emlékszel erre a helyre...
+
+146
+00:13:07,787 --> 00:13:08,662
+William?
+
+147
+00:13:10,956 --> 00:13:13,167
+Ne!
+
+148
+00:13:13,250 --> 00:13:16,837
+Nem ébreszt benned...
+
+149
+00:13:21,383 --> 00:13:22,593
+emlékeket?
+
+150
+00:13:23,719 --> 00:13:25,638
+Max. Holly.
+
+151
+00:13:27,139 --> 00:13:28,808
+Elmenekültek, ugye?
+
+152
+00:13:30,226 --> 00:13:32,228
+A törött lábad lelassított?
+
+153
+00:13:32,311 --> 00:13:35,397
+Azt hiszed, túljártál az eszemen?
+
+154
+00:13:35,981 --> 00:13:41,320
+Ne feledd, itt én döntök!
+
+155
+00:13:41,904 --> 00:13:44,365
+Én hívtalak ide.
+
+156
+00:13:45,491 --> 00:13:48,285
+A befogadóm voltál.
+
+157
+00:13:49,245 --> 00:13:50,746
+A kémem.
+
+158
+00:13:52,331 --> 00:13:54,083
+Az építőmunkásom.
+
+159
+00:13:55,376 --> 00:13:56,794
+Építőmunkásod?
+
+160
+00:13:59,755 --> 00:14:03,217
+Szerinted hogy jöttek létre
+az alagutak, William?
+
+161
+00:14:05,886 --> 00:14:08,889
+Te építetted őket,
+
+162
+00:14:08,973 --> 00:14:13,561
+<i>minden egyes éjszaka, álmodban.</i>
+
+163
+00:14:19,984 --> 00:14:22,820
+Nagy erő lakozik benned.
+
+164
+00:14:23,654 --> 00:14:26,365
+De tisztázzunk valamit, fiú!
+
+165
+00:14:27,449 --> 00:14:30,327
+Ez az én erőm,
+
+166
+00:14:30,411 --> 00:14:34,623
+ami hatalmasabb, mint valaha.
+
+167
+00:14:38,961 --> 00:14:41,547
+Sokkal hatalmasabb.
+
+168
+00:14:51,974 --> 00:14:54,268
+Most végre eljött az idő.
+
+169
+00:14:55,394 --> 00:15:01,066
+A befogadóim
+elvezetnek minket egy új világba.
+
+170
+00:15:02,860 --> 00:15:04,403
+Egy jobb világba.
+
+171
+00:15:05,321 --> 00:15:09,992
+Kár, hogy az a világ
+soha nem fog létrejönni így,
+
+172
+00:15:10,075 --> 00:15:13,078
+hogy az egyik befogadód Maxnél van.
+
+173
+00:15:13,662 --> 00:15:17,791
+Ne feledd, William,
+a rókát ki lehet füstölni az odújából.
+
+174
+00:15:17,875 --> 00:15:20,294
+És te segíteni fogsz nekem.
+
+175
+00:15:20,377 --> 00:15:25,049
+Kémkedni fogsz nekem,
+
+176
+00:15:25,132 --> 00:15:29,094
+még egyszer utoljára.
+
+177
+00:15:29,178 --> 00:15:30,095
+Nem.
+
+178
+00:15:30,679 --> 00:15:31,555
+Soha!
+
+179
+00:15:42,274 --> 00:15:44,777
+Minél jobban ellenállsz,
+
+180
+00:15:46,195 --> 00:15:48,739
+annál jobban fog fájni.
+
+181
+00:16:15,766 --> 00:16:16,767
+Idióta!
+
+182
+00:16:21,772 --> 00:16:23,107
+- Hé!
+- Mit csinálsz?
+
+183
+00:16:23,190 --> 00:16:25,234
+- Megnézem, ott van-e.
+- Nincs ott.
+
+184
+00:16:25,317 --> 00:16:28,696
+- Honnan tudod?
+- Mert itt nem ér el minket. Gyerünk!
+
+185
+00:16:28,779 --> 00:16:32,032
+Azt mondta, változtak a dolgok,
+és vannak más eszközei.
+
+186
+00:16:32,116 --> 00:16:35,160
+Most már tudhatnád,
+hogy állandóan kamuzik.
+
+187
+00:16:35,244 --> 00:16:39,915
+Akkor most mi legyen? Ne csináljunk
+semmit? Fogadjuk el a sorsunkat?
+
+188
+00:16:39,999 --> 00:16:43,711
+Szart se fogadunk el.
+Életben maradunk, míg kimentenek minket.
+
+189
+00:16:43,794 --> 00:16:45,129
+Tizi megment minket?
+
+190
+00:16:45,879 --> 00:16:47,256
+Biztos, hogy ő volt?
+
+191
+00:16:47,339 --> 00:16:49,633
+Ismersz mást pszichés képességekkel,
+
+192
+00:16:49,717 --> 00:16:52,177
+aki képes bejutni Vecna elméjébe,
+
+193
+00:16:52,261 --> 00:16:55,097
+lefegyverezni őt és figyelmeztetni minket?
+
+194
+00:16:55,180 --> 00:16:59,476
+Ez Tizi volt. Tehát tudja, hogy itt
+vagyunk, és meg fog menteni minket.
+
+195
+00:16:59,560 --> 00:17:01,645
+Abbahagynád a járkálást?
+
+196
+00:17:01,729 --> 00:17:03,856
+A bátyádra emlékeztetsz.
+
+197
+00:17:08,235 --> 00:17:09,278
+Köszönöm.
+
+198
+00:17:15,659 --> 00:17:19,246
+- Henry miért nem jöhet be ide?
+- Nem tudom.
+
+199
+00:17:20,414 --> 00:17:22,750
+Két éven át nem volt semmi dolgod.
+
+200
+00:17:24,001 --> 00:17:25,461
+Csak van egy elméleted.
+
+201
+00:17:28,797 --> 00:17:31,967
+Ha úgyis várakozunk, beszélgethetünk is.
+
+202
+00:17:38,682 --> 00:17:40,184
+- Ez a börtön...
+- Camazotz.
+
+203
+00:17:40,267 --> 00:17:42,269
+Oké, Camazotz.
+
+204
+00:17:44,521 --> 00:17:46,940
+Ez Henry emlékeiből épült fel, ugye?
+
+205
+00:17:47,816 --> 00:17:50,444
+Beleértve ezt a barlangot.
+
+206
+00:17:50,527 --> 00:17:54,031
+Ezért azt gondolom,
+
+207
+00:17:54,698 --> 00:17:59,119
+hogy ez is egy emlék, amivel Henry
+valamiért nem akar szembenézni.
+
+208
+00:18:00,370 --> 00:18:01,622
+Valami traumatikus.
+
+209
+00:18:03,415 --> 00:18:09,421
+De ebben a barlangban nincs
+semmi ijesztő, szóval lehet, tévedtem.
+
+210
+00:18:11,924 --> 00:18:13,509
+Ez az elméletem.
+
+211
+00:18:15,010 --> 00:18:16,011
+Tetszik.
+
+212
+00:18:18,555 --> 00:18:19,389
+Kösz.
+
+213
+00:18:19,973 --> 00:18:22,851
+Ha igazad van,
+
+214
+00:18:24,436 --> 00:18:27,439
+megszökhetünk ezen az emléken keresztül.
+
+215
+00:18:28,023 --> 00:18:29,358
+- Mi?
+- Mondom.
+
+216
+00:18:30,234 --> 00:18:33,487
+Az én házam, a te padlásod
+traumatikus emlékek voltak,
+
+217
+00:18:33,570 --> 00:18:35,447
+amik kivezettek Camazotzból.
+
+218
+00:18:35,531 --> 00:18:38,075
+Lehet, Henry emléke is képes erre.
+
+219
+00:18:38,158 --> 00:18:41,036
+Először is,
+már megmondtam, hogy nincs itt semmi.
+
+220
+00:18:41,120 --> 00:18:43,956
+Másodszor, az emlékeink
+nem simán traumatikusak.
+
+221
+00:18:44,039 --> 00:18:47,543
+Ezek azok a pillanatok,
+amikor Henry ellopta az elménket.
+
+222
+00:18:47,626 --> 00:18:49,711
+A saját elméjét nem tudja ellopni.
+
+223
+00:18:49,795 --> 00:18:50,629
+Honnan tudod?
+
+224
+00:18:51,588 --> 00:18:53,215
+Mert annak semmi értelme.
+
+225
+00:18:53,298 --> 00:18:55,551
+Mert itt mindennek van értelme?
+
+226
+00:18:57,719 --> 00:18:58,720
+Gondolj bele,
+
+227
+00:18:59,721 --> 00:19:01,348
+lehet, hogy van...
+
+228
+00:19:02,182 --> 00:19:04,977
+egy titkos átjáró, vagy valami.
+
+229
+00:19:05,060 --> 00:19:08,355
+Ja, tényleg!
+A titkos átjárót elfelejtettem említeni.
+
+230
+00:19:12,234 --> 00:19:13,235
+És odakint?
+
+231
+00:19:13,318 --> 00:19:15,612
+Ott csak homok van. Rengeteg homok.
+
+232
+00:19:16,280 --> 00:19:17,489
+- Átkutattad?
+- Igen.
+
+233
+00:19:17,573 --> 00:19:19,366
+- Az egészet?
+- Óriási terület.
+
+234
+00:19:19,950 --> 00:19:20,784
+Tehát nem.
+
+235
+00:19:23,871 --> 00:19:25,455
+Nem mehetsz ki!
+
+236
+00:19:25,539 --> 00:19:29,334
+Holly! Itt maradunk,
+és megvárjuk Tizit. Ennyi.
+
+237
+00:19:29,418 --> 00:19:32,921
+Szerintem Henry nem blöffölt,
+hogy vannak eszközei ellened.
+
+238
+00:19:33,005 --> 00:19:36,133
+Ki kell jutnunk, mielőtt beveti őket.
+
+239
+00:19:36,925 --> 00:19:37,843
+Jössz?
+
+240
+00:19:38,385 --> 00:19:41,180
+Vagy elengedsz
+egy gyereket egyedül a sivatagba?
+
+241
+00:19:42,806 --> 00:19:43,765
+Helyesbítek.
+
+242
+00:19:43,849 --> 00:19:47,311
+Nem hasonlítasz a bátyádra,
+hanem olyan vagy, mint ő.
+
+243
+00:20:01,241 --> 00:20:04,995
+Joyce? Te hívtad a temetkezési hivatalt?
+
+244
+00:20:16,465 --> 00:20:17,716
+Mike!
+
+245
+00:20:21,220 --> 00:20:22,262
+Tizi!
+
+246
+00:20:22,346 --> 00:20:23,555
+Mike!
+
+247
+00:20:30,854 --> 00:20:31,855
+Itt vagyok.
+
+248
+00:20:32,981 --> 00:20:33,899
+Jól vagy?
+
+249
+00:20:34,399 --> 00:20:35,567
+Jól vagyok.
+
+250
+00:20:36,652 --> 00:20:37,778
+Ő Kali,
+
+251
+00:20:38,654 --> 00:20:39,863
+a testvérem.
+
+252
+00:20:39,947 --> 00:20:41,615
+Ő pedig a híres Mike.
+
+253
+00:20:42,741 --> 00:20:44,660
+Ezt nem értem.
+
+254
+00:20:44,743 --> 00:20:48,163
+Hosszú. Legjobb,
+ha mindenkinek egyszerre mondjuk el.
+
+255
+00:20:49,164 --> 00:20:51,124
+Hol van a fogadóbizottság?
+
+256
+00:20:55,671 --> 00:20:56,880
+Itt van.
+
+257
+00:21:04,471 --> 00:21:05,639
+Jézusom!
+
+258
+00:21:06,682 --> 00:21:08,100
+Mióta van így?
+
+259
+00:21:08,183 --> 00:21:09,268
+Pár órája.
+
+260
+00:21:10,560 --> 00:21:13,021
+Szerinted meg tudod találni?
+
+261
+00:21:19,027 --> 00:21:22,698
+Nem írja mennyi idő, míg összeomlik
+egy féregjárat? 10-20 perc?
+
+262
+00:21:22,781 --> 00:21:24,825
+Azt hittem, azonnali a hatás.
+
+263
+00:21:24,908 --> 00:21:27,119
+- Csalódottnak tűnsz.
+- Nem vagyok az.
+
+264
+00:21:27,202 --> 00:21:29,037
+- Úgy tűnt.
+- Nem értem, mi van.
+
+265
+00:21:29,121 --> 00:21:31,290
+Két lehetőség van.
+
+266
+00:21:31,373 --> 00:21:35,127
+Vagy ez a túlvilág,
+és szellemek lettünk, ami nem valószínű.
+
+267
+00:21:35,210 --> 00:21:39,423
+Vagy Nancy nem semmisítette meg teljesen
+az egzotikus anyagot.
+
+268
+00:21:39,506 --> 00:21:44,928
+Különben bedőlt volna a féregjárat fala,
+és kiszippantódtunk volna a semmibe.
+
+269
+00:21:45,012 --> 00:21:47,055
+Akkor mire várunk?
+
+270
+00:21:47,139 --> 00:21:48,181
+Hová mész?
+
+271
+00:21:48,265 --> 00:21:50,934
+Megpróbálok beszélni Nancyvel.
+
+272
+00:21:51,018 --> 00:21:52,769
+- Steve, várj!
+- Gyerünk!
+
+273
+00:21:52,853 --> 00:21:54,146
+- Várj!
+- Nyomás!
+
+274
+00:21:54,980 --> 00:21:57,482
+Steve, nem tudjuk, biztonságos-e odafenn.
+
+275
+00:21:57,566 --> 00:22:01,403
+- Azt mondtad, nem semmisült meg.
+- Nem teljesen!
+
+276
+00:22:01,486 --> 00:22:03,655
+De egyértelműen megzavarták.
+
+277
+00:22:03,739 --> 00:22:08,076
+Nem tudjuk, milyen hatással van ez
+az anyagra, a téridőre, a gravitációra.
+
+278
+00:22:08,160 --> 00:22:12,456
+Lehet, az épület egy instabil,
+kiszámíthatatlan halálcsapda lett.
+
+279
+00:22:12,539 --> 00:22:14,166
+Nekem elég stabilnak tűnik.
+
+280
+00:22:14,249 --> 00:22:16,960
+Nancy, vétel! Jonathan, ott vagy?
+
+281
+00:22:17,961 --> 00:22:18,837
+Hahó!
+
+282
+00:22:22,549 --> 00:22:23,967
+Jóságos ég!
+
+283
+00:22:32,559 --> 00:22:34,770
+Mondd, hogy nem ott fenn vannak!
+
+284
+00:22:59,044 --> 00:23:01,880
+Ne! Nancy!
+
+285
+00:23:05,175 --> 00:23:07,594
+Nancy! Ne!
+
+286
+00:23:07,677 --> 00:23:08,637
+Nancy!
+
+287
+00:23:08,720 --> 00:23:10,806
+Gyerünk, Nancy!
+
+288
+00:23:10,889 --> 00:23:12,808
+Gyere!
+
+289
+00:23:12,891 --> 00:23:15,602
+- Jól vagy?
+- Azt hiszem, igen.
+
+290
+00:23:16,645 --> 00:23:17,479
+Mi történt?
+
+291
+00:23:18,355 --> 00:23:19,356
+Nem tudom.
+
+292
+00:23:21,691 --> 00:23:23,068
+Átestünk a mennyezeten.
+
+293
+00:23:23,151 --> 00:23:26,530
+- És láthatólag nem pusztítottad el.
+- Csak feldühítettem.
+
+294
+00:23:29,032 --> 00:23:30,450
+Gyere!
+
+295
+00:23:33,078 --> 00:23:34,871
+Tűnjünk innen!
+
+296
+00:23:37,499 --> 00:23:39,584
+- Hol az ajtó?
+- A francba!
+
+297
+00:23:40,252 --> 00:23:42,337
+Ott van. Gyerünk!
+
+298
+00:23:46,341 --> 00:23:47,300
+A rohadt életbe!
+
+299
+00:23:50,178 --> 00:23:54,474
+Ne! Bassza meg! Ne! Az istenit!
+
+300
+00:23:56,643 --> 00:23:58,145
+A rohadt életbe!
+
+301
+00:23:59,563 --> 00:24:00,856
+Gyerünk!
+
+302
+00:24:22,002 --> 00:24:25,505
+Nancy nem hagyott üzenetet a templomban?
+
+303
+00:24:25,589 --> 00:24:28,175
+Nem, semmit.
+
+304
+00:24:28,675 --> 00:24:31,636
+Tehát vagy hanyag tahók,
+
+305
+00:24:32,220 --> 00:24:34,097
+vagy elkapta őket a hadsereg.
+
+306
+00:24:34,181 --> 00:24:37,809
+De ha megnyugtat,
+a „hanyag tahó” elmélet felé hajlok.
+
+307
+00:24:37,893 --> 00:24:41,480
+És az a húsfal? Ugye nem gondolod...
+
+308
+00:24:41,563 --> 00:24:44,274
+Hogy kiszippantódtak a másik oldalra? Nem.
+
+309
+00:24:45,358 --> 00:24:48,528
+De én sem igazán értem ezt, Mike.
+
+310
+00:24:49,237 --> 00:24:54,451
+Ez az egész
+biztos összefügg. Max, Holly, a fal.
+
+311
+00:24:54,534 --> 00:24:58,163
+De nem tudom, hogyan.
+Mintha hiányozna egy darab a kirakósból.
+
+312
+00:24:58,830 --> 00:24:59,748
+Egy nagy darab.
+
+313
+00:24:59,831 --> 00:25:03,460
+A darabok Vecna elméjében vannak,
+ahová végre be tudunk jutni.
+
+314
+00:25:03,543 --> 00:25:05,629
+De Jane nem talál semmit.
+
+315
+00:25:06,463 --> 00:25:08,632
+De jó, megjött Mrs. Optimizmus!
+
+316
+00:25:09,591 --> 00:25:11,092
+Jane küszködik odafenn.
+
+317
+00:25:11,176 --> 00:25:13,303
+Igen? Adj neki egy kis időt!
+
+318
+00:25:13,386 --> 00:25:15,472
+Legyengül a kereséstől.
+
+319
+00:25:15,555 --> 00:25:18,517
+Szóval mostantól te vagy a Tizi-szakértő?
+
+320
+00:25:19,100 --> 00:25:20,977
+Mióta is ismered? Másfél napja?
+
+321
+00:25:21,061 --> 00:25:23,188
+Régebb óta, mint te.
+
+322
+00:25:23,271 --> 00:25:27,817
+- Együtt nőttünk fel, és az ő neve Jane.
+- Jane Hopper.
+
+323
+00:25:27,901 --> 00:25:30,570
+- Csak segíteni akarok.
+- Értem már. Segíteni.
+
+324
+00:25:31,071 --> 00:25:34,115
+Bocs, de azt mondtad,
+feleslegesen harcolunk.
+
+325
+00:25:34,199 --> 00:25:37,327
+- Szerinted az egész felesleges?
+- Ezt sose mondtam.
+
+326
+00:25:37,410 --> 00:25:40,247
+Tényleg? Mert nekem rohadtul úgy tűnt.
+
+327
+00:25:40,330 --> 00:25:43,250
+Két perc alatt
+sikerült elbizonytalanítanod Tizit.
+
+328
+00:25:43,333 --> 00:25:46,503
+Összezavartad, ezért nem találja Willt.
+
+329
+00:25:46,586 --> 00:25:49,464
+Amikor megismertem,
+miattad volt összezavarodva.
+
+330
+00:25:49,548 --> 00:25:50,882
+A hazugságaid miatt.
+
+331
+00:25:50,966 --> 00:25:52,384
+Minden, amit tettem...
+
+332
+00:25:52,467 --> 00:25:54,177
+...az ő védelmét szolgálta.
+
+333
+00:25:54,261 --> 00:25:57,222
+Áltathatod magad ezzel,
+de ha tényleg meg akarod védeni,
+
+334
+00:25:57,305 --> 00:25:58,807
+tudnia kell az igazságot.
+
+335
+00:25:58,890 --> 00:26:03,645
+Fel kell készülnie arra,
+ami ennek az egésznek a túloldalán várja.
+
+336
+00:26:04,145 --> 00:26:07,357
+Nem lesz vége attól, hogy megöljük Henryt.
+
+337
+00:26:07,440 --> 00:26:09,526
+- Ez mit jelent?
+- Semmit.
+
+338
+00:26:09,609 --> 00:26:13,238
+Ő csak egy gyerek, aki összevissza beszél.
+
+339
+00:26:13,321 --> 00:26:15,115
+Ennek semmi értelme.
+
+340
+00:26:15,198 --> 00:26:17,158
+Tudod, hogy ez nem igaz.
+
+341
+00:26:18,368 --> 00:26:22,706
+De ahogy Jane-nek, magadnak is hazudsz.
+
+342
+00:26:25,125 --> 00:26:27,752
+Azt kérdezed, miért vagyok még itt?
+
+343
+00:26:29,504 --> 00:26:34,467
+Azért, hogy gondoskodjak róla,
+hogy ez többé ne forduljon elő.
+
+344
+00:26:41,057 --> 00:26:41,891
+Tizi.
+
+345
+00:26:46,313 --> 00:26:47,314
+Tizi!
+
+346
+00:26:48,023 --> 00:26:49,691
+Minden rendben?
+
+347
+00:26:50,984 --> 00:26:53,695
+Nem érem el Willt. Folyton szertefoszlik.
+
+348
+00:26:53,778 --> 00:26:58,950
+Rengeteg kajánk van, szóval egyél, pihenj,
+töltődj, és utána megpróbálhatod újra.
+
+349
+00:26:59,034 --> 00:27:00,035
+Vagy...
+
+350
+00:27:00,952 --> 00:27:02,412
+felerősítjük a jelet.
+
+351
+00:27:02,996 --> 00:27:04,873
+- A kád.
+- Még fel kell tölteni.
+
+352
+00:27:04,956 --> 00:27:06,750
+De úgyis töltődnöd kell.
+
+353
+00:27:06,833 --> 00:27:10,545
+Elég szívás volt megépíteni,
+örülök, ha újra hasznát vehetjük.
+
+354
+00:27:13,048 --> 00:27:17,469
+HAWKINSI KÓRHÁZ
+
+355
+00:27:18,345 --> 00:27:21,181
+- Doris, később bejelentkezem.
+- Én csak kísérem.
+
+356
+00:27:21,264 --> 00:27:23,266
+Ms. Buckley!
+
+357
+00:27:24,309 --> 00:27:25,560
+Tudod, mit?
+
+358
+00:27:28,104 --> 00:27:29,230
+Hé!
+
+359
+00:27:29,314 --> 00:27:30,940
+- Beszélnünk kell!
+- Igen.
+
+360
+00:27:31,024 --> 00:27:33,068
+- Robin!
+- Majd jövök. Menj csak!
+
+361
+00:27:33,151 --> 00:27:34,152
+És a terv?
+
+362
+00:27:34,235 --> 00:27:35,403
+Vickie!
+
+363
+00:27:37,030 --> 00:27:39,783
+Teljesen jogosan haragszol rám.
+
+364
+00:27:39,866 --> 00:27:41,660
+- Keresnek téged.
+- Kik?
+
+365
+00:27:41,743 --> 00:27:43,662
+- A katonai rendőrség.
+- Miért?
+
+366
+00:27:43,745 --> 00:27:46,122
+- Játszod a hülyét?
+- Tényleg nem tudom.
+
+367
+00:27:46,206 --> 00:27:47,832
+Adok egy kis segítséget.
+
+368
+00:27:47,916 --> 00:27:50,377
+Te, Mr. Bailey szobája, altatók.
+
+369
+00:27:51,086 --> 00:27:52,504
+Így már rémlik?
+
+370
+00:27:52,587 --> 00:27:57,467
+Robin, azonnal el kell mondanod,
+hogy mi a fenébe keveredtél!
+
+371
+00:28:03,014 --> 00:28:05,975
+Jól van, Max, ideje hazajönni!
+
+372
+00:28:21,324 --> 00:28:23,284
+Elég régóta próbálkozunk.
+
+373
+00:28:23,368 --> 00:28:25,412
+Alig haladtunk pár métert.
+
+374
+00:28:25,495 --> 00:28:27,414
+Most már érted, amit mondtam.
+
+375
+00:28:27,497 --> 00:28:30,542
+Rengeteg időm
+ment el azzal, hogy itt nézelődjek.
+
+376
+00:28:30,625 --> 00:28:33,628
+Nem fogsz
+hirtelen rábukkanni valamire, oké?
+
+377
+00:28:33,712 --> 00:28:36,548
+A tesóm mesélt
+Eric bácsiról, a nagybátyánkról?
+
+378
+00:28:36,631 --> 00:28:37,799
+Eric bácsiról?
+
+379
+00:28:37,882 --> 00:28:40,385
+Fémdetektorozik. Tudod, mi az?
+
+380
+00:28:40,468 --> 00:28:41,761
+Fémeket keres.
+
+381
+00:28:41,845 --> 00:28:43,596
+Igen, egy detektorral.
+
+382
+00:28:43,680 --> 00:28:47,267
+Régi kincseket keres,
+amiket halott emberek elástak.
+
+383
+00:28:47,350 --> 00:28:50,478
+Az Indiana Beach
+Vidámparkban szokott próbálkozni.
+
+384
+00:28:50,562 --> 00:28:55,066
+Éveken át keresett ott,
+de csak olcsó bizsukat talált.
+
+385
+00:28:55,150 --> 00:28:58,653
+Erre egyik nap
+az újság címlapján látja a hírt,
+
+386
+00:28:58,737 --> 00:29:04,033
+hogy egy turista talált egy dobozt
+tele érmékkel, ami milliókat ért.
+
+387
+00:29:04,117 --> 00:29:07,328
+Hadd találjam ki: én vagyok Eric bácsi?
+
+388
+00:29:07,412 --> 00:29:08,705
+Én meg a turista.
+
+389
+00:29:19,090 --> 00:29:20,300
+Idióta!
+
+390
+00:29:37,525 --> 00:29:38,943
+Az M jelöli a helyet.
+
+391
+00:29:43,615 --> 00:29:45,408
+- Hová mész?
+- Van egy ötletem.
+
+392
+00:29:45,492 --> 00:29:47,285
+- Mi az?
+- Menjünk közelebb!
+
+393
+00:29:47,368 --> 00:29:49,871
+- Holly!
+- Úgyis vissza akartál menni.
+
+394
+00:29:49,954 --> 00:29:51,581
+Akkor visszamegyünk.
+
+395
+00:29:54,000 --> 00:29:57,295
+Srácok, ha hallotok, jövünk.
+Ismétlem, jövünk.
+
+396
+00:29:57,378 --> 00:30:00,298
+Lassíts, Steve!
+Minden szinttel nő a veszély.
+
+397
+00:30:00,381 --> 00:30:02,050
+Épp ezért kell sietni.
+
+398
+00:30:02,133 --> 00:30:04,260
+Holtan nem veszik hasznunkat.
+
+399
+00:30:13,436 --> 00:30:14,729
+Mint mondtam...
+
+400
+00:30:20,318 --> 00:30:21,319
+Ne már!
+
+401
+00:30:30,245 --> 00:30:31,663
+Mit csinálsz?
+
+402
+00:30:31,746 --> 00:30:34,999
+Pár szinttel lejjebb
+az egyik katona átjutott az ajtón.
+
+403
+00:30:41,965 --> 00:30:43,258
+Vigyázz!
+
+404
+00:30:47,846 --> 00:30:49,055
+A francba! Vigyázz!
+
+405
+00:30:52,308 --> 00:30:53,977
+Bassza meg!
+
+406
+00:30:54,060 --> 00:30:55,228
+Te jó ég!
+
+407
+00:31:01,943 --> 00:31:02,944
+A rohadt életbe!
+
+408
+00:31:05,572 --> 00:31:08,241
+Az asztalra!
+
+409
+00:31:08,324 --> 00:31:09,659
+Ez...
+
+410
+00:31:18,459 --> 00:31:19,544
+Most mi legyen?
+
+411
+00:31:26,009 --> 00:31:28,052
+Segítség!
+
+412
+00:31:28,136 --> 00:31:30,430
+- Segítség!
+- Steve!
+
+413
+00:31:30,513 --> 00:31:33,641
+- Segítség!
+- Hé! Segítség!
+
+414
+00:31:33,725 --> 00:31:36,853
+- Segítség!
+- Segítség!
+
+415
+00:32:12,013 --> 00:32:13,056
+Majdnem kész.
+
+416
+00:32:17,143 --> 00:32:18,478
+Tizi meg fogja oldani.
+
+417
+00:32:19,604 --> 00:32:20,813
+Megoldja.
+
+418
+00:32:25,151 --> 00:32:27,236
+Az én ötletem volt, Hop.
+
+419
+00:32:28,571 --> 00:32:29,447
+Az...
+
+420
+00:32:30,031 --> 00:32:32,575
+én ötletem volt, hogy csatlakozzon rá.
+
+421
+00:32:33,159 --> 00:32:35,620
+Nem is tudom. Azt gondoltam,
+
+422
+00:32:35,703 --> 00:32:40,124
+hogy azok után, ami történt,
+azok után, amiket véghez vitt...
+
+423
+00:32:40,917 --> 00:32:46,673
+Azt gondoltam, hogy talán mindvégig,
+amikor meg akartam védeni,
+
+424
+00:32:46,756 --> 00:32:49,258
+akkor valójában csak visszafogtam.
+
+425
+00:32:51,010 --> 00:32:55,181
+Nem hallgattam rá, és nem bíztam benne.
+
+426
+00:32:55,264 --> 00:32:56,683
+Ezért azt gondoltam...
+
+427
+00:32:57,809 --> 00:33:01,437
+Ha hiszek benne, és belazulok,
+
+428
+00:33:01,521 --> 00:33:04,899
+akkor ez az egész működni fog valahogy.
+
+429
+00:33:06,234 --> 00:33:11,364
+Olyan, mintha
+minden egyes döntésem rossz lenne.
+
+430
+00:33:11,447 --> 00:33:12,490
+Tudom.
+
+431
+00:33:13,992 --> 00:33:18,162
+Lehet, beletaszítod őket olyan
+helyzetekbe, amikre nem állnak készen.
+
+432
+00:33:18,246 --> 00:33:20,832
+Vagy lehetsz
+túlságosan védelmező, mint én,
+
+433
+00:33:20,915 --> 00:33:23,251
+amiért meg utálni fognak.
+
+434
+00:33:23,334 --> 00:33:25,837
+A szülőség egyik öröme,
+
+435
+00:33:28,381 --> 00:33:30,842
+hogy életed végéig lesz egy emlékeztetőd,
+
+436
+00:33:30,925 --> 00:33:32,719
+hogy minden egyes döntésed
+
+437
+00:33:33,511 --> 00:33:34,971
+téves volt.
+
+438
+00:33:38,516 --> 00:33:40,059
+Nem a te hibád, Joyce.
+
+439
+00:33:42,979 --> 00:33:44,188
+Nem a te hibád.
+
+440
+00:33:59,871 --> 00:34:02,165
+Jól néz ki. Murray találta?
+
+441
+00:34:02,874 --> 00:34:03,875
+Igen.
+
+442
+00:34:05,752 --> 00:34:07,462
+A Télapónak jó ízlése van.
+
+443
+00:34:11,966 --> 00:34:14,385
+Figyi, a Rikkantóban
+
+444
+00:34:15,136 --> 00:34:17,597
+Kali valami furát mondott.
+
+445
+00:34:17,680 --> 00:34:20,850
+Szerinte ez nem ér véget,
+ha megöljük Henryt.
+
+446
+00:34:20,933 --> 00:34:22,685
+Tudod, miről beszél?
+
+447
+00:34:23,728 --> 00:34:25,146
+Nem számít.
+
+448
+00:34:25,855 --> 00:34:27,190
+Fel kell melegítenem.
+
+449
+00:34:27,815 --> 00:34:31,027
+Ha nem számít,
+Hop miért lett olyan dühös rá?
+
+450
+00:34:31,110 --> 00:34:32,403
+Nem fontos, Mike.
+
+451
+00:34:32,487 --> 00:34:34,238
+- Nem hazudunk.
+- Nem hazudok.
+
+452
+00:34:34,322 --> 00:34:37,658
+Kikerülöd a témát.
+Ez csalás. Csak segíteni akarok.
+
+453
+00:34:37,742 --> 00:34:40,203
+Ezzel nem tudsz segíteni.
+
+454
+00:34:40,286 --> 00:34:42,080
+Azt majd én eldöntöm.
+
+455
+00:34:44,248 --> 00:34:45,208
+Tizi, kérlek!
+
+456
+00:34:50,379 --> 00:34:52,924
+Van egy labor az Átfordított Világban.
+
+457
+00:34:53,007 --> 00:34:55,551
+Újraindítják Papa programját.
+
+458
+00:34:56,469 --> 00:34:58,262
+Új számokat akarnak készíteni.
+
+459
+00:35:01,974 --> 00:35:03,059
+A hadsereg?
+
+460
+00:35:06,437 --> 00:35:07,396
+Oké.
+
+461
+00:35:07,897 --> 00:35:12,777
+Akkor miután megöltük Vecnát,
+elpusztítjuk a labort. Vége a programnak.
+
+462
+00:35:12,860 --> 00:35:16,239
+- Mint egy mellékküldetés.
+- Nem érted, Mike.
+
+463
+00:35:16,322 --> 00:35:19,450
+Nem a labor kell az új számokhoz.
+
+464
+00:35:19,534 --> 00:35:20,827
+Henry vére.
+
+465
+00:35:22,453 --> 00:35:23,704
+Bennem is van belőle.
+
+466
+00:35:23,788 --> 00:35:25,498
+Nem vagyok szörnyeteg.
+
+467
+00:35:26,749 --> 00:35:28,209
+Ezt most már tudom.
+
+468
+00:35:28,793 --> 00:35:30,837
+De velem és a véremmel
+
+469
+00:35:32,004 --> 00:35:34,382
+újabb szörnyetegeket hozhatnak létre.
+
+470
+00:35:35,508 --> 00:35:37,718
+Újabb Henryket.
+
+471
+00:35:38,302 --> 00:35:41,514
+Eddig is tudtuk,
+hogy a hadsereg mindig is keresni fog.
+
+472
+00:35:41,597 --> 00:35:43,391
+Ezért megyünk el Hawkinsból.
+
+473
+00:35:43,474 --> 00:35:45,768
+Amikor ennek vége, elmegyünk.
+
+474
+00:35:46,435 --> 00:35:49,313
+Elmenekülünk egy messzi földre. Emlékszel?
+
+475
+00:35:49,397 --> 00:35:51,607
+Olyan helyre, ahol nem találnak ránk.
+
+476
+00:35:52,316 --> 00:35:55,444
+Ahol lesz legalább egy vízesés.
+
+477
+00:35:56,445 --> 00:35:57,363
+Mike!
+
+478
+00:35:59,240 --> 00:36:02,493
+Ez nem egy szerepjátékos kampány.
+
+479
+00:36:03,619 --> 00:36:05,371
+Nem te írod a történet végét.
+
+480
+00:36:06,164 --> 00:36:07,331
+Ezúttal nem.
+
+481
+00:36:09,125 --> 00:36:10,334
+Tényleg nem én írom,
+
+482
+00:36:11,419 --> 00:36:12,670
+hanem együtt írjuk.
+
+483
+00:36:12,753 --> 00:36:16,215
+Te, én, Lucas, Will és Dustin.
+
+484
+00:36:16,799 --> 00:36:18,342
+Ez a mi történetünk.
+
+485
+00:36:19,468 --> 00:36:21,804
+És Will visszaszerzésével kezdődik.
+
+486
+00:36:38,154 --> 00:36:38,988
+Max.
+
+487
+00:36:49,165 --> 00:36:52,418
+Ugye tudod,
+hogy nem kell a távcső? Az a barlangom.
+
+488
+00:36:52,501 --> 00:36:53,336
+Igen.
+
+489
+00:36:53,419 --> 00:36:54,962
+Rajta hagytad a kupakot.
+
+490
+00:36:55,463 --> 00:36:56,297
+Igen.
+
+491
+00:36:57,381 --> 00:36:58,299
+Nézd!
+
+492
+00:36:59,717 --> 00:37:00,801
+A kupakkal!
+
+493
+00:37:06,098 --> 00:37:08,017
+Nagyon sötét van.
+
+494
+00:37:08,100 --> 00:37:09,060
+De nem teljesen.
+
+495
+00:37:09,143 --> 00:37:12,897
+Látod a kivágást? Ugyanolyan alakú,
+mint a barlang torkolata.
+
+496
+00:37:12,980 --> 00:37:17,318
+Mi az esélye, hogy pont úgy törik ki,
+főleg, hogy Henry járt a barlangban?
+
+497
+00:37:17,401 --> 00:37:20,696
+A kupak egy térkép,
+amit a fiatal Henry csinált,
+
+498
+00:37:20,780 --> 00:37:23,199
+és ami elvezet egy titkos helyre.
+
+499
+00:37:24,033 --> 00:37:26,285
+Csak egyeznie kell a két formának.
+
+500
+00:37:27,536 --> 00:37:31,582
+És szerinted mit találunk a titkos helyen?
+Henry traumatikus emlékét?
+
+501
+00:37:31,666 --> 00:37:34,168
+Azt, és a kiutat Camazotzból.
+
+502
+00:37:35,044 --> 00:37:37,296
+Legalábbis ez az elméletem.
+
+503
+00:37:38,256 --> 00:37:39,715
+- Tetszik.
+- Kösz.
+
+504
+00:37:39,799 --> 00:37:42,009
+Bár van egy apró probléma vele.
+
+505
+00:37:42,093 --> 00:37:44,804
+Itt vagyunk a titkos helyszín közelében,
+
+506
+00:37:44,887 --> 00:37:48,140
+de a végeérhetetlen
+homokon kívül nem látok...
+
+507
+00:37:50,977 --> 00:37:53,896
+Kapaszkodj!
+
+508
+00:38:12,748 --> 00:38:14,083
+Az M jelöli a helyet.
+
+509
+00:38:22,717 --> 00:38:25,803
+Vic, nem szeretnél mondani valamit?
+
+510
+00:38:25,886 --> 00:38:28,889
+Nem tudom
+leolvasni az üzenetet az arcodról.
+
+511
+00:38:28,973 --> 00:38:32,935
+Tudom, hogy nehéz feldolgozni,
+főleg így zanzásítva.
+
+512
+00:38:33,519 --> 00:38:35,479
+Szörnyek és alternatív dimenziók,
+
+513
+00:38:35,563 --> 00:38:39,150
+és tény, hogy Turnbowék
+elkábítása kicsit etikátlan volt...
+
+514
+00:38:39,233 --> 00:38:44,113
+- Hagyd abba, Robin! Kérlek!
+- Ezerszer el akartam mondani.
+
+515
+00:38:44,196 --> 00:38:47,992
+Nem. Hazudtál.
+És újra és újra hazudtál nekem.
+
+516
+00:38:48,075 --> 00:38:50,369
+- Tudtam, hogy baj van.
+- Sajnálom.
+
+517
+00:38:50,453 --> 00:38:54,040
+„Bocs, sok a meló, majd hívlak.”
+„Bocs, dráma a rádióban.”
+
+518
+00:38:54,123 --> 00:38:56,292
+Melyik rádióban van éjszakai műszak?
+
+519
+00:38:56,375 --> 00:38:59,378
+És ki elég hülye, hogy ezt elhiggye?
+
+520
+00:38:59,462 --> 00:39:00,963
+Ezek szerint én, Vickie,
+
+521
+00:39:01,047 --> 00:39:03,549
+aki a telefon mellett ül otthon,
+
+522
+00:39:03,632 --> 00:39:05,509
+míg te betépsz a barátaiddal.
+
+523
+00:39:05,593 --> 00:39:06,719
+Betépek?
+
+524
+00:39:06,802 --> 00:39:10,348
+Ne csináld, Robin!
+Elvonási tüneteid vannak.
+
+525
+00:39:10,431 --> 00:39:12,266
+Félreértetted. Nem drogozom.
+
+526
+00:39:12,350 --> 00:39:14,060
+- Bocs, tényleg.
+- Nézz rám!
+
+527
+00:39:14,143 --> 00:39:17,730
+A barátaiddal voltál, szörnyvadászaton.
+
+528
+00:39:17,813 --> 00:39:20,191
+Te jó ég! Te ezt tényleg elhiszed?
+
+529
+00:39:20,274 --> 00:39:23,736
+Amilyen adagokat szedtél,
+ha hirtelen leállsz vele,
+
+530
+00:39:23,819 --> 00:39:26,072
+az okozhat paranoiát, hallucinációt...
+
+531
+00:39:26,155 --> 00:39:28,991
+Ezek nem hallucinációk!
+
+532
+00:39:29,075 --> 00:39:30,785
+Akkor foglaljuk össze.
+
+533
+00:39:30,868 --> 00:39:32,995
+Egy sötét varázsló...
+
+534
+00:39:33,079 --> 00:39:34,455
+- ...gyerekeket lop.
+- Aha.
+
+535
+00:39:34,538 --> 00:39:36,999
+- És elviszi őket egy álomvilágba.
+- Igen.
+
+536
+00:39:38,459 --> 00:39:42,129
+Vickie! A föld négy részre hasadt.
+
+537
+00:39:42,213 --> 00:39:44,757
+A hadsereg irányítja a városunkat.
+
+538
+00:39:44,840 --> 00:39:47,301
+Tényleg olyan nehéz elhinni, amit mondok?
+
+539
+00:39:48,511 --> 00:39:49,804
+Totálisan!
+
+540
+00:39:49,887 --> 00:39:52,515
+Érdekel, mi az üzenet az arcomon?
+
+541
+00:39:52,598 --> 00:39:54,100
+- Igen.
+- A harag.
+
+542
+00:39:54,183 --> 00:40:00,314
+De egy egészen enyhe, és nagyon vonakodó
+aggodalommal vegyítve.
+
+543
+00:40:01,232 --> 00:40:03,442
+Mert bármennyire is dühös vagyok rád,
+
+544
+00:40:03,526 --> 00:40:06,779
+nem vagy jól, Robin,
+és segítségre szorulsz.
+
+545
+00:40:06,862 --> 00:40:08,739
+Komoly segítségre.
+
+546
+00:40:09,740 --> 00:40:12,076
+- Droglopást jelentettek be...
+- Várj!
+
+547
+00:40:12,159 --> 00:40:13,202
+Nem látták?
+
+548
+00:40:13,285 --> 00:40:14,286
+Robin Buckley-t?
+
+549
+00:40:14,370 --> 00:40:17,248
+Itt van. Abba a szobába ment be.
+
+550
+00:40:19,417 --> 00:40:20,626
+Sajnálom, Vickie.
+
+551
+00:40:20,709 --> 00:40:21,544
+Ne!
+
+552
+00:40:21,627 --> 00:40:23,129
+- Mennem kell.
+- Robin!
+
+553
+00:40:23,838 --> 00:40:24,755
+Hé!
+
+554
+00:40:25,923 --> 00:40:27,133
+Hozzád beszélek.
+
+555
+00:40:27,800 --> 00:40:28,717
+Buckley, állj!
+
+556
+00:40:32,638 --> 00:40:34,265
+Mégis hová mész?
+
+557
+00:40:36,684 --> 00:40:39,019
+- Segítség!
+- Segítség!
+
+558
+00:40:39,103 --> 00:40:40,938
+- Segítség!
+- Dustin!
+
+559
+00:40:41,021 --> 00:40:42,690
+- Segítség! Steve!
+- Hé!
+
+560
+00:40:46,193 --> 00:40:47,278
+Hála az égnek!
+
+561
+00:40:49,780 --> 00:40:53,826
+Mi a fenét művelsz?
+Ez nem fog működni. Hagyd abba!
+
+562
+00:40:53,909 --> 00:40:57,121
+Steve, komolyan mondom.
+Ez nem biztonságos.
+
+563
+00:40:57,204 --> 00:40:59,748
+- Leesel.
+- Instabil az épület, értem.
+
+564
+00:40:59,832 --> 00:41:02,334
+Ne! Ne legyél seggfej!
+
+565
+00:41:02,418 --> 00:41:04,128
+Meg akarom menteni őket.
+
+566
+00:41:04,211 --> 00:41:08,841
+Ki akarod nyíratni magad. Ez nem
+történhet meg újra. Ne légy ilyen önző!
+
+567
+00:41:08,924 --> 00:41:11,802
+Ha felmászol,
+meg fogsz halni. Azt nem bírnám ki.
+
+568
+00:41:11,886 --> 00:41:14,221
+Nem halhatsz meg, mert nem bírnám ki.
+
+569
+00:41:14,305 --> 00:41:18,851
+Kérlek! Nem történhet ez meg még egyszer.
+
+570
+00:41:19,393 --> 00:41:20,394
+Veled nem.
+
+571
+00:41:21,520 --> 00:41:22,605
+Ne haragudj!
+
+572
+00:41:22,688 --> 00:41:23,898
+Semmi baj.
+
+573
+00:41:35,743 --> 00:41:37,369
+- Segítség!
+- Segítség!
+
+574
+00:41:37,870 --> 00:41:39,997
+- Gyerünk már!
+- Segítség!
+
+575
+00:41:42,124 --> 00:41:43,626
+Ülj le!
+
+576
+00:41:45,252 --> 00:41:47,963
+- Mit csináljunk?
+- Osszuk szét a súlyunkat!
+
+577
+00:41:48,047 --> 00:41:50,007
+Mr. Goldstein tanította fizikán.
+
+578
+00:41:50,090 --> 00:41:52,343
+Ezzel nyerünk egy kis időt.
+
+579
+00:41:53,511 --> 00:41:57,097
+- Biztosan hallottak minket.
+- Akkor miért nem válaszoltak?
+
+580
+00:41:57,181 --> 00:41:59,433
+De ha hallottak is, mit tehetnének?
+
+581
+00:41:59,517 --> 00:42:01,393
+Valamit. Bármit.
+
+582
+00:42:06,857 --> 00:42:08,025
+Nem fognak jönni.
+
+583
+00:42:08,108 --> 00:42:09,568
+Ne mondd ezt!
+
+584
+00:42:09,652 --> 00:42:10,903
+Őszinteséget akartál.
+
+585
+00:42:31,298 --> 00:42:32,758
+Utálom a Clasht.
+
+586
+00:42:35,052 --> 00:42:35,928
+Micsoda?
+
+587
+00:42:38,389 --> 00:42:40,516
+Utálom a Clasht.
+
+588
+00:42:40,599 --> 00:42:44,311
+Akárhányszor berakod,
+próbálok kilépni a testemből.
+
+589
+00:42:46,355 --> 00:42:48,983
+Oké. Utálom elolvasni a cikkeidet.
+
+590
+00:42:49,066 --> 00:42:52,570
+Nem érdekelnek a gondolataim.
+Csak a dicséretekre hajtasz.
+
+591
+00:42:52,653 --> 00:42:54,029
+Mert jók a cikkeim.
+
+592
+00:42:54,113 --> 00:42:55,155
+A legtöbbször.
+
+593
+00:42:55,239 --> 00:42:56,532
+A legtöbb...
+
+594
+00:42:56,615 --> 00:42:58,117
+Jól van.
+
+595
+00:42:59,243 --> 00:43:01,662
+Nem olvastam az <i>Ötös számú vágóhidat</i>.
+
+596
+00:43:01,745 --> 00:43:04,290
+Az összefoglaló alapján
+bekamuztam, hogy jó.
+
+597
+00:43:04,373 --> 00:43:06,375
+Nem olvastam az <i>Anna Kareninát</i>.
+
+598
+00:43:06,458 --> 00:43:08,294
+Csak bekamuztam, hogy jó.
+
+599
+00:43:08,377 --> 00:43:10,879
+Mindig pontosan hat percet késel,
+
+600
+00:43:10,963 --> 00:43:14,883
+és sosem szólok,
+de legszívesebben kiabálnék.
+
+601
+00:43:14,967 --> 00:43:18,762
+- Eladományoztam a rózsaszín pulcsidat.
+- Mi? Mindenhol kerestem.
+
+602
+00:43:18,846 --> 00:43:19,972
+Utáltam a színét.
+
+603
+00:43:20,055 --> 00:43:22,474
+De ha megnyugtat, bűntudatom volt utána.
+
+604
+00:43:22,558 --> 00:43:26,145
+Lehúztam az utolsó adag
+Lila Pálmavarázst a budin,
+
+605
+00:43:26,228 --> 00:43:27,896
+és még bűntudatom se volt.
+
+606
+00:43:27,980 --> 00:43:30,149
+- Ne már!
+- Utálom, ha betépsz.
+
+607
+00:43:30,232 --> 00:43:31,358
+Utálom, ha berúgsz.
+
+608
+00:43:31,442 --> 00:43:34,403
+A legrosszabb az,
+amikor te betépsz, és én berúgok.
+
+609
+00:43:34,486 --> 00:43:35,738
+Szerintem is.
+
+610
+00:43:36,572 --> 00:43:38,032
+Miért csináljuk ezt?
+
+611
+00:43:41,410 --> 00:43:42,494
+Nem tudom.
+
+612
+00:43:51,211 --> 00:43:53,047
+Nem jelentkeztem az Emersonra.
+
+613
+00:43:55,090 --> 00:43:56,008
+Tudom.
+
+614
+00:43:57,885 --> 00:43:59,595
+Miért nem mondtál semmit?
+
+615
+00:44:00,846 --> 00:44:02,264
+És te?
+
+616
+00:44:06,060 --> 00:44:07,144
+Nem is tudom.
+
+617
+00:44:12,983 --> 00:44:14,693
+Úgy éreztem,
+
+618
+00:44:16,570 --> 00:44:17,988
+valamit rosszat teszek.
+
+619
+00:44:21,617 --> 00:44:24,787
+Mintha szembemennék
+a dolgok természetes rendjével.
+
+620
+00:44:26,455 --> 00:44:27,665
+Tudod,
+
+621
+00:44:29,124 --> 00:44:31,585
+azok után, amin keresztülmentünk...
+
+622
+00:44:31,669 --> 00:44:33,629
+A közös traumánkra gondolsz?
+
+623
+00:44:35,422 --> 00:44:36,298
+Igen.
+
+624
+00:44:38,342 --> 00:44:42,012
+Hogy érthetné ezt meg bárki is?
+
+625
+00:44:42,513 --> 00:44:43,806
+Ez olyan,
+
+626
+00:44:44,890 --> 00:44:46,558
+mint egy láthatatlan szál,
+
+627
+00:44:47,976 --> 00:44:50,145
+ami örökre összeköt minket.
+
+628
+00:44:51,021 --> 00:44:52,022
+Érted?
+
+629
+00:44:54,149 --> 00:44:56,151
+Biztonságban éreztem magam tőle.
+
+630
+00:44:57,277 --> 00:44:58,487
+De ugyanakkor...
+
+631
+00:45:00,864 --> 00:45:01,782
+Nem tudom.
+
+632
+00:45:02,783 --> 00:45:04,159
+Fojtogató tud lenni.
+
+633
+00:45:05,911 --> 00:45:06,787
+Igen.
+
+634
+00:45:10,916 --> 00:45:12,459
+Abban a tavaszi szünetben,
+
+635
+00:45:13,293 --> 00:45:15,087
+amikor Lenorában voltál...
+
+636
+00:45:16,672 --> 00:45:19,299
+Nem kellett itt maradnom a munka miatt.
+
+637
+00:45:19,383 --> 00:45:21,969
+Fred beugrott volna helyettem.
+
+638
+00:45:24,430 --> 00:45:26,682
+De pont ezért maradtam.
+
+639
+00:45:28,183 --> 00:45:31,937
+Úgy éreztem, hogy térre van szükségem.
+
+640
+00:45:34,565 --> 00:45:36,442
+Hogy valaki mással legyél?
+
+641
+00:45:41,989 --> 00:45:43,532
+Steve rendes srác.
+
+642
+00:45:45,451 --> 00:45:46,744
+Mindig megnevettet.
+
+643
+00:45:47,870 --> 00:45:52,458
+És jobb a frizurája,
+mint neked. Sokkal jobb.
+
+644
+00:45:53,333 --> 00:45:54,251
+De nem.
+
+645
+00:45:56,879 --> 00:45:59,173
+Nem volt köztünk semmi.
+
+646
+00:45:59,757 --> 00:46:01,633
+Nagyon különbözőek vagyunk.
+
+647
+00:46:01,717 --> 00:46:05,429
+Tudod, mit mondott? Hat gyereket akar.
+
+648
+00:46:05,512 --> 00:46:06,638
+Hatot?
+
+649
+00:46:06,722 --> 00:46:08,891
+Hat kis csibefalatot.
+
+650
+00:46:09,725 --> 00:46:11,101
+Mint egy Happy Mealben.
+
+651
+00:46:12,686 --> 00:46:13,854
+De a lényeg,
+
+652
+00:46:15,481 --> 00:46:18,942
+hogy ő tudja, mit akar, és ez szuper.
+
+653
+00:46:19,026 --> 00:46:20,110
+De...
+
+654
+00:46:21,195 --> 00:46:22,070
+én nem tudom.
+
+655
+00:46:23,989 --> 00:46:28,911
+És azt reméltem,
+lesz időm rájönni, mit szeretnék.
+
+656
+00:46:30,162 --> 00:46:32,706
+- De aztán...
+- A világ négy részre hasadt.
+
+657
+00:46:32,790 --> 00:46:33,957
+És most...
+
+658
+00:46:36,835 --> 00:46:37,836
+És most...
+
+659
+00:46:48,764 --> 00:46:50,682
+Jöhet még egy utolsó vallomás?
+
+660
+00:46:51,767 --> 00:46:53,101
+Ez a legfontosabb.
+
+661
+00:46:59,691 --> 00:47:01,235
+John Coltrane.
+
+662
+00:47:01,860 --> 00:47:03,362
+Úgy érzem,
+
+663
+00:47:04,363 --> 00:47:06,156
+már elégszer elcsesztem veled.
+
+664
+00:47:08,450 --> 00:47:11,328
+Jó lenne
+végre egyszer valamit jól csinálni.
+
+665
+00:47:12,371 --> 00:47:13,205
+Tessék.
+
+666
+00:47:31,348 --> 00:47:32,766
+Nancy Wheeler!
+
+667
+00:47:35,310 --> 00:47:36,395
+Leszel
+
+668
+00:47:38,272 --> 00:47:41,108
+a nem-feleségem?
+
+669
+00:47:48,115 --> 00:47:50,075
+Próbáltam meggyőzni magam,
+
+670
+00:47:51,451 --> 00:47:53,287
+hogy ez majd valahogy
+
+671
+00:47:54,079 --> 00:47:55,622
+mindent helyre fog hozni.
+
+672
+00:47:55,706 --> 00:47:58,333
+De tudtam, hogy csak rontana a helyzeten.
+
+673
+00:47:59,459 --> 00:48:04,506
+Ezért nyomaszt már két napja a zsebemben.
+
+674
+00:48:07,301 --> 00:48:08,552
+Mi a válaszod?
+
+675
+00:48:12,723 --> 00:48:14,766
+Elfogadod a nem-lánykérésemet?
+
+676
+00:48:15,976 --> 00:48:17,936
+Elfogadom a nem-lánykérésedet.
+
+677
+00:48:20,397 --> 00:48:21,523
+Szerettelek.
+
+678
+00:48:22,816 --> 00:48:23,984
+Szeretlek,
+
+679
+00:48:24,818 --> 00:48:25,944
+Nancy Wheeler.
+
+680
+00:48:27,446 --> 00:48:29,823
+Szeretlek, Jonathan Byers.
+
+681
+00:49:05,609 --> 00:49:06,610
+Te jó ég!
+
+682
+00:49:15,911 --> 00:49:16,954
+Jonathan!
+
+683
+00:49:17,663 --> 00:49:18,538
+Úristen!
+
+684
+00:49:49,653 --> 00:49:50,904
+Köszönöm.
+
+685
+00:49:50,988 --> 00:49:52,572
+Meg fogom találni Willt.
+
+686
+00:49:54,074 --> 00:49:55,701
+Hazahozom.
+
+687
+00:50:03,375 --> 00:50:06,211
+Jól van. Ne felejtsd, ha ki akarsz jönni...
+
+688
+00:50:35,574 --> 00:50:37,409
+Will, itt vagyok.
+
+689
+00:50:39,327 --> 00:50:41,747
+Mutasd meg, kérlek, hol vagy!
+
+690
+00:50:43,373 --> 00:50:45,208
+Mutasd meg, hol vagy!
+
+691
+00:51:06,313 --> 00:51:07,189
+Will!
+
+692
+00:51:10,609 --> 00:51:13,403
+Will! Hallasz engem?
+
+693
+00:51:13,487 --> 00:51:14,738
+Ébredj fel!
+
+694
+00:51:42,974 --> 00:51:44,059
+Ideadnád?
+
+695
+00:51:51,983 --> 00:51:53,568
+Szerinted valaki leesett?
+
+696
+00:51:58,031 --> 00:52:00,700
+Ez csak egy emlék, ugye?
+
+697
+00:52:00,784 --> 00:52:04,079
+- Semmi sem bánthat itt minket.
+- Semmi sem bánthat.
+
+698
+00:52:18,009 --> 00:52:19,302
+Maradj mögöttem, jó?
+
+699
+00:52:19,386 --> 00:52:21,304
+- De azt mondtad...
+- Tudom.
+
+700
+00:52:33,400 --> 00:52:34,776
+Hogy találtál rám?
+
+701
+00:52:37,112 --> 00:52:39,114
+Hogy találtál rám?
+
+702
+00:52:39,197 --> 00:52:42,117
+Lát minket. Az hogy lehet?
+
+703
+00:52:42,200 --> 00:52:43,368
+Nem bántom magát.
+
+704
+00:52:44,035 --> 00:52:46,830
+Kérem, uram, ne lőjön!
+
+705
+00:52:46,913 --> 00:52:48,165
+Te meg ki vagy?
+
+706
+00:52:48,248 --> 00:52:50,834
+Henry Creel. A közelben lakom.
+
+707
+00:52:50,917 --> 00:52:52,961
+- Ki küldött?
+- Senki.
+
+708
+00:52:53,044 --> 00:52:55,213
+- Ők küldtek.
+- Kiabálást hallottam.
+
+709
+00:52:55,297 --> 00:52:56,506
+Ők küldtek.
+
+710
+00:52:56,590 --> 00:52:59,217
+Össze van zavarodva. Orvosra van szüksége.
+
+711
+00:53:13,773 --> 00:53:15,650
+Kérem!
+
+712
+00:53:24,159 --> 00:53:26,995
+Holly!
+
+713
+00:53:31,416 --> 00:53:32,292
+Bassza meg!
+
+714
+00:53:34,336 --> 00:53:36,880
+Figyelj! Minden rendben.
+
+715
+00:53:36,963 --> 00:53:41,343
+Miért bántotta Henryt?
+Ő csak segíteni akart neki.
+
+716
+00:53:41,426 --> 00:53:43,386
+- Nem tudom.
+- Henry ezért gonosz?
+
+717
+00:53:43,470 --> 00:53:45,805
+Nem tudom. De már vége, oké?
+
+718
+00:53:45,889 --> 00:53:47,140
+Mennünk kell!
+
+719
+00:54:37,482 --> 00:54:38,692
+Igazad volt.
+
+720
+00:54:38,775 --> 00:54:41,528
+Itt van a kijárat Camazotzból.
+
+721
+00:54:50,453 --> 00:54:51,288
+Max?
+
+722
+00:55:01,840 --> 00:55:08,555
+<i>Kémkedni fogsz nekem,
+még egyszer utoljára.</i>
+
+723
+00:55:20,066 --> 00:55:21,067
+Megvagy.
+
+724
+00:55:22,861 --> 00:55:26,489
+Will! Minden rendben. Itt vagyok.
+
+725
+00:55:26,573 --> 00:55:27,574
+Itt vagyok.
+
+726
+00:55:27,657 --> 00:55:28,825
+Tizi!
+
+727
+00:55:28,908 --> 00:55:32,412
+Én vagyok az. Hazaviszlek. Minden rendben.
+
+728
+00:55:32,495 --> 00:55:35,623
+Próbáltam megállítani Vecnát,
+de nem sikerült.
+
+729
+00:55:35,707 --> 00:55:36,708
+Látta.
+
+730
+00:55:37,292 --> 00:55:39,002
+Mit látott?
+
+731
+00:55:39,711 --> 00:55:40,628
+Maxet.
+
+732
+00:55:41,838 --> 00:55:43,381
+Tudja, hol van.
+
+733
+00:55:44,090 --> 00:55:45,842
+Ráuszította a Demókat.
+
+734
+00:55:46,718 --> 00:55:49,387
+Érte mennek, Hawkinsba.
+
+735
+00:55:53,350 --> 00:55:54,476
+- Tizi!
+- Mi az?
+
+736
+00:55:54,559 --> 00:55:55,477
+Jól vagy?
+
+737
+00:55:56,227 --> 00:55:57,228
+Mi a baj?
+
+738
+00:55:57,312 --> 00:55:58,730
+- Will jól van?
+- Igen.
+
+739
+00:55:59,397 --> 00:56:01,900
+Vecna meg fogja ölni Maxet.
+
+740
+00:56:02,484 --> 00:56:04,569
+Azonnal a kórházba kell mennünk!
+
+741
+00:56:04,652 --> 00:56:07,364
+Hahó! Süketek vagytok?
+Elvonási tünetei vannak.
+
+742
+00:56:07,447 --> 00:56:08,365
+Nincsenek.
+
+743
+00:56:08,448 --> 00:56:13,161
+Kórházban a helye, nem börtönben.
+Szerencsére épp egy kórházban vagyunk.
+
+744
+00:56:13,244 --> 00:56:16,164
+Ez Hawkins, cukorka. Láttunk már drogost.
+
+745
+00:56:21,419 --> 00:56:23,338
+Áramszünet a kórházban.
+
+746
+00:56:23,922 --> 00:56:26,216
+A lélegeztetőgépnek annyi. Na mindegy.
+
+747
+00:56:26,299 --> 00:56:27,926
+Ki kell üríteni a kórházat!
+
+748
+00:56:28,009 --> 00:56:30,678
+Te nem parancsolgatsz! Mozgás, drogos!
+
+749
+00:56:30,762 --> 00:56:32,138
+Nem vagyok drogos.
+
+750
+00:56:32,222 --> 00:56:36,476
+Ha nem ürítjük ki azonnal a kórházat,
+mindenki meg fog halni.
+
+751
+00:56:36,559 --> 00:56:41,272
+Hiába hordasz itt össze
+mindenfélét, le fogunk csukni.
+
+752
+00:56:41,356 --> 00:56:43,483
+Szóval pofa be!
+
+753
+00:57:13,513 --> 00:57:15,056
+Nem értünk jöttek.
+
+754
+00:57:15,140 --> 00:57:16,099
+Micsoda?
+
+755
+00:57:16,182 --> 00:57:19,185
+Nem értünk jöttek. Van másik kijárat?
+
+756
+00:57:19,269 --> 00:57:21,563
+Az alagsoron keresztül a parkolóba.
+
+757
+00:57:23,690 --> 00:57:24,691
+Oké.
+
+758
+00:57:25,233 --> 00:57:27,277
+Gyerünk, Lucas, vedd fel!
+
+759
+00:57:30,280 --> 00:57:31,156
+Vedd már fel!
+
+760
+00:57:31,239 --> 00:57:33,324
+- Mit csinálsz?
+- Értik ezek a beszédet?
+
+761
+00:57:33,408 --> 00:57:35,493
+- Nem.
+- Akkor mehet a hangszóróra.
+
+762
+00:57:36,369 --> 00:57:38,621
+<i>Lucas, itt Robin! Egy Demo tart feléd.</i>
+
+763
+00:57:38,705 --> 00:57:41,833
+Hallod? Egy Demo tart felétek.
+Menekítsd ki Maxet!
+
+764
+00:57:41,916 --> 00:57:45,253
+Lifttel menjetek, ők lépcsőznek.
+Az alagsorban várunk.
+
+765
+00:58:12,113 --> 00:58:13,156
+Gyerünk már!
+
+766
+00:58:23,208 --> 00:58:24,292
+Baszki!
+
+767
+00:58:25,543 --> 00:58:26,503
+Gyerünk már!
+
+768
+00:58:44,521 --> 00:58:46,022
+A rohadt életbe!
+
+769
+00:58:47,732 --> 00:58:48,942
+Meg sem mozdul!
+
+770
+00:58:49,025 --> 00:58:52,362
+Próbáljunk meg átkúszni, jó? Gyerünk!
+
+771
+00:58:58,076 --> 00:58:59,077
+Jól vagy?
+
+772
+00:58:59,160 --> 00:59:00,537
+- Igen.
+- Oké.
+
+773
+00:59:04,249 --> 00:59:06,668
+- Fogd meg a kezem, oké?
+- Oké.
+
+774
+00:59:30,400 --> 00:59:31,276
+Jézusom!
+
+775
+00:59:31,359 --> 00:59:32,819
+Mögöttem jönnek.
+
+776
+00:59:32,902 --> 00:59:34,279
+- Menjünk!
+- Merre?
+
+777
+00:59:35,738 --> 00:59:38,116
+Erre! Mi a franc folyik itt?
+
+778
+00:59:39,409 --> 00:59:41,035
+- Ide!
+- Hogy találtak meg?
+
+779
+00:59:41,119 --> 00:59:43,788
+Nem tudom, de menekülnünk kell. Gyertek!
+
+780
+00:59:43,871 --> 00:59:45,707
+- Gyerünk!
+- Nyomás!
+
+781
+00:59:45,790 --> 00:59:48,209
+Csukd be az ajtót!
+
+782
+00:59:50,670 --> 00:59:52,714
+- Baszki!
+- Futás!
+
+783
+00:59:53,673 --> 00:59:54,966
+- Gyere!
+- Baszki!
+
+784
+00:59:55,049 --> 00:59:56,634
+Gyerünk!
+
+785
+00:59:57,719 --> 01:00:00,221
+- Nyisd ki az ajtót!
+- Gyerünk!
+
+786
+01:00:05,393 --> 01:00:07,729
+Erre, csajok! Gyertek!
+
+787
+01:00:07,812 --> 01:00:08,771
+Guggoljatok le!
+
+788
+01:00:18,072 --> 01:00:20,783
+Ne haragudj, hogy azt hittem, drogos vagy.
+
+789
+01:00:22,035 --> 01:00:26,623
+Te pedig ne haragudj, amiért
+nevetségesen sokáig hazudtam neked.
+
+790
+01:00:27,123 --> 01:00:30,710
+De hidd el, az Enzo's nem volt hazugság.
+
+791
+01:00:30,793 --> 01:00:35,548
+Ha valami csoda folytán
+túléljük ezt, elviszlek oda,
+
+792
+01:00:35,632 --> 01:00:39,552
+és desszertet is fogunk kérni. Oké?
+
+793
+01:01:05,286 --> 01:01:06,704
+Ki kell kapcsolnunk.
+
+794
+01:01:06,788 --> 01:01:10,291
+Nem lehet. Ne! Max visszajön.
+
+795
+01:01:10,875 --> 01:01:12,043
+Muszáj.
+
+796
+01:01:13,044 --> 01:01:14,337
+Max visszajön.
+
+797
+01:01:21,344 --> 01:01:22,470
+Jól vagy?
+
+798
+01:01:24,013 --> 01:01:24,972
+- Menj!
+- Oké.
+
+799
+01:01:35,692 --> 01:01:36,734
+Jól van.
+
+800
+01:01:40,530 --> 01:01:42,407
+Mehetünk haza, turista?
+
+801
+01:01:45,076 --> 01:01:46,035
+Igen.
+
+802
+01:03:14,540 --> 01:03:17,376
+OXIGÉN
+GYÚLÉKONY
+
+803
+01:03:17,460 --> 01:03:19,587
+SZÁRÍTÁSI HŐFOK
+MAGAS
+
+804
+01:04:25,695 --> 01:04:26,737
+Lucas.
+
+805
+01:04:33,452 --> 01:04:34,996
+Holly! Várj!
+
+806
+01:04:37,290 --> 01:04:38,374
+Nem jöhetsz velem.
+
+807
+01:04:38,457 --> 01:04:41,252
+Micsoda? Miért nem?
+
+808
+01:04:41,335 --> 01:04:46,340
+Ez a kijárat hozzám vezet,
+az én testemhez, nem a tiédhez.
+
+809
+01:04:46,424 --> 01:04:48,050
+Találd meg a kijáratodat!
+
+810
+01:04:48,134 --> 01:04:51,679
+Hogyan? Nekem nem segít Kate Bush.
+Azt se tudom, ki az.
+
+811
+01:04:51,762 --> 01:04:53,681
+Nincs rá szükséged.
+
+812
+01:04:53,764 --> 01:04:55,766
+Nekem sincs rá szükségem.
+
+813
+01:04:55,850 --> 01:04:57,977
+Nem csak a zene vezet vissza.
+
+814
+01:04:58,686 --> 01:05:03,149
+Csak kell valami, ami összeköt
+a való világgal, az otthonoddal.
+
+815
+01:05:03,816 --> 01:05:07,486
+Valami, aminek ereje van és fontos neked.
+
+816
+01:05:07,570 --> 01:05:11,198
+Amikor Lucas
+megfogta a kezemet a kórházban,
+
+817
+01:05:12,158 --> 01:05:14,785
+azt éreztem. Itt.
+
+818
+01:05:16,120 --> 01:05:18,581
+De itt is éreztem.
+
+819
+01:05:19,290 --> 01:05:20,875
+Nekem nincs pasim.
+
+820
+01:05:20,958 --> 01:05:22,293
+Nem is kell.
+
+821
+01:05:22,376 --> 01:05:27,548
+Csak kell valami, ami fontos neked,
+amitől biztonságban érzed magad,
+
+822
+01:05:27,632 --> 01:05:31,677
+ami erőt és reményt ad.
+
+823
+01:05:32,261 --> 01:05:33,471
+Holly, a hős.
+
+824
+01:05:33,554 --> 01:05:35,097
+Ő itt van veled.
+
+825
+01:05:36,599 --> 01:05:38,768
+De a való világban is veled van.
+
+826
+01:05:38,851 --> 01:05:42,772
+Bárhol légy, elég őt követned,
+hogy hazatalálj.
+
+827
+01:05:42,855 --> 01:05:43,940
+Hogyan?
+
+828
+01:05:44,690 --> 01:05:49,612
+Próbáld meg felidézni,
+hogy mit jelent neked!
+
+829
+01:05:50,655 --> 01:05:52,865
+Nem jelent semmi fontosat.
+
+830
+01:05:55,076 --> 01:05:56,369
+Ez csak egy játék.
+
+831
+01:05:57,453 --> 01:06:00,331
+Ha csak egy játék, miért van mindig veled?
+
+832
+01:06:00,414 --> 01:06:01,332
+Mike.
+
+833
+01:06:01,958 --> 01:06:05,586
+Azt mondta,
+hogy képességei vannak, és sosem ijed meg.
+
+834
+01:06:05,670 --> 01:06:09,632
+Ezért ha én megijedek,
+elég, ha Hollyvá válok.
+
+835
+01:06:09,715 --> 01:06:13,219
+De hiába próbálom, sose sikerül.
+
+836
+01:06:15,346 --> 01:06:17,348
+Bármit csinálok, nem változom.
+
+837
+01:06:19,600 --> 01:06:22,186
+Én vagyok az,
+akinek kell egy éjszakai fény.
+
+838
+01:06:22,269 --> 01:06:25,314
+Nem tudtam megmenteni
+anyukámat, amikor megtámadták.
+
+839
+01:06:25,398 --> 01:06:26,691
+Magamat se.
+
+840
+01:06:26,774 --> 01:06:28,359
+Állj mögém, Holly!
+
+841
+01:06:29,610 --> 01:06:31,529
+Csak álltam ott, lefagyva.
+
+842
+01:06:31,612 --> 01:06:33,531
+Amikor Henry rád támadt...
+
+843
+01:06:34,198 --> 01:06:35,408
+Ne csináld!
+
+844
+01:06:35,908 --> 01:06:40,746
+Megint csak ott álltam.
+Ebben nincs semmi hősies.
+
+845
+01:06:41,330 --> 01:06:44,208
+Semmit nem tehettél volna,
+amikor ezek történtek.
+
+846
+01:06:44,291 --> 01:06:47,378
+Te is egy Wheeler vagy. Okos vagy.
+
+847
+01:06:48,045 --> 01:06:51,716
+Komolyan azt hiszed,
+egy piszkavassal megállítottad volna őket?
+
+848
+01:06:52,299 --> 01:06:54,552
+Kihagytál pár fontos részletet.
+
+849
+01:06:55,177 --> 01:06:57,888
+Azért találkoztunk,
+mert bementél az erdőbe,
+
+850
+01:06:57,972 --> 01:07:00,558
+pedig Henry azt mondta,
+ott szörnyek élnek.
+
+851
+01:07:00,641 --> 01:07:03,019
+Aztán követtél a barlangba,
+
+852
+01:07:03,102 --> 01:07:05,688
+pedig semmi okod
+nem volt, hogy bízz bennem.
+
+853
+01:07:05,771 --> 01:07:10,484
+Amikor megkértelek, hogy menj vissza
+Henryhez, ami veszélyes,
+
+854
+01:07:10,568 --> 01:07:11,861
+nem haboztál.
+
+855
+01:07:11,944 --> 01:07:15,823
+Ma pedig te nem adtad fel,
+amikor én már igen.
+
+856
+01:07:17,408 --> 01:07:19,535
+Olyan régóta vagyok itt, Holly.
+
+857
+01:07:20,911 --> 01:07:21,996
+Olyan régóta!
+
+858
+01:07:24,040 --> 01:07:25,875
+És nem jutottam ki.
+
+859
+01:07:27,793 --> 01:07:28,711
+De te?
+
+860
+01:07:30,046 --> 01:07:32,381
+Te megtaláltad a kiutat Camazotzból.
+
+861
+01:07:32,465 --> 01:07:36,635
+Neked hála találkozhatok a barátaimmal.
+
+862
+01:07:37,887 --> 01:07:39,221
+Lucasszel.
+
+863
+01:07:41,182 --> 01:07:43,476
+Megmentettél, Holly Wheeler.
+
+864
+01:07:44,977 --> 01:07:46,062
+Megmentettél.
+
+865
+01:07:48,314 --> 01:07:52,610
+Holly, a hős nem csak egy játékbaba.
+
+866
+01:07:54,528 --> 01:07:58,699
+Ő te vagy, Holly.
+
+867
+01:08:18,761 --> 01:08:20,513
+Működött. Honnan tudtad?
+
+868
+01:08:22,264 --> 01:08:23,724
+Sehonnan.
+
+869
+01:08:26,060 --> 01:08:30,523
+Még hosszú út vár rád.
+Nem tudom, hol fogsz felébredni.
+
+870
+01:08:30,606 --> 01:08:32,691
+Vecna az Átfordított Világban tart.
+
+871
+01:08:32,775 --> 01:08:36,946
+De ne feledd,
+ott minden olyan, mint Hawkinsban.
+
+872
+01:08:37,029 --> 01:08:39,949
+Juss el valahogy
+a házadig, és ott bújj el!
+
+873
+01:08:40,032 --> 01:08:42,284
+Elmegyünk érted. Rendben?
+
+874
+01:08:58,717 --> 01:09:00,219
+A túloldalon találkozunk.
+
+875
+01:09:00,886 --> 01:09:02,012
+A túloldalon.
+
+876
+01:12:26,383 --> 01:12:29,136
+A feliratot fordította: Miklósi Zsuzsa
+

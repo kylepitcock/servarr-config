@@ -1,0 +1,1317 @@
+1
+00:00:01,000 --> 00:00:04,791
+-Stanna!
+-Du är i Pre-Mors företagszon.
+
+2
+00:00:06,041 --> 00:00:07,833
+Du har dödat honom.
+
+3
+00:00:09,041 --> 00:00:13,208
+<i>"Pre-Mor vill förhöra</i>
+<i>en man från Kenari på Ferrix."</i>
+
+4
+00:00:13,291 --> 00:00:19,166
+"Medborgare med information ska utan
+dröjsmål kontakta säkerhetshögkvarteret."
+
+5
+00:00:19,250 --> 00:00:21,666
+-Nån misstänkt?
+<i>-Cassian Andor.</i>
+
+6
+00:00:21,750 --> 00:00:25,625
+<i>"Revolt, skadegörelse</i>
+<i>och våld mot soldat."</i>
+
+7
+00:00:25,708 --> 00:00:29,958
+-Vem vet att du är född på Kenari?
+-Bix letar efter dig.
+
+8
+00:00:30,041 --> 00:00:34,416
+-Bix har inte sagt nåt!
+-Vem har då berättat för dem om Kenari?
+
+9
+00:00:34,500 --> 00:00:35,625
+<i>"Kenari".</i>
+
+10
+00:00:37,208 --> 00:00:41,166
+<i>"Övergavs efter en gruvkatastrof."</i>
+<i>Alla dog.</i>
+
+11
+00:00:42,041 --> 00:00:44,458
+<i>Andor är beväpnad och farlig.</i>
+
+12
+00:00:44,541 --> 00:00:49,791
+Han ser inte så skräckinjagande ut,
+men han har dödat två av de våra.
+
+13
+00:00:49,875 --> 00:00:54,625
+Jag har en sak att sälja. En NS-9
+Starpath-enhet som inte går att spåra.
+
+14
+00:00:54,708 --> 00:00:59,625
+<i>-Vet du vad den är värd?</i>
+<i>-Ja. Jag kan dra tills allt är lugnt igen.</i>
+
+15
+00:01:00,166 --> 00:01:02,958
+<i>Din vän kommer att åka hit för den.</i>
+
+16
+00:04:38,541 --> 00:04:40,958
+Det går bra. Så ja.
+
+17
+00:04:43,375 --> 00:04:46,375
+-Var beredda på att häkta loss.
+-Allt går bra.
+
+18
+00:04:47,416 --> 00:04:52,000
+-Lugnt och fint.
+-Ta hit testaren.
+
+19
+00:04:52,083 --> 00:04:56,000
+-Var beredda på att häkta loss.
+-Var försiktig.
+
+20
+00:05:02,333 --> 00:05:03,833
+Du tar det.
+
+21
+00:05:08,250 --> 00:05:10,791
+Det ger fortfarande utslag.
+
+22
+00:05:12,958 --> 00:05:17,666
+Hej. Jag tror att jag kommer att få
+pengar. I så fall drar jag.
+
+23
+00:05:17,750 --> 00:05:20,708
+-När då?
+-I dag.
+
+24
+00:05:21,833 --> 00:05:24,625
+-Det låter inte bra.
+-Maarva får ta hand om en del.
+
+25
+00:05:24,708 --> 00:05:29,000
+Hon förvarar det jag är skyldig dig.
+Håll ett öga på henne om du kan.
+
+26
+00:05:29,083 --> 00:05:32,208
+-Vart ska du?
+-Det är bättre att du inte vet.
+
+27
+00:05:32,291 --> 00:05:35,000
+Jag kommer tillbaka, på nåt sätt.
+
+28
+00:05:55,500 --> 00:06:00,000
+<i>Välkomna till Ferrix terminal.</i>
+<i>Kontrollera att ni inte har glömt nåt.</i>
+
+29
+00:06:00,916 --> 00:06:05,583
+<i>Rabatterade skyttelbiljetter</i>
+<i>finns att köpa i biljettkiosken.</i>
+
+30
+00:06:07,333 --> 00:06:11,250
+-Du ska väl inte bo på hotellet?
+-Inte i natt.
+
+31
+00:06:11,333 --> 00:06:14,250
+Klokt. Där lurar man bara av folk pengar.
+
+32
+00:06:16,750 --> 00:06:18,708
+Håll i plånboken!
+
+33
+00:06:37,125 --> 00:06:38,125
+Tack.
+
+34
+00:06:41,166 --> 00:06:45,208
+-Det har uppstått komplikationer.
+-Berätta lugnt.
+
+35
+00:06:45,291 --> 00:06:49,583
+I går gick en efterlysning ut
+om en man med Cassians utseende.
+
+36
+00:06:49,666 --> 00:06:52,875
+Jag har sett den. Han nämns inte vid namn.
+
+37
+00:06:52,958 --> 00:06:57,833
+Bara att de letar efter nån från Kenari.
+Enligt hans papper kommer han från Fest.
+
+38
+00:06:57,916 --> 00:07:00,833
+Ja, det har det alltid stått
+i hans papper.
+
+39
+00:07:00,916 --> 00:07:04,375
+-Är han identifierad?
+-Få känner nog honom.
+
+40
+00:07:05,916 --> 00:07:08,458
+Dödade han de två på Morlana?
+
+41
+00:07:09,541 --> 00:07:11,625
+Då får vi skynda oss.
+
+42
+00:07:13,208 --> 00:07:16,291
+-Var är han?
+-Östra området, byggnad nio.
+
+43
+00:07:18,625 --> 00:07:21,375
+-Litar du på honom?
+-Han kommer.
+
+44
+00:08:14,375 --> 00:08:20,250
+Ångtäthet acceptabel, partikelhalt
+minimal, inga giftiga gaser upptäckta.
+
+45
+00:08:20,333 --> 00:08:22,208
+Nöjd?
+
+46
+00:08:23,250 --> 00:08:26,416
+-Vi tar den där konsolen.
+-Ska vi utmana ödet?
+
+47
+00:08:26,500 --> 00:08:30,791
+Hörde du inte? Faran är ju över.
+Ta av dig masken.
+
+48
+00:08:32,541 --> 00:08:35,375
+Vi sa högst 20 minuter.
+
+49
+00:08:38,000 --> 00:08:43,625
+-Jag vill inte veta vad det där är.
+-Minst sex helt nya bränslebehållare.
+
+50
+00:08:43,708 --> 00:08:48,625
+-Vi har redan mer än vi orkar bära.
+-Hur högt är utgångspriset för såna i dag?
+
+51
+00:08:48,708 --> 00:08:53,416
+Skojar du? Vi måste dra på en gång.
+
+52
+00:08:54,000 --> 00:08:59,125
+-Det kan vara vad som helst.
+-Ja, men då fortsätter vi förstås...
+
+53
+00:09:18,375 --> 00:09:23,125
+Jag gillar din tåga, grabben. Men du vill
+inte vara här när de andra kommer.
+
+54
+00:09:30,208 --> 00:09:31,750
+Han förstår inte.
+
+55
+00:09:33,375 --> 00:09:35,750
+En republikansk fregatt närmar sig.
+
+56
+00:10:16,666 --> 00:10:18,375
+Västra teamet är på plats.
+
+57
+00:10:20,916 --> 00:10:23,375
+Lägesrapport, östra teamet.
+
+58
+00:10:23,458 --> 00:10:26,208
+<i>Östra teamet närmar sig.</i>
+
+59
+00:10:27,041 --> 00:10:29,125
+Lägesrapport, norra teamet.
+
+60
+00:10:29,208 --> 00:10:31,750
+<i>Norra teamet är på plats.</i>
+
+61
+00:10:31,833 --> 00:10:34,083
+Uppfattat, norra teamet. Avvakta.
+
+62
+00:10:45,083 --> 00:10:46,875
+Såna typer ser man inte ofta.
+
+63
+00:10:48,125 --> 00:10:52,041
+-Vad fan gör de?
+-De är på jakt efter nån.
+
+64
+00:11:12,250 --> 00:11:14,666
+Det tar nio minuter
+att ta sig till fraktaren.
+
+65
+00:11:14,750 --> 00:11:18,416
+-Ska vi lämna honom här?
+-Låt honom löpa.
+
+66
+00:11:19,875 --> 00:11:21,750
+Vi försöker hjälpa dig.
+
+67
+00:11:21,833 --> 00:11:24,333
+-Var är skeppet?
+-I omloppsbana.
+
+68
+00:11:24,416 --> 00:11:27,916
+De kommer att döda honom.
+- Bee, ge mig sövaren.
+
+69
+00:11:28,625 --> 00:11:32,333
+Nej, Maarva. Han har de sina här.
+
+70
+00:11:32,416 --> 00:11:37,291
+De har precis dödat en officer.
+De blir villebråd så fort de landar.
+
+71
+00:11:43,875 --> 00:11:45,625
+Tänk efter noga.
+
+72
+00:11:45,708 --> 00:11:49,666
+Jag tänker inte lämna honom att dö.
+
+73
+00:11:50,375 --> 00:11:52,875
+-Har du genomsökt det?
+-Inte än.
+
+74
+00:11:52,958 --> 00:11:55,333
+Östra teamet är på plats.
+
+75
+00:11:55,416 --> 00:11:58,333
+-Östra teamet, säkra platsen.
+<i>-Uppfattat.</i>
+
+76
+00:12:11,041 --> 00:12:14,416
+Vi har en häktningsorder
+för Cassian Andor.
+
+77
+00:12:24,541 --> 00:12:27,041
+Varför står allt kvar i gränden?
+
+78
+00:12:27,125 --> 00:12:31,166
+-Ville du inte bli av med det?
+-Jo. Jag glömde bara.
+
+79
+00:12:42,625 --> 00:12:45,250
+Leta bland hyllorna. Riv ner det där.
+
+80
+00:12:47,166 --> 00:12:49,416
+Ni borde skämmas.
+
+81
+00:12:50,750 --> 00:12:53,625
+Vi slutar när du säger var han är.
+
+82
+00:12:54,916 --> 00:12:55,916
+Kom.
+
+83
+00:12:58,291 --> 00:13:01,375
+-Hon ska ingenstans.
+-En till som bor här.
+
+84
+00:13:05,500 --> 00:13:08,166
+-Var är Cassian?
+-Maarva!
+
+85
+00:13:08,250 --> 00:13:11,750
+-Stryp strömförsörjningen.
+-Låt dem inte skrämma dig.
+
+86
+00:13:11,833 --> 00:13:14,791
+-De får inte göra så här.
+-Få tyst på henne!
+
+87
+00:13:22,125 --> 00:13:26,291
+<i>Bee, har du kommit hem?</i>
+<i>Snälla, säg att de här fungerar.</i>
+
+88
+00:13:27,083 --> 00:13:28,333
+Svara, Bee.
+
+89
+00:13:29,500 --> 00:13:31,500
+<i>Är du på laddning?</i>
+
+90
+00:13:34,791 --> 00:13:36,958
+Hälsa Maarva att jag beklagar.
+
+91
+00:13:37,875 --> 00:13:39,708
+<i>Jag glömde säga det.</i>
+
+92
+00:13:40,500 --> 00:13:43,250
+<i>Se till att hon låter värmen vara på.</i>
+
+93
+00:13:43,333 --> 00:13:45,458
+-Österut.
+<i>-Hon är så frusen.</i>
+
+94
+00:13:45,541 --> 00:13:48,041
+Österut. Ostnordost. Där är han.
+
+95
+00:13:48,125 --> 00:13:51,291
+-Ska vi lämna kvar en man här?
+<i>-Hör du mig, Bee?</i>
+
+96
+00:13:51,375 --> 00:13:54,833
+Folk börjar samlas. Lämna kvar två.
+
+97
+00:13:55,458 --> 00:13:59,708
+-Meddela östra teamet att vi är på väg.
+-Ni två stannar här.
+
+98
+00:13:59,791 --> 00:14:02,708
+<i>-Hör du mig?</i>
+-Bevaka dem.
+
+99
+00:14:02,791 --> 00:14:04,791
+Bee, hör du mig?
+
+100
+00:14:06,125 --> 00:14:07,416
+Sva...
+
+101
+00:14:11,166 --> 00:14:12,166
+Andor?
+
+102
+00:14:18,000 --> 00:14:19,708
+Du tog dig hit.
+
+103
+00:14:23,291 --> 00:14:26,166
+-Är vi ensamma?
+-Jag är det.
+
+104
+00:14:27,708 --> 00:14:32,625
+-Vad har ni gjort med Maarva?
+-Se så! Undan, allihop!
+
+105
+00:14:32,708 --> 00:14:35,541
+Här finns inget att se.
+
+106
+00:14:35,625 --> 00:14:38,708
+Vi har en häktningsorder. Undan!
+
+107
+00:14:41,000 --> 00:14:45,458
+-Hur långt är det att gå dit?
+-Tio minuter. Östra teamet säkrar platsen.
+
+108
+00:14:46,875 --> 00:14:49,000
+-Hur mycket?
+-40 000.
+
+109
+00:14:51,250 --> 00:14:52,458
+40 000?
+
+110
+00:14:52,541 --> 00:14:56,291
+-40 000 krediter är billigt.
+-Jaså?
+
+111
+00:14:57,625 --> 00:15:01,916
+En Starpath som inte går att spåra.
+Intakta vektorkristaller och försegling.
+
+112
+00:15:02,000 --> 00:15:05,333
+Man kan spåra alla imperieskepp
+över nio radialparsek.
+
+113
+00:15:05,416 --> 00:15:08,625
+-Är den här?
+-Är pengarna här?
+
+114
+00:15:08,708 --> 00:15:12,166
+-Hur vet jag om att den fungerar?
+-Förseglingen.
+
+115
+00:15:12,250 --> 00:15:16,541
+-Så fort jag aktiverar den sjunker värdet.
+-Så du lurar mig kanske.
+
+116
+00:15:18,833 --> 00:15:22,750
+-Du har mitt hedersord.
+-Om det inte räcker, då?
+
+117
+00:15:24,916 --> 00:15:26,916
+Du vet var jag bor.
+
+118
+00:15:27,000 --> 00:15:29,791
+Så jag kan återkomma om jag blir missnöjd.
+
+119
+00:15:32,583 --> 00:15:37,458
+-Har Bix nånsin blåst dig?
+-Tänker du stanna kvar här?
+
+120
+00:15:44,291 --> 00:15:47,666
+Soldater letar efter Cassian.
+Wilmon såg dem.
+
+121
+00:15:47,750 --> 00:15:52,791
+De är hos Maarva.
+Vad i Chobb har han gjort nu?
+
+122
+00:15:52,875 --> 00:15:57,250
+Såg du efterlysningen i går?
+"En man från Kenari".
+
+123
+00:15:57,333 --> 00:16:01,291
+-Jag måste få tänka.
+-Är det honom de är ute efter?
+
+124
+00:16:03,250 --> 00:16:06,125
+-Nån har tjallat.
+-Vad menar du?
+
+125
+00:16:06,208 --> 00:16:10,250
+-Jag måste hitta honom.
+-Nej. Han kan vara var som helst.
+
+126
+00:16:10,333 --> 00:16:13,291
+-Låt bli.
+-Låt bli med vad då?
+
+127
+00:16:14,208 --> 00:16:16,083
+Han klarar sig.
+
+128
+00:16:16,958 --> 00:16:20,333
+Vem då? Hur vet du vem vi pratar om?
+
+129
+00:16:25,583 --> 00:16:28,250
+Har jag sagt
+att Cassian är född på Kenari?
+
+130
+00:16:29,541 --> 00:16:31,500
+Jag... Jag minns inte.
+
+131
+00:16:32,666 --> 00:16:36,125
+Men det gör jag. Jag minns.
+
+132
+00:16:38,000 --> 00:16:39,375
+Hur kunde du?
+
+133
+00:16:39,458 --> 00:16:43,708
+-Vad är det som försiggår?
+-Att du kunde göra så!
+
+134
+00:16:46,541 --> 00:16:49,541
+Vad har du gjort? Timm!
+
+135
+00:16:53,500 --> 00:16:56,625
+-Var fick du tag i den?
+-Det kvittar väl?
+
+136
+00:16:56,708 --> 00:17:00,291
+Det finns tre alternativ. Att du är spion-
+
+137
+00:17:00,375 --> 00:17:04,916
+-att du jobbar för den jag egentligen ska
+prata med, eller att du är äkta vara.
+
+138
+00:17:05,000 --> 00:17:08,541
+Det finns ett alternativ:
+Att du har pengarna eller inte.
+
+139
+00:17:12,791 --> 00:17:14,916
+Vilket är det?
+
+140
+00:17:15,791 --> 00:17:21,625
+Jag vet att kvartermästarna får mutor
+för att lämna värdeföremål på skeppen.
+
+141
+00:17:21,708 --> 00:17:25,375
+Men det här är
+inget de skulle släppa igenom.
+
+142
+00:17:26,291 --> 00:17:29,750
+Nej. Jag stal den på egen hand.
+
+143
+00:17:29,833 --> 00:17:34,833
+Hur gick det till? Den var förseglad
+på flottbasen i Steergard.
+
+144
+00:17:34,916 --> 00:17:38,375
+Du har pengarna, jag har lådan.
+Vad mer finns att säga?
+
+145
+00:17:38,458 --> 00:17:41,916
+1 000 krediter till
+om jag får veta hur du fick tag i den.
+
+146
+00:17:42,000 --> 00:17:46,625
+-1 000 till?
+-Överenskommet. Hur gick det till?
+
+147
+00:17:52,250 --> 00:17:55,000
+Man går in som om man ska vara där.
+
+148
+00:17:55,083 --> 00:17:59,000
+-Det krävs väl mer än så?
+-För att stjäla av Imperiet?
+
+149
+00:17:59,083 --> 00:18:04,041
+Det behövs en uniform, en vilja att stjäla
+och lite av Imperiets verktyg.
+
+150
+00:18:04,125 --> 00:18:07,041
+De har så höga tankar om sig själva.
+
+151
+00:18:08,041 --> 00:18:12,041
+De är så självgoda
+att de inte kan föreställa sig det.
+
+152
+00:18:12,125 --> 00:18:16,916
+-Inte kan föreställa sig vad då?
+-Att nån som jag kan ta sig in hos dem...
+
+153
+00:18:17,000 --> 00:18:21,041
+...gå runt, spotta i deras mat
+och ta deras utrustning.
+
+154
+00:18:21,958 --> 00:18:27,208
+De är riktigt arroganta, eller hur?
+Vi existerar inte ens för dem.
+
+155
+00:18:27,291 --> 00:18:31,541
+-"Vi"? Jag känner inte dig.
+-Nej, men jag känner dig.
+
+156
+00:18:33,083 --> 00:18:39,333
+Den här tiden ska ta slut, Cassian Andor.
+Deras skratt och deras buffliga fasoner.
+
+157
+00:18:41,083 --> 00:18:44,875
+Rösten som säger åt en
+att stanna, gå och sätta fart.
+
+158
+00:18:46,000 --> 00:18:49,750
+Rösten som säger att man ska dö.
+Den hörs ständigt.
+
+159
+00:18:49,833 --> 00:18:54,500
+-Du kan väl låta mig räkna pengarna?
+-Men snart ska de bli varse oss.
+
+160
+00:18:54,583 --> 00:18:59,541
+-Vi borde skynda oss.
+-De kommer att få annat att lyssna på.
+
+161
+00:18:59,625 --> 00:19:02,083
+Du vill inte bli gripen med den.
+
+162
+00:19:03,625 --> 00:19:05,750
+Då skulle de hänga mig.
+
+163
+00:19:05,833 --> 00:19:10,750
+De skulle hänga mig på torget.
+Det vore inte första gången.
+
+164
+00:19:12,083 --> 00:19:15,000
+Där hängdes väl din far?
+
+165
+00:19:15,083 --> 00:19:16,416
+Vem är du?
+
+166
+00:19:17,666 --> 00:19:19,500
+Vad är det här?
+
+167
+00:19:21,000 --> 00:19:24,916
+Jag sa att jag vet vem du är.
+Jag vet allt om dig.
+
+168
+00:19:25,000 --> 00:19:28,083
+Jag vill ha lådan
+och skulle kunna nöja mig med den.
+
+169
+00:19:28,750 --> 00:19:32,125
+Men jag letar efter nåt mer
+och jag har nog hittat det.
+
+170
+00:19:34,416 --> 00:19:38,625
+-Jag vill att du följer med.
+-Hur kan du känna till mig?
+
+171
+00:19:38,708 --> 00:19:43,166
+Jag hoppades på ett lugnare samtal,
+men tiden är knapp.
+
+172
+00:19:43,250 --> 00:19:46,750
+Jag tror inte att du tänker stanna här.
+
+173
+00:19:46,833 --> 00:19:50,875
+Du har dödat två på Morlana Ett,
+och du är efterlyst.
+
+174
+00:19:50,958 --> 00:19:55,291
+Det vore slöseri med begåvning
+om de får tag i dig.
+
+175
+00:19:56,000 --> 00:19:59,250
+-Vem är du?
+-Det är fel fråga.
+
+176
+00:20:00,333 --> 00:20:03,291
+Frågan är hur fort vi måste dra.
+
+177
+00:20:03,375 --> 00:20:09,250
+-Varför skulle jag följa med dig?
+-Vill du inte göra motstånd på riktigt?
+
+178
+00:20:16,916 --> 00:20:18,666
+Fort!
+
+179
+00:20:32,708 --> 00:20:34,125
+Kom.
+
+180
+00:20:43,958 --> 00:20:45,416
+Vad är det?
+
+181
+00:20:52,708 --> 00:20:57,250
+-Varför gör de så?
+-Det är tom skrämseltaktik.
+
+182
+00:21:06,708 --> 00:21:10,000
+-Hur kom du hit?
+-Mitt skepp står nära färjeområdet.
+
+183
+00:21:10,083 --> 00:21:14,000
+-Du är kanske spion.
+-I vilket syfte?
+
+184
+00:21:14,083 --> 00:21:17,958
+Om du visste att de är ute efter mig,
+varför är du då här?
+
+185
+00:21:18,041 --> 00:21:22,041
+Såna som du är sällsynta.
+Jag ville inte att du skulle stryka med.
+
+186
+00:21:22,125 --> 00:21:24,916
+Men jag trodde inte
+att tiden var så här knapp.
+
+187
+00:21:28,500 --> 00:21:34,333
+Får jag kolla? Jag är ditt enda hyfsade
+alternativ. Vill du dö av försiktighet?
+
+188
+00:21:38,916 --> 00:21:40,875
+-Har du en komlänk?
+-Hur så?
+
+189
+00:21:40,958 --> 00:21:44,083
+Ge mig den på en gång. Hit med den!
+
+190
+00:21:49,000 --> 00:21:53,083
+Första regeln:
+Bär inget som du inte kontrollerar.
+
+191
+00:21:58,500 --> 00:21:59,666
+Där!
+
+192
+00:22:00,833 --> 00:22:05,041
+-De ställer sig vid dörrarna.
+-Vi är omringade.
+
+193
+00:22:07,375 --> 00:22:09,708
+Kom hit.
+
+194
+00:22:09,791 --> 00:22:11,500
+Skynda!
+
+195
+00:22:13,458 --> 00:22:16,041
+Stanna! Stanna, sa jag!
+
+196
+00:22:17,125 --> 00:22:21,000
+Du ser rädd ut. Du flyr väl inte hem?
+
+197
+00:22:21,083 --> 00:22:25,083
+<i>Östra teamet här.</i>
+<i>Vi är vid fabriken, ska vi gå in?</i>
+
+198
+00:22:25,166 --> 00:22:29,541
+Nej, invänta oss. Vi är snart där.
+Håll vakt runt fabriken.
+
+199
+00:22:29,625 --> 00:22:33,333
+Han är omringad. Dags att dra åt snaran.
+
+200
+00:22:33,416 --> 00:22:36,791
+-Vad väntar de på?
+-Förstärkningar.
+
+201
+00:22:38,666 --> 00:22:41,833
+-Hur skulle du ta dig härifrån?
+-Den planen är körd.
+
+202
+00:22:41,916 --> 00:22:44,083
+Ditt åk är fyra mil bort.
+
+203
+00:22:44,166 --> 00:22:48,000
+-Var får vi tag i en speeder?
+-Västerut, i centrum.
+
+204
+00:22:48,083 --> 00:22:50,708
+-Vart leder den?
+-Under ugnen.
+
+205
+00:22:50,791 --> 00:22:54,875
+-Kommer vi ut där?
+-Ja, det är en lång omväg.
+
+206
+00:22:57,750 --> 00:23:01,875
+-Vad är det där?
+-Jag har försåtsminerat dörrarna.
+
+207
+00:23:01,958 --> 00:23:05,250
+Andra regeln: Skapa utvägen på vägen in.
+
+208
+00:23:25,583 --> 00:23:27,041
+Kom nu!
+
+209
+00:23:27,125 --> 00:23:29,416
+-Vi glömde lådan!
+-Nej!
+
+210
+00:23:31,166 --> 00:23:32,250
+Där!
+
+211
+00:23:45,250 --> 00:23:46,666
+Ducka!
+
+212
+00:23:49,875 --> 00:23:52,333
+-Täck mig!
+-Strunta i lådan!
+
+213
+00:24:04,083 --> 00:24:08,916
+<i>Vi är under kraftig beskjutning!</i>
+<i>Två stycken är utslagna.</i>
+
+214
+00:24:09,000 --> 00:24:12,541
+Östra teamet, upprepa det sista.
+Upprepa det sista.
+
+215
+00:24:29,375 --> 00:24:30,750
+Kom!
+
+216
+00:24:48,583 --> 00:24:49,625
+Akta!
+
+217
+00:25:07,791 --> 00:25:09,166
+Kom nu!
+
+218
+00:25:15,958 --> 00:25:19,000
+Östra teamet! Vad är det som händer?
+
+219
+00:25:20,458 --> 00:25:22,625
+Norra teamet, var är ni?
+
+220
+00:25:22,708 --> 00:25:24,958
+Det finns inga gatskyltar.
+
+221
+00:25:25,625 --> 00:25:29,208
+<i>Vi är i en eldstrid.</i>
+<i>Jag behöver er exakta position.</i>
+
+222
+00:25:30,666 --> 00:25:32,375
+Du skulle vänta här!
+
+223
+00:25:39,833 --> 00:25:44,083
+-Vänta! Vi kan ta lådan.
+-Jag trodde att du var smart.
+
+224
+00:25:44,166 --> 00:25:47,708
+-Tänk om det bara är en kvar.
+-De sätter in fler än fyra.
+
+225
+00:25:51,333 --> 00:25:55,041
+Vi är på North Stairs Lane.
+- Låt henne vara!
+
+226
+00:25:55,125 --> 00:25:58,291
+<i>Ta alla till Rix Road.</i>
+<i>Skicka upp en spaningskapsel.</i>
+
+227
+00:25:58,375 --> 00:26:00,333
+Bix!
+
+228
+00:26:00,416 --> 00:26:02,916
+-Vad har ni gjort?
+-Stanna där!
+
+229
+00:26:03,000 --> 00:26:05,166
+-Hon blöder!
+-Stanna!
+
+230
+00:26:05,250 --> 00:26:08,375
+<i>-Lägesrapport, norra teamet.</i>
+-Vem har gjort det?
+
+231
+00:26:11,625 --> 00:26:12,958
+Timm!
+
+232
+00:26:14,291 --> 00:26:17,875
+<i>Lägesrapport, norra teamet.</i>
+<i>Berätta vad som händer.</i>
+
+233
+00:26:17,958 --> 00:26:22,041
+<i>-Jag behöver övervakning från luften!</i>
+-Uppfattat. Avvakta.
+
+234
+00:26:23,000 --> 00:26:25,458
+-Ge mig geväret!
+-Varför då?
+
+235
+00:26:25,541 --> 00:26:29,041
+-Du ska till kapseln.
+-På egen hand?
+
+236
+00:26:29,125 --> 00:26:32,583
+Upp med kapseln i luften
+och ha radion på. Sätt fart!
+
+237
+00:26:34,583 --> 00:26:39,958
+Nu drar vi. - Norra teamet är på väg
+mot Rix Road. Luftunderstöd är på gång.
+
+238
+00:26:41,583 --> 00:26:42,583
+Timm.
+
+239
+00:26:44,666 --> 00:26:47,166
+Är de tre nu? Hur går det ihop?
+
+240
+00:26:47,250 --> 00:26:52,625
+-De demolerade allt med sprängladdningar.
+-Vänta, vad menar du med "de"?
+
+241
+00:26:52,708 --> 00:26:58,125
+<i>Det är två tungt beväpnade människor.</i>
+<i>De är på väg åt ert håll.</i>
+
+242
+00:26:58,208 --> 00:27:01,291
+Fortsätt förfölja dem, håll kanalen öppen.
+
+243
+00:27:01,375 --> 00:27:04,958
+Är de två nu? Ska vi bara stå här?
+
+244
+00:27:06,583 --> 00:27:07,666
+Uppfattat.
+
+245
+00:27:09,000 --> 00:27:13,708
+Vi delar upp oss, gömmer oss
+och skjuter dem när de kommer.
+
+246
+00:27:13,791 --> 00:27:17,500
+Ge mig ett gevär!
+Vänster flank, höger flank!
+
+247
+00:27:36,791 --> 00:27:37,791
+Hallå?
+
+248
+00:27:39,000 --> 00:27:40,000
+Hallå?
+
+249
+00:28:00,000 --> 00:28:03,375
+-Visst är det obehagligt?
+-Håll tyst.
+
+250
+00:28:05,708 --> 00:28:08,166
+Det är så motstånd låter.
+
+251
+00:28:19,000 --> 00:28:23,416
+-Ni vill att det slutar. Det gör det inte.
+-Håll tyst, sa jag!
+
+252
+00:28:32,958 --> 00:28:34,958
+När det slutar...
+
+253
+00:28:36,541 --> 00:28:40,250
+...det är då man ska bli riktigt orolig.
+
+254
+00:28:40,333 --> 00:28:42,708
+Varför då? Vad händer då?
+
+255
+00:28:51,750 --> 00:28:53,208
+Ingen här!
+
+256
+00:28:54,541 --> 00:28:55,541
+Fort!
+
+257
+00:28:57,375 --> 00:29:00,458
+<i>-Lägesrapport, norra teamet.</i>
+-På plats.
+
+258
+00:29:01,083 --> 00:29:03,916
+<i>Var på er vakt och redo att ge eld.</i>
+
+259
+00:29:39,583 --> 00:29:41,333
+Släpp vapnet.
+
+260
+00:29:46,916 --> 00:29:48,875
+Ta av komapparaten.
+
+261
+00:29:51,833 --> 00:29:53,291
+Lägg ner den.
+
+262
+00:29:57,833 --> 00:29:59,333
+Hur många är ni?
+
+263
+00:30:00,708 --> 00:30:02,500
+Jag vet inte.
+
+264
+00:30:02,583 --> 00:30:05,666
+-Döda honom.
+-Hur många?
+
+265
+00:30:07,916 --> 00:30:10,750
+-Jag kan döda honom.
+-Tolv. Fjorton.
+
+266
+00:30:11,666 --> 00:30:14,916
+Tolv man och två officerare. Jag lovar.
+
+267
+00:31:12,208 --> 00:31:15,625
+-Var det de?
+<i>-Jag vet inte. Jag ser inte härifrån.</i>
+
+268
+00:31:15,708 --> 00:31:20,500
+-Vilka kan det annars vara?
+<i>-Då skulle de ju vara bakom oss.</i>
+
+269
+00:31:20,583 --> 00:31:24,541
+Fan. Vi är belägrade. De är överallt.
+
+270
+00:31:28,791 --> 00:31:31,208
+Vilken vill du ha?
+
+271
+00:31:33,583 --> 00:31:36,000
+Hur många sprängladdningar har du kvar?
+
+272
+00:31:52,916 --> 00:31:54,416
+Ta det lugnt.
+
+273
+00:31:58,708 --> 00:32:00,291
+Där är de!
+
+274
+00:32:06,333 --> 00:32:08,416
+Stoppa den!
+
+275
+00:32:09,500 --> 00:32:11,083
+Akta!
+
+276
+00:32:13,750 --> 00:32:14,916
+Skjut!
+
+277
+00:32:17,375 --> 00:32:18,375
+Skjut!
+
+278
+00:32:41,416 --> 00:32:42,416
+Där!
+
+279
+00:32:50,666 --> 00:32:52,958
+Nej! Norra teamet, kom!
+
+280
+00:32:53,958 --> 00:32:55,666
+Norra teamet, kom!
+
+281
+00:33:09,541 --> 00:33:10,541
+Bacta!
+
+282
+00:33:22,000 --> 00:33:25,208
+Vi behöver
+omedelbar evakuering av skadade.
+
+283
+00:33:26,833 --> 00:33:29,083
+Nova, det här är Delta-1.
+
+284
+00:34:23,291 --> 00:34:27,208
+Vi måste härifrån, Bix. Kom!
+
+285
+00:34:52,041 --> 00:34:55,125
+Samla ihop er och bilda formation.
+
+286
+00:34:57,000 --> 00:34:59,916
+Nova, det här är Delta-1.
+Hörde ni det sista?
+
+287
+00:35:00,000 --> 00:35:02,333
+Vi måste härifrån.
+
+288
+00:35:03,750 --> 00:35:06,833
+Vi måste ta oss härifrån.
+
+289
+00:35:09,083 --> 00:35:10,833
+Vi måste härifrån!
+
+290
+00:40:06,541 --> 00:40:08,541
+Översättning: Jussi Walles
+Svensk Medietext
+
